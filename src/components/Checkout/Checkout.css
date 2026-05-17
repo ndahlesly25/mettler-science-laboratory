@@ -1,0 +1,200 @@
+.checkout-page {
+  padding: 70px 5%;
+
+  background: #f5f7fb;
+
+  min-height: 100vh;
+}
+
+/* CONTAINER */
+
+.checkout-container {
+  display: grid;
+
+  grid-template-columns:
+    repeat(auto-fit, minmax(320px, 1fr));
+
+  gap: 40px;
+}
+
+/* FORM */
+
+.checkout-form,
+.checkout-summary {
+  background: white;
+
+  padding: 35px;
+
+  border-radius: 20px;
+
+  box-shadow:
+    0 5px 20px rgba(0,0,0,0.08);
+}
+
+/* HEADINGS */
+
+.checkout-form h1,
+.checkout-summary h2 {
+  color: #002b5c;
+
+  margin-bottom: 18px;
+}
+
+.checkout-form p {
+  color: #666;
+
+  line-height: 1.7;
+
+  margin-bottom: 30px;
+}
+
+/* FORM GROUP */
+
+.form-group {
+  margin-bottom: 22px;
+}
+
+.form-group label {
+  display: block;
+
+  margin-bottom: 10px;
+
+  color: #002b5c;
+
+  font-weight: 600;
+}
+
+.form-group input {
+  width: 100%;
+
+  padding: 15px;
+
+  border: 1px solid #ddd;
+
+  border-radius: 10px;
+
+  font-size: 15px;
+
+  outline: none;
+
+  transition: 0.3s ease;
+}
+
+.form-group input:focus {
+  border-color: #0077cc;
+
+  box-shadow:
+    0 0 0 3px rgba(0,119,204,0.1);
+}
+
+/* BUTTON */
+
+.place-order-btn {
+  width: 100%;
+
+  background: #25D366;
+
+  color: white;
+
+  border: none;
+
+  padding: 16px;
+
+  border-radius: 12px;
+
+  font-size: 16px;
+
+  font-weight: bold;
+
+  cursor: pointer;
+
+  transition: 0.3s ease;
+}
+
+.place-order-btn:hover {
+  background: #1ebe5d;
+
+  transform: translateY(-3px);
+}
+
+/* SUMMARY */
+
+.summary-item {
+  display: flex;
+
+  gap: 15px;
+
+  margin-bottom: 20px;
+
+  padding-bottom: 18px;
+
+  border-bottom: 1px solid #eee;
+}
+
+.summary-item img {
+  width: 80px;
+  height: 80px;
+
+  object-fit: cover;
+
+  border-radius: 12px;
+}
+
+.summary-item h4 {
+  color: #002b5c;
+
+  margin-bottom: 8px;
+}
+
+.summary-item p {
+  color: #555;
+
+  margin-bottom: 8px;
+}
+
+.summary-item span {
+  color: #0077cc;
+
+  font-weight: bold;
+}
+
+/* TOTAL */
+
+.summary-total {
+  margin-top: 30px;
+
+  padding-top: 20px;
+
+  border-top: 2px solid #eee;
+}
+
+.summary-total h3 {
+  color: #002b5c;
+
+  font-size: 28px;
+}
+
+/* EMPTY */
+
+.empty-checkout {
+  color: #777;
+
+  text-align: center;
+
+  margin-top: 40px;
+}
+
+/* MOBILE */
+
+@media (max-width: 768px) {
+
+  .checkout-page {
+    padding: 50px 20px;
+  }
+
+  .checkout-form,
+  .checkout-summary {
+    padding: 25px;
+  }
+
+}
