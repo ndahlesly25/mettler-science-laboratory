@@ -25,11 +25,11 @@ import ProductDetails from "./components/ProductDetails/ProductDetails";
 
 import Checkout from "./components/Checkout/Checkout";
 
-import Contact from "./components/Contact/Contact.jsx";
+import Contact from "./components/ContactTemp/Contact.jsx";
 
 import Footer from "./components/Footer/Footer";
 
-import CartDrawer from "./components/Cart/CartDrawer";
+import CartDrawer from "./components/CartTemp/CartDrawer";
 
 import { FaWhatsapp } from "react-icons/fa";
 
