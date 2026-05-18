@@ -25,7 +25,7 @@ import ProductDetails from "./components/ProductDetails/ProductDetails";
 
 import Checkout from "./components/Checkout/Checkout";
 
-import Contact from "./components/Contact/Contact";
+import Contact from "./components/Contact/Contact.jsx";
 
 import Footer from "./components/Footer/Footer";
 
