@@ -790,853 +790,1177 @@ const chemistryProducts = [
 
   name: "Measuring cylinder 50ml glass/plastic",
 
-  image: "",
+  image: "https://i.ebayimg.com/images/g/oXEAAOSwrxFdH8Ud/s-l1200.jpg",
 
-  images: [],
+  images: [
+    "https://i5.walmartimages.com/asr/64d412d8-dd88-4eef-b299-3bb53f71eb5c.a1096858580466eef754e51a0cea6540.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "https://static.wixstatic.com/media/34ea37_e016be48331542f6af260bb28c5d651f~mv2.jpg/v1/fill/w_480,h_480,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/34ea37_e016be48331542f6af260bb28c5d651f~mv2.jpg"
+  ],
 
-  description: "",
+  description: "Premium 50ml Measuring Cylinder",
 
-  price: "",
+  price: "1200 FCFA",
 
-  specifications: [],
+  specifications: [
+     "50ml Capacity",
+  "Glass or Plastic Body",
+  "Accurate Graduation Marks",
+  "Stable Base Design"
+  ],
 
-  fullDescription: "",
+  fullDescription: "The 50ml measuring cylinder is a laboratory measuring instrument designed for precise measurement and transfer of liquids during scientific experiments and chemical procedures. Manufactured from durable heat-resistant glass or high-quality chemical-resistant plastic, it provides reliable performance and long-lasting laboratory use. The cylinder includes clear and accurate graduation markings for easy volume reading and a stable base for improved safety during handling. It is suitable for schools, research laboratories, medical facilities, and industrial scientific applications requiring accurate liquid measurement.",
 },
 
 {
   id: 27,
 
-  slug: "",
+  slug: "Measuring cylinder 100ml",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Measuring cylinder 100ml glass/plastic",
 
-  image: "",
+  image: "https://solutionscience.co.ke/cdn/shop/files/MEASURINGCYLINDER100ML_GLASS.webp?v=1746791529",
 
-  images: [],
+  images: [
+    "https://solutionscience.co.ke/cdn/shop/files/MEASURINGCYLINDER100ML_GLASS.webp?v=1746791529",
+    "https://generationspace.co.ke/wp-content/uploads/2024/05/100-PL-D-1.jpg",
+    "https://metshop.co.nz/cdn/shop/products/Cylinder_100ml_1024x1024.jpg?v=1608372364"
+  ],
 
-  description: "",
+  description: "Heavy Duty 100ml Cylinder",
 
-  price: "",
+  price: "1500 FCFA",
 
-  specifications: [],
+  specifications: [
+    "100ml Capacity",
+  "Glass or Plastic Body",
+  "Clear Graduation Marks",
+  "Stable Base Design"
+  ],
 
-  fullDescription: "",
+  fullDescription: "The 100ml measuring cylinder is a laboratory instrument designed for accurate measurement and transfer of liquids during scientific experiments and chemical analysis. Made from premium heat-resistant glass or durable chemical-resistant plastic, it provides dependable performance and long-lasting laboratory use. The cylinder features clear graduation markings for precise volume reading and a stable base that enhances safety and stability during operation. It is ideal for schools, research laboratories, medical facilities, and industrial scientific applications requiring reliable liquid measurement.",
 },
 
 {
   id: 28,
 
-  slug: "",
+  slug: "Measuring cylinder 250ml",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Measuring cylinder 250ml glass/plastic ",
 
-  image: "",
+  image: "https://labbox.eu/wp-content/uploads/sites/4/2020/02/MCLG-250-002.jpg",
 
-  images: [],
+  images: [
+    "https://www.hurstscientific.com.au/wp-content/uploads/2023/06/16012000.jpg",
+    "https://www.sciencefirst.com.au/media/catalog/product/cache/d24a34bded6d2df740ef66d66d2112c9/m/e/measuringcylinderhexpp_4_1_1.jpg"
+  ],
 
-  description: "",
+  description: "Industrial 250ml Cylinder",
 
-  price: "",
+  price: "2500 FCFA",
 
-  specifications: [],
+  specifications: [
+    "250ml Capacity",
+  "Glass or Plastic Body",
+  "Accurate Graduation Marks",
+  "Stable Hexagonal Base"
+  ],
 
-  fullDescription: "",
+  fullDescription: "The 250ml measuring cylinder is a precision laboratory instrument designed for measuring, mixing, and transferring liquids accurately during scientific and industrial procedures. Manufactured from high-quality heat-resistant glass or durable chemical-resistant plastic, it offers reliable performance and long service life in laboratory environments. The cylinder features clear graduation markings for easy and precise volume reading, along with a stable hexagonal base for improved safety during use. It is widely used in schools, research laboratories, medical facilities, and industrial scientific applications requiring dependable liquid measurement.",
 },
 
 {
   id: 29,
 
-  slug: "",
+  slug: "Measuring cylinder 1000ml",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Measuring cylinder 1000ml glass/plastic",
 
-  image: "",
+  image: "https://solutionscience.co.ke/cdn/shop/files/MEASURINGCYLINDER1000MLGLASS.jpg?v=1746794144",
 
-  images: [],
+  images: [
+          "https://m.media-amazon.com/images/I/41aEvl9NaiL.jpg",
+          "https://image.made-in-china.com/202f0j00TkpcljbCgtqD/Laboratory-Chemistry-Graduated-1000ml-Borosilicate-Glass-Measuring-Cylinder.webp",
+          "https://i.ebayimg.com/00/s/MTAwMFgxMDAw/z/ViQAAOSwVvpjUwEy/$_57.JPG?set_id=880000500F"
+  ],
 
-  description: "",
+  description: "Large Capacity 1000ml Cylinder",
 
-  price: "",
+  price: "4000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "1000ml Capacity",
+  "Glass or Plastic Body",
+  "Clear Graduation Marks",
+  "Stable Base Design"
+  ],
 
-  fullDescription: "",
+  fullDescription: "The 1000ml measuring cylinder is a large-capacity laboratory instrument designed for accurate measurement and transfer of substantial liquid volumes during scientific and industrial procedures. Made from durable heat-resistant glass or high-quality chemical-resistant plastic, it provides dependable performance and long-lasting laboratory use. The cylinder features clear graduation markings for precise volume reading and a stable base for secure handling during experiments. It is suitable for schools, research laboratories, medical facilities, and industrial scientific applications requiring reliable large-volume liquid measurement.",
 },
 
 {
   id: 30,
 
-  slug: "",
+  slug: "Molecular model set",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Molecular model set",
 
-  image: "",
+  image: "https://assets.fishersci.com/TFS-Assets/CCG/Eisco/product-images/SET00603.jpg-650.jpg",
 
-  images: [],
+  images: [
+    "https://assets.fishersci.com/TFS-Assets/CCG/Eisco/product-images/SET00603.jpg-650.jpg",
+    "https://www.3bscientific.com/thumblibrary/W19722/W19722_01_1200_1200_OrganicInorganic-Molecule-Set-S-molymod.jpg",
+    "https://external-preview.redd.it/where-can-i-find-a-molecular-model-kit-like-this-v0-A7euTZ2ptimOiXw85_d9T9abgflk9lFYcaNjhvjeHAs.jpg?auto=webp&s=bff734a2266770b30a95abc1cd7f24096ea81989"
+  ],
 
-  description: "",
+  description: "Complete Molecular Model Set",
 
-  price: "",
+  price: "35000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "Durable Plastic Components",
+  "Multiple Atom Models",
+  "Flexible Bond Connectors",
+  "Educational Laboratory Kit"
+  ],
 
-  fullDescription: "",
+  fullDescription: "The molecular model set is an educational laboratory kit designed for constructing and studying molecular structures, chemical bonds, and atomic arrangements in chemistry. Made from durable high-quality plastic materials, the set includes multiple atom models and flexible bond connectors for building a wide range of organic and inorganic compounds. It helps students and researchers visualize molecular geometry, bonding patterns, and chemical reactions more effectively during learning and demonstrations. The molecular model set is widely used in schools, colleges, research laboratories, and scientific educational environments for practical chemistry instruction and molecular analysis.",
 },
 
 {
   id: 31,
 
-  slug: "",
+  slug: " Periodic table",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name:  "Periodic table",
 
-  image: "",
+  image: "https://npr.brightspotcdn.com/dims4/default/014e9dd/2147483647/strip/true/crop/2400x1646+0+0/resize/880x604!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwuwm%2Ffiles%2F201912%2FAdobeStock_238869971.jpg",
 
-  images: [],
+  images: [
+    "https://npr.brightspotcdn.com/dims4/default/014e9dd/2147483647/strip/true/crop/2400x1646+0+0/resize/880x604!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwuwm%2Ffiles%2F201912%2FAdobeStock_238869971.jpg",
+    "https://i.ebayimg.com/images/g/rB4AAOSwA8dlI-dX/s-l1200.jpg",
+    "https://static.vecteezy.com/system/resources/previews/069/924/972/non_2x/educational-chemistry-chart-periodic-table-design-vector.jpg"
+  ],
 
-  description: "",
+  description: "Educational Periodic Table Chart",
 
-  price: "",
+  price: "15000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "Clear Element Display",
+  "Color Coded Sections",
+  "Durable Print Material",
+  "Educational Reference Chart"
+  ],
 
-  fullDescription: "",
+  fullDescription: "The periodic table is an educational scientific chart designed to display all known chemical elements in an organized format according to their atomic number, symbols, and chemical properties. Produced with clear printing and color-coded classifications, it helps students, teachers, and researchers easily identify element groups and periodic trends. The chart is made from durable high-quality material for long-lasting classroom and laboratory use. It is widely used in schools, colleges, research laboratories, and scientific institutions as an essential reference tool for chemistry education and scientific study.",
 },
 
 {
   id: 32,
 
-  slug: "",
+  slug: "Pipette 5ml",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Pipette 5ml",
 
-  image: "",
+  image: "https://assets.fishersci.com/TFS-Assets/CCG/product-images/VN00128861-IMG367-5MLSEROLOGICALPIPET-SHO.JPG-650.jpg",
 
-  images: [],
+  images: [
+    "https://assets.fishersci.com/TFS-Assets/CCG/product-images/VN00128861-IMG367-5MLSEROLOGICALPIPET-SHO.JPG-650.jpg",
+    "https://goldenbridgen.com/cdn/shop/products/5ml_580x.jpg?v=1553024858"
+  ],
 
-  description: "",
+  description: "Precision 5ml Laboratory Pipette",
 
-  price: "",
+  price: "1000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "5ml Capacity",
+  "Accurate Volume Transfer",
+  "Chemical Resistant Glass",
+  "Clear Graduation Marks"
+  ],
 
-  fullDescription: "",
+  fullDescription: "The 5ml pipette is a precision laboratory instrument designed for accurate measurement and transfer of small liquid volumes during scientific experiments and analytical procedures. Manufactured from high-quality chemical-resistant glass, it provides dependable laboratory performance and long-lasting durability. The pipette features clear graduation markings for precise volume reading and controlled liquid dispensing during use. It is widely used in schools, research laboratories, medical facilities, and industrial scientific applications requiring accurate liquid handling and measurement.",
 },
 
 {
   id: 33,
 
-  slug: "",
+  slug: "Pipette 10ml",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Pipette 10ml, graduated",
 
-  image: "",
+  image: "https://www.leybold-shop.com/media/phk/images/150dpi/665997.jpg",
 
-  images: [],
+  images: [
+    "https://www.leybold-shop.com/media/phk/images/150dpi/665997.jpg",
+    "https://www.carlroth.com/medias/HXN5-1000Wx1000H?context=bWFzdGVyfGltYWdlc3wzNDY2OXxpbWFnZS9qcGVnfGFXMWhaMlZ6TDJnMFl5OW9ObU12T1RBME16TXdOamcwTURBNU5DNXFjR2N8ZjM5NDIyZDkxMDQ0Y2U2YjU0MjljNjNhNzk5NmVlYTY0ZmYzNzYzMmRlN2JlOTRmMmQzNWFjNTE5ZjRiN2FjMA"
+  ],
 
-  description: "",
+  description: "Graduated 10ml Glass Pipette",
 
-  price: "",
+  price: "1000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "10ml Capacity",
+  "Graduated Measurement Scale",
+  "Chemical Resistant Glass",
+  "Accurate Liquid Transfer"
+  ],
 
-  fullDescription: "",
+  fullDescription: "The 10ml graduated pipette is a precision laboratory instrument designed for measuring and transferring liquids accurately during scientific experiments and analytical procedures. Made from high-quality chemical-resistant glass, it offers reliable performance and durability in laboratory environments. The graduated measurement scale allows precise volume reading and controlled liquid dispensing for improved experimental accuracy. It is widely used in schools, research laboratories, medical facilities, and industrial scientific applications requiring dependable liquid measurement and transfer.",
 },
 
 {
   id: 34,
 
-  slug: "",
+  slug: "Pipette 25ml",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Pipette 25ml (bulb form)",
 
-  image: "",
+  image: "https://sentori.com.my/uploads/product-images/8891fd1eba98e2cd4ddb7ff7f3e4031d.jpg",
 
-  images: [],
+  images: [
+    "https://pobel.com/3296-large_default/volumetric-pipettes-class-a.jpg",
+    "https://sentori.com.my/uploads/product-images/8891fd1eba98e2cd4ddb7ff7f3e4031d.jpg"
+  ],
 
-  description: "",
+  description: "Volumetric 25ml Bulb Pipette",
 
-  price: "",
+  price: "1500 FCFA",
 
-  specifications: [],
+  specifications: [
+    "25ml Fixed Capacity",
+  "Bulb Form Design",
+  "High Accuracy Transfer",
+  "Chemical Resistant Glass"
+  ],
 
-  fullDescription: "",
+  fullDescription: "The 25ml bulb pipette is a precision volumetric laboratory instrument designed for transferring a fixed volume of liquid with high accuracy during scientific experiments and chemical analysis. Manufactured from premium chemical-resistant glass, it provides reliable performance and excellent durability in laboratory environments. Its bulb form design ensures precise liquid measurement and controlled transfer for accurate analytical results. The pipette is widely used in schools, research laboratories, medical facilities, pharmaceutical industries, and industrial scientific applications requiring exact liquid handling.",
 },
 
 {
   id: 35,
 
-  slug: "",
+  slug: "Pipette filler",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Pipette filler",
 
-  image: "",
+  image: "https://generationspace.co.ke/wp-content/uploads/2024/05/PIPETTE-FILLER-BULB-TYPE-10ML-CAPACITY.webp",
 
-  images: [],
+  images: [
+    "https://www.creative-chemistry.org.uk/wp-content/uploads/pipette-fillers.webp",
+    "https://sperdirect.com/cdn/shop/products/Red-Silicone-Safety-Pipet-Filler-594292_1000x.jpg?v=1752691891",
+    "https://m.media-amazon.com/images/I/517YA55vHkL.jpg"
+  ],
 
-  description: "",
+  description: "Safe Laboratory Pipette Filler",
 
-  price: "",
+  price: "3500 FCFA",
 
-  specifications: [],
+  specifications: [
+    "Easy Suction Control",
+  "Chemical Resistant Rubber",
+  "Leak Proof Design",
+  "Compatible With Pipettes"
+  ],
 
-  fullDescription: "",
+  fullDescription: "The pipette filler is a laboratory accessory designed for safely drawing and dispensing liquids when using pipettes during scientific experiments and analytical procedures. Made from durable chemical-resistant rubber or high-quality material, it provides reliable performance and safe laboratory handling. Its easy suction control system allows accurate liquid transfer while reducing the risk of spills and direct mouth pipetting. The pipette filler is widely used in schools, research laboratories, medical facilities, pharmaceutical industries, and industrial scientific applications for safe and efficient liquid handling.",
 },
 
 {
   id: 36,
 
-  slug: "",
+  slug: "Plastic funnel",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Plastic funnel",
 
-  image: "",
+  image: "https://laboratorysales.com/images/products/display/UnitedFunnelStandardStem.jpg",
 
-  images: [],
+  images: [
+    "https://www.scharlab.com/assets/media/articulos/ca46b81d-fe59-43d4-ab63-028fdf952679/425-000148.webp",
+    "https://laboratorysales.com/images/products/display/UnitedFunnelStandardStem.jpg"
+  ],
 
-  description: "",
+  description: "Durable Plastic Laboratory Funnel",
 
-  price: "",
+  price: "400 FCFA",
 
-  specifications: [],
+  specifications: [
+    "Chemical Resistant Plastic",
+  "Wide Mouth Opening",
+  "Smooth Liquid Flow",
+  "Lightweight Durable Design"
+  ],
 
-  fullDescription: "",
+  fullDescription: "The plastic funnel is a laboratory tool designed for safely transferring liquids and fine materials into containers with narrow openings during scientific and industrial procedures. Manufactured from durable chemical-resistant plastic, it offers reliable performance and long-lasting use in laboratory environments. Its wide mouth opening and smooth inner surface ensure efficient and spill-free liquid flow during transfer operations. The plastic funnel is widely used in schools, research laboratories, medical facilities, and industrial scientific applications for convenient and safe material handling.",
 },
 
 {
   id: 37,
 
-  slug: "",
+  slug: "PH meter pocket type",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "PH meter pocket type",
 
-  image: "",
+  image: "https://www.wehydroponics.com/store/wp-content/uploads/2021/07/ph-meter-5-1.png",
 
-  images: [],
+  images: [
+    "https://www.wehydroponics.com/store/wp-content/uploads/2021/07/ph-meter-5-1.png",
+    "https://www.wehydroponics.com/store/wp-content/uploads/2021/07/ph-meter-1-.png"
+  ],
 
-  description: "",
+  description: "Portable Pocket PH Meter",
 
-  price: "",
+  price: "15000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "Digital PH Measurement",
+  "Compact Pocket Design",
+  "High Accuracy Sensor",
+  "Easy Calibration System"
+  ],
 
-  fullDescription: "",
+  fullDescription: "The pocket type pH meter is a portable digital instrument designed for accurate measurement of acidity and alkalinity levels in liquids during laboratory, industrial, and field applications. Built with a sensitive high-accuracy sensor, it provides fast and reliable pH readings for scientific analysis and quality control. Its compact pocket-sized design allows convenient handling, transport, and on-site testing in various environments. The meter features an easy calibration system and is widely used in schools, research laboratories, water treatment facilities, agriculture, food processing, and industrial scientific applications.",
 },
 
 {
   id: 38,
 
-  slug: "",
+  slug: "PH meter table type",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "PH meter table type",
 
-  image: "",
+  image: "https://5.imimg.com/data5/SELLER/Default/2024/1/379659049/TI/WR/XU/1230550/digital-ph-meter-table.png",
 
-  images: [],
+  images: [
+    "https://5.imimg.com/data5/SELLER/Default/2024/1/379659049/TI/WR/XU/1230550/digital-ph-meter-table.png",
+    "https://cpimg.tistatic.com/08368607/b/5/Table-Top-pH-Meter.jpg"
+  ],
 
-  description: "",
+  description: "Professional Table PH Meter",
 
-  price: "",
+  price: "75000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "High Precision PH Reading",
+  "Digital Display System",
+  "Stable Tabletop Design",
+  "Easy Calibration Control"
+  ],
 
-  fullDescription: "",
+  fullDescription: "The table type pH meter is a professional laboratory instrument designed for precise measurement of acidity and alkalinity levels in liquids during scientific analysis and quality control procedures. Equipped with a high-accuracy sensor and digital display system, it delivers fast, stable, and reliable pH readings for laboratory applications. Its stable tabletop design ensures convenient operation and consistent measurement performance during extended use. The meter is widely used in research laboratories, schools, medical facilities, water treatment plants, food industries, and industrial scientific applications requiring accurate pH analysis.",
 },
 
 {
   id: 39,
 
-  slug: "",
+  slug: "Reagent bottle 250ml",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Reagent bottle 250ml (amber / transparent)",
 
-  image: "",
+  image: "https://s.alicdn.com/@sc04/kf/H524a4632eed04cf2b209a39896deef6aT/Lab-Supplies-Borosilicate-Glass-Reagent-Bottle-Amber-Transparent-Corrosion-Resistance-Storage-Bottles-with-Blue-Screw-Cap.jpg_300x300.jpg",
 
-  images: [],
+  images: [
+    "https://s.alicdn.com/@sc04/kf/H524a4632eed04cf2b209a39896deef6aT/Lab-Supplies-Borosilicate-Glass-Reagent-Bottle-Amber-Transparent-Corrosion-Resistance-Storage-Bottles-with-Blue-Screw-Cap.jpg_300x300.jpg",
+    "https://shop12456.sfstatic.io/upload_dir/shop/laboratory-equipment/drifton-glassco-amber-reagent-bottle-screw-cap-250ml_275-202-02.jpg",
+    "https://i.ebayimg.com/images/g/JvcAAOSwRphnlIdj/s-l400.jpg"
+  ],
 
-  description: "",
+  description: "Premium 250ml Reagent Bottle",
 
-  price: "",
+  price: "1000 FCFA",
 
-  specifications: [],
+  specifications: [
+     "250ml Capacity",
+  "Amber or Clear Glass",
+  "Leak Proof Cap",
+  "Chemical Resistant Body"
+  ],
 
-  fullDescription: "",
+  fullDescription: "The 250ml reagent bottle is a laboratory storage container designed for safely storing and preserving chemical reagents, solutions, and laboratory substances. Available in amber or transparent glass, it provides excellent chemical resistance and durable laboratory performance. The amber bottle helps protect light-sensitive chemicals from UV exposure, while the transparent version allows easy content visibility and monitoring. Equipped with a secure leak-proof cap, the reagent bottle is widely used in schools, research laboratories, medical facilities, pharmaceutical industries, and industrial scientific applications for safe chemical storage.",
 },
 
 {
   id: 40,
 
-  slug: "",
+  slug: "Round bottom flask 250ml",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Round bottom flask 250ml",
 
-  image: "",
+  image: "https://www.american-scientific.com/wp-content/uploads/2026/04/573212-1776792339.jpg",
 
-  images: [],
+  images: [
+    "https://www.american-scientific.com/wp-content/uploads/2026/04/573212-1776792339.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4fy1Vqp3jnoYVfYdudOA2XBc4fAmb4fxE6Q&s"
+  ],
 
-  description: "",
+  description: "Heat Resistant Round Flask",
 
-  price: "",
+  price: "2000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "250ml Capacity",
+  "Round Bottom Design",
+  "Heat Resistant Glass",
+  "Laboratory Grade Quality"
+  ],
 
-  fullDescription: "",
+  fullDescription: "The 250ml round bottom flask is a laboratory vessel designed for heating, mixing, distillation, and chemical reactions requiring even heat distribution. Manufactured from high-quality heat-resistant borosilicate glass, it offers excellent durability and dependable laboratory performance. Its round bottom design allows uniform heating and efficient mixing during scientific procedures. The flask is widely used in schools, research laboratories, medical facilities, pharmaceutical industries, and industrial scientific applications for advanced chemical experiments and solution preparation.",
 },
 
 {
   id: 41,
 
-  slug: "",
+  slug: "Separating funnel",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Separating funnel 250ml",
 
-  image: "",
+  image: "https://mylabmart.com/media/separating-funnel-29049F.jpg",
 
-  images: [],
+  images: [
+    "https://mylabmart.com/media/separating-funnel-29049F.jpg",
+    "https://m.media-amazon.com/images/I/81RGoLrbYNL.jpg",
+    "https://www.eiscolabs.com/cdn/shop/products/uob9knjuegiiycsg0yvt_1200x2640.jpg?v=1618243828"
+  ],
 
-  description: "",
+  description: "Precision 250ml Separating Funnel",
 
-  price: "",
+  price: "6000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "250ml Capacity",
+  "Leak Resistant Stopcock",
+  "Chemical Resistant Glass",
+  "Accurate Liquid Separation"
+  ],
 
-  fullDescription: "",
+  fullDescription: "The 250ml separating funnel is a laboratory apparatus designed for separating immiscible liquids during chemical extraction and analytical procedures. Made from high-quality chemical-resistant glass, it provides durability and reliable laboratory performance for repeated use. The funnel features a leak-resistant stopcock that allows controlled liquid flow and accurate phase separation during experiments. It is widely used in schools, research laboratories, pharmaceutical industries, and industrial scientific applications for liquid-liquid extraction and chemical processing.",
 },
 
 {
   id: 42,
 
-  slug: "",
+  slug: "Spatula stainless steel",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Spatula stainless steel",
 
-  image: "",
+  image: "https://www.buerkle.de/products/L%C3%B6ffelspatel%20Edelstahl/5386-0025/92649/image-thumb__92649__productDetail/5386-0025_Loeffelspatel-Edelstahl_hauptbild.jpg",
 
-  images: [],
+  images: [
+    "https://www.buerkle.de/products/L%C3%B6ffelspatel%20Edelstahl/5386-0025/92649/image-thumb__92649__productDetail/5386-0025_Loeffelspatel-Edelstahl_hauptbild.jpg",
+    "https://www.buerkle.de/products/L%C3%B6ffelspatel%20Edelstahl/5386-0020/92645/image-thumb__92645__productDetail/5386-0020_Loeffelspatel-Edelstahl_produktbild.jpg"
+  ],
 
-  description: "",
+  description: "Stainless Steel Lab Spatula",
 
-  price: "",
+  price: "1000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "Corrosion Resistant Steel",
+  "Durable Metal Construction",
+  "Smooth Flat Blade",
+  "Laboratory Grade Quality"
+  ],
 
-  fullDescription: "",
+  fullDescription: "The stainless steel spatula is a laboratory tool designed for scooping, transferring, mixing, and handling chemical powders and solid substances during scientific procedures. Manufactured from high-quality corrosion-resistant stainless steel, it provides excellent durability, strength, and reliable laboratory performance. Its smooth flat blade allows easy handling and accurate transfer of materials with minimal contamination. The spatula is widely used in schools, research laboratories, pharmaceutical industries, medical facilities, and industrial scientific applications for safe and efficient sample handling.",
 },
 
 {
   id: 43,
 
-  slug: "",
+  slug: "Stirring glass rod",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Stirring glass rod",
 
-  image: "",
+  image: "https://myerstest.com/wp-content/uploads/2017/10/Glass-Stirring-Rods-1.jpg",
 
-  images: [],
+  images: [
+    "https://img.everymarket.com/7ysf7t6y9il16oxh1owcz2qp9i7b?width=800&height=800&format=jpg",
+    "https://www.nijmegenpasfotofilm.nl/wp-content/uploads/2019/04/darkroom-vos-stir-glass-300mm.jpg"
+  ],
 
-  description: "",
+  description: "Laboratory Glass Stirring Rod",
 
-  price: "",
+  price: "700 FCFA",
 
-  specifications: [],
+  specifications: [
+    "Smooth Glass Surface",
+  "Heat Resistant Material",
+  "Chemical Resistant Build",
+  "Laboratory Grade Quality"
+  ],
 
-  fullDescription: "",
+  fullDescription: "The glass stirring rod is a laboratory tool designed for stirring, mixing, and guiding liquids during scientific experiments and chemical procedures. Made from high-quality heat-resistant glass, it provides durability and reliable performance in laboratory environments. Its smooth surface allows efficient mixing while reducing the risk of contamination during use. The stirring rod is widely used in schools, research laboratories, medical facilities, pharmaceutical industries, and industrial scientific applications for safe and accurate liquid handling.",
 },
 
 {
   id: 44,
 
-  slug: "",
+  slug: "Stop watch digital",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Stop watch digital",
 
-  image: "",
+  image: "https://controls-group.com/wp-content/uploads/2023/05/82-D1231.webp",
 
-  images: [],
+  images: [
+    "https://controls-group.com/wp-content/uploads/2023/05/82-D1231.webp",
+    "https://s.alicdn.com/@sc04/kf/HTB1axHOXAP2gK0jSZPxq6ycQpXaw.jpg"
+  ],
 
-  description: "",
+  description: "Precision Digital Stop Watch",
 
-  price: "",
+  price: "2000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "Digital Time Display",
+  "High Accuracy Timing",
+  "Compact Portable Design",
+  "Easy Button Control"
+  ],
 
-  fullDescription: "",
+  fullDescription: "The digital stop watch is a precision timing device designed for measuring time accurately during laboratory experiments, sports activities, industrial processes, and scientific procedures. Equipped with a clear digital display, it provides fast and reliable time readings for accurate monitoring and analysis. Its compact portable design and easy button controls allow convenient handling and efficient operation in different environments. The digital stop watch is widely used in schools, research laboratories, medical facilities, sports training, and industrial scientific applications requiring precise time measurement.",
 },
 
 {
   id: 45,
 
-  slug: "",
+  slug: "Test tube",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Test tube",
 
-  image: "",
+  image: "https://www.scientificlabs.co.uk/image/full/TES1220",
 
-  images: [],
+  images: [
+    "https://www.scientificlabs.co.uk/image/full/TES1220",
+    "https://cdn11.bigcommerce.com/s-ufhcuzfxw9/images/stencil/1280x1280/products/12113/13086/CE-TTUBEXL__13520.1503517889.jpg?c=2",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5ohFxbYwA7109fVCXT3WkDa1qlYHZslhTvQ&s"
+  ],
 
-  description: "",
+  description: "Durable Laboratory Test Tube",
 
-  price: "",
+  price: "200 FCFA",
 
-  specifications: [],
+  specifications: [
+     "Heat Resistant Glass",
+  "Rounded Bottom Design",
+  "Chemical Resistant Build",
+  "Laboratory Grade Quality"
+  ],
 
-  fullDescription: "",
+  fullDescription: "The test tube is a laboratory container designed for holding, mixing, heating, and observing small quantities of substances during scientific experiments and chemical analysis. Manufactured from high-quality heat-resistant glass, it provides durability and dependable performance in laboratory environments. Its rounded bottom design allows even heating and easy handling during experimental procedures. The test tube is widely used in schools, research laboratories, medical facilities, pharmaceutical industries, and industrial scientific applications for safe and efficient sample testing.",
 },
 
 {
   id: 46,
 
-  slug: "",
+  slug: "Test tube brush",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Test tube brush",
 
-  image: "",
+  image: "https://cdn.thomassci.com/_resources/_global/media/resized/00057/ihwx.8da40ce4-355d-49bc-b994-c8626b27ad28.500.500.jpg",
 
-  images: [],
+  images: [
+    "https://cdn.thomassci.com/_resources/_global/media/resized/00057/ihwx.8da40ce4-355d-49bc-b994-c8626b27ad28.500.500.jpg",
+    "https://www.wiltronics.com.au/wp-content/uploads/images/science/nylon-test-tube-cleaning-brushes-large-32mm-diameter.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKnd2bDW_HdCZA5LkB-mr7VKhzwTQdBUQm1Q&s"
+  ],
 
-  description: "",
+  description: "Flexible Test Tube Cleaning Brush",
 
-  price: "",
+  price: "500 FCFA",
 
-  specifications: [],
+  specifications: [
+    "Soft Durable Bristles",
+  "Flexible Wire Handle",
+  "Efficient Tube Cleaning",
+  "Laboratory Grade Quality"
+  ],
 
-  fullDescription: "",
+  fullDescription: "The test tube brush is a laboratory cleaning tool designed for effectively cleaning test tubes, glassware, and narrow laboratory containers after experiments and chemical procedures. Made with soft durable bristles and a flexible wire handle, it provides efficient cleaning while minimizing the risk of scratching laboratory glassware. Its slim design allows easy access to narrow tubes and hard-to-reach areas for thorough cleaning. The test tube brush is widely used in schools, research laboratories, medical facilities, pharmaceutical industries, and industrial scientific applications for maintaining clean laboratory equipment.",
 },
 
 {
   id: 47,
 
-  slug: "",
+  slug: "Test tube holder",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Test tube holder",
 
-  image: "",
+  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSK61qOjyGHwRYCP1vABnU9Z0MYJc3cNca5w&s",
 
-  images: [],
+  images: [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSK61qOjyGHwRYCP1vABnU9Z0MYJc3cNca5w&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWSnmaRywMs8jTa2FciYU2guLweXdyqsp95g&s"
+  ],
 
-  description: "",
+  description: "Heat Resistant Tube Holder",
 
-  price: "",
+  price: "1000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "Strong Grip Design",
+  "Heat Resistant Material",
+  "Lightweight Construction",
+  "Laboratory Grade Quality"
+  ],
 
-  fullDescription: "",
+  fullDescription: "The test tube holder is a laboratory handling tool designed for safely gripping and holding test tubes during heating and experimental procedures. Manufactured from durable heat-resistant material, it provides reliable performance and protection while working with hot or reactive substances. Its strong grip design ensures secure handling and minimizes the risk of slipping during laboratory operations. The test tube holder is widely used in schools, research laboratories, medical facilities, pharmaceutical industries, and industrial scientific applications for safe test tube handling.",
 },
 
 {
   id: 48,
 
-  slug: "",
+  slug: "Test tube rack",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Test tube rack",
 
-  image: "",
+  image: "https://www.eiscolabs.com/cdn/shop/products/wvkuxr1cyoqkpxrtsxs9_37383718-6816-4c01-b996-b4f752ebd79b_1024x1024.jpg?v=1597932180",
 
-  images: [],
+  images: [
+    "https://www.eiscolabs.com/cdn/shop/products/wvkuxr1cyoqkpxrtsxs9_37383718-6816-4c01-b996-b4f752ebd79b_1024x1024.jpg?v=1597932180",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-q-gLXmVDptpfZzetdaOkWwzFwq_mZGQTJw&s",
+    "https://cdn11.bigcommerce.com/s-ufhcuzfxw9/images/stencil/1280x1280/products/11759/15576/ce-ttrack1__76005.1573683377.jpg?c=2"
+  ],
 
-  description: "",
+  description: "Heavy Duty Test Tube Rack",
 
-  price: "",
+  price: "2000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "Multiple Tube Compartments",
+  "Stable Support Structure",
+  "Chemical Resistant Material",
+  "Laboratory Grade Build"
+  ],
 
-  fullDescription: "",
+  fullDescription: "The test tube rack is a laboratory support tool designed for securely holding, organizing, and storing test tubes during scientific experiments and laboratory procedures. Manufactured from durable chemical-resistant material, it offers excellent stability and dependable performance in laboratory environments. Its multiple compartments allow easy arrangement and safe handling of test tubes during experiments, cleaning, or drying processes. The test tube rack is widely used in schools, research laboratories, medical facilities, pharmaceutical industries, and industrial scientific applications for efficient laboratory organization and safety.",
 },
 
 {
   id: 49,
 
-  slug: "",
+  slug: "Thermometer – 10 x 110 x 0.1°c Divisions",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Thermometer – 10 x 110 x 0.1°c Divisions",
 
-  image: "",
+  image: "https://m.media-amazon.com/images/I/31TDi0iD9OL._AC_UF1000,1000_QL80_.jpg",
 
-  images: [],
+  images: [
+    "https://5.imimg.com/data5/SELLER/Default/2023/4/297777322/ZV/HY/SQ/34951366/new-product-500x500.jpeg",
+    "https://www.labcomercial.com/44824-home_default_mobile/rod-chemical-thermometer.jpg"
+  ],
 
-  description: "",
+  description: "Precision Laboratory Thermometer",
 
-  price: "",
+  price: "5000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "0.1°C Graduation Scale",
+  "Heat Resistant Glass",
+  "Accurate Temperature Reading",
+  "Laboratory Grade Quality"
+  ],
 
-  fullDescription: "",
+  fullDescription: "The laboratory thermometer with 0.1°C divisions is a precision temperature measuring instrument designed for accurate monitoring of temperature changes during scientific experiments and industrial procedures. Manufactured from high-quality heat-resistant glass, it provides reliable performance and clear temperature visibility in laboratory environments. Its fine 0.1°C graduation scale ensures precise readings for detailed scientific analysis and experimental accuracy. The thermometer is widely used in schools, research laboratories, medical facilities, pharmaceutical industries, and industrial scientific applications requiring dependable temperature measurement.",
 },
 
 {
   id: 50,
 
-  slug: "",
+  slug: "Tripod stand",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Tripod stand",
 
-  image: "",
+  image: "https://samtechlabs.com/wp-content/uploads/2024/06/img_6866.png.webp",
 
-  images: [],
+  images: [
+    "https://samtechlabs.com/wp-content/uploads/2024/06/img_6866.png.webp",
+    "https://img.fruugo.com/product/7/06/1795171067_0340_0340.jpg"
+  ],
 
-  description: "",
+  description: "Heavy Duty Tripod Stand",
 
-  price: "",
+  price: "2000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "Durable Metal Build",
+  "Three Leg Stability",
+  "Heat Resistant Coating",
+  "Laboratory Grade Support"
+  ],
 
-  fullDescription: "",
+  fullDescription: "The tripod stand is a laboratory support device designed for safely supporting glassware and laboratory containers during heating and experimental procedures. Made from strong heat-resistant metal, it offers durability, stability, and dependable performance in laboratory environments. Its three-leg structure provides balanced support and secure positioning over burners and other heat sources. The tripod stand is widely used in schools, research laboratories, medical facilities, pharmaceutical industries, and industrial scientific applications for efficient and safe laboratory heating operations.",
 },
 
 {
   id: 51,
 
-  slug: "",
+  slug: "Volumetric flask 250ml",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Volumetric flask 250ml",
 
-  image: "",
+  image: "https://www.eiscolabs.com/cdn/shop/products/jpbgntnkvnzehlxiknu7_1200x1200.jpg?v=1660141466",
 
-  images: [],
+  images: [
+    "https://www.eiscolabs.com/cdn/shop/products/jpbgntnkvnzehlxiknu7_1200x1200.jpg?v=1660141466",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQX9AXpnQ-L_Xb1OpzOQ1IXz2YFjLMVbQhDA&s"
+  ],
 
-  description: "",
+  description: "Precision 250ml Volumetric Flask",
 
-  price: "",
+  price: "2500 FCFA",
 
-  specifications: [],
+  specifications: [
+    "250ml Fixed Capacity",
+  "Accurate Calibration Mark",
+  "Heat Resistant Glass",
+  "Chemical Resistant Build"
+  ],
 
-  fullDescription: "",
+  fullDescription: "The 250ml volumetric flask is a precision laboratory vessel designed for preparing and containing accurate volumes of chemical solutions during scientific experiments and analytical procedures. Manufactured from high-quality heat-resistant and chemical-resistant glass, it provides reliable laboratory performance and long-lasting durability. The flask features a narrow neck with an accurate calibration mark for precise solution preparation and measurement consistency. It is widely used in schools, research laboratories, pharmaceutical industries, medical facilities, and industrial scientific applications requiring exact solution concentration and volume accuracy.",
 },
 
 {
   id: 52,
 
-  slug: "",
+  slug: "Volumetric flask 500ml",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Volumetric flask 500ml",
 
-  image: "",
+  image: "https://5.imimg.com/data5/SELLER/Default/2025/5/509860075/TX/XN/PX/2348034/flasks-volumetric-with-interchangeable-stopper-class-b.png",
 
-  images: [],
+  images: [
+    "https://img.analytics-shop.com/r1ZKEO13y7UTWb42_LP_T2G3Jkw=/fit-in/600x600/filters:fill(ffffff):no_upscale()/37238_nos.jpg",
+    "https://www.austscientific.com.au/storage/2021/05/flask.jpg"
+  ],
 
-  description: "",
+  description: "Precision 500ml Volumetric Flask",
 
-  price: "",
+  price: "3500 FCFA",
 
-  specifications: [],
+  specifications: [
+    "500ml Fixed Capacity",
+  "Accurate Calibration Mark",
+  "Heat Resistant Glass",
+  "Chemical Resistant Build"
+  ],
 
-  fullDescription: "",
+  fullDescription: "The 500ml volumetric flask is a precision laboratory vessel designed for preparing, diluting, and containing exact volumes of chemical solutions during scientific and analytical procedures. Made from high-quality heat-resistant and chemical-resistant glass, it ensures durability and reliable laboratory performance. The flask features a narrow neck with a precise calibration mark for accurate volume measurement and consistent solution preparation. It is widely used in schools, research laboratories, pharmaceutical industries, medical facilities, and industrial scientific applications requiring high precision in solution preparation and concentration analysis.",
 },
 
 {
   id: 53,
 
-  slug: "",
+  slug: "Volumetric flask 1000ml",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Volumetric flask 1000ml",
 
-  image: "",
+  image: "https://img.lazcdn.com/g/p/5d2c2282f5bd1073cc59fef7041dec87.jpg_720x720q80.jpg",
 
-  images: [],
+  images: [
+    "https://www.eiscolabs.com/cdn/shop/products/ujdejbhozjreo0ehot86_1024x1024.jpg?v=1660142134",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgXd6mMJywU4rFOSDzNx2aRRx1Z7_vgnsC_w&s",
+    "https://cdn.images.fecom-media.com/FE058063/images/CH0446I_5_HRjDld8zTU.JPG?w=3840&q=75"
+  ],
 
-  description: "",
+  description: "Large 1000ml Volumetric Flask",
 
-  price: "",
+  price: "6000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "1000ml Fixed Capacity",
+  "Precise Calibration Mark",
+  "Heat Resistant Glass",
+  "Chemical Resistant Build"
+  ],
 
-  fullDescription: "",
+  fullDescription: "The 1000ml volumetric flask is a precision laboratory vessel designed for preparing and containing accurate large-volume chemical solutions during scientific experiments and analytical procedures. Manufactured from high-quality heat-resistant and chemical-resistant glass, it offers excellent durability and dependable laboratory performance. The flask features a narrow neck with a precise calibration mark to ensure accurate volume measurement and consistent solution preparation. It is widely used in schools, research laboratories, pharmaceutical industries, medical facilities, and industrial scientific applications requiring precise solution concentration and volume accuracy.",
 },
 
 {
   id: 54,
 
-  slug: "",
+  slug: "Volumetric flask 2000ml",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Volumetric flask 2000ml",
 
-  image: "",
+  image: "https://accuscience.com/wp-content/uploads/2021/08/2000ml-e1629810275380.png",
 
-  images: [],
+  images: [
+    "https://accuscience.com/wp-content/uploads/2021/08/2000ml-e1629810275380.png",
+    "https://www.avogadro-lab-supply.com/cdn/shop/products/Sibata2000V-768_768x.jpg?v=1591307024"
+  ],
 
-  description: "",
+  description: "Industrial 2000ml Volumetric Flask",
 
-  price: "",
+  price: "9000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "2000ml Fixed Capacity",
+  "Precise Calibration Mark",
+  "Heat Resistant Glass",
+  "Chemical Resistant Build"
+  ],
 
-  fullDescription: "",
+  fullDescription: "The 2000ml volumetric flask is a large-capacity precision laboratory vessel designed for preparing, diluting, and storing accurate volumes of chemical solutions during scientific and industrial procedures. Made from premium heat-resistant and chemical-resistant glass, it provides excellent durability and reliable laboratory performance. The flask features a narrow neck with a precise calibration mark for accurate volume measurement and consistent solution preparation. It is widely used in schools, research laboratories, pharmaceutical industries, medical facilities, and industrial scientific applications requiring high-precision large-volume solution preparation.",
 },
 
 {
   id: 55,
 
-  slug: "",
+  slug: "Volumetric flask 5000ml",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Volumetric flask 5000ml",
 
-  image: "",
+  image: "https://cdn11.bigcommerce.com/s-u45hz/products/1563/images/4510/Simax-volumetric-flask-5000ml__82013.1707782261.490.588.jpg?c=2",
 
-  images: [],
+  images: [
+    "https://cdn11.bigcommerce.com/s-u45hz/products/1563/images/4510/Simax-volumetric-flask-5000ml__82013.1707782261.490.588.jpg?c=2",
+    "https://m.media-amazon.com/images/I/51Wj0T+A82S._AC_UF1000,1000_QL80_.jpg"
+  ],
 
-  description: "",
+  description: "Large Capacity 5000ml Flask",
 
-  price: "",
+  price: "35000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "5000ml Fixed Capacity",
+  "Precise Calibration Mark",
+  "Heat Resistant Glass",
+  "Chemical Resistant Build"
+  ],
 
-  fullDescription: "",
+  fullDescription: "The 5000ml volumetric flask is a high-capacity precision laboratory vessel designed for preparing, diluting, and storing large volumes of chemical solutions with excellent accuracy. Manufactured from durable heat-resistant and chemical-resistant glass, it provides reliable performance and long-lasting use in laboratory and industrial environments. The flask features a narrow neck with a precise calibration mark for accurate volume measurement and consistent solution preparation. It is widely used in research laboratories, pharmaceutical industries, medical facilities, educational institutions, and industrial scientific applications requiring precise large-scale solution preparation.",
 },
 
 {
   id: 56,
 
-  slug: "",
+  slug: "Wash bottle",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Wash bottle",
 
-  image: "",
+  image: "https://m.media-amazon.com/images/I/412MWVVt2UL._AC_SL1001_.jpg",
 
-  images: [],
+  images: [
+    "https://m.media-amazon.com/images/I/412MWVVt2UL._AC_SL1001_.jpg",
+    "https://www.safeenv-company.com/wp-content/uploads/2022/12/Wash-bottles-1.jpg"
+  ],
 
-  description: "",
+  description: "Flexible Laboratory Wash Bottle",
 
-  price: "",
+  price: "1500 FCFA",
 
-  specifications: [],
+  specifications: [
+    "Chemical Resistant Plastic",
+  "Controlled Liquid Dispensing",
+  "Leak Proof Cap",
+  "Flexible Squeeze Body"
+  ],
 
-  fullDescription: "",
+  fullDescription: "The wash bottle is a laboratory dispensing container designed for rinsing glassware, adding distilled water, and dispensing liquids safely during scientific experiments and cleaning procedures. Made from durable chemical-resistant plastic, it provides reliable performance and long-lasting laboratory use. Its flexible squeeze body and angled nozzle allow controlled liquid flow for accurate and convenient dispensing. The wash bottle is widely used in schools, research laboratories, medical facilities, pharmaceutical industries, and industrial scientific applications for cleaning and liquid handling purposes.",
 },
 
 {
   id: 57,
 
-  slug: "",
+  slug: "Wire gauze",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Wire gauze",
 
-  image: "",
+  image: "https://www.arborsci.com/cdn/shop/files/66-4013WireGauzewithCeramicCenter2048x2048.jpg?v=1765897963&width=1920",
 
-  images: [],
+  images: [
+    "https://www.eiscolabs.com/cdn/shop/products/e9n2urga4vvmrawi53ub_1200x731.jpg?v=1600967474",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDrwXRQDR_nvaTZSeYMOn07c-f3D3O_p4s9w&s"
+  ],
 
-  description: "",
+  description: "Heat Resistant Wire Gauze",
 
-  price: "",
+  price: "500 FCFA",
 
-  specifications: [],
+  specifications: [
+    "Metal Mesh Surface",
+  "Heat Resistant Design",
+  "Even Heat Distribution",
+  "Laboratory Grade Quality"
+  ],
 
-  fullDescription: "",
+  fullDescription: "The wire gauze is a laboratory support accessory designed for placing glassware above a heat source during heating and experimental procedures. Constructed from durable heat-resistant metal mesh, it provides stable support and helps distribute heat evenly across laboratory containers. Its design reduces direct flame contact, minimizing the risk of glass breakage during heating operations. The wire gauze is widely used in schools, research laboratories, medical facilities, pharmaceutical industries, and industrial scientific applications for safe and efficient laboratory heating setups.",
 },
 
 {
   id: 58,
 
-  slug: "",
+  slug: "2,4-Dinitrophenyl hydrazine 100g",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "2,4-Dinitrophenyl hydrazine 100g",
 
-  image: "",
+  image: "https://www.hammaddeler.com/shop/cr/25/myassets/products/699/sgma-5.png?revision=1732703960",
 
-  images: [],
+  images: [
+    "https://www.hammaddeler.com/shop/cr/25/myassets/products/699/sgma-5.png?revision=1732703960",
+    "https://cdn11.bigcommerce.com/s-k069xfmhqb/images/stencil/original/products/34871/120612/D199303-100G-12352100__61721.1744040937.png?c=1"
+  ],
 
-  description: "",
+  description: "High Purity 2,4-DNPH Reagent",
 
-  price: "",
+  price: "12000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "100g Chemical Quantity",
+  "Laboratory Grade Reagent",
+  "High Purity Compound",
+  "Secure Storage Container"
+  ],
 
-  fullDescription: "",
+  fullDescription: "The 2,4-Dinitrophenyl hydrazine (2,4-DNPH) 100g is a laboratory chemical reagent widely used for the identification and analysis of aldehydes and ketones in organic chemistry experiments. Manufactured to high purity laboratory standards, it provides reliable and consistent results during chemical testing and analytical procedures. The reagent is supplied in a secure chemical-resistant container to maintain stability and ensure safe laboratory storage. It is commonly used in schools, research laboratories, pharmaceutical industries, and industrial scientific applications for qualitative organic analysis and educational chemistry experiments.",
 },
 
 {
   id: 59,
 
-  slug: "",
+  slug: "2-Naphthol 100g",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "2-Naphthol 100g",
 
-  image: "",
+  image: "https://www.biolaboratorium.com/cdn/shop/files/NEW_IMG_48861-100G_1024x1024.jpg?v=1753359049",
 
-  images: [],
+  images: [
+    "https://5.imimg.com/data5/SELLER/Default/2024/5/418859184/LC/JA/GR/2651626/2-naphthol-extra-pure-500x500.jpeg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%CE%92-Naphthol.jpg/250px-%CE%92-Naphthol.jpg"
+  ],
 
-  description: "",
+  description: "Pure 2-Naphthol Laboratory Reagent",
 
-  price: "",
+  price: "8000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "100g Chemical Quantity",
+  "High Purity Compound",
+  "Laboratory Grade Quality",
+  "Secure Storage Container"
+  ],
 
-  fullDescription: "",
+  fullDescription: "The 2-Naphthol 100g is a laboratory chemical reagent commonly used in organic synthesis, dye production, analytical chemistry, and educational laboratory experiments. Produced with high purity standards, it provides reliable performance and consistent results in scientific and industrial applications. The compound is supplied in a secure chemical-resistant container to ensure safe storage and maintain product stability during laboratory use. It is widely utilized in schools, research laboratories, pharmaceutical industries, and industrial chemical processes requiring dependable organic reagents.",
 },
 
 {
   id: 60,
 
-  slug: "",
+  slug: "Acetaldehyde 500ml",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Acetaldehyde 500ml",
 
-  image: "",
+  image: "https://biogo.de/cdn/shop/files/NEW_IMG_30021-500ML.jpg?v=1754237859",
 
-  images: [],
+  images: [
+    "https://5.imimg.com/data5/SELLER/Default/2022/4/VE/ZM/UM/4175662/acetaldehyde.jpg",
+    "https://atomscientific.com/images/productPictures/4915/groupPicture.webp"
+  ],
 
-  description: "",
+  description: "Pure Acetaldehyde Lab Reagent",
 
-  price: "",
+  price: "12000 FCFA",
 
-  specifications: [],
+  specifications: [
+     "100g Chemical Quantity",
+  "99% High Purity",
+  "Laboratory Grade Reagent",
+  "Secure Airtight Container"
+  ],
 
-  fullDescription: "",
+  fullDescription: "The acetaldehyde 500ml is a laboratory chemical reagent widely used in organic synthesis, analytical chemistry, and industrial chemical applications. Manufactured with high purity standards, it provides reliable performance and consistent results for scientific experiments and research procedures. The reagent is supplied in a secure chemical-resistant bottle to ensure safe storage, stability, and proper laboratory handling. It is commonly used in schools, research laboratories, pharmaceutical industries, and industrial scientific applications requiring dependable organic chemical reagents.",
 },
 
 {
   id: 61,
 
-  slug: "",
+  slug: "Acetic acid glacial ",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Acetic acid Glacial 500ml ",
 
-  image: "",
+  image: "https://5.imimg.com/data5/SELLER/Default/2022/2/LX/UV/WZ/147581837/acetic-acid-glacial.jpg",
 
-  images: [],
+  images: [
+    "https://5.imimg.com/data5/SELLER/Default/2022/2/LX/UV/WZ/147581837/acetic-acid-glacial.jpg",
+    "https://5.imimg.com/data5/SELLER/Default/2023/11/359966569/QB/UL/WS/2651626/acetic-acid-glacial-lr.jpeg"
+  ],
 
-  description: "",
+  description: "99.8% Pure Glacial Acetic Acid",
 
-  price: "",
+  price: "2500 FCFA",
 
-  specifications: [],
+  specifications: [
+    "99.8% High Purity",
+  "Glacial Acetic Acid Grade",
+  "Laboratory Grade Reagent",
+  "Secure Chemical Bottle"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Glacial acetic acid is a highly concentrated laboratory chemical reagent widely used in organic synthesis, analytical chemistry, pharmaceutical production, and industrial chemical processes. Manufactured with 99.8% purity, it provides excellent reliability and consistent performance for scientific and industrial applications. The reagent is supplied in a secure chemical-resistant bottle to maintain product stability and ensure safe laboratory handling and storage. It is commonly used in schools, research laboratories, pharmaceutical industries, food processing, and industrial scientific applications requiring high-purity acetic acid.",
 },
 
 {
   id: 62,
 
-  slug: "",
+  slug: "Acetone 500ml",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Acetone 500ml",
 
-  image: "",
+  image: "https://1malaysiabiolab.com/wp-content/uploads/2020/04/1582013670-l.jpg",
 
-  images: [],
+  images: [
+    "https://1malaysiabiolab.com/wp-content/uploads/2020/04/1582013670-l.jpg",
+    "https://www.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/206/193/a34c76d0-0f0c-4451-9a1e-a689d167b4f1/640/a34c76d0-0f0c-4451-9a1e-a689d167b4f1.jpg"
+  ],
 
-  description: "",
+  description: "99.9% Pure Laboratory Acetone",
 
-  price: "",
+  price: "2500 FCFA",
 
-  specifications: [],
+  specifications: [
+     "99.9% High Purity",
+  "Fast Evaporating Solvent",
+  "Laboratory Grade Reagent",
+  "Secure Chemical Container"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Acetone is a high-purity laboratory solvent widely used for cleaning, dissolving substances, organic synthesis, and analytical chemistry applications. Produced with 99.9% purity, it provides reliable performance and rapid evaporation for efficient laboratory and industrial use. The chemical is supplied in a secure chemical-resistant container to ensure safe handling, storage, and long-term stability. Acetone is commonly used in schools, research laboratories, pharmaceutical industries, cosmetics manufacturing, and industrial scientific applications requiring a dependable organic solvent.",
 },
 
 {
   id: 63,
 
-  slug: "",
+  slug: "Aluminium carbonate",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Aluminium carbonate  500g",
 
-  image: "",
+  image: "https://www.carlroth.com/medias/1000Wx1000H-Gruppe-Salze-02.jpg?context=bWFzdGVyfGltYWdlc3wzMDA5N3xpbWFnZS9qcGVnfGFXMWhaMlZ6TDJnME1DOW9ZVGd2T1RFeE9UWXlOekUwT1RNME1pNXFjR2N8ZDRiN2Y2YWE2Nzg4NTcyMzhiNmY2MzI2MDM0ZWIwZGNjZTVmNzZkZGQ2NjdhOWU2MDczMGNmYjRkNzE4N2Y4NA",
 
-  images: [],
+  images: [
+    "https://amarischemicalsolutions.com/wp-content/uploads/2025/07/Aluminium-Carbonate-Extra-Pure-Amaris-Chemicals.png",
+    "https://5.imimg.com/data5/ANDROID/Default/2024/6/425323273/KD/SO/MH/66466237/product-jpeg-500x500.jpg"
+  ],
 
-  description: "",
+  description: "99% Pure Aluminium Carbonate",
 
-  price: "",
+  price: "14000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "500g Chemical Quantity",
+  "99% High Purity",
+  "Laboratory Grade Compound",
+  "Secure Airtight Container"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Aluminium carbonate 500g is a laboratory chemical compound commonly used in research, analytical chemistry, educational experiments, and industrial scientific applications. Manufactured with 99% purity, it provides reliable chemical performance and consistent experimental results in laboratory environments. The compound is packaged in a secure airtight chemical-resistant container to maintain product stability and safe storage conditions. It is widely used in schools, research laboratories, pharmaceutical industries, and industrial chemical processes requiring dependable laboratory-grade chemical compounds.",
 },
 
 {
   id: 64,
 
-  slug: "",
+  slug: "Ammonia solution",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Ammonia solution  500ml",
 
-  image: "",
+  image: "https://kingmariot.com/cdn/shop/files/AmmoniaSolution30.jpg?v=1707478222",
 
-  images: [],
+  images: [
+    "https://m.media-amazon.com/images/I/31-dqMD8BRL._AC_UF1000,1000_QL80_.jpg",
+    "https://labstores.ng/wp-content/uploads/2023/04/F0D0497A-E20C-43D6-B2E9-4C8A350E1FAA-scaled.jpeg",
+    "https://kingmariot.com/cdn/shop/files/AmmoniaSolution30.jpg?v=1707478222"
+  ],
 
-  description: "",
+  description: "Laboratory Ammonia Solution",
 
-  price: "",
+  price: "2500 FCFA",
 
-  specifications: [],
+  specifications: [
+     "500ml Solution Volume",
+  "High Purity Chemical",
+  "Laboratory Grade Quality",
+  "Secure Storage Bottle"
+  ],
 
-  fullDescription: "",
+  fullDescription: "The ammonia solution 500ml is a laboratory chemical reagent commonly used for analytical experiments, chemical reactions, cleaning applications, and educational demonstrations. Prepared with high purity standards, it provides reliable and consistent performance for scientific and industrial use. The solution is supplied in a secure chemical-resistant bottle to ensure safe storage and handling in laboratory environments. It is widely used in schools, research laboratories, medical facilities, pharmaceutical industries, and industrial scientific applications requiring dependable chemical reagents.",
 },
 
 {
