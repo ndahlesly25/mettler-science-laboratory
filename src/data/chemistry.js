@@ -1966,217 +1966,2192 @@ const chemistryProducts = [
 {
   id: 65,
 
-  slug: "",
+  slug: "Ammonium chloride",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Ammonium chloride 500g",
 
-  image: "",
+  image: "https://cdn11.bigcommerce.com/s-k069xfmhqb/products/15630/images/101369/A4514-500G-12352300__60075.1744031669.386.513.png?c=1",
 
-  images: [],
+  images: [
+    "https://cdn11.bigcommerce.com/s-k069xfmhqb/products/15630/images/101369/A4514-500G-12352300__60075.1744031669.386.513.png?c=1",
+    "https://5.imimg.com/data5/SELLER/Default/2025/5/511805222/EU/RN/BL/2330117/ff-jpeg-jpeg-500x500.jpeg",
+    "https://5.imimg.com/data5/SELLER/Default/2023/5/304678457/KD/RZ/WY/2023194/ammonium-chloride-powder.jpg"
+  ],
 
-  description: "",
+  description: "99.5% Pure Ammonium Chloride",
 
-  price: "",
+  price: "8000 FCFA",
 
-  specifications: [],
+  specifications: [
+     "99.5% High Purity",
+  "Laboratory Grade Reagent",
+  "Highly Soluble Compound",
+  "Secure Chemical Container"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Ammonium chloride is a high-purity laboratory chemical widely used in analytical chemistry, educational experiments, pharmaceuticals, metalwork, and industrial scientific applications. Produced with 99.5% purity, it delivers reliable performance and consistent results for laboratory and industrial use. The compound is supplied in a secure chemical-resistant container to maintain stability, purity, and safe handling conditions during storage and application. It is commonly used in schools, research laboratories, pharmaceutical industries, and industrial chemical processes requiring dependable laboratory-grade reagents.",
 },
 
 {
   id: 66,
 
-  slug: "",
+  slug: "Ammonium sulphate",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Ammonium sulphate 500g",
 
-  image: "",
+  image: "https://m.media-amazon.com/images/I/51akYMV55YL.jpg",
 
-  images: [],
+  images: [
+    "https://m.media-amazon.com/images/I/51akYMV55YL.jpg",
+    "https://mugambiemporium.co.ke/cdn/shop/files/Sulfate-Ammonium-768x512.jpg?v=1707492380&width=1445",
+    "https://m.media-amazon.com/images/I/81e13wXMU1L._AC_UF1000,1000_QL80_.jpg"
+  ],
 
-  description: "",
+  description: "99% Pure Ammonium Sulphate",
 
-  price: "",
+  price: "8000 FCFA",
 
-  specifications: [],
+  specifications: [
+       "500g Chemical Quantity",
+  "99% High Purity",
+  "Laboratory Grade Reagent",
+  "Secure Airtight Container"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Ammonium sulphate 500g is a high-purity laboratory chemical commonly used in analytical chemistry, fertilizer production, protein precipitation, and educational scientific experiments. Manufactured with 99% purity, it provides reliable performance and consistent results for laboratory and industrial applications. The compound is packaged in a secure airtight chemical-resistant container to maintain product stability and ensure safe handling during storage and use. It is widely used in schools, research laboratories, pharmaceutical industries, agricultural applications, and industrial scientific processes requiring dependable laboratory-grade reagents.",
 },
 
 {
   id: 67,
 
-  slug: "",
+  slug: "Aniline  500ml",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Aniline  500ml",
 
-  image: "",
+  image: "https://cpimg.tistatic.com/11978424/b/4/Aniline-500ml..webp",
 
-  images: [],
+  images: [
+    "https://cpimg.tistatic.com/11978424/b/4/Aniline-500ml..webp",
+    "https://images.jdmagicbox.com/quickquotes/images_main/aniline-analytical-reagent-chemical-500ml-2227979612-2ilp4177.jpg"
+  ],
 
-  description: "",
+  description: "99.5% Pure Laboratory Aniline",
 
-  price: "",
+  price: "12000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "500ml Chemical Volume",
+  "99.5% High Purity",
+  "Laboratory Grade Reagent",
+  "Secure Chemical Bottle"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Aniline 500ml is a high-purity laboratory chemical widely used in organic synthesis, dye manufacturing, pharmaceutical production, and analytical chemistry applications. Produced with 99.5% purity, it delivers reliable chemical performance and consistent results in scientific and industrial environments. The reagent is supplied in a secure chemical-resistant bottle to ensure safe storage, stability, and proper laboratory handling. It is commonly used in schools, research laboratories, pharmaceutical industries, and industrial chemical processes requiring dependable laboratory-grade organic compounds.",
 },
 
 {
   id: 68,
 
-  slug: "",
+  slug: "Barium chloride",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Barium chloride 500g",
 
-  image: "",
+  image: "https://www.arkanlabs.com/image/cache/catalog/barium-chloride-dihydrate-ar-500gm-29847-433x577.jpg",
 
-  images: [],
+  images: [
+    "https://www.arkanlabs.com/image/cache/catalog/barium-chloride-dihydrate-ar-500gm-29847-433x577.jpg",
+    "https://www.srlchem.com/SRL/user_img/products/68554/68554.jpg"
+  ],
 
-  description: "",
+  description: "99% Pure Barium Chloride",
 
-  price: "",
+  price: "10000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "500g Chemical Quantity",
+  "99% High Purity",
+  "Laboratory Grade Reagent",
+  "Secure Airtight Container"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Barium chloride 500g is a high-purity laboratory chemical commonly used in analytical chemistry, water treatment, chemical synthesis, and educational scientific experiments. Manufactured with 99% purity, it provides reliable performance and consistent experimental results for laboratory and industrial applications. The compound is packaged in a secure airtight chemical-resistant container to maintain stability and ensure safe storage and handling conditions. It is widely used in schools, research laboratories, pharmaceutical industries, and industrial scientific processes requiring dependable laboratory-grade chemical reagents.",
 },
 
 {
   id: 69,
 
-  slug: "",
+  slug: "Barium hydroxide 500g",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Barium hydroxide 500g",
 
-  image: "",
+  image: "https://generationspace.co.ke/wp-content/uploads/2024/06/BARIUM-HYDROXIDE-OCTAHYDRATE-500G-GRIFFCHEM.webp",
 
-  images: [],
+  images: [
+    "https://generationspace.co.ke/wp-content/uploads/2024/06/BARIUM-HYDROXIDE-OCTAHYDRATE-500G-GRIFFCHEM.webp",
+    "https://5.imimg.com/data5/SELLER/Default/2024/5/418425079/MA/TJ/LE/41673194/barium-extra-pure-hydroxide-250x250.jpeg"
+  ],
 
-  description: "",
+  description: "99% Pure Barium Hydroxide",
 
-  price: "",
+  price: "10000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "500g Chemical Quantity",
+  "99% High Purity",
+  "Laboratory Grade Compound",
+  "Secure Airtight Container"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Barium hydroxide 500g is a high-purity laboratory chemical widely used in analytical chemistry, chemical synthesis, titration procedures, and educational scientific experiments. Produced with 99% purity, it provides reliable chemical performance and consistent results in laboratory and industrial applications. The compound is packaged in a secure airtight chemical-resistant container to maintain product stability and ensure safe storage and handling. It is commonly used in schools, research laboratories, pharmaceutical industries, and industrial scientific processes requiring dependable laboratory-grade alkaline compounds.",
 },
 
 {
   id: 70,
 
-  slug: "",
+  slug: "Barium nitrate",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Barium nitrate   500g",
 
-  image: "",
+  image: "https://worldofscience.co.za/wp-content/uploads/2025/02/Barium-Nitrate-AR-500g.webp",
 
-  images: [],
+  images: [
+    "https://generationspace.co.ke/wp-content/uploads/2024/06/re-BARIUM-NITRATE-LR-500G-GRIFFCHEM-2-1.webp",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFv4QSr29rF8pGODd-wpD9YwrAxP1eQVxwZQ&s"
+  ],
 
-  description: "",
+  description: "99% Pure Barium Nitrate",
 
-  price: "",
+  price: "12000",
 
-  specifications: [],
+  specifications: [
+    "500g Chemical Quantity",
+  "99% High Purity",
+  "Laboratory Grade Reagent",
+  "Secure Airtight Container"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Barium nitrate 500g is a high-purity laboratory chemical commonly used in analytical chemistry, pyrotechnics, chemical synthesis, and educational scientific experiments. Manufactured with 99% purity, it provides reliable chemical performance and consistent experimental results in laboratory and industrial applications. The compound is supplied in a secure airtight chemical-resistant container to maintain product stability and ensure safe storage and handling conditions. It is widely used in schools, research laboratories, pharmaceutical industries, and industrial scientific processes requiring dependable laboratory-grade nitrate compounds.",
 },
 
 {
   id: 71,
 
-  slug: "",
+  slug: "Barium sulphate 500g",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Barium sulphate 500g",
 
-  image: "",
+  image: "https://www.westlab.com.au/media/catalog/product/050a7bb5635ac2c48f7ed1fc51b23f4e/contents/variations/BT040-X/BL105-500G-min.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
 
-  images: [],
+  images: [
+    "https://5.imimg.com/data5/SELLER/Default/2024/5/417289123/HT/FX/ID/41673194/barium-sulphate-powder.jpeg",
+    "https://worldofscience.co.za/wp-content/uploads/2025/02/Barium-Sulphate-CP-500g.jpg"
+  ],
 
-  description: "",
+  description: "99% Pure Barium Sulphate",
 
-  price: "",
+  price: "10000 FCFA",
 
-  specifications: [],
+  specifications: ["500g Chemical Quantity",
+  "99% High Purity",
+  "Laboratory Grade Compound",
+  "Secure Airtight Container"],
 
-  fullDescription: "",
+  fullDescription: "Barium sulphate 500g is a high-purity laboratory chemical widely used in analytical chemistry, pigment production, educational experiments, and industrial scientific applications. Produced with 99% purity, it provides reliable chemical stability and consistent performance for laboratory and industrial use. The compound is packaged in a secure airtight chemical-resistant container to maintain product quality and ensure safe storage and handling. It is commonly used in schools, research laboratories, pharmaceutical industries, and industrial processes requiring dependable laboratory-grade sulphate compounds.",
 },
 
 {
   id: 72,
 
-  slug: "",
+  slug: "Benzaldehyde",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Benzaldehyde 500ml",
 
-  image: "",
+  image: "https://5.imimg.com/data5/ANDROID/Default/2024/2/394674618/OT/OH/KE/96645429/product-jpeg.jpeg",
 
-  images: [],
+  images: [
+    "https://5.imimg.com/data5/ANDROID/Default/2024/2/394674618/OT/OH/KE/96645429/product-jpeg.jpeg",
+    "https://5.imimg.com/data5/SELLER/Default/2024/5/419038834/QZ/SO/KH/2651626/benzaldehyde.jpeg"
+  ],
 
-  description: "",
+  description: "99.5% Pure Benzaldehyde",
 
-  price: "",
+  price: "12000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "500ml Chemical Volume",
+  "99.5% High Purity",
+  "Laboratory Grade Reagent",
+  "Secure Chemical Bottle"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Benzaldehyde 500ml is a high-purity laboratory chemical widely used in organic synthesis, fragrance production, analytical chemistry, and pharmaceutical applications. Manufactured with 99.5% purity, it provides reliable chemical performance and consistent results for scientific and industrial use. The reagent is supplied in a secure chemical-resistant bottle to maintain stability, purity, and safe handling during storage and laboratory operations. It is commonly used in schools, research laboratories, pharmaceutical industries, and industrial chemical processes requiring dependable laboratory-grade aromatic compounds.",
 },
 
 {
   id: 73,
 
-  slug: "",
+  slug: "Benzoic acid",
 
-  category: "",
+  category: "Chemistry",
 
-  name: "",
+  name: "Benzoic acid  500g",
 
-  image: "",
+  image: "https://5.imimg.com/data5/SELLER/Default/2021/7/OT/JW/AQ/33935950/b11225-benzoic-acid-99-500gm-500x500.png",
 
-  images: [],
+  images: [
+    "https://5.imimg.com/data5/SELLER/Default/2021/7/OT/JW/AQ/33935950/b11225-benzoic-acid-99-500gm-500x500.png",
+    "https://5.imimg.com/data5/SELLER/Default/2024/5/418475557/CG/ZU/PZ/41673194/benzoic-acid-chemical-500x500.jpeg"
+  ],
 
-  description: "",
+  description: "99.5% Pure Benzoic Acid",
 
-  price: "",
+  price: "8000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "500g Chemical Quantity",
+  "99.5% High Purity",
+  "Laboratory Grade Reagent",
+  "Secure Airtight Container"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Benzoic acid 500g is a high-purity laboratory chemical commonly used in organic synthesis, food preservation research, analytical chemistry, and pharmaceutical applications. Produced with 99.5% purity, it provides reliable chemical performance and consistent results in laboratory and industrial environments. The compound is packaged in a secure airtight chemical-resistant container to maintain product stability and ensure safe handling and storage. It is widely used in schools, research laboratories, pharmaceutical industries, and industrial scientific applications requiring dependable laboratory-grade organic compounds.",
 },
 
 {
   id: 74,
 
+  slug: " Borax 500g",
+
+  category: "Chemistry",
+
+  name: " Borax 500g",
+
+  image: "https://sciencelab.co.ke/cdn/shop/files/57a829bd-9fb5-4797-b2be-bfc5caa191f2.jpg?v=1746123271",
+
+  images: [
+    "https://pandasoko.co.ke/wp-content/uploads/2023/07/27-4.png",
+    "https://sciencelab.co.ke/cdn/shop/files/57a829bd-9fb5-4797-b2be-bfc5caa191f2.jpg?v=1746123271"
+  ],
+
+  description: "99.5% Pure Laboratory Borax",
+
+  price: "8000 FCFA",
+
+  specifications: [
+     "500g Chemical Quantity",
+  "99.5% High Purity",
+  "Laboratory Grade Compound",
+  "Secure Airtight Container"
+  ],
+
+  fullDescription: "Borax 500g is a high-purity laboratory chemical commonly used in analytical chemistry, cleaning formulations, glass production, and educational scientific experiments. Manufactured with 99.5% purity, it delivers reliable chemical performance and consistent results for laboratory and industrial applications. The compound is supplied in a secure airtight chemical-resistant container to maintain product stability and ensure safe handling and storage conditions. It is widely used in schools, research laboratories, pharmaceutical industries, and industrial scientific processes requiring dependable laboratory-grade borate compounds.",
+},
+
+{
+  id: 75,
+
+  slug: "Calcium carbonate",
+
+  category: "Chemistry",
+
+  name: "Calcium carbonate  500g",
+
+  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHJ0aIqrU_PA84q1t3U_sI06UgeSePja5Zxw&s",
+
+  images: [
+    "https://m.media-amazon.com/images/I/71rHgDOUJqL._AC_UF1000,1000_QL80_.jpg",
+    "https://5.imimg.com/data5/SELLER/Default/2025/2/489376244/EE/SY/CN/25844274/calcium-carbonate.jpeg",
+  ],
+
+  description: "99.5% Pure Calcium Carbonate",
+
+  price: "8000 FCFA",
+
+  specifications: [
+ "500g Chemical Quantity",
+  "99.5% High Purity",
+  "Laboratory Grade Compound",
+  "Secure Airtight Container"
+  ],
+
+  fullDescription: "Calcium carbonate 500g is a high-purity laboratory chemical widely used in analytical chemistry, educational experiments, pharmaceutical applications, and industrial manufacturing processes. Produced with 99.5% purity, it provides reliable chemical performance and consistent results in laboratory and industrial environments. The compound is packaged in a secure airtight chemical-resistant container to maintain product stability and ensure safe handling and storage conditions. It is commonly used in schools, research laboratories, pharmaceutical industries, food processing, and industrial scientific applications requiring dependable laboratory-grade carbonate compounds.",
+},
+
+{
+  id: 76,
+
+  slug: "Calcium chloride 500g",
+
+  category: "Chemistry",
+
+  name: "Calcium chloride 500g",
+
+  image: "https://www.laboratorydeal.com/cdn/shop/files/Calcium_Chloride_500gm.jpg",
+
+  images: [
+
+    "https://www.laboratorydeal.com/cdn/shop/files/Calcium_Chloride_500gm.jpg",
+
+    "https://5.imimg.com/data5/SELLER/Default/2025/5/512879036/TQ/ZJ/FD/243587709/whatsapp-image-2025-05-22-at-5-36-20-pm-1.jpeg",
+
+    "https://www.geterbrewed.com/image/cache/catalog/product_images/calcium_chloride_flakes_500g-550x550w.jpg"
+  ],
+
+  description: "99% Pure Calcium Chloride",
+
+  price: "8000 FCFA",
+
+  specifications: [
+"500g Chemical Quantity",
+  "99% High Purity",
+  "Laboratory Grade Reagent",
+  "Secure Airtight Container"
+  ],
+
+  fullDescription: "Calcium chloride 500g is a high-purity laboratory chemical commonly used in analytical chemistry, drying applications, food processing research, and industrial scientific procedures. Manufactured with 99% purity, it provides reliable chemical performance and consistent results for laboratory and industrial use. The compound is packaged in a secure airtight chemical-resistant container to maintain product stability and ensure safe handling and storage conditions. It is widely used in schools, research laboratories, pharmaceutical industries, and industrial scientific applications requiring dependable laboratory-grade chloride compounds.",
+},
+
+{
+  id: 77,
+
+  slug: "Calcium hydroxide",
+
+  category: "Chemistry",
+
+  name: "Calcium hydroxide  500g",
+
+  image: "https://kingmariot.com/cdn/shop/files/CalciumHydroxide95_800x.jpg?v=1712569007",
+
+  images: [
+
+    "https://kingmariot.com/cdn/shop/files/CalciumHydroxide95_800x.jpg?v=1712569007",
+
+    "https://m.media-amazon.com/images/I/519L2vmGfVL._AC_UF1000,1000_QL80_.jpg",
+  ],
+
+  description: "95% Pure Calcium Hydroxide",
+
+  price: "8000 FCFA",
+
+  specifications: [
+"500g Chemical Quantity",
+  "95% Laboratory Purity",
+  "Analytical Grade Compound",
+  "Moisture Resistant Container"
+  ],
+
+  fullDescription: "Calcium hydroxide 500g is a laboratory-grade chemical compound widely used in analytical chemistry, water treatment, educational experiments, construction research, and industrial scientific applications. Typically supplied at approximately 95% purity due to its hygroscopic nature and reaction with atmospheric carbon dioxide, it provides reliable performance for laboratory and industrial use. The compound is packaged in a moisture-resistant airtight container to maintain stability and minimize contamination during storage and handling. It is commonly used in schools, research laboratories, pharmaceutical industries, and industrial chemical processes requiring dependable alkaline reagents.",
+},
+
+{
+  id: 78,
+
+  slug: "Calcium nitrate",
+
+  category: "Chemistry",
+
+  name: "Calcium nitrate 500g",
+
+  image: "https://www.arkanlabs.com/image/cache/catalog/calcium-nitrate-tetrahydrate-lr-500gm-30448-375x666.jpg",
+
+  images: [
+    "https://j.lnwfile.com/qfd0ub.jpg",
+    "https://5.imimg.com/data5/SELLER/Default/2022/2/LX/IE/JO/3029329/whatsapp-image-2022-02-15-at-1-30-52-pm.jpeg",
+  ],
+
+  description: "99% Pure Calcium Nitrate",
+
+  price: "12000 FCFA",
+
+  specifications: [
+"500g Chemical Quantity",
+  "99% Laboratory Purity",
+  "Analytical Grade Reagent",
+  "Moisture Resistant Container"
+  ],
+
+  fullDescription: "Calcium nitrate 500g is a laboratory-grade chemical reagent commonly used in analytical chemistry, fertilizer research, wastewater treatment, and educational scientific experiments. Manufactured with approximately 99% purity, it provides reliable chemical performance and consistent experimental results in laboratory and industrial environments. The compound is supplied in a moisture-resistant airtight container to maintain stability and prevent absorption of atmospheric moisture during storage. It is widely used in schools, research laboratories, agricultural industries, and industrial scientific applications requiring dependable nitrate compounds.",
+},
+
+{
+  id: 79,
+
+  slug: "Copper II carbonate 500g",
+
+  category: "Chemistry",
+
+  name: "Copper II carbonate 500g",
+
+  image: "https://m.media-amazon.com/images/I/81P-1IPOxvL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_QL100_.jpg",
+
+  images: [
+    "https://cdn11.bigcommerce.com/s-3yvzqa/images/stencil/1280x1280/products/36750/356884/CC0490__08033.1700045982.png?c=2",
+    "https://image.made-in-china.com/202f0j00mMbkwulqLzcf/Blue-Green-Cuco3-98-Copper-II-Carbonate-Basic-CAS-12069-69-1.webp",
+    "https://www.carolina.com/images/product/medium/856398_b_CHM.jpg"
+  ],
+
+  description: "97% Pure Copper II Carbonate",
+
+  price: "10000 FCFA",
+
+  specifications: [
+"500g Chemical Quantity",
+  "97% Laboratory Purity",
+  "Analytical Grade Compound",
+  "Secure Airtight Container"
+  ],
+
+  fullDescription: "Copper(II) carbonate 500g is a laboratory-grade chemical compound commonly used in analytical chemistry, pigment production, educational experiments, and inorganic synthesis applications. Typically supplied at approximately 97% purity due to its basic carbonate composition and commercial preparation standards, it provides reliable chemical performance for laboratory and industrial use. The compound is packaged in a secure airtight chemical-resistant container to maintain stability and safe storage conditions. It is widely used in schools, research laboratories, pharmaceutical industries, and industrial scientific applications requiring dependable copper compounds.",
+},
+
+{
+  id: 80,
+
+  slug: "Copper II chloride hydrated",
+
+  category: "Chemistry",
+
+  name: "Copper II chloride hydrated 500g",
+
+  image: "https://m.media-amazon.com/images/I/819tEbl-yfL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_QL100_.jpg",
+
+  images: [
+    "https://m.media-amazon.com/images/I/819tEbl-yfL._AC_UF1000,1000_QL80_.jpg",
+    "https://i5.walmartimages.com/seo/Cupric-Chloride-Dihydrate-Laboratory-Grade-500-G_03c92bc6-2569-4083-a9df-da8670fd0b1b.d28fb907f1796239e29d3621d13010b5.jpeg",
+    "https://m.media-amazon.com/images/I/81qMLhGrsjL._AC_UF1000,1000_QL80_.jpg"
+  ],
+
+  description: "98% Pure Copper II Chloride",
+
+  price: "12000 FCFA",
+
+  specifications: [
+"500g Chemical Quantity",
+  "98% Hydrated Purity",
+  "Laboratory Grade Reagent",
+  "Moisture Resistant Container"
+  ],
+
+  fullDescription: "Copper(II) chloride hydrated 500g is a laboratory-grade chemical reagent widely used in analytical chemistry, organic synthesis, catalyst preparation, and educational scientific experiments. Commonly supplied at approximately 98% purity in its hydrated form, it delivers reliable chemical performance and consistent laboratory results. The compound is packaged in a moisture-resistant airtight container to preserve stability and reduce moisture absorption during storage and handling. It is widely used in schools, research laboratories, pharmaceutical industries, and industrial scientific applications requiring dependable copper-based reagents.",
+},
+
+{
+  id: 81,
+
+  slug: "Copper II oxide",
+
+  category: "Chemistry",
+
+  name: "Copper II oxide 500g",
+
+  image: "https://hoachatthinghiem.org/wp-content/uploads/2020/06/Copper-II-oxide-powder-xilong.jpg",
+
+  images: [
+    "https://bizweb.dktcdn.net/thumb/1024x1024/100/299/775/products/copper-ii-chloride-dihydrate-cucl2-2h2o-cas-10125-13-0.jpg?v=1718784194837",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8bQ6H-WjBrftyE4vzwSw7SHwqB0gSQjGr5Q&s",
+    "https://www.srlchem.com/SRL/user_img/products/51120/51120-Cupric%20Oxide%20pure.jpg"
+  ],
+
+  description: "99% Pure Copper II Oxide",
+
+  price: "12000 FCFA",
+
+  specifications: [
+"500g Chemical Quantity",
+  "99% Laboratory Purity",
+  "Analytical Grade Compound",
+  "Secure Airtight Container"
+  ],
+
+  fullDescription: "Copper(II) oxide 500g is a laboratory-grade chemical compound commonly used in analytical chemistry, ceramic production, catalyst preparation, and educational scientific experiments. Manufactured with approximately 99% purity, it provides reliable chemical performance and consistent results for laboratory and industrial applications. The compound is supplied in a secure airtight chemical-resistant container to maintain stability and safe handling during storage and use. It is widely used in schools, research laboratories, pharmaceutical industries, and industrial scientific processes requiring dependable copper oxide compounds.",
+},
+
+{
+  id: 82,
+
+  slug: "Copper II sulphate anhydrous",
+
+  category: "Chemistry",
+
+  name: "Copper II sulphate anhydrous  500g",
+
+  image: "https://labequipsupply.co.za/wp-content/uploads/2023/03/Copper-Sulphate-Anhydrous-500g-300x300.jpg",
+
+  images: [
+    "https://labstores.ng/wp-content/uploads/2026/02/1000325862.png",
+    "https://5.imimg.com/data5/SELLER/Default/2024/1/379385750/GR/EO/HR/8914835/anhydrous-copper-sulphate-powder-250x250.jpg",
+  ],
+
+  description: "98% Pure Anhydrous CuSO₄",
+
+  price: "12000 FCFA",
+
+  specifications: [
+"500g Chemical Quantity",
+  "98% Anhydrous Purity",
+  "Analytical Grade Reagent",
+  "Moisture Resistant Container"
+  ],
+
+  fullDescription: "Copper(II) sulphate anhydrous 500g is a laboratory-grade chemical reagent widely used in analytical chemistry, moisture detection, inorganic synthesis, and educational scientific experiments. Typically supplied at approximately 98% purity in its anhydrous form, it provides reliable chemical performance and consistent laboratory results. The compound is packaged in a moisture-resistant airtight container to minimize hydration and maintain product stability during storage and handling. It is commonly used in schools, research laboratories, pharmaceutical industries, and industrial scientific applications requiring dependable anhydrous copper sulphate reagents.",
+},
+
+{
+  id: 83,
+
+  slug: "Copper II sulphate pentahydrate",
+
+  category: "Chemistry",
+
+  name: "Copper II sulphate pentahydrate 500g",
+
+  image: "https://hoachatthinghiem.org/wp-content/uploads/2024/06/Copper-II-sulfate-pentahydrate-JHD.jpg",
+
+  images: [
+    "https://sciencebeauty.co.za/wp-content/uploads/2026/02/Copper-Sulphate-Pentahydrate.jpg",
+    "https://winechek.com/wp-content/uploads/2023/08/Copper-II-sulfate-pentahydrate-500g.jpg",
+  ],
+
+  description: "99% Pure CuSO₄·5H₂O",
+
+  price: "10000 FCFA",
+
+  specifications: [
+"500g Chemical Quantity",
+  "99% Pentahydrate Purity",
+  "Analytical Grade Reagent",
+  "Secure Airtight Container"
+  ],
+
+  fullDescription: "Copper(II) sulphate pentahydrate 500g is a laboratory-grade chemical reagent commonly used in analytical chemistry, electroplating, educational experiments, agriculture, and industrial scientific applications. Manufactured with approximately 99% purity in its pentahydrate form, it provides reliable chemical performance and consistent experimental results. The compound is packaged in a secure airtight chemical-resistant container to maintain stability and prevent contamination during storage and handling. It is widely used in schools, research laboratories, pharmaceutical industries, and industrial chemical processes requiring dependable copper sulphate reagents.",
+},
+
+{
+  id: 84,
+
+  slug: " Copper metal",
+
+  category: "Chemistry",
+
+  name: " Copper metal  100g",
+
+  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1rpYedNCe6uz9r66B3Wm7lj1pj3eHn6_Yxw&s",
+
+  images: [
+    "https://m.media-amazon.com/images/I/51OBqe6wiKL.jpg",
+    "https://m.media-amazon.com/images/I/81s3mkHLZoL._AC_UF894,1000_QL80_.jpg",
+  ],
+
+  description: "99.9% Pure Copper Metal",
+
+  price: "8000 FCFA",
+
+  specifications: [
+"100g Metal Quantity",
+  "99.9% Metal Purity",
+  "High Conductivity Copper",
+  "Laboratory Grade Material"
+  ],
+
+  fullDescription: "Copper metal 100g is a high-purity laboratory and industrial material widely used in electrical experiments, analytical chemistry, alloy preparation, conductivity studies, and scientific research applications. Produced with approximately 99.9% purity, it offers excellent electrical and thermal conductivity along with reliable performance in laboratory and industrial environments. The metal is supplied in a secure protective package to maintain product quality and minimize contamination during storage and handling. It is commonly used in schools, research laboratories, engineering applications, electronics industries, and industrial scientific processes requiring dependable high-purity copper material.",
+},
+
+{
+  id: 85,
+
+  slug: "EDTA, Disodium salt",
+
+  category: "Chemistry",
+
+  name: "EDTA – Disodium salt 500g",
+
+  image: "https://www.westlab.com.au/media/catalog/product/050a7bb5635ac2c48f7ed1fc51b23f4e/contents/EA023-X/EA023-500G-min.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
+
+  images: [
+    "https://www.westlab.com.au/media/catalog/product/050a7bb5635ac2c48f7ed1fc51b23f4e/contents/EA023-X/EA023-500G-min.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
+    "https://labtexbd.com/wp-content/uploads/2025/10/EDTA-Disodium-Salt-99-AR-500g-Ethylenediamine-Tetra-acetic-Acid-RL.jpg",
+    "https://labtexbd.com/wp-content/uploads/2025/10/EDTA-Disodium-Salt-99-AR-500g-Ethylenediamine-Tetra-acetic-Acid-Specification.jpg"
+  ],
+
+  description: "99% Pure Disodium EDTA",
+
+  price: "7000 FCFA",
+
+  specifications: [
+"500g Chemical Quantity",
+  "99% Laboratory Purity",
+  "Analytical Grade Reagent",
+  "Moisture Resistant Container"
+  ],
+
+  fullDescription: "EDTA Disodium Salt 500g is a laboratory-grade chemical reagent widely used in analytical chemistry, water treatment, complexometric titrations, and industrial scientific applications. Manufactured with approximately 99% purity, it provides reliable chelating performance and consistent analytical results in laboratory procedures. The compound is packaged in a moisture-resistant airtight container to maintain stability and ensure safe storage and handling conditions. It is commonly used in schools, research laboratories, pharmaceutical industries, food processing, and industrial chemical applications requiring dependable chelating agents and analytical reagents.",
+},
+
+{
+  id: 86,
+
+  slug: "Erichrome Black T indicator",
+
+  category: "Chemistry",
+
+  name: "Erichrome Black T. indicator 25g",
+
+  image: "https://5.imimg.com/data5/SELLER/Default/2025/1/479132159/UC/EZ/IT/224967873/eriochrome-black-t-indicator-11.jpg",
+
+  images: [
+    "https://5.imimg.com/data5/SELLER/Default/2025/1/479132159/UC/EZ/IT/224967873/eriochrome-black-t-indicator-11.jpg",
+    "https://www.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/153/721/c0b5d225-a0f4-43b9-92ef-ed8dec72d9f5/640/c0b5d225-a0f4-43b9-92ef-ed8dec72d9f5.jpg",
+    ""
+  ],
+
+  description: "85% Pure Eriochrome Black T",
+
+  price: "5000 FCFA",
+
+  specifications: [
+"25g Chemical Quantity",
+  "85% Indicator Purity",
+  "Complexometric Titration Use",
+  "Secure Amber Container"
+  ],
+
+  fullDescription: "Eriochrome Black T indicator 25g is a laboratory-grade analytical indicator commonly used in complexometric titrations, particularly for determining calcium and magnesium ions in water hardness analysis. Typically supplied at approximately 85% purity due to dye composition and formulation standards, it provides reliable color change performance and accurate analytical results during laboratory procedures. The indicator is packaged in a secure amber chemical-resistant container to protect it from light exposure and maintain product stability during storage. It is widely used in schools, research laboratories, water treatment facilities, and industrial scientific applications requiring dependable analytical indicators.",
+},
+
+{
+  id: 87,
+
+  slug: " Ethanol",
+
+  category: "Chemistry",
+
+  name: " Ethanol  1L",
+
+  image: "https://6science.co.uk/wp-content/uploads/2025/08/6-Science-Ethanol-99.8-1L-600x600.webp",
+
+  images: [
+    "https://hadrongrp.com/wp-content/uploads/2024/02/pure-ethanol-99.png",
+    "https://solvents.co.za/cdn/shop/products/ETHANOL_1L_9b4694ad-666c-4af3-8905-3ef0a5563a3b.jpg?v=1740987315",
+  ],
+
+  description: "99.9% Pure Laboratory Ethanol",
+
+  price: "2000 FCFA",
+
+  specifications: [
+"1L Chemical Volume",
+  "99.9% Laboratory Purity",
+  "Fast Evaporating Solvent",
+  "Secure Chemical Bottle"
+  ],
+
+  fullDescription: "Ethanol 1L is a high-purity laboratory solvent widely used in analytical chemistry, disinfection, organic synthesis, biological research, and industrial scientific applications. Produced with approximately 99.9% purity, it provides reliable chemical performance, rapid evaporation, and consistent laboratory results. The solvent is supplied in a secure chemical-resistant bottle to maintain product stability and ensure safe storage and handling conditions. It is commonly used in schools, research laboratories, pharmaceutical industries, medical facilities, and industrial chemical processes requiring dependable high-purity alcohol solvents.",
+},
+
+{
+  id: 88,
+
+  slug: "Ethyl acetate",
+
+  category: "Chemistry",
+
+  name: " Ethyl acetate 500ml",
+
+  image: "https://hoachatthinghiem.org/wp-content/uploads/2021/09/Ethyl-acetate-Xilong-nhan-xanh.jpg",
+
+  images: [
+    "https://hoachatdalat.com/wp-content/uploads/2023/11/afe3406af2e242158192d53447d77894.jpg",
+    "https://i.ebayimg.com/images/g/JBEAAOSwzb9jUTKH/s-l1200.png",
+  ],
+
+  description: "99.7% Pure Ethyl Acetate",
+
+  price: "5000 FCFA",
+
+  specifications: [
+"500ml Chemical Volume",
+  "99.7% Laboratory Purity",
+  "Fast Evaporating Solvent",
+  "Secure Chemical Bottle"
+  ],
+
+  fullDescription: "Ethyl acetate 500ml is a high-purity laboratory solvent widely used in organic synthesis, chromatography, coatings research, and analytical chemistry applications. Manufactured with approximately 99.7% purity, it provides reliable chemical performance, rapid evaporation, and consistent laboratory results for scientific and industrial use. The solvent is supplied in a secure chemical-resistant bottle to maintain stability and ensure safe handling and storage conditions. It is commonly used in schools, research laboratories, pharmaceutical industries, cosmetics production, and industrial scientific applications requiring dependable organic solvents.",
+},
+
+{
+  id: 89,
+
+  slug: "Butylamine 500ml",
+
+  category: "Chemistry",
+
+  name: "Butylamine 500ml",
+
+  image: "https://s.alicdn.com/@sc04/kf/H52f3d82eece64ea98e5ef0799d2f2335c/2-N-Butylamine-1Mol-L-Standard-Solution-500ml-Bottle-Experimental-Scientific-Research-Flavor-Fragrance-Analysis.png",
+
+  images: [
+    "https://s.alicdn.com/@sc04/kf/H52f3d82eece64ea98e5ef0799d2f2335c/2-N-Butylamine-1Mol-L-Standard-Solution-500ml-Bottle-Experimental-Scientific-Research-Flavor-Fragrance-Analysis.png",
+    "https://5.imimg.com/data5/SELLER/Default/2025/7/531380308/XW/JP/KF/25844274/n-butylamine-99-ar-500ml.png",
+  ],
+
+  description: "99% Pure Butylamine Reagent",
+
+  price: "12000 FCFA",
+
+  specifications: [
+"500ml Chemical Volume",
+  "99% Laboratory Purity",
+  "Organic Synthesis Reagent",
+  "Secure Chemical Bottle"
+  ],
+
+  fullDescription: "Butylamine 500ml is a laboratory-grade organic chemical reagent widely used in organic synthesis, pharmaceutical research, dye production, and industrial chemical applications. Typically supplied at approximately 99% purity, it provides reliable chemical performance and consistent results for laboratory and industrial processes. The reagent is packaged in a secure chemical-resistant bottle to maintain stability and ensure safe storage and handling conditions. It is commonly used in research laboratories, pharmaceutical industries, chemical manufacturing, and scientific applications requiring dependable amine-based reagents.",
+},
+
+{
+  id: 90,
+
+  slug: " Ethylamine  ",
+
+  category: "Chemistry",
+
+  name: " Ethylamine  500ml",
+
+  image: "https://www.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/354/078/0671a440-e0c9-4a6d-b2b7-7fc22b8ba698/640/0671a440-e0c9-4a6d-b2b7-7fc22b8ba698.jpg",
+
+  images: [
+
+    "https://www.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/743/184/02bebf25-b989-45be-9d04-4a1ebe1ac253/640/02bebf25-b989-45be-9d04-4a1ebe1ac253.jpg",
+    "https://5.imimg.com/data5/SELLER/Default/2026/1/577602610/DI/GV/EF/25844274/ethylamine-solution-70-500ml.png",
+  ],
+
+  description: "98% Pure Ethylamine Reagent",
+
+  price: "12000 FCFA",
+
+  specifications: [
+
+ "High Purity Ethylamine",
+  "98% Laboratory Purity",
+  "Organic Synthesis Reagent",
+  "Secure Chemical Container"
+  ],
+
+  fullDescription: "Ethylamine is a laboratory-grade organic chemical reagent commonly used in organic synthesis, pharmaceutical manufacturing, agricultural chemistry, and industrial scientific applications. Typically supplied at approximately 98% purity, it provides reliable chemical performance and consistent results for laboratory and industrial processes. The reagent is stored in a secure chemical-resistant container to maintain stability and ensure safe handling and storage conditions. It is widely used in research laboratories, pharmaceutical industries, chemical manufacturing, and scientific applications requiring dependable amine-based compounds.",
+},
+
+{
+  id: 91,
+
+  slug: "Ferrous ammonium sulphate",
+
+  category: "Chemistry",
+
+  name: "Ferrous ammonium sulphate 500g",
+
+  image: "https://synthetikaeu.com/userdata/public/gfx/9855/Amonu__elaza__II__siaczan_6_hydrat_99__Loba_ARACS_op_500g_jpg.jpg",
+
+  images: [
+    "https://5.imimg.com/data5/SELLER/Default/2025/2/489933077/YO/JL/GN/40041174/500g-ammonium-ferrous-sulphate-hexahydrate.jpeg",
+    "https://5.imimg.com/data5/SELLER/Default/2023/3/294724254/QW/NG/DD/147606575/ferrous-sulphate-powder-250x250.jpg",
+    "https://5.imimg.com/data5/SELLER/Default/2024/9/450109958/NM/PB/IZ/40627041/afs1.jpeg"
+  ],
+
+  description: "99% Pure FAS·6H₂O Reagent",
+
+  price: "10000 FCFA",
+
+  specifications: [
+  "Hydrated With 6H₂O",
+  "99% Laboratory Purity",
+  "Analytical Grade Reagent",
+  "Moisture Resistant Container"
+  ],
+
+  fullDescription: "Ferrous ammonium sulphate hexahydrate (FAS·6H₂O) is a laboratory-grade analytical reagent widely used in redox titrations, analytical chemistry, iron determination experiments, and scientific research applications. Manufactured with approximately 99% purity, it provides reliable chemical stability and accurate analytical performance in laboratory procedures. The hydrated compound is packaged in a moisture-resistant airtight container to maintain stability and minimize oxidation during storage and handling. It is commonly used in schools, research laboratories, pharmaceutical industries, and industrial scientific applications requiring dependable iron-based analytical reagents.",
+},
+
+{
+  id: 92,
+
+  slug: "Formic acid",
+
+  category: "Chemistry",
+
+  name: "Formic acid  500ml",
+
+  image: "https://tslabs.vn/wp-content/uploads/2023/03/hoa-chat-tinh-khiet-merck-100264-1.jpg",
+
+  images: [
+    "https://www.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/205/654/4fd034c8-629d-4ea1-a8e7-2898b4361404/800/4fd034c8-629d-4ea1-a8e7-2898b4361404.jpg",
+    "https://m.media-amazon.com/images/I/61vNqywd8IL._AC_UF894,1000_QL80_.jpg",
+  ],
+
+  description: "98% Pure Formic Acid",
+
+  price: "5000 FCFA",
+
+  specifications: [
+"500ml Chemical Volume",
+  "98% Laboratory Purity",
+  "Analytical Grade Acid",
+  "Secure Chemical Bottle"
+  ],
+
+  fullDescription: "Formic acid 500ml is a laboratory-grade chemical reagent widely used in analytical chemistry, organic synthesis, leather processing, textile applications, and industrial scientific procedures. Typically supplied at approximately 98% purity, it provides reliable chemical performance and consistent laboratory results for scientific and industrial use. The acid is packaged in a secure chemical-resistant bottle to maintain product stability and ensure safe storage and handling conditions. It is commonly used in schools, research laboratories, pharmaceutical industries, and industrial chemical applications requiring dependable organic acid reagents.",
+},
+
+{
+  id: 93,
+
+  slug: "D-Glucose",
+
+  category: "Chemistry",
+
+  name: "D-Glucose  500g",
+
+  image: "https://hoachatthinghiem.org/wp-content/uploads/2020/06/D-Glucose-AR-Xilong-Cas-5996-10-1.jpg",
+
+  images: [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNb1oqz0LZ_HwFWIPejaQUEmBgYq_KmjyNRQ&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFxEW2HUGQy-1gmfO0pvsKkWzD9P-6RPflUA&s",
+    "https://m.media-amazon.com/images/I/21Rj3FPLYiL._AC_UF1000,1000_QL80_.jpg"
+  ],
+
+  description: "99.5% Pure D-Glucose",
+
+  price: "",
+
+  specifications: [
+"500g Chemical Quantity",
+  "99.5% Laboratory Purity",
+  "Analytical Grade Compound",
+  "Food & Lab Grade Quality"
+  ],
+
+  fullDescription: "D-Glucose 500g is a high-purity laboratory and food-grade chemical compound widely used in biochemical experiments, microbiology, pharmaceutical applications, fermentation studies, and educational scientific procedures. Manufactured with approximately 99.5% purity, it provides reliable performance and consistent results for laboratory and industrial applications. The compound is packaged in a secure moisture-resistant container to maintain product stability and prevent contamination during storage and handling. It is commonly used in schools, research laboratories, pharmaceutical industries, food processing, and industrial scientific applications requiring dependable glucose compounds.",
+},
+
+{
+  id: 94,
+
+  slug: "Hydrochloric acid",
+
+  category: "Chemistry",
+
+  name: " Hydrochloric acid  1L",
+
+  image: "https://pindodeli-chemicals.com/storage/product-photos/1737359122-hcl1.jpg",
+
+  images: [
+    "https://ecpltd.com.au/wp-content/uploads/2023/05/ECP-Hydrochloric-Acid-37-AR.jpg",
+    "https://prolabscientific.com/var/images/product/366.440/XH-6182-004.jpg",
+  ],
+
+  description: "37% Pure Hydrochloric Acid",
+
+  price: "3000 FCFA",
+
+  specifications: [
+ "1L Chemical Volume",
+  "37% Concentrated HCl",
+  "Analytical Grade Acid",
+  "Corrosion Resistant Bottle"
+  ],
+
+  fullDescription: "Concentrated hydrochloric acid 1L is a laboratory-grade strong mineral acid widely used in analytical chemistry, pH control, metal cleaning, chemical synthesis, and industrial scientific applications. Typically supplied at approximately 37% concentration, it provides reliable chemical performance and consistent results for laboratory and industrial procedures. The acid is packaged in a corrosion-resistant chemical bottle to ensure safe storage, stability, and proper handling during use. It is commonly used in schools, research laboratories, pharmaceutical industries, water treatment facilities, and industrial chemical processes requiring dependable concentrated acid reagents.",
+},
+
+{
+  id: 95,
+
+  slug: "Hydrogen peroxide",
+
+  category: "Chemistry",
+
+  name: "Hydrogen peroxide 500ml",
+
+  image: "https://5.imimg.com/data5/SELLER/Default/2025/5/508804255/TC/RC/TH/226332641/hydrogen-peroxide-solution-er-500ml.jpeg",
+
+  images: [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXe6WeREZhoJhuXTVS5tHgSQ8vMmsJGuRB8g&s",
+    "https://5.imimg.com/data5/SELLER/Default/2025/6/520865080/TX/ET/BJ/25844274/whatsapp-image-2025-06-20-at-3-17-19-pm-500x500.jpeg",
+  ],
+
+  description: "50% Pure Hydrogen Peroxide",
+
+  price: "1500 FCFA",
+
+  specifications: [
+"500ml Chemical Volume",
+  "50% H₂O₂ Solution",
+  "High Strength Oxidizer",
+  "Light Resistant Bottle"
+  ],
+
+  fullDescription: "Hydrogen peroxide 500ml (50%) is a high-strength laboratory-grade oxidizing agent widely used in analytical chemistry, chemical synthesis, bleaching processes, environmental studies, and industrial scientific applications. Supplied at approximately 50% concentration, it delivers strong oxidizing performance and reliable results for laboratory and industrial procedures. The solution is packaged in a light-resistant chemical bottle to reduce decomposition caused by light exposure and to maintain product stability during storage and handling. It is commonly used in research laboratories, pharmaceutical industries, water treatment facilities, and industrial chemical applications requiring dependable high-concentration oxidizing reagents.",
+},
+
+{
+  id: 96,
+
+  slug: "Iron II sulphate",
+
+  category: "Chemistry",
+
+  name: "Iron II sulphate  500g",
+
+  image: "https://synthetikaeu.com/userdata/public/gfx/8136/_elaza__II__siarczan_7_hydrat_98_5__Loba_ekstra_czysty_op_500_g_jpg.jpg",
+
+  images: [
+    "https://www.srlchem.com/SRL/user_img/products/97868/97868.jpeg",
+    "https://j.lnwfile.com/wb06dh.jpg",
+  ],
+
+  description: "98% Pure Iron II Sulphate",
+
+  price: "10000 FCFA",
+
+  specifications: [
+"500g Chemical Quantity",
+  "98% Laboratory Purity",
+  "Analytical Grade Compound",
+  "Moisture Resistant Container"
+  ],
+
+  fullDescription: "Iron(II) sulphate 500g is a laboratory-grade chemical compound widely used in analytical chemistry, water treatment, agriculture, educational experiments, and industrial scientific applications. Typically supplied at approximately 98% purity, it provides reliable chemical performance and consistent results for laboratory and industrial use. The compound is packaged in a moisture-resistant airtight container to minimize oxidation and maintain product stability during storage and handling. It is commonly used in schools, research laboratories, pharmaceutical industries, and industrial chemical processes requiring dependable ferrous sulphate compounds.",
+},
+
+{
+  id: 97,
+
+  slug: "Iron II sulphide",
+
+  category: "Chemistry",
+
+  name: "Iron II sulphide  500g",
+
+  image: "https://cdn-ilbncbn.nitrocdn.com/WPlheFCmzEAiQrfNmLaInztOsRXUpdbi/assets/images/optimized/rev-1159fef/i0.wp.com/brightscientific.com/wp-content/uploads/2025/02/eb5745c9aeac035e4d30da30d406662c.IronII-sulfide-sticks-Merck-India.jpg",
+
+  images: [
+    "https://5.imimg.com/data5/SELLER/Default/2024/5/417670549/OV/AM/BC/41673194/ferrous-sulphide-sticks.jpeg",
+    "https://m.media-amazon.com/images/I/61FPLl2Wc8L._AC_UF1000,1000_QL80_.jpg",
+    "https://5.imimg.com/data5/SELLER/Default/2023/8/337579322/GH/TS/MY/2702891/ferrous-sulphide-lr-100-grams-250x250.jpg"
+  ],
+
+  description: "95% Pure Iron II Sulphide",
+
+  price: "10000 FCFA",
+
+  specifications: [
+"500g Chemical Quantity",
+  "95% Laboratory Purity",
+  "Analytical Grade Compound",
+  "Secure Airtight Container"
+  ],
+
+  fullDescription: "Iron(II) sulphide 500g is a laboratory-grade chemical compound commonly used in analytical chemistry, gas preparation experiments, inorganic synthesis, and educational scientific applications. Typically supplied at approximately 95% purity due to its sensitivity to oxidation and commercial preparation standards, it provides reliable chemical performance for laboratory procedures. The compound is packaged in a secure airtight chemical-resistant container to reduce exposure to moisture and air during storage and handling. It is widely used in schools, research laboratories, and industrial scientific applications requiring dependable sulphide compounds for experimental use.",
+},
+
+{
+  id: 98,
+
+  slug: "Iron II chloride",
+
+  category: "Chemistry",
+
+  name: "Iron II chloride 500g",
+
+  image: "https://neutronco.com/wp-content/uploads/2024/06/1.3080Iron-ii-chloride-tetrahydrate-scaled.webp",
+
+  images: [
+    "https://5.imimg.com/data5/SELLER/Default/2025/3/493216107/IZ/YM/SE/76108307/82984.png",
+    "https://s.alicdn.com/@sc04/kf/H8a7f05dd50c441f7b292352f08bae405I/Low-Factory-Price-Industrial-Grade-Ferric-Chloride-Hexahydrate-FeCl3.6H2O-CAS-No.-10025-77-1-98-Purity-for-Water-Treatment.jpg_300x300.jpg",
+    "https://cpimg.tistatic.com/10603885/b/4/500g-Ferric-Chloride-Anhydrous-SQ.png"
+  ],
+
+  description: "98% Pure Iron II Chloride",
+
+  price: "10000 FCFA",
+
+  specifications: [
+"500g Chemical Quantity",
+  "98% Laboratory Purity",
+  "Analytical Grade Reagent",
+  "Moisture Resistant Container"
+  ],
+
+  fullDescription: "Iron(II) chloride 500g is a laboratory-grade chemical reagent widely used in analytical chemistry, water treatment research, inorganic synthesis, and educational scientific experiments. Typically supplied at approximately 98% purity, it provides reliable chemical performance and consistent laboratory results for scientific and industrial applications. The compound is packaged in a moisture-resistant airtight container to minimize oxidation and maintain product stability during storage and handling. It is commonly used in schools, research laboratories, pharmaceutical industries, and industrial scientific processes requiring dependable ferrous chloride reagents.",
+},
+
+{
+  id: 99,
+
+  slug: " Iron III chloride",
+
+  category: "Chemistry",
+
+  name: " Iron III chloride  500g",
+
+  image: "https://www.westlab.com.au/media/catalog/product/050a7bb5635ac2c48f7ed1fc51b23f4e/contents/FL022-500G/FL022-500G-min.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
+
+  images: [
+    "https://j.lnwfile.com/_webp_resize_images/600/600/dc/gn/hb.webp",
+    "https://image.made-in-china.com/365f3j00YVRvfWJzZCqy/Premium-Liquid-Iron-III-Chloride-Supplier-in-China.webp",
+    "https://corwin.africa/wp-content/uploads/2026/01/ferric-chloride.webp"
+  ],
+
+  description: "97% Pure Iron III Chloride",
+
+  price: "10000 FCFA",
+
+  specifications: [
+"500g Chemical Quantity",
+  "97% Laboratory Purity",
+  "Analytical Grade Reagent",
+  "Moisture Resistant Container"
+  ],
+
+  fullDescription: "Iron(III) chloride 500g is a laboratory-grade chemical reagent commonly used in analytical chemistry, water treatment, etching processes, organic synthesis, and educational scientific experiments. Typically supplied at approximately 97% purity, it provides reliable chemical performance and consistent laboratory results for scientific and industrial applications. The compound is packaged in a moisture-resistant airtight container to minimize hydrolysis and maintain product stability during storage and handling. It is widely used in schools, research laboratories, pharmaceutical industries, electronics manufacturing, and industrial chemical processes requiring dependable ferric chloride reagents.",
+},
+
+{
+  id: 100,
+
+  slug: "Iron powder",
+
+  category: "Chemistry",
+
+  name: "Iron powder 500g",
+
+  image: "https://danchemical.co.id/wp-content/uploads/2025/10/Iron-Metal-Powder-Fine-Grade.jpg",
+
+  images: [
+    "https://danchemical.co.id/wp-content/uploads/2025/10/Iron-Metal-Powder-Fine-Grade.jpg",
+    "https://i.ebayimg.com/images/g/xh0AAOSwHgJhpP-t/s-l400.jpg",
+  ],
+
+  description: "98% Pure Iron Powder",
+
+  price: "10000 FCFA",
+
+  specifications: [
+"500g Chemical Quantity",
+  "98% Metal Purity",
+  "Fine Powder Form",
+  "Laboratory Grade Material"
+  ],
+
+  fullDescription: "Iron powder 500g is a laboratory-grade metallic material widely used in analytical chemistry, metallurgy studies, magnetic experiments, chemical synthesis, and industrial scientific applications. Typically supplied at approximately 98% purity, it provides reliable performance and consistent results for laboratory and industrial use. The fine powder form allows efficient reaction and easy handling during experimental procedures. It is packaged in a secure airtight container to minimize oxidation and maintain product stability during storage and handling.",
+},
+
+{
+  id: 101,
+
+  slug: "Lead acetate",
+
+  category: "Chemistry",
+
+  name: "Lead acetate  500g",
+
+  image: "https://cdn.moglix.com/p/JaOLu2HZhkWtU-xxlarge.jpg",
+
+  images: [
+    "https://5.imimg.com/data5/SELLER/Default/2021/7/VG/PF/DA/33935950/l10129-lead-acetate-99-500-gm-500x500.png",
+    "https://5.imimg.com/data5/SELLER/Default/2023/3/YZ/QV/DK/132645295/lead-acetate-trihydrate-99-extra-pure.jpg",
+  ],
+
+  description: "99% Pure Lead Acetate",
+
+  price: "10000 FCFA",
+
+  specifications: [
+  "500g Chemical Quantity",
+  "99% Laboratory Purity",
+  "Analytical Grade Reagent",
+  "Secure Airtight Container"
+  ],
+
+  fullDescription: "Lead acetate 500g is a laboratory-grade chemical reagent commonly used in analytical chemistry, qualitative analysis, textile research, and educational scientific experiments. Typically supplied at approximately 99% purity, it provides reliable chemical performance and consistent laboratory results for scientific applications. The compound is packaged in a secure airtight chemical-resistant container to maintain stability and ensure safe storage and handling conditions. It is widely used in research laboratories, industrial scientific processes, and analytical applications requiring dependable lead-based reagents.",
+},
+
+{
+  id: 102,
+
+  slug: "Lead carbonate",
+
+  category: "Chemistry",
+
+  name: "Lead carbonate  500g",
+
+  image: "https://cdn11.bigcommerce.com/s-3yvzqa/images/stencil/1280x1280/products/72820/104170/L1049-500GM__96222.1618420411.jpg?c=2",
+
+  images: [
+    "https://5.imimg.com/data5/SELLER/Default/2024/5/417634190/GS/FT/OS/41673194/basic-lead-carbonate.jpeg",
+    "https://www.carlroth.com/medias/Gruppe-Salze-01-1000Wx1000H?context=bWFzdGVyfGltYWdlc3wyOTcxOHxpbWFnZS9qcGVnfGFXMWhaMlZ6TDJoaE9DOW9aRE12T1RBd09UQTVOek0zTlRjM05DNXFjR2N8Y2IxY2ZhZmY5MDYwYTdmNmUxZjQzMzYxZGFlMDg5OWM4Y2RjMTk3NzZlMGIyYjE2MTg3MTUwYmVkYjExMDllNg",
+  ],
+
+  description: "98% Pure Lead Carbonate",
+
+  price: "10000 FCFA",
+
+  specifications: [
+"500g Chemical Quantity",
+  "98% Laboratory Purity",
+  "Analytical Grade Compound",
+  "Secure Airtight Container"
+  ],
+
+  fullDescription: "Lead carbonate 500g is a laboratory-grade chemical compound commonly used in analytical chemistry, pigment research, inorganic synthesis, and educational scientific experiments. Typically supplied at approximately 98% purity, it provides reliable chemical performance and consistent laboratory results for scientific and industrial applications. The compound is packaged in a secure airtight chemical-resistant container to maintain product stability and ensure safe storage and handling conditions. It is widely used in research laboratories, industrial scientific processes, and analytical applications requiring dependable lead-based compounds.",
+},
+
+{
+  id: 103,
+
+  slug: "Lead II nitrate",
+
+  category: "Chemistry",
+
+  name: "Lead II nitrate  500g",
+
+  image: "https://www.westlab.com.au/media/catalog/product/8/2/828-500g-img-05_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
+
+  images: [
+    "https://labtexbd.com/?attachment_id=38256",
+    "https://m.media-amazon.com/images/I/71UuEVZIMhL._AC_UF1000,1000_QL80_.jpg",
+    "https://bizweb.dktcdn.net/thumb/1024x1024/100/299/775/products/pb-no3-merk.jpg?v=1660962908107"
+  ],
+
+  description: "99% Pure Lead II Nitrate",
+
+  price: "10000 FCFA",
+
+  specifications: [
+  "500g Chemical Quantity",
+  "99% Laboratory Purity",
+  "Analytical Grade Reagent",
+  "Moisture Resistant Container"
+  ],
+
+  fullDescription: "Lead(II) nitrate 500g is a laboratory-grade chemical reagent widely used in analytical chemistry, inorganic synthesis, educational experiments, and industrial scientific applications. Typically supplied at approximately 99% purity, it provides reliable chemical performance and consistent laboratory results for scientific procedures. The compound is packaged in a moisture-resistant airtight chemical-resistant container to maintain stability and ensure safe storage and handling conditions. It is commonly used in research laboratories, pharmaceutical industries, and industrial chemical processes requiring dependable lead-based nitrate reagents.",
+},
+
+{
+  id: 104,
+
+  slug: "Lithium carbonate",
+
+  category: "Chemistry",
+
+  name: " Lithium carbonate  100g",
+
+  image: "https://www.biolaboratorium.com/cdn/shop/files/NEW_IMG_46821-100G.jpg?v=1753267037",
+
+  images: [
+    "https://kingmariot.com/cdn/shop/products/LithiumCarbonate_1200x.png?v=1678339546",
+    "https://content.jdmagicbox.com/quickquotes/images_main/100g-lithium-carbonate-ar-2024986565-8d5krgla.jpg?impolicy=queryparam&im=Resize=(360,360),aspect=fit",
+  ],
+
+  description: "99% Pure Lithium Carbonate",
+
+  price: "12000 FCFA",
+
+  specifications: [
+  "100g Chemical Quantity",
+  "99% Laboratory Purity",
+  "Analytical Grade Compound",
+  "Moisture Resistant Container"
+  ],
+
+  fullDescription: "Lithium carbonate 100g is a laboratory-grade chemical compound widely used in analytical chemistry, ceramic production, battery research, pharmaceutical applications, and educational scientific experiments. Typically supplied at approximately 99% purity, it provides reliable chemical performance and consistent laboratory results for scientific and industrial use. The compound is packaged in a moisture-resistant airtight container to maintain product stability and prevent contamination during storage and handling. It is commonly used in schools, research laboratories, pharmaceutical industries, and industrial scientific applications requiring dependable lithium-based compounds.",
+},
+
+{
+  id: 105,
+
+  slug: "Lithium chloride",
+
+  category: "Chemistry",
+
+  name: " Lithium chloride  100g",
+
+  image: "https://m.media-amazon.com/images/I/41SjZBpWDaL.jpg",
+
+  images: [
+    "https://m.media-amazon.com/images/I/61r63UvSftL.jpg",
+    "https://camachem.com/pub/media/wysiwyg/Lithium_Chloride_01.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrddYfKxaVHXKM3GRKT19CMU6WwLpEKBnqaA&s"
+  ],
+
+  description: "99% Pure Lithium Chloride",
+
+  price: "12000 FCFA",
+
+  specifications: [
+"100g Chemical Quantity",
+  "99% Laboratory Purity",
+  "Analytical Grade Reagent",
+  "Moisture Resistant Container"
+  ],
+
+  fullDescription: "Lithium chloride 100g is a laboratory-grade chemical reagent commonly used in analytical chemistry, humidity control research, battery studies, molecular biology, and industrial scientific applications. Typically supplied at approximately 99% purity, it provides reliable chemical performance and consistent laboratory results for scientific and industrial use. The compound is packaged in a moisture-resistant airtight container due to its highly hygroscopic nature, helping maintain product stability during storage and handling. It is widely used in research laboratories, pharmaceutical industries, educational institutions, and industrial chemical processes requiring dependable lithium-based reagents.",
+},
+
+{
+  id: 106,
+
+  slug: " Litmus paper blue",
+
+  category: "Chemistry",
+
+  name: " Litmus paper blue",
+
+  image: "https://www.xump.com/images/products/litmus-blue-test-paper-100pcs-1000A.jpg",
+
+  images: [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ4rSTJj94B-0AOYukm25Qi4TtH66M4F-h-w&s",
+    "https://static.rapidonline.com/catalogueimages/product/52/80/s52-8002p01wc.jpg",
+    "https://www.american-scientific.com/wp-content/uploads/2019/03/2091-01-1-scaled.jpg"
+  ],
+
+  description: "High Sensitivity Blue Litmus",
+
+  price: "1500 FCFA",
+
+  specifications: [
+"1 Packet Supply",
+  "Rapid PH Detection",
+  "High Color Sensitivity",
+  "Laboratory Grade Paper"
+  ],
+
+  fullDescription: "Blue litmus paper is a laboratory testing material used for detecting acidic substances and monitoring pH changes during scientific experiments and chemical analysis. Manufactured with high-sensitivity indicator dyes, it provides fast and reliable color change reactions when exposed to acidic solutions. The paper is supplied in a protective packet to maintain stability and prevent contamination from moisture and environmental exposure. It is widely used in schools, research laboratories, medical facilities, and industrial scientific applications for quick and convenient acid-base testing.",
+},
+
+{
+  id: 107,
+
+  slug: "Litmus paper red",
+
+  category: "Chemistry",
+
+  name: "Litmus paper red",
+
+  image: "https://www.xump.com/images/products/litmus-red-test-paper-100pcs-1000A.jpg",
+
+  images: [
+    "https://res.cloudinary.com/hdtsjhzsw/image/upload/s--d_3PBb19--/q_auto/4c253f97db379884e78907738c592baf5423a879.jpg",
+    "https://www.laboratorydeal.com/cdn/shop/files/Litmus_Paper_Red_100_Strips_x440.jpg?v=1750835621",
+    "https://www.american-scientific.com/wp-content/uploads/2022/09/209102.jpg"
+  ],
+
+  description: "High Sensitivity Red Litmus",
+
+  price: "1500 FCFA",
+
+  specifications: [
+"1 Packet Supply",
+  "Rapid PH Detection",
+  "High Color Sensitivity",
+  "Laboratory Grade Paper"
+  ],
+
+  fullDescription: "Red litmus paper is a laboratory testing material used for detecting alkaline substances and monitoring pH changes during scientific experiments and chemical analysis. Produced with high-sensitivity indicator dyes, it provides fast and reliable color change reactions when exposed to basic solutions. The paper is supplied in a protective packet to maintain stability and prevent contamination from moisture and environmental exposure. It is widely used in schools, research laboratories, medical facilities, and industrial scientific applications for quick and convenient acid-base testing.",
+},
+
+{
+  id: 108,
+
+  slug: "Magnesium chloride",
+
+  category: "Chemistry",
+
+  name: "Magnesium chloride  500g",
+
+  image: "https://cdn11.bigcommerce.com/s-k069xfmhqb/products/16701/images/102440/M2670-500G-12161700__59256.1744032179.386.513.png?c=1",
+
+  images: [
+    "https://www.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/666/075/ac89c74c-7dd8-46e2-ba05-1457e3592545/800/ac89c74c-7dd8-46e2-ba05-1457e3592545.jpg",
+    "https://hanimexcorp.com/wp-content/uploads/2024/05/Magie-Clorua-thi-nghiem.jpg",
+  ],
+
+  description: "98% Pure Magnesium Chloride",
+
+  price: "8000 FCFA",
+
+  specifications: [
+"500g Chemical Quantity",
+  "98% Laboratory Purity",
+  "Analytical Grade Reagent",
+  "Moisture Resistant Container"
+  ],
+
+  fullDescription: "Magnesium chloride 500g is a laboratory-grade chemical reagent widely used in analytical chemistry, magnesium salt preparation, educational experiments, and industrial scientific applications. Typically supplied at approximately 98% purity, it provides reliable chemical performance and consistent laboratory results for scientific and industrial use. The compound is packaged in a moisture-resistant airtight container due to its hygroscopic nature, helping maintain product stability during storage and handling. It is commonly used in schools, research laboratories, pharmaceutical industries, and industrial chemical processes requiring dependable magnesium-based reagents.",
+},
+
+{
+  id: 109,
+
+  slug: "Magnesium oxide",
+
+  category: "Chemistry",
+
+  name: "Magnesium oxide  500g",
+
+  image: "https://s.alicdn.com/@sc04/kf/H4f08c387d4ff45d4a9f2038cd9749c45N/Nano-Magnesium-Oxide-MgO-Powder-Ultrafine-MgO-Magnesium-Oxide-Nanoparticle-Powder.jpg",
+
+  images: [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTpSteV5PMZ35mjsdhTLyJN9CVAwhuxqtkdQ&s",
+    "https://www.nanochemazone.com/wp-content/uploads/2020/08/Magnesium-Oxide-Powder-7.jpg",
+  ],
+
+  description: "98% Pure Magnesium Oxide",
+
+  price: "10000 FCFA",
+
+  specifications: [
+"500g Chemical Quantity",
+  "98% Laboratory Purity",
+  "High Temperature Stability",
+  "Analytical Grade Compound"
+  ],
+
+  fullDescription: "Magnesium oxide 500g is a laboratory-grade chemical compound widely used in analytical chemistry, refractory material research, pharmaceutical applications, and educational scientific experiments. Typically supplied at approximately 98% purity, it provides reliable chemical stability and consistent laboratory performance for scientific and industrial use. The compound possesses excellent heat resistance and is packaged in a secure airtight container to maintain product quality during storage and handling. It is commonly used in schools, research laboratories, pharmaceutical industries, ceramics production, and industrial scientific applications requiring dependable magnesium oxide compounds.",
+},
+
+{
+  id: 110,
+
+  slug: "Magnesium sulphate",
+
+  category: "Chemistry",
+
+  name: "Magnesium sulphate  500g",
+
+  image: "https://5.imimg.com/data5/SELLER/Default/2023/8/336514491/MG/XA/BU/139302294/magnesium-sulphate-dried-98-5-extra-pure.jpg",
+
+  images: [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs12yuZYwvBnqtty86mBqPUzfehZfXRzpBDg&s",
+    "https://content.jdmagicbox.com/comp/def_content/magnesium-sulphate-manufacturers/874aa85e74-magnesium-sulphate-manufacturers-4-gc02r.jpg",
+  ],
+
+  description: "98.5% Pure Magnesium Sulphate",
+
+  price: "8000 FCFA",
+
+  specifications: [
+ "500g Chemical Quantity",
+  "99% Laboratory Purity",
+  "Analytical Grade Compound",
+  "Moisture Resistant Container"
+  ],
+
+  fullDescription: "Magnesium sulphate 500g is a laboratory-grade chemical compound commonly used in analytical chemistry, agricultural research, pharmaceutical applications, and educational scientific experiments. Typically supplied at approximately 99% purity, it provides reliable chemical performance and consistent laboratory results for scientific and industrial use. The compound is packaged in a moisture-resistant airtight container to maintain product stability and prevent contamination during storage and handling. It is widely used in schools, research laboratories, pharmaceutical industries, agriculture, and industrial scientific applications requiring dependable magnesium-based compounds.",
+},
+
+{
+  id: 111,
+
+  slug: "Magnesium ribbon",
+
+  category: "Chemistry",
+
+  name: " Magnesium ribbon 25g",
+
+  image: "https://ph-test-11.slatic.net/p/2d85c80517da7090041c5ebf84719776.png",
+
+  images: [
+    "https://m.media-amazon.com/images/I/71ABWVa9zXL._AC_UF894,1000_QL80_.jpg",
+    "https://ph-test-11.slatic.net/p/2d85c80517da7090041c5ebf84719776.png",
+    "https://i.etsystatic.com/60547957/r/il/66e0cc/6994979560/il_fullxfull.6994979560_fgvs.jpg"
+  ],
+
+  description: "99.8% Pure Magnesium Ribbon",
+
+  price: "8000 FCFA",
+
+  specifications: [
+"High Purity Metal Ribbon",
+  "99.8% Magnesium Purity",
+  "Bright Reactive Surface",
+  "Laboratory Grade Material"
+  ],
+
+  fullDescription: "Magnesium ribbon is a high-purity metallic laboratory material widely used in combustion experiments, analytical chemistry, educational demonstrations, and industrial scientific applications. Produced with approximately 99.8% purity, it provides excellent reactivity and reliable performance during laboratory procedures and chemical reactions. The ribbon form allows easy handling, cutting, and controlled experimental use in scientific environments. It is packaged in a protective container to minimize oxidation and maintain product quality during storage and handling.",
+},
+
+{
+  id: 112,
+
+  slug: "Maleic acid",
+
+  category: "Chemistry",
+
+  name: "Maleic acid  500g",
+
+  image: "https://generationspace.co.ke/wp-content/uploads/2024/06/re-MALEIC-ACID-500G-LOBA-2-1.webp",
+
+  images: [
+    "https://5.imimg.com/data5/SELLER/Default/2025/11/560225660/YI/DT/HY/10371689/maleic-acid-99-powder-500x500.jpeg",
+    "https://theformulatorshop.com/wp-content/uploads/2023/02/d1dc8a03-6b12-4afc-8309-db9bff5b33b0-jpg.webp",
+  ],
+
+  description: "99% Pure Maleic Acid",
+
+  price: "12000 FCFA",
+
+  specifications: [
+"500g Chemical Quantity",
+  "99% Laboratory Purity",
+  "Analytical Grade Organic Acid",
+  "Secure Airtight Container"
+  ],
+
+  fullDescription: "Maleic acid 500g is a laboratory-grade organic chemical compound commonly used in analytical chemistry, resin production, organic synthesis, and educational scientific experiments. Typically supplied at approximately 99% purity, it provides reliable chemical performance and consistent laboratory results for scientific and industrial applications. The compound is packaged in a secure airtight chemical-resistant container to maintain stability and protect against moisture contamination during storage and handling. It is widely used in research laboratories, pharmaceutical industries, polymer manufacturing, and industrial scientific processes requiring dependable organic acid compounds.",
+},
+
+{
+  id: 113,
+
+  slug: " Manganese IV oxide",
+
+  category: "Chemistry",
+
+  name: " Manganese IV oxide  500g",
+
+  image: "https://www.pentachemicals.eu/data/Images/23310-30500.png",
+
+  images: [
+    "https://cdn11.bigcommerce.com/s-wtulnkmvw7/images/stencil/1280x1280/products/15341/58980/Aldon-Chemicals-Lab-Grade-Manganese-Dioxide-Powder-500g-213120_22486__93661.1716610388.jpg?c=1",
+    "https://synthetikaeu.com/userdata/public/gfx/3421/a1a0bc5611b4f1eea42f8dddeea3d668.jpg",
+  ],
+
+  description: "95% Pure Manganese IV Oxide",
+
+  price: "12000 FCFA",
+
+  specifications: [
+"500g Chemical Quantity",
+  "95% Laboratory Purity",
+  "Analytical Grade Compound",
+  "Secure Airtight Container"
+  ],
+
+  fullDescription: "Manganese(IV) oxide 500g is a laboratory-grade chemical compound widely used in analytical chemistry, catalyst preparation, battery research, oxygen generation experiments, and educational scientific applications. Typically supplied at approximately 95% purity, it provides reliable chemical performance and consistent results for laboratory and industrial use. The compound is packaged in a secure airtight chemical-resistant container to maintain product stability and minimize contamination during storage and handling. It is commonly used in schools, research laboratories, pharmaceutical industries, and industrial scientific processes requiring dependable manganese oxide compounds.",
+},
+
+{
+  id: 114,
+
+  slug: "Methanol",
+
+  category: "Chemistry",
+
+  name: "Methanol  500ml",
+
+  image: "https://www.biolaboratorium.com/cdn/shop/files/NEW_IMG_47811-500ML.jpg?v=1753268527",
+
+  images: [
+    "https://assets.fishersci.com/TFS-Assets/CCG/product-images/VN00006095-M22055-500.0.JPG-650.jpg",
+    "https://i.ebayimg.com/images/g/P~cAAOSwIilc2TqK/s-l400.png",
+  ],
+
+  description: "99.9% Pure Laboratory Methanol",
+
+  price: "2000 FCFA",
+
+  specifications: [
+"500ml Chemical Volume",
+  "99.9% Laboratory Purity",
+  "High Purity Solvent",
+  "Secure Chemical Bottle"
+  ],
+
+  fullDescription: "Methanol 500ml is a high-purity laboratory solvent widely used in analytical chemistry, organic synthesis, fuel research, chromatography, and industrial scientific applications. Produced with approximately 99.9% purity, it provides reliable chemical performance, rapid evaporation, and consistent laboratory results for scientific and industrial use. The solvent is supplied in a secure chemical-resistant bottle to maintain product stability and ensure safe storage and handling conditions. It is commonly used in research laboratories, pharmaceutical industries, educational institutions, and industrial chemical processes requiring dependable high-purity alcohol solvents.",
+},
+
+{
+  id: 115,
+
+  slug: " Methyl orange",
+
+  category: "Chemistry",
+
+  name: " Methyl orange indicator  25g",
+
+  image: "https://hoachatthinghiem.org/wp-content/uploads/2020/06/Methyl-Orange-Xilong.jpg",
+
+  images: [
+    "https://himitech.com.vn/wp-content/uploads/2023/08/methyl-orange-xilong.webp",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi3pFlKnCrCNOUAgeeaM_oM4dz4HeZCXhE2Q&s",
+    "https://labtexbd.com/wp-content/uploads/2024/11/Methyl-Orange-Indicator-25g-Merck-B.B.png",
+  ],
+
+  description: "85% Pure Methyl Orange",
+
+  price: "5000 FCFA",
+
+  specifications: [
+"25g Chemical Quantity",
+  "85% Indicator Purity",
+  "Acid-Base Indicator Dye",
+  "Secure Amber Container"
+  ],
+
+  fullDescription: "Methyl orange indicator 25g is a laboratory-grade analytical indicator widely used in acid-base titrations, pH testing, and educational chemistry experiments. Typically supplied at approximately 85% purity due to dye formulation standards, it provides reliable color transition performance and consistent analytical results during laboratory procedures. The indicator is packaged in a secure amber chemical-resistant container to protect it from light exposure and maintain product stability during storage and handling. It is commonly used in schools, research laboratories, pharmaceutical industries, and industrial scientific applications requiring dependable pH indicator dyes.",
+},
+
+{
+  id: 116,
+
+  slug: "Methyl red indicator",
+
+  category: "Chemistry",
+
+  name: "Methyl red indicator  25g",
+
+  image: "https://www.masiyelabs.co.za/wp-content/uploads/2021/01/Methyl-Red-50g.jpeg",
+
+  images: [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO2TYIHQJfvtErTPvEgF2QfY_5r6IycLakpw&s",
+    "https://labequipsupply.co.za/wp-content/uploads/2021/06/628-20240521.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbEZK6W5CT9_Mi2PAOql70BfE0WnJ2ZBGEog&s"
+  ],
+
+  description: "90% Pure Methyl Red",
+
+  price: "5000 FCFA",
+
+  specifications: [
+ "25g Chemical Quantity",
+  "90% Indicator Purity",
+  "Acid-Base Indicator Dye",
+  "Secure Amber Container"
+  ],
+
+  fullDescription: "Methyl red indicator 25g is a laboratory-grade analytical indicator commonly used in acid-base titrations, pH testing, microbiology procedures, and educational chemistry experiments. Typically supplied at approximately 90% purity, it provides reliable color transition performance and consistent analytical results during laboratory applications. The indicator is packaged in a secure amber chemical-resistant container to protect it from light exposure and maintain product stability during storage and handling. It is widely used in schools, research laboratories, pharmaceutical industries, and industrial scientific applications requiring dependable pH indicator dyes.",
+},
+
+{
+  id: 117,
+
+  slug: " Murexide indicator",
+
+  category: "Chemistry",
+
+  name: " Murexide indicator  25g",
+
+  image: "https://5.imimg.com/data5/SELLER/Default/2023/6/314035380/MJ/IM/SZ/188944651/murexide-laboratory-chemicals-250x250.jpeg",
+
+  images: [
+    "https://www.srlchem.com/SRL/user_img/products/99571/99571.jpeg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4qJK66hOi3yFBVYuL3dzW8SGgjTJUavlr5A&s",
+    "https://5.imimg.com/data5/SELLER/Default/2023/2/PU/BC/JD/132645295/murexide-500x500.jpg"
+  ],
+
+  description: "80% Pure Murexide Indicator",
+
+  price: "6000 FCFA",
+
+  specifications: [
+  "25g Chemical Quantity",
+  "80% Indicator Purity",
+  "Complexometric Indicator Dye",
+  "Secure Amber Container"
+  ],
+
+  fullDescription: "Murexide indicator is a laboratory-grade analytical indicator widely used in complexometric titrations, particularly for calcium ion determination and hardness analysis in chemistry experiments. Typically supplied at approximately 80% purity due to dye formulation standards, it provides reliable color change performance and accurate analytical results during laboratory procedures. The indicator is packaged in a secure amber chemical-resistant container to protect it from light exposure and maintain product stability during storage and handling. It is commonly used in schools, research laboratories, water analysis laboratories, and industrial scientific applications requiring dependable complexometric indicators.",
+},
+
+{
+  id: 118,
+
+  slug: "Nickel sulphate",
+
+  category: "Chemistry",
+
+  name: " Nickel II sulphate 500g",
+
+  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPzN_m_G7waBbGi-yvMQlUyD7SENjYwOnbIQ&s",
+
+  images: [
+    "https://5.imimg.com/data5/SELLER/Default/2023/11/358416966/QT/PG/LD/2651626/nickel-ii-sulphate-lr-hexahydrate.jpeg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6aiMdUncywZXUWxNltYgdO5fShPdfI7hXWg&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPzN_m_G7waBbGi-yvMQlUyD7SENjYwOnbIQ&s"
+  ],
+
+  description: "98% Pure Nickel Sulphate",
+
+  price: "10000 FCFA",
+
+  specifications: [
+"500g Chemical Quantity",
+  "98% Laboratory Purity",
+  "Analytical Grade Compound",
+  "Moisture Resistant Container"
+  ],
+
+  fullDescription: "Nickel sulphate 500g is a laboratory-grade chemical compound widely used in electroplating, analytical chemistry, catalyst preparation, and educational scientific experiments. Typically supplied at approximately 98% purity, it provides reliable chemical performance and consistent laboratory results for scientific and industrial applications. The compound is packaged in a moisture-resistant airtight container to maintain product stability and reduce contamination during storage and handling. It is commonly used in research laboratories, pharmaceutical industries, metal finishing industries, and industrial scientific processes requiring dependable nickel-based compounds.",
+},
+
+{
+  id: 119,
+
+  slug: "Nitric acid",
+
+  category: "Chemistry",
+
+  name: "Nitric acid  500ml",
+
+  image: "https://ecoclean-global.com/wp-content/uploads/2024/09/Chemical-Nitric-Acid-HNO%E2%82%83-Xilong-C-500ml-1024x787.png",
+
+  images: [
+    "https://5.imimg.com/data5/SELLER/Default/2024/2/393331354/KZ/ZT/BV/132645295/nitric-acid-69-72-500-ml.jpeg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWo1Y7-7BqyTHPbkefiz9XJOsZdRSS0lBJpg&s",
+    "https://atomscientific.com/images/productPictures/3485/groupPicture.webp",
+  ],
+
+  description: "68% Pure Nitric Acid",
+
+  price: "4500 FCFA",
+
+  specifications: [
+"500ml Chemical Volume",
+  "68% Concentrated HNO₃",
+  "Analytical Grade Acid",
+  "Corrosion Resistant Bottle"
+  ],
+
+  fullDescription: "Nitric acid 500ml is a laboratory-grade strong mineral acid widely used in analytical chemistry, metal processing, fertilizer research, chemical synthesis, and industrial scientific applications. Typically supplied at approximately 68% concentration, it provides reliable chemical performance and consistent laboratory results for scientific and industrial procedures. The acid is packaged in a corrosion-resistant chemical bottle to ensure safe storage, stability, and proper handling during use. It is commonly used in schools, research laboratories, pharmaceutical industries, metal treatment facilities, and industrial chemical processes requiring dependable concentrated acid reagents.",
+},
+
+{
+  id: 120,
+
+  slug: "Oxalic acid",
+
+  category: "Chemistry",
+
+  name: "Oxalic acid (Ethanedioic acid ) 500g",
+
+  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4zwdTjpNp7oDwqYon-xAuw4nnSyrW5pDntg&s",
+
+  images: [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq2iTx2pHcjOpMyuki3WmB9nHGoAtJ36o2vw&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKXZqLFfUYEYW00Sb7G_fzj1c19F1RgmVokw&s",
+    "https://www.carlroth.com/medias/Gruppe-Salze-01-280Wx186H?context=bWFzdGVyfGltYWdlc3w0ODY5fGltYWdlL2pwZWd8YVcxaFoyVnpMMmhtT0M5b09EQXZPVEF3T1RFd05qUXhPVGMwTWk1cWNHY3xhNTMwMGFiZjdjMTE2MmRkZmVlMDM4OWUzNDRmZGI2NzNmY2Q3M2EwZWQzMTE2NTE2YjVhYTJiZDE4NmJhNjIx"
+  ],
+
+  description: "99.5% Pure Oxalic Acid",
+
+  price: "10000 FCFA",
+
+  specifications: [
+"500g Chemical Quantity",
+  "99.5% Laboratory Purity",
+  "Analytical Grade Organic Acid",
+  "Secure Airtight Container"
+  ],
+
+  fullDescription: "Oxalic acid (Ethanedioic acid) 500g is a laboratory-grade organic chemical compound widely used in analytical chemistry, cleaning applications, metal treatment, and educational scientific experiments. Typically supplied at approximately 99.5% purity, it provides reliable chemical performance and consistent laboratory results for scientific and industrial use. The compound is packaged in a secure airtight chemical-resistant container to maintain product stability and protect against moisture contamination during storage and handling. It is commonly used in schools, research laboratories, pharmaceutical industries, textile processing, and industrial scientific applications requiring dependable organic acid compounds.",
+},
+
+{
+  id: 121,
+
+  slug: "PH indicator paper",
+
+  category: "Chemistry",
+
+  name: "PH indicator paper 1-14",
+
+  image: "https://shop.appliedbiotech.ng/wp-content/uploads/2024/03/IMG-20240328-WA0020-600x530.jpg",
+
+  images: [
+    "https://shop.appliedbiotech.ng/wp-content/uploads/2024/03/IMG-20240328-WA0020-600x530.jpg",
+    "https://m.media-amazon.com/images/I/51ukB%2BD6VdL.__AC_SR166,182___.jpg",
+    "https://m.media-amazon.com/images/I/61QQy7pdozL._AC_UF350,350_QL80_DpWeblab_.jpg"
+  ],
+
+  description: "Universal PH Indicator Paper",
+
+  price: "2500 FCFA",
+
+  specifications: [
+    "PH Range 1-14",
+  "Rapid Color Response",
+  "High Sensitivity Paper",
+  "Protective Storage Pack"
+  ],
+
+  fullDescription: "pH indicator paper 1–14 is a laboratory testing material designed for rapid determination of acidity and alkalinity across the full pH scale during scientific experiments and chemical analysis. Manufactured with high-sensitivity indicator dyes, it provides fast and reliable color changes for accurate pH estimation in liquids and solutions. The paper is supplied in a protective storage pack to maintain stability and prevent contamination from moisture and environmental exposure. It is widely used in schools, research laboratories, medical facilities, water treatment plants, and industrial scientific applications for convenient pH testing and monitoring.",
+},
+
+{
+  id: 122,
+
+  slug: "Phenol crystals",
+
+  category: "Chemistry",
+
+  name: " Phenol crystals  500g",
+
+  image: "https://5.imimg.com/data5/SELLER/Default/2024/6/429429421/SM/JP/ES/125039132/phenol-crystals-500gm.jpg",
+
+  images: [
+    "https://5.imimg.com/data5/SELLER/Default/2024/6/429429421/SM/JP/ES/125039132/phenol-crystals-500gm.jpg",
+    "https://5.imimg.com/data5/SELLER/Default/2023/5/311246277/DC/UA/DL/4095783/crystal-phenol-250x250.jpeg",
+    "https://5.imimg.com/data5/SELLER/Default/2022/12/XM/WZ/RD/122805726/new-product.jpg"
+  ],
+
+  description: "99% Pure Phenol Crystals",
+
+  price: "10000 FCFA",
+
+  specifications: [
+    "500g Chemical Quantity",
+  "99% Laboratory Purity",
+  "Analytical Grade Compound",
+  "Secure Airtight Container"
+  ],
+
+  fullDescription: "Phenol crystals 500g are a laboratory-grade organic chemical compound widely used in analytical chemistry, organic synthesis, disinfectant research, resin production, and industrial scientific applications. Typically supplied at approximately 99% purity, they provide reliable chemical performance and consistent laboratory results for scientific and industrial use. The crystals are packaged in a secure airtight chemical-resistant container to maintain product stability and minimize exposure to moisture and contamination during storage and handling. They are commonly used in research laboratories, pharmaceutical industries, educational institutions, and industrial chemical processes requiring dependable phenolic compounds.",
+},
+
+{
+  id: 123,
+
+  slug: "Phenolpthalein indicator",
+
+  category: "Chemistry",
+
+  name: " Phenolpthalein indicator  25g",
+
+  image: "https://img.alicdn.com/imgextra/i1/719820549/TB2Xngabt3nyKJjSZFEXXXTTFXa_!!719820549.jpg",
+
+  images: [
+    "https://inwfile.com/s-cc/5u65ld.png",
+    "https://www.srlchem.com/SRL/user_img/products/90179/90179.jpg",
+    "https://img.alicdn.com/imgextra/i1/719820549/TB2Xngabt3nyKJjSZFEXXXTTFXa_!!719820549.jpg"
+  ],
+
+  description: "98% Pure Phenolphthalein",
+
+  price: "5000 FCFA",
+
+  specifications: [
+    "25g Chemical Quantity",
+  "98% Indicator Purity",
+  "Acid-Base Indicator Dye",
+  "Secure Amber Container"
+  ],
+
+  fullDescription: "Phenolphthalein indicator 25g is a laboratory-grade analytical indicator widely used in acid-base titrations, pH testing, and educational chemistry experiments. Typically supplied at approximately 98% purity, it provides reliable color transition performance and consistent analytical results during laboratory procedures. The indicator is packaged in a secure amber chemical-resistant container to protect it from light exposure and maintain product stability during storage and handling. It is commonly used in schools, research laboratories, pharmaceutical industries, and industrial scientific applications requiring dependable acid-base indicator dyes.",
+},
+
+{
+  id: 124,
+
+  slug: "Phenyl ammonium chloride",
+
+  category: "Chemistry",
+
+  name: " Phenyl ammonium chloride (Aniline hydrochloride) 100g",
+
+  image: "https://amarischemicalsolutions.com/wp-content/uploads/2025/07/Anilium-Chloride-Extra-Pure-Amaris-Chemicals.png",
+
+  images: [
+    "https://amarischemicalsolutions.com/wp-content/uploads/2025/07/Anilium-Chloride-Extra-Pure-Amaris-Chemicals.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Chlorowodorek_Aniliny.jpg/250px-Chlorowodorek_Aniliny.jpg",
+  ],
+
+  description: "98% Pure Aniline Hydrochloride",
+
+  price: "12000 FCFA",
+
+  specifications: [
+    "100g Chemical Quantity",
+  "98% Laboratory Purity",
+  "Analytical Grade Compound",
+  "Secure Airtight Container"
+  ],
+
+  fullDescription: "Phenyl ammonium chloride (Aniline hydrochloride) 100g is a laboratory-grade organic chemical compound widely used in analytical chemistry, dye synthesis, pharmaceutical research, and educational scientific experiments. Typically supplied at approximately 98% purity, it provides reliable chemical performance and consistent laboratory results for scientific and industrial applications. The compound is packaged in a secure airtight chemical-resistant container to maintain product stability and protect against moisture contamination during storage and handling. It is commonly used in research laboratories, pharmaceutical industries, and industrial chemical processes requiring dependable aromatic amine compounds.",
+},
+
+{
+  id: 125,
+
+  slug: "Phosphorus pentachloride",
+
+  category: "Chemistry",
+
+  name: " Phosphorus pentachloride  100g",
+
+  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg3HH4LLCBPbuGE3ujt9HlQe6oWmG51v_HGg&s",
+
+  images: [
+    "https://cpimg.tistatic.com/04528773/b/4/Phosphorus-Pentachloride.jpg",
+    "https://cpimg.tistatic.com/03149184/b/4/Phosphorus-pentachloride.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ18N-zGLa1atUbo43Bp8lvvdMjFqwQUFH-Q&s"
+  ],
+
+  description: "98% Pure Phosphorus Pentachloride",
+
+  price: "15000 FCFA",
+
+  specifications: [
+    "100g Chemical Quantity",
+  "98% Laboratory Purity",
+  "Moisture Sensitive Reagent",
+  "Secure Airtight Container"
+  ],
+
+  fullDescription: "Phosphorus pentachloride 100g is a laboratory-grade chemical reagent widely used in organic synthesis, chlorination reactions, analytical chemistry, and educational scientific experiments. Typically supplied at approximately 98% purity, it provides reliable chemical performance and consistent laboratory results for scientific applications. Due to its high sensitivity to moisture and its reactive nature, the compound is packaged in a secure airtight chemical-resistant container to maintain stability and safe handling conditions during storage and use. It is commonly used in research laboratories, pharmaceutical industries, and industrial chemical processes requiring dependable chlorinating reagents.",
+},
+
+{
+  id: 126,
+
+  slug: "Potassium bromate",
+
+  category: "Chemistry",
+
+  name: " Potassium bromate  500g",
+
+  image: "https://cdn11.bigcommerce.com/s-3yvzqa/images/stencil/1280x1280/products/76894/105394/P1215-500GM__37547.1618426246.jpg?c=2",
+
+  images: [
+    "https://5.imimg.com/data5/SELLER/Default/2024/5/417289227/RO/DW/ZU/41673194/potassium-bromate-powder-500x500.jpeg",
+    "https://5.imimg.com/data5/SELLER/Default/2023/12/367555797/FM/HP/RX/619811/potassium-bromate.jpg",
+    "https://cdn11.bigcommerce.com/s-3yvzqa/images/stencil/1280x1280/products/76894/105394/P1215-500GM__37547.1618426246.jpg?c=2"
+  ],
+
+  description: "99% Pure Potassium Bromate",
+
+  price: "12000 FCFA",
+
+  specifications: [
+    "500g Chemical Quantity",
+  "99% Laboratory Purity",
+  "Strong Oxidizing Reagent",
+  "Secure Airtight Container"
+  ],
+
+  fullDescription: "Potassium bromate 500g is a laboratory-grade chemical reagent widely used in analytical chemistry, oxidation reactions, educational experiments, and industrial scientific applications. Typically supplied at approximately 99% purity, it provides reliable oxidizing performance and consistent laboratory results for scientific and industrial use. The compound is packaged in a secure airtight chemical-resistant container to maintain product stability and prevent contamination during storage and handling. It is commonly used in research laboratories, pharmaceutical industries, and industrial chemical processes requiring dependable oxidizing reagents.",
+},
+
+{
+  id: 127,
+
+  slug: "Potassium bromide",
+
+  category: "Chemistry",
+
+  name: "Potassium bromide 500g",
+
+  image: "https://down-vn.img.susercontent.com/file/sg-11134201-22110-noykq2v2sejv42",
+
+  images: [
+    "https://down-vn.img.susercontent.com/file/sg-11134201-22110-noykq2v2sejv42",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSab34BCh-tmuKqePgeSTjIJ5T-9GiKpi5S5g&s",
+    "https://www.arkanlabs.com/image/cache/catalog/potassium-bromide-250gm-35138-500x500.jpg"
+  ],
+
+  description: "99% Pure Potassium Bromide",
+
+  price: "10000 FCFA",
+
+  specifications: [
+    "500g Chemical Quantity",
+  "99% Laboratory Purity",
+  "Analytical Grade Reagent",
+  "Moisture Resistant Container"
+  ],
+
+  fullDescription: "Potassium bromide 500g is a laboratory-grade chemical reagent commonly used in analytical chemistry, infrared spectroscopy, photographic processing, and educational scientific experiments. Typically supplied at approximately 99% purity, it provides reliable chemical performance and consistent laboratory results for scientific and industrial applications. The compound is packaged in a moisture-resistant airtight container to maintain product stability and minimize contamination during storage and handling. It is widely used in schools, research laboratories, pharmaceutical industries, and industrial scientific processes requiring dependable bromide compounds.",
+},
+
+{
+  id: 128,
+
+  slug: "Potassium carbonate",
+
+  category: "Chemistry",
+
+  name:  "Potassium carbonate  500g",
+
+  image: "https://hoachatthinghiem.org/wp-content/uploads/2022/06/Potassium-carbonate-anhydrous-xilong-xanh.jpg",
+
+  images: [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0-7ZmN6xkzs5sDmjpm-b6AAylRH_Frw2fgg&s",
+    "https://www.srlchem.com/SRL/user_img/products/87272/87272.jpg",
+  ],
+
+  description: "99% Pure Potassium Carbonate",
+
+  price: "10000 FCFA",
+
+  specifications: [
+    "500g Chemical Quantity",
+  "99% Laboratory Purity",
+  "Analytical Grade Alkali",
+  "Moisture Resistant Container"
+  ],
+
+  fullDescription: "Potassium carbonate 500g is a laboratory-grade alkaline chemical compound widely used in analytical chemistry, glass production, soap manufacturing, and educational scientific experiments. Typically supplied at approximately 99% purity, it provides reliable chemical performance and consistent laboratory results for scientific and industrial applications. The compound is packaged in a moisture-resistant airtight container because of its hygroscopic nature, helping maintain product stability during storage and handling. It is commonly used in schools, research laboratories, pharmaceutical industries, and industrial chemical processes requiring dependable potassium-based alkaline compounds.",
+},
+
+{
+  id: 129,
+
+  slug: "Potassium chloride",
+
+  category: "Chemistry",
+
+  name: "Potassium chloride 500g",
+
+  image: "https://hoachatthinghiem.org/wp-content/uploads/2024/03/Potassium-Chloride-AR-Chai-500G-JHD-Cas-7447-40-7.jpg",
+
+  images: [
+    "https://5.imimg.com/data5/SELLER/Default/2024/12/477068207/JR/OX/PZ/127135361/77836e5a-76b6-4e21-9dda-748ff09b81e4-1.jpg",
+    "https://5.imimg.com/data5/SELLER/Default/2023/1/XE/BC/NI/13001283/potassium-chloride.jpeg",
+  ],
+
+  description: "99% Pure Potassium Chloride",
+
+  price: "8000 FCFA",
+
+  specifications: [
+     "500g Chemical Quantity",
+  "99% Laboratory Purity",
+  "Analytical Grade Reagent",
+  "Moisture Resistant Container"
+  ],
+
+  fullDescription: "Potassium chloride 500g is a laboratory-grade chemical reagent commonly used in analytical chemistry, fertilizer research, medical applications, and educational scientific experiments. Typically supplied at approximately 99% purity, it provides reliable chemical performance and consistent laboratory results for scientific and industrial use. The compound is packaged in a moisture-resistant airtight container to maintain product stability and reduce contamination during storage and handling. It is widely used in schools, research laboratories, pharmaceutical industries, agriculture, and industrial scientific applications requiring dependable potassium-based reagents.",
+},
+
+{
+  id: 130,
+
+  slug: "Potassium chromate",
+
+  category: "Chemistry",
+
+  name: "Potassium chromate 500g",
+
+  image: "https://5.imimg.com/data5/SELLER/Default/2023/6/314764950/WM/EV/IT/188944651/potassium-chromate-powder-500x500.jpeg",
+
+  images: [
+    "https://5.imimg.com/data5/SELLER/Default/2023/6/314764950/WM/EV/IT/188944651/potassium-chromate-powder-500x500.jpeg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5HNp3xPELb9C-0TX6OgFL8E8jjVHgY_QMUg&s",
+    "https://5.imimg.com/data5/SELLER/Default/2024/5/417286824/AM/WV/FD/41673194/potassium-chromate-powder-250x250.jpg"
+  ],
+
+  description: "99% Pure Potassium Chromate",
+
+  price: "12000 FCFA",
+
+  specifications: [
+    "500g Chemical Quantity",
+  "99% Laboratory Purity",
+  "Analytical Grade Oxidizer",
+  "Secure Airtight Container"
+  ],
+
+  fullDescription: "Potassium chromate 500g is a laboratory-grade chemical reagent widely used in analytical chemistry, silver nitrate titrations, pigment research, and educational scientific experiments. Typically supplied at approximately 99% purity, it provides reliable chemical performance and consistent laboratory results for scientific and industrial applications. The compound is packaged in a secure airtight chemical-resistant container to maintain product stability and protect against contamination during storage and handling. It is commonly used in research laboratories, pharmaceutical industries, and industrial scientific processes requiring dependable chromate reagents.",
+},
+
+{
+  id: 131,
+
+  slug: "Potassium dichromate",
+
+  category: "Chemistry",
+
+  name: "Potassium dichromate 500g",
+
+  image: "https://5.imimg.com/data5/SELLER/Default/2024/9/449418315/OY/BZ/FW/1949757/img-4006.png",
+
+  images: [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReMGRe3C1hmpSarpyHd9yaZ29XWPaiXr_mCQ&s",
+    "https://www.srlchem.com/SRL/user_img/products/80233/80233%20-%20Potassium%20Dichromate%20SRLChem.jpg",
+    "https://5.imimg.com/data5/SELLER/Default/2024/9/449418315/OY/BZ/FW/1949757/img-4006.png"
+  ],
+
+  description: "99.5% Pure Potassium Dichromate",
+
+  price: "12000 FCFA",
+
+  specifications: [
+    "500g Chemical Quantity",
+  "99.5% Laboratory Purity",
+  "Strong Oxidizing Reagent",
+  "Secure Airtight Container"
+  ],
+
+  fullDescription: "Potassium dichromate 500g is a laboratory-grade chemical reagent widely used in analytical chemistry, redox titrations, oxidation reactions, and educational scientific experiments. Typically supplied at approximately 99.5% purity, it provides reliable oxidizing performance and consistent laboratory results for scientific and industrial applications. The compound is packaged in a secure airtight chemical-resistant container to maintain product stability and minimize contamination during storage and handling. It is commonly used in schools, research laboratories, pharmaceutical industries, and industrial chemical processes requiring dependable oxidizing reagents.",
+},
+
+{
+  id: 132,
+
+  slug: "Potassium hydrogen carbonate  500g",
+
+  category: "Chemistry",
+
+  name: "Potassium hydrogen carbonate  500g",
+
+  image: "https://hoachatthinghiem.org/wp-content/uploads/2024/03/Potassium-bicarbonate-Potassium-hydrogen-carbonate-AR-Chai-500G-JHD-Cas-298-14-6.jpg",
+
+  images: [
+    "https://pictures-nigeria.jijistatic.net/124975437_NjIwLTgyNy1hMTc2YjU2ZWU0LTI.webp",
+    "https://www.carlroth.com/medias/1000Wx1000H-Gruppe-Salze-02.jpg?context=bWFzdGVyfGltYWdlc3wzMDA5N3xpbWFnZS9qcGVnfGFXMWhaMlZ6TDJnME1DOW9ZVGd2T1RFeE9UWXlOekUwT1RNME1pNXFjR2N8ZDRiN2Y2YWE2Nzg4NTcyMzhiNmY2MzI2MDM0ZWIwZGNjZTVmNzZkZGQ2NjdhOWU2MDczMGNmYjRkNzE4N2Y4NA",
+  ],
+
+  description: "99% Pure Potassium Bicarbonate",
+
+  price: "8000 FCFA",
+
+  specifications: [
+    "500g Chemical Quantity",
+  "99% Laboratory Purity",
+  "Analytical Grade Compound",
+  "Moisture Resistant Container"
+  ],
+
+  fullDescription: "Potassium hydrogen carbonate 500g, also known as potassium bicarbonate, is a laboratory-grade chemical compound widely used in analytical chemistry, food research, buffering solutions, and educational scientific experiments. Typically supplied at approximately 99% purity, it provides reliable chemical performance and consistent laboratory results for scientific and industrial applications. The compound is packaged in a moisture-resistant airtight container to maintain product stability and minimize contamination during storage and handling. It is commonly used in schools, research laboratories, pharmaceutical industries, food processing, and industrial scientific applications requiring dependable bicarbonate compounds.",
+},
+
+{
+  id: 133,
+
+  slug: "Potassium hydrogen sulphate",
+
+  category: "Chemistry",
+
+  name: "Potassium hydrogen sulphate  500g",
+
+  image: "https://mymicrolab.com/pub/media/catalog/product/cache/4c4cf122317d5ed3c60d8f9a6a5b5181/2/6/2686_500gpg_u62vt4fr0ksjdnxd.jpg",
+
+  images: [
+    "https://gammaco.com/gammaco/assets/product/3096130.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHqx0EFbyxOsCAs_1z0fMgZJVPUhv6rNY1Ww&s",
+    "https://m.media-amazon.com/images/I/5113bFgBXmL.jpg"
+  ],
+
+  description: "99% Pure Potassium Bisulphate",
+
+  price: "8000 FCFA",
+
+  specifications: [
+    "500g Chemical Quantity",
+  "99% Laboratory Purity",
+  "Analytical Grade Acid Salt",
+  "Moisture Resistant Container"
+  ],
+
+  fullDescription: "Potassium hydrogen sulphate 500g, also known as potassium bisulphate, is a laboratory-grade acidic chemical compound widely used in analytical chemistry, flux preparation, educational experiments, and industrial scientific applications. Typically supplied at approximately 99% purity, it provides reliable chemical performance and consistent laboratory results for scientific and industrial use. The compound is packaged in a moisture-resistant airtight container to maintain product stability and reduce contamination during storage and handling. It is commonly used in schools, research laboratories, pharmaceutical industries, and industrial chemical processes requiring dependable acid salt compounds.",
+},
+
+{
+  id: 134,
+
+  slug: "Potassium hydroxide  500g",
+
+  category: "Chemistry",
+
+  name:  "Potassium hydroxide  500g",
+
+  image: "https://www.chemicalplus.co.za/wp-content/uploads/2024/12/potassium-hydroxide-pellets-cp-500g.jpg",
+
+  images: [
+    "https://www.chemicalplus.co.za/wp-content/uploads/2020/02/potassium-hydroxide-pellets-ar-500g2.jpg",
+    "https://5.imimg.com/data5/SELLER/Default/2023/8/334256683/UO/AL/BV/3386969/lr-grade-potassium-hydroxide-pellet-250x250.jpg",
+    "https://cpimg.tistatic.com/12336205/b/4/Potassium-Hydroxide-Pellets..webp"
+  ],
+
+  description: "90% Pure Potassium Hydroxide",
+
+  price: "8000 FCFA",
+
+  specifications: [
+    "500g Chemical Quantity",
+  "90% Laboratory Purity",
+  "Strong Alkaline Reagent",
+  "Moisture Resistant Container"
+  ],
+
+  fullDescription: "Potassium hydroxide 500g is a laboratory-grade strong alkaline chemical widely used in analytical chemistry, soap production, pH adjustment, organic synthesis, and educational scientific experiments. Typically supplied at approximately 90% purity because of its highly hygroscopic nature and absorption of atmospheric moisture and carbon dioxide, it provides reliable chemical performance and consistent laboratory results. The compound is packaged in a moisture-resistant airtight container to maintain stability and ensure safe storage and handling conditions. It is commonly used in schools, research laboratories, pharmaceutical industries, and industrial chemical processes requiring dependable alkaline reagents.",
+},
+
+{
+  id: 135,
+
+  slug: "Potassium iodate",
+
+  category: "Chemistry",
+
+  name: " Potassium iodate  500g",
+
+  image: "https://pictures-nigeria.jijistatic.net/172508582_NjIwLTEyNTctMzFmNThmZWM5NA.webp",
+
+  images: [
+    "https://pictures-nigeria.jijistatic.net/172508582_NjIwLTEyNTctMzFmNThmZWM5NA.webp",
+    "https://s.alicdn.com/@sc04/kf/H9a80d5e6e9044aea9f2dc38b6b86c163F/Manufacturer-of-Potassium-Iodide-Ar-KI.jpg_300x300.jpg",
+  ],
+
+  description: "99.5% Pure Potassium Iodate",
+
+  price: "30000 FCFA",
+
+  specifications: [
+    "500g Chemical Quantity",
+  "99.5% Laboratory Purity",
+  "Analytical Grade Oxidizer",
+  "Secure Airtight Container"
+  ],
+
+  fullDescription: "Potassium iodate 500g is a laboratory-grade chemical reagent widely used in analytical chemistry, iodometric titrations, food fortification research, and educational scientific experiments. Typically supplied at approximately 99.5% purity, it provides reliable oxidizing performance and consistent laboratory results for scientific and industrial applications. The compound is packaged in a secure airtight chemical-resistant container to maintain product stability and minimize contamination during storage and handling. It is commonly used in schools, research laboratories, pharmaceutical industries, and industrial scientific processes requiring dependable iodate reagents.",
+},
+
+{
+  id: 136,
+
   slug: "",
 
-  category: "",
+  category: "Chemistry",
 
   name: "",
 
   image: "",
 
-  images: [],
+  images: [
+    "",
+    "",
+    ""
+  ],
 
   description: "",
 
-  price: "",
+  price: " FCFA",
 
   specifications: [],
 
@@ -2184,1841 +4159,885 @@ const chemistryProducts = [
 },
 
 {
-  id: 75,
+  id: 137,
 
   slug: "",
 
-  category: "",
+  category: "Chemistry",
 
   name: "",
 
   image: "",
 
   images: [
-
     "",
-
     "",
-
     ""
-
   ],
 
   description: "",
 
-  price: "",
+  price: " FCFA",
 
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
+  specifications: [],
 
   fullDescription: "",
 },
 
 {
-  id: 76,
+  id: 138,
 
   slug: "",
 
-  category: "",
+  category: "Chemistry",
 
   name: "",
 
   image: "",
 
   images: [
-
     "",
-
     "",
-
     ""
-
   ],
 
   description: "",
 
-  price: "",
+  price: " FCFA",
 
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
+  specifications: [],
 
   fullDescription: "",
 },
 
 {
-  id: 77,
+  id: 139,
 
   slug: "",
 
-  category: "",
+  category: "Chemistry",
 
   name: "",
 
   image: "",
 
   images: [
-
     "",
-
     "",
-
     ""
-
   ],
 
   description: "",
 
-  price: "",
+  price: " FCFA",
 
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
+  specifications: [],
 
   fullDescription: "",
 },
 
 {
-  id: 78,
+  id: 140,
 
   slug: "",
 
-  category: "",
+  category: "Chemistry",
 
   name: "",
 
   image: "",
 
   images: [
-
     "",
-
     "",
-
     ""
-
   ],
 
   description: "",
 
-  price: "",
+  price: " FCFA",
 
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
+  specifications: [],
 
   fullDescription: "",
 },
 
 {
-  id: 79,
+  id: 141,
 
   slug: "",
 
-  category: "",
+  category: "Chemistry",
 
   name: "",
 
   image: "",
 
   images: [
-
     "",
-
     "",
-
     ""
-
   ],
 
   description: "",
 
-  price: "",
+  price: " FCFA",
 
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
+  specifications: [],
 
   fullDescription: "",
 },
 
 {
-  id: 80,
+  id: 142,
 
   slug: "",
 
-  category: "",
+  category: "Chemistry",
 
   name: "",
 
   image: "",
 
   images: [
-
     "",
-
     "",
-
     ""
-
   ],
 
   description: "",
 
-  price: "",
+  price: " FCFA",
 
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
+  specifications: [],
 
   fullDescription: "",
 },
 
 {
-  id: 81,
+  id: 143,
 
   slug: "",
 
-  category: "",
+  category: "Chemistry",
 
   name: "",
 
   image: "",
 
   images: [
-
     "",
-
     "",
-
     ""
-
   ],
 
   description: "",
 
-  price: "",
+  price: " FCFA",
 
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
+  specifications: [],
 
   fullDescription: "",
 },
 
 {
-  id: 82,
+  id: 144,
 
   slug: "",
 
-  category: "",
+  category: "Chemistry",
 
   name: "",
 
   image: "",
 
   images: [
-
     "",
-
     "",
-
     ""
-
   ],
 
   description: "",
 
-  price: "",
+  price: " FCFA",
 
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
+  specifications: [],
 
   fullDescription: "",
 },
 
 {
-  id: 83,
+  id: 145,
 
   slug: "",
 
-  category: "",
+  category: "Chemistry",
 
   name: "",
 
   image: "",
 
   images: [
-
     "",
-
     "",
-
     ""
-
   ],
 
   description: "",
 
-  price: "",
+  price: " FCFA",
 
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
+  specifications: [],
 
   fullDescription: "",
 },
 
 {
-  id: 84,
+  id: 146,
 
   slug: "",
 
-  category: "",
+  category: "Chemistry",
 
   name: "",
 
   image: "",
 
   images: [
-
     "",
-
     "",
-
     ""
-
   ],
 
   description: "",
 
-  price: "",
+  price: " FCFA",
 
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
+  specifications: [],
 
   fullDescription: "",
 },
 
 {
-  id: 85,
+  id: 147,
 
   slug: "",
 
-  category: "",
+  category: "Chemistry",
 
   name: "",
 
   image: "",
 
   images: [
-
     "",
-
     "",
-
     ""
-
   ],
 
   description: "",
 
-  price: "",
+  price: " FCFA",
 
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
+  specifications: [],
 
   fullDescription: "",
 },
 
 {
-  id: 86,
+  id: 148,
 
   slug: "",
 
-  category: "",
+  category: "Chemistry",
 
   name: "",
 
   image: "",
 
   images: [
-
     "",
-
     "",
-
     ""
-
   ],
 
   description: "",
 
-  price: "",
+  price: " FCFA",
 
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
+  specifications: [],
 
   fullDescription: "",
 },
 
 {
-  id: 87,
+  id: 149,
 
   slug: "",
 
-  category: "",
+  category: "Chemistry",
 
   name: "",
 
   image: "",
 
   images: [
-
     "",
-
     "",
-
     ""
-
   ],
 
   description: "",
 
-  price: "",
+  price: " FCFA",
 
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
+  specifications: [],
 
   fullDescription: "",
 },
 
 {
-  id: 88,
+  id: 150,
 
   slug: "",
 
-  category: "",
+  category: "Chemistry",
 
   name: "",
 
   image: "",
 
   images: [
-
     "",
-
     "",
-
     ""
-
   ],
 
   description: "",
 
-  price: "",
+  price: " FCFA",
 
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
+  specifications: [],
 
   fullDescription: "",
 },
 
 {
-  id: 89,
+  id: 151,
 
   slug: "",
 
-  category: "",
+  category: "Chemistry",
 
   name: "",
 
   image: "",
 
   images: [
-
     "",
-
     "",
-
     ""
-
   ],
 
   description: "",
 
-  price: "",
+  price: " FCFA",
 
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
+  specifications: [],
 
   fullDescription: "",
 },
 
 {
-  id: 90,
+  id: 152,
 
   slug: "",
 
-  category: "",
+  category: "Chemistry",
 
   name: "",
 
   image: "",
 
   images: [
-
     "",
-
     "",
-
     ""
-
   ],
 
   description: "",
 
-  price: "",
+  price: " FCFA",
 
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
+  specifications: [],
 
   fullDescription: "",
 },
 
 {
-  id: 91,
+  id: 153,
 
   slug: "",
 
-  category: "",
+  category: "Chemistry",
 
   name: "",
 
   image: "",
 
   images: [
-
     "",
-
     "",
-
     ""
-
   ],
 
   description: "",
 
-  price: "",
+  price: " FCFA",
 
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
+  specifications: [],
 
   fullDescription: "",
 },
 
 {
-  id: 92,
+  id: 154,
 
   slug: "",
 
-  category: "",
+  category: "Chemistry",
 
   name: "",
 
   image: "",
 
   images: [
-
     "",
-
     "",
-
     ""
-
   ],
 
   description: "",
 
-  price: "",
+  price: " FCFA",
 
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
+  specifications: [],
 
   fullDescription: "",
 },
 
 {
-  id: 93,
+  id: 155,
 
   slug: "",
 
-  category: "",
+  category: "Chemistry",
 
   name: "",
 
   image: "",
 
   images: [
-
     "",
-
     "",
-
     ""
-
   ],
 
   description: "",
 
-  price: "",
+  price: " FCFA",
 
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
+  specifications: [],
 
   fullDescription: "",
 },
 
 {
-  id: 94,
+  id: 156,
 
   slug: "",
 
-  category: "",
+  category: "Chemistry",
 
   name: "",
 
   image: "",
 
   images: [
-
     "",
-
     "",
-
     ""
-
   ],
 
   description: "",
 
-  price: "",
+  price: " FCFA",
 
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
+  specifications: [],
 
   fullDescription: "",
 },
 
 {
-  id: 95,
+  id: 157,
 
   slug: "",
 
-  category: "",
+  category: "Chemistry",
 
   name: "",
 
   image: "",
 
   images: [
-
     "",
-
     "",
-
     ""
-
   ],
 
   description: "",
 
-  price: "",
+  price: " FCFA",
 
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
+  specifications: [],
 
   fullDescription: "",
 },
 
 {
-  id: 96,
+  id: 158,
 
   slug: "",
 
-  category: "",
+  category: "Chemistry",
 
   name: "",
 
   image: "",
 
   images: [
-
     "",
-
     "",
-
     ""
-
   ],
 
   description: "",
 
-  price: "",
+  price: " FCFA",
 
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
+  specifications: [],
 
   fullDescription: "",
 },
 
 {
-  id: 97,
+  id: 159,
 
   slug: "",
 
-  category: "",
+  category: "Chemistry",
 
   name: "",
 
   image: "",
 
   images: [
-
     "",
-
     "",
-
     ""
-
   ],
 
   description: "",
 
-  price: "",
+  price: " FCFA",
 
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
+  specifications: [],
 
   fullDescription: "",
 },
 
 {
-  id: 98,
+  id: 160,
 
   slug: "",
 
-  category: "",
+  category: "Chemistry",
 
   name: "",
 
   image: "",
 
   images: [
-
     "",
-
     "",
-
     ""
-
   ],
 
   description: "",
 
-  price: "",
+  price: " FCFA",
 
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
+  specifications: [],
 
   fullDescription: "",
 },
 
 {
-  id: 99,
+  id: 161,
 
   slug: "",
 
-  category: "",
+  category: "Chemistry",
 
   name: "",
 
   image: "",
 
   images: [
-
     "",
-
     "",
-
     ""
-
   ],
 
   description: "",
 
-  price: "",
+  price: " FCFA",
 
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
+  specifications: [],
 
   fullDescription: "",
 },
 
 {
-  id: 100,
+  id: 162,
 
   slug: "",
 
-  category: "",
+  category: "Chemistry",
 
   name: "",
 
   image: "",
 
   images: [
-
     "",
-
     "",
-
     ""
-
   ],
 
   description: "",
 
-  price: "",
+  price: " FCFA",
 
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
+  specifications: [],
 
   fullDescription: "",
 },
 
 {
-  id: 101,
+  id: 163,
 
   slug: "",
 
-  category: "",
+  category: "Chemistry",
 
   name: "",
 
   image: "",
 
   images: [
-
     "",
-
     "",
-
     ""
-
   ],
 
   description: "",
 
-  price: "",
+  price: " FCFA",
 
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
+  specifications: [],
 
   fullDescription: "",
 },
 
 {
-  id: 102,
+  id: 164,
 
   slug: "",
 
-  category: "",
+  category: "Chemistry",
 
   name: "",
 
   image: "",
 
   images: [
-
     "",
-
     "",
-
     ""
-
   ],
 
   description: "",
 
-  price: "",
+  price: " FCFA",
 
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
+  specifications: [],
 
   fullDescription: "",
 },
 
 {
-  id: 103,
+  id: 165,
 
   slug: "",
 
-  category: "",
+  category: "Chemistry",
 
   name: "",
 
   image: "",
 
   images: [
-
     "",
-
     "",
-
     ""
-
   ],
 
   description: "",
 
-  price: "",
+  price: " FCFA",
 
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
+  specifications: [],
 
   fullDescription: "",
 },
 
 {
-  id: 104,
+  id: 166,
 
   slug: "",
 
-  category: "",
+  category: "Chemistry",
 
   name: "",
 
   image: "",
 
   images: [
-
     "",
-
     "",
-
     ""
-
   ],
 
   description: "",
 
-  price: "",
+  price: " FCFA",
 
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
+  specifications: [],
 
   fullDescription: "",
 },
 
 {
-  id: 105,
+  id: 167,
 
   slug: "",
 
-  category: "",
+  category: "Chemistry",
 
   name: "",
 
   image: "",
 
   images: [
-
     "",
-
     "",
-
     ""
-
   ],
 
   description: "",
 
-  price: "",
+  price: " FCFA",
 
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
+  specifications: [],
 
   fullDescription: "",
 },
 
 {
-  id: 106,
+  id: 168,
 
   slug: "",
 
-  category: "",
+  category: "Chemistry",
 
   name: "",
 
   image: "",
 
   images: [
-
     "",
-
     "",
-
     ""
-
   ],
 
   description: "",
 
-  price: "",
+  price: " FCFA",
 
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
+  specifications: [],
 
   fullDescription: "",
 },
 
 {
-  id: 107,
+  id: 169,
 
   slug: "",
 
-  category: "",
+  category: "Chemistry",
 
   name: "",
 
   image: "",
 
   images: [
-
     "",
-
     "",
-
     ""
-
   ],
 
   description: "",
 
-  price: "",
+  price: " FCFA",
 
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
+  specifications: [],
 
   fullDescription: "",
 },
 
 {
-  id: 108,
+  id: 170,
 
   slug: "",
 
-  category: "",
+  category: "Chemistry",
 
   name: "",
 
   image: "",
 
   images: [
-
     "",
-
     "",
-
     ""
-
   ],
 
   description: "",
 
-  price: "",
+  price: " FCFA",
 
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
-
-  fullDescription: "",
-},
-
-{
-  id: 109,
-
-  slug: "",
-
-  category: "",
-
-  name: "",
-
-  image: "",
-
-  images: [
-
-    "",
-
-    "",
-
-    ""
-
-  ],
-
-  description: "",
-
-  price: "",
-
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
-
-  fullDescription: "",
-},
-
-{
-  id: 110,
-
-  slug: "",
-
-  category: "",
-
-  name: "",
-
-  image: "",
-
-  images: [
-
-    "",
-
-    "",
-
-    ""
-
-  ],
-
-  description: "",
-
-  price: "",
-
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
-
-  fullDescription: "",
-},
-
-{
-  id: 111,
-
-  slug: "",
-
-  category: "",
-
-  name: "",
-
-  image: "",
-
-  images: [
-
-    "",
-
-    "",
-
-    ""
-
-  ],
-
-  description: "",
-
-  price: "",
-
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
-
-  fullDescription: "",
-},
-
-{
-  id: 112,
-
-  slug: "",
-
-  category: "",
-
-  name: "",
-
-  image: "",
-
-  images: [
-
-    "",
-
-    "",
-
-    ""
-
-  ],
-
-  description: "",
-
-  price: "",
-
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
-
-  fullDescription: "",
-},
-
-{
-  id: 113,
-
-  slug: "",
-
-  category: "",
-
-  name: "",
-
-  image: "",
-
-  images: [
-
-    "",
-
-    "",
-
-    ""
-
-  ],
-
-  description: "",
-
-  price: "",
-
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
-
-  fullDescription: "",
-},
-
-{
-  id: 114,
-
-  slug: "",
-
-  category: "",
-
-  name: "",
-
-  image: "",
-
-  images: [
-
-    "",
-
-    "",
-
-    ""
-
-  ],
-
-  description: "",
-
-  price: "",
-
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
-
-  fullDescription: "",
-},
-
-{
-  id: 115,
-
-  slug: "",
-
-  category: "",
-
-  name: "",
-
-  image: "",
-
-  images: [
-
-    "",
-
-    "",
-
-    ""
-
-  ],
-
-  description: "",
-
-  price: "",
-
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
-
-  fullDescription: "",
-},
-
-{
-  id: 116,
-
-  slug: "",
-
-  category: "",
-
-  name: "",
-
-  image: "",
-
-  images: [
-
-    "",
-
-    "",
-
-    ""
-
-  ],
-
-  description: "",
-
-  price: "",
-
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
-
-  fullDescription: "",
-},
-
-{
-  id: 117,
-
-  slug: "",
-
-  category: "",
-
-  name: "",
-
-  image: "",
-
-  images: [
-
-    "",
-
-    "",
-
-    ""
-
-  ],
-
-  description: "",
-
-  price: "",
-
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
-
-  fullDescription: "",
-},
-
-{
-  id: 118,
-
-  slug: "",
-
-  category: "",
-
-  name: "",
-
-  image: "",
-
-  images: [
-
-    "",
-
-    "",
-
-    ""
-
-  ],
-
-  description: "",
-
-  price: "",
-
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
-
-  fullDescription: "",
-},
-
-{
-  id: 119,
-
-  slug: "",
-
-  category: "",
-
-  name: "",
-
-  image: "",
-
-  images: [
-
-    "",
-
-    "",
-
-    ""
-
-  ],
-
-  description: "",
-
-  price: "",
-
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
-
-  fullDescription: "",
-},
-
-{
-  id: 120,
-
-  slug: "",
-
-  category: "",
-
-  name: "",
-
-  image: "",
-
-  images: [
-
-    "",
-
-    "",
-
-    ""
-
-  ],
-
-  description: "",
-
-  price: "",
-
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
+  specifications: [],
 
   fullDescription: "",
 },
