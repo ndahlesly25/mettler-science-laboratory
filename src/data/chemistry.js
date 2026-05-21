@@ -4505,522 +4505,618 @@ const chemistryProducts = [
 {
   id: 148,
 
-  slug: "",
+  slug: "Sodium formate",
 
   category: "Chemistry",
 
-  name: "",
+  name: "Sodium formate  500g",
 
-  image: "",
+  image: "https://apcpure.com/images/productPictures/842/packPictures/500g.webp",
 
   images: [
-    "",
-    "",
-    ""
+    "https://5.imimg.com/data5/SELLER/Default/2024/5/417634942/AX/NQ/FM/41673194/sodium-formate-chemical-250x250.jpg",
+    "https://www.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/230/722/75db586e-a1cc-4595-afb2-cb4c026fc876/640/75db586e-a1cc-4595-afb2-cb4c026fc876.jpg",
   ],
 
-  description: "",
+  description: "98% Pure Sodium Formate",
 
-  price: " FCFA",
+  price: "10000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "500g Chemical Quantity",
+  "98% Laboratory Purity",
+  "Analytical Grade Compound",
+  "Moisture Resistant Container"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Sodium formate 500g is a laboratory-grade chemical compound widely used in analytical chemistry, textile processing, leather treatment, de-icing formulations, and educational scientific experiments. Typically supplied at approximately 98% purity, it provides reliable chemical performance and consistent laboratory results for scientific and industrial applications. The compound is packaged in a moisture-resistant airtight container to maintain product stability and minimize contamination during storage and handling. It is commonly used in schools, research laboratories, pharmaceutical industries, and industrial chemical processes requiring dependable formate compounds.",
 },
 
 {
   id: 149,
 
-  slug: "",
+  slug: "Sodium hydrogen carbonate",
 
   category: "Chemistry",
 
-  name: "",
+  name: "Sodium hydrogen carbonate  500g",
 
-  image: "",
+  image: "https://www.westlab.com.au/media/catalog/product/8/1/817-500g-img-06_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
 
   images: [
-    "",
-    "",
-    ""
+    "https://m.media-amazon.com/images/I/71-N6-4rFQL.jpg",
+    "https://m.media-amazon.com/images/I/41R6WPpm0HL._AC_UF1000,1000_QL80_.jpg",
+    "https://5.imimg.com/data5/ANDROID/Default/2025/6/517447243/WD/SQ/RH/3949949/product-jpeg.jpg"
   ],
 
-  description: "",
+  description: "99.5% Pure Sodium Bicarbonate",
 
-  price: " FCFA",
+  price: "10000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "500g Chemical Quantity",
+  "99.5% Laboratory Purity",
+  "Analytical Grade Compound",
+  "Moisture Resistant Container"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Sodium hydrogen carbonate 500g, also known as sodium bicarbonate, is a laboratory-grade chemical compound widely used in analytical chemistry, buffer preparation, food research, pharmaceutical applications, and educational scientific experiments. Typically supplied at approximately 99.5% purity, it provides reliable chemical performance and consistent laboratory results for scientific and industrial applications. The compound is packaged in a moisture-resistant airtight container to maintain product stability and prevent contamination during storage and handling. It is commonly used in schools, research laboratories, pharmaceutical industries, food processing, and industrial scientific applications requiring dependable bicarbonate compounds.",
 },
 
 {
   id: 150,
 
-  slug: "",
+  slug: "Sodium hydroxide pellets",
 
   category: "Chemistry",
 
-  name: "",
+  name: "Sodium hydroxide pellets  500g",
 
-  image: "",
+  image: "https://www.westlab.com.au/media/catalog/product/s/a/sa178-500g-img-02_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
 
   images: [
-    "",
-    "",
-    ""
+    "https://j.lnwfile.com/aoitf5.jpg",
+    "https://5.imimg.com/data5/SELLER/Default/2024/7/435336881/QY/HY/CG/93522447/y8-1-500x500.jpg",
+    "https://5.imimg.com/data5/SELLER/Default/2022/1/WK/VY/ZL/131804736/sodium-hydroxide-pellet-500x500.jpg"
   ],
 
-  description: "",
+  description: "98% Pure Sodium Hydroxide",
 
-  price: " FCFA",
+  price: "8000 FCFA",
 
-  specifications: [],
+  specifications: [
+      "500g Chemical Quantity",
+  "98% Pellet Purity",
+  "Strong Alkaline Reagent",
+  "Moisture Resistant Container"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Sodium hydroxide pellets 500g are a laboratory-grade strong alkaline chemical widely used in analytical chemistry, soap production, pH adjustment, chemical synthesis, and educational scientific experiments. Typically supplied at approximately 98% purity, they provide reliable chemical performance and consistent laboratory results for scientific and industrial applications. The pellets are packaged in a moisture-resistant airtight container because of their highly hygroscopic nature and tendency to absorb carbon dioxide from the atmosphere. They are commonly used in schools, research laboratories, pharmaceutical industries, and industrial chemical processes requiring dependable alkaline reagents.",
 },
 
 {
   id: 151,
 
-  slug: "",
+  slug: "Sodium nitrite",
 
   category: "Chemistry",
 
-  name: "",
+  name: "Sodium nitrite  500g",
 
-  image: "",
+  image: "https://new.dawnscientific.com/public/storage/products/Ch1576-sodium-nitrite-lab-500g-a35ea4.webp",
 
   images: [
-    "",
-    "",
-    ""
+    "https://static.grainger.com/rp/s/is/image/Grainger/6NNX3_AS01",
+    "https://www.homecuring.co.uk/cdn/shop/products/NaNO2.jpg?v=1590060104&width=1946",
+    "https://i0.wp.com/robustindonesia.com/wp-content/uploads/2019/11/batch-upload_9238ea2e-5990-4539-a3e2-9013f44e3dd8.png?fit=600%2C600&ssl=1"
   ],
 
-  description: "",
+  description: "99% Pure Sodium Nitrite",
 
-  price: " FCFA",
+  price: "10000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "500g Chemical Quantity",
+  "99% Laboratory Purity",
+  "Analytical Grade Reagent",
+  "Moisture Resistant Container"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Sodium nitrite 500g is a laboratory-grade chemical reagent widely used in analytical chemistry, diazotization reactions, corrosion inhibition studies, and educational scientific experiments. Typically supplied at approximately 99% purity, it provides reliable chemical performance and consistent laboratory results for scientific and industrial applications. The compound is packaged in a moisture-resistant airtight container to maintain product stability and reduce contamination during storage and handling. It is commonly used in research laboratories, pharmaceutical industries, food preservation research, and industrial chemical processes requiring dependable nitrite reagents.",
 },
 
 {
   id: 152,
 
-  slug: "",
+  slug: "sodium nitrate",
 
   category: "Chemistry",
 
-  name: "",
+  name: "Sodium nitrate 500g",
 
-  image: "",
+  image: "https://labequipsupply.co.za/wp-content/uploads/2021/03/RLS-Chemicals-Sodium-Nitrate-CP-1.jpg",
 
   images: [
-    "",
-    "",
-    ""
+    "https://m.media-amazon.com/images/I/41QKZLprK1L._AC_UF1000,1000_QL80_.jpg",
+    "https://cpimg.tistatic.com/05722222/b/4/Sodium-Nitrate.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSekh3oLIedS-YgQk584vIiEmjbLBU6uuURMw&s"
   ],
 
-  description: "",
+  description: "99% Pure Sodium Nitrate",
 
-  price: " FCFA",
+  price: "10000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "500g Chemical Quantity",
+  "99% Laboratory Purity",
+  "Analytical Grade Oxidizer",
+  "Moisture Resistant Container"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Sodium nitrate 500g is a laboratory-grade chemical reagent widely used in analytical chemistry, fertilizer research, glass production, oxidation reactions, and educational scientific experiments. Typically supplied at approximately 99% purity, it provides reliable chemical performance and consistent laboratory results for scientific and industrial applications. The compound is packaged in a moisture-resistant airtight container to maintain product stability and prevent contamination during storage and handling. It is commonly used in schools, research laboratories, pharmaceutical industries, agriculture, and industrial chemical processes requiring dependable nitrate compounds.",
 },
 
 {
   id: 153,
 
-  slug: "",
+  slug: "Sodium sulphate",
 
   category: "Chemistry",
 
-  name: "",
+  name: "Sodium sulphate  500g",
 
-  image: "",
+  image: "https://5.imimg.com/data5/KL/LP/MY-2127918/sodium-sulphate-anhydrous-ar-500gm.jpg",
 
   images: [
-    "",
-    "",
-    ""
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq4vSpqDWhBj58qcGXGS5nCoX9ziY543Lc9Q&s",
+    "https://m.media-amazon.com/images/I/51sj3o4JqeL._AC_UF1000,1000_QL80_.jpg",
+    "https://5.imimg.com/data5/SELLER/Default/2025/10/555215953/WV/WZ/VM/40627041/sodium-sulphate-anhydrous.jpeg"
   ],
 
-  description: "",
+  description: "99% Pure Sodium Sulphate",
 
-  price: " FCFA",
+  price: "8000 FCFA",
 
-  specifications: [],
+  specifications: [
+     "500g Chemical Quantity",
+  "99% Laboratory Purity",
+  "Analytical Grade Compound",
+  "Moisture Resistant Container"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Sodium sulphate 500g is a laboratory-grade chemical compound widely used in analytical chemistry, drying applications, detergent production, and educational scientific experiments. Typically supplied at approximately 99% purity, it provides reliable chemical performance and consistent laboratory results for scientific and industrial applications. The compound is packaged in a moisture-resistant airtight container to maintain product stability and reduce contamination during storage and handling. It is commonly used in schools, research laboratories, pharmaceutical industries, and industrial scientific processes requiring dependable sulphate compounds.",
 },
 
 {
   id: 154,
 
-  slug: "",
+  slug: "Sodium sulphide",
 
   category: "Chemistry",
 
-  name: "",
+  name: "Sodium sulphide 500g",
 
-  image: "",
+  image: "https://piochemstore.com/wp-content/uploads/2023/08/120.png",
 
   images: [
-    "",
-    "",
-    ""
+    "https://sciencelab.co.ke/cdn/shop/files/7b273090-ddb6-4ed3-a27b-dfc01fda08c0_240x.jpg?v=1746121292",
+    "https://5.imimg.com/data5/ANDROID/Default/2024/10/455643633/JG/DO/US/59891267/product-jpeg.jpeg",
+    "https://m.media-amazon.com/images/I/61gvj3aLrCL.jpg"
   ],
 
-  description: "",
+  description: "98% Pure Sodium Sulphide",
 
-  price: " FCFA",
+  price: "10000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "500g Chemical Quantity",
+  "98% Laboratory Purity",
+  "Analytical Grade Reagent",
+  "Moisture Resistant Container"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Sodium sulphide 500g is a laboratory-grade chemical reagent widely used in analytical chemistry, qualitative analysis, leather processing, and educational scientific experiments. Typically supplied at approximately 98% purity, it provides reliable chemical performance and consistent laboratory results for scientific and industrial applications. The compound is packaged in a moisture-resistant airtight container to minimize oxidation and maintain product stability during storage and handling. It is commonly used in research laboratories, industrial chemical processes, and scientific applications requiring dependable sulphide reagents.",
 },
 
 {
   id: 155,
 
-  slug: "",
+  slug: "Sodium sulphite anhydrous",
 
   category: "Chemistry",
 
-  name: "",
+  name: "Sodium sulphite anhydrous  500g",
 
-  image: "",
+  image: "https://ases.in/cdn/shop/files/SodiumSUlphiteAnhy.jpg?v=1738912412",
 
   images: [
-    "",
-    "",
-    ""
+    "https://m.media-amazon.com/images/I/51NUf1amYNL._AC_UF1000,1000_QL80_.jpg",
+    "https://cdn.hach.com/7FYZVWYB/at/8p6jf858tj53gk5w4zvq2v59/2386026_Sodium-Sulfite-100g-Z.jpg?auto=webp&quality=85,75&width=578",
   ],
 
-  description: "",
+  description: "98% Pure Sodium Sulphite",
 
-  price: " FCFA",
+  price: "10000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "500g Chemical Quantity",
+  "98% Anhydrous Purity",
+  "Analytical Grade Reagent",
+  "Moisture Resistant Container"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Sodium sulphite anhydrous 500g is a laboratory-grade chemical reagent widely used in analytical chemistry, oxygen scavenging applications, photographic processing, and educational scientific experiments. Typically supplied at approximately 98% purity in anhydrous form, it provides reliable chemical performance and consistent laboratory results for scientific and industrial applications. The compound is packaged in a moisture-resistant airtight container to prevent hydration and oxidation during storage and handling. It is commonly used in schools, research laboratories, pharmaceutical industries, and industrial chemical processes requiring dependable sulphite reagents.",
 },
 
 {
   id: 156,
 
-  slug: "",
+  slug: "Sodium thiosulphate pentahydrate",
 
   category: "Chemistry",
 
-  name: "",
+  name: "Sodium thiosulphate pentahydrate  500g",
 
-  image: "",
+  image: "https://m.media-amazon.com/images/I/41QgWDon2ML._SS400_.jpg",
 
   images: [
-    "",
-    "",
-    ""
+    "https://5.imimg.com/data5/ANDROID/Default/2025/8/539302857/AJ/UT/LZ/123862078/product-jpeg-500x500.jpeg",
+    "https://image.made-in-china.com/43f34j00VdUoNaYMrmzK/Sodium-Thiosulphate-Pentahydrate-Sodium-Thiosulfate1-3mm-for-Dyeing-Industry.webp",
+    "https://m.media-amazon.com/images/I/51MohO8k0kL._AC_UF350,350_QL50_.jpg"
   ],
 
-  description: "",
+  description: "99% Pure Sodium Thiosulphate",
 
-  price: " FCFA",
+  price: "8000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "500g Chemical Quantity",
+  "99% Pentahydrate Purity",
+  "Analytical Grade Reagent",
+  "Moisture Resistant Container"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Sodium thiosulphate pentahydrate 500g is a laboratory-grade chemical reagent widely used in iodometric titrations, photographic processing, water treatment, and educational scientific experiments. Typically supplied at approximately 99% purity in pentahydrate form, it provides reliable chemical performance and consistent laboratory results for scientific and industrial applications. The compound is packaged in a moisture-resistant airtight container to maintain product stability and prevent contamination during storage and handling. It is commonly used in schools, research laboratories, pharmaceutical industries, and industrial scientific processes requiring dependable thiosulphate reagents.",
 },
 
 {
   id: 157,
 
-  slug: "",
+  slug: "Starch soluble",
 
   category: "Chemistry",
 
-  name: "",
+  name: "Starch soluble 500g",
 
-  image: "",
+  image: "https://mymicrolab.com/pub/media/catalog/product/cache/4c4cf122317d5ed3c60d8f9a6a5b5181/3/5/3543_23c7f9xxf6zduu6z.jpg",
 
   images: [
-    "",
-    "",
-    ""
+    "https://m.media-amazon.com/images/I/416x7gm+yTL._AC_UF1000,1000_QL80_.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw_2cxTdHsgdKDCmhCeves1FAHrxtNI59RpQ&s",
+    "https://img3.exportersindia.com/product_images/bc-small/150x150/dir_19/540949/cold-water-soluble-starch-2186437.jpg"
   ],
 
-  description: "",
+  description: "99% Pure Soluble Starch",
 
-  price: " FCFA",
+  price: "5000 FCFA",
 
-  specifications: [],
-
-  fullDescription: "",
+  specifications: [
+    "500g Chemical Quantity",
+  "99% Laboratory Purity",
+  "Water Soluble Indicator",
+  "Moisture Resistant Container"
+  ],
 },
 
 {
   id: 158,
 
-  slug: "",
+  slug: "Strontium carbonate",
 
   category: "Chemistry",
 
-  name: "",
+  name: "Strontium carbonate 500g",
 
-  image: "",
+  image: "https://www.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/433/169/1ad7dbac-ff67-4536-922b-b7af9795c91f/640/1ad7dbac-ff67-4536-922b-b7af9795c91f.jpg",
 
   images: [
-    "",
-    "",
-    ""
+    "https://5.imimg.com/data5/SELLER/Default/2024/3/400476801/SG/OF/KS/2651626/strontium-carbonate-500x500.jpeg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPV-3-_6876PC4Dat2zYq5387Sqes7lppnUA&s",
+    "https://5.imimg.com/data5/SELLER/Default/2025/11/560180667/DQ/QL/NL/10371689/product-jpeg-250x250.jpeg"
   ],
 
-  description: "",
+  description: "99% Pure Strontium Carbonate",
 
-  price: " FCFA",
+  price: "10000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "500g Chemical Quantity",
+  "99% Laboratory Purity",
+  "Analytical Grade Compound",
+  "Secure Airtight Container"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Strontium carbonate 500g is a laboratory-grade chemical compound widely used in analytical chemistry, ceramics production, pyrotechnic research, and educational scientific experiments. Typically supplied at approximately 99% purity, it provides reliable chemical performance and consistent laboratory results for scientific and industrial applications. The compound is packaged in a secure airtight chemical-resistant container to maintain product stability and reduce contamination during storage and handling. It is commonly used in schools, research laboratories, industrial scientific processes, and material science applications requiring dependable strontium-based compounds.",
 },
 
 {
   id: 159,
 
-  slug: "",
+  slug: "Strontium chloride",
 
   category: "Chemistry",
 
-  name: "",
+  name: "Strontium chloride 500g",
 
-  image: "",
+  image: "https://www.westlab.com.au/media/catalog/product/050a7bb5635ac2c48f7ed1fc51b23f4e/contents/SL062-500G/SL062-500G-min.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
 
   images: [
-    "",
-    "",
-    ""
+    "https://www.westlab.com.au/media/catalog/product/050a7bb5635ac2c48f7ed1fc51b23f4e/contents/SL062-500G/SL062-500G-min.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDWdTyhFyaqM4aCXEQBGkz0Qp0OYoWkQQCeQ&s",
+    "https://5.imimg.com/data5/SELLER/Default/2025/4/503283687/SP/MD/WC/110081565/whatsapp-image-2025-04-16-at-10-11-08-17d42f13.jpg"
   ],
 
-  description: "",
+  description: "99% Pure Strontium Chloride",
 
-  price: " FCFA",
+  price: "12000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "500g Chemical Quantity",
+  "99% Laboratory Purity",
+  "Analytical Grade Reagent",
+  "Moisture Resistant Container"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Strontium chloride 500g is a laboratory-grade chemical reagent widely used in analytical chemistry, flame test experiments, pyrotechnic research, and educational scientific applications. Typically supplied at approximately 99% purity, it provides reliable chemical performance and consistent laboratory results for scientific and industrial use. The compound is packaged in a moisture-resistant airtight container due to its hygroscopic nature, helping maintain product stability during storage and handling. It is commonly used in schools, research laboratories, pharmaceutical industries, and industrial scientific processes requiring dependable strontium-based reagents.",
 },
 
 {
   id: 160,
 
-  slug: "",
+  slug: "Strontium nitrate",
 
   category: "Chemistry",
 
-  name: "",
+  name: "Strontium nitrate  500g",
 
-  image: "",
+  image: "https://www.westlab.com.au/media/catalog/product/s/a/sa063-500g.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
 
   images: [
-    "",
-    "",
-    ""
+    "https://www.westlab.com.au/media/catalog/product/s/a/sa063-500g.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
+    "https://5.imimg.com/data5/SELLER/Default/2024/3/396055879/EI/CP/MO/2651626/strontium-nitrate-extra-pure-500x500.jpeg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRmgUNsb_JnXU_IBHS5LNBWgywmOHFdlsE9g&s"
   ],
 
-  description: "",
+  description: "99% Pure Strontium Nitrate",
 
-  price: " FCFA",
+  price: "12000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "500g Chemical Quantity",
+  "99% Laboratory Purity",
+  "Analytical Grade Oxidizer",
+  "Secure Airtight Container"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Strontium nitrate 500g is a laboratory-grade chemical reagent widely used in analytical chemistry, pyrotechnic research, flame coloration experiments, and educational scientific applications. Typically supplied at approximately 99% purity, it provides reliable oxidizing performance and consistent laboratory results for scientific and industrial use. The compound is packaged in a secure airtight chemical-resistant container to maintain product stability and minimize contamination during storage and handling. It is commonly used in schools, research laboratories, industrial scientific processes, and material science applications requiring dependable strontium-based oxidizing reagents.",
 },
 
 {
   id: 161,
 
-  slug: "",
+  slug: "Succinic acid",
 
   category: "Chemistry",
 
-  name: "",
+  name: "Succinic acid  (Butanedioic acid ) 500g",
 
-  image: "",
+  image: "https://assets.fishersci.com/TFS-Assets/CCG/Spectrum-Chemicals/product-images/S1686-ZZ613-10.jpg-650.jpg",
 
   images: [
-    "",
-    "",
-    ""
+    "https://assets.fishersci.com/TFS-Assets/CCG/Spectrum-Chemicals/product-images/S1686-ZZ613-10.jpg-650.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQelHsADdnYc-zxU-E_Ozd_4WnLhxNO2XUXKQ&s",
   ],
 
-  description: "",
+  description: "99% Pure Succinic Acid",
 
-  price: " FCFA",
+  price: "12000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "500g Chemical Quantity",
+  "99% Laboratory Purity",
+  "Analytical Grade Organic Acid",
+  "Secure Airtight Container"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Succinic acid (Butanedioic acid) 500g is a laboratory-grade organic chemical compound widely used in analytical chemistry, pharmaceutical research, polymer synthesis, and educational scientific experiments. Typically supplied at approximately 99% purity, it provides reliable chemical performance and consistent laboratory results for scientific and industrial applications. The compound is packaged in a secure airtight chemical-resistant container to maintain product stability and protect against moisture contamination during storage and handling. It is commonly used in research laboratories, pharmaceutical industries, food research, and industrial chemical processes requiring dependable dicarboxylic acid compounds.",
 },
 
 {
   id: 162,
 
-  slug: "",
+  slug: "Sulphamic acid",
 
   category: "Chemistry",
 
-  name: "",
+  name: "Sulphamic acid 500g",
 
-  image: "",
+  image: "https://ecpltd.co.nz/wp-content/uploads/2023/05/ECP-Sulphamic-Acid-AR-99.jpg",
 
   images: [
-    "",
-    "",
-    ""
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwN80C3xyiR7porM_TK8cdDh0UKyCwXwSvow&s",
+    "https://5.imimg.com/data5/ANDROID/Default/2022/6/NK/YJ/FZ/150150632/product-jpeg-500x500.jpg",
+    "https://5.imimg.com/data5/SELLER/Default/2022/8/EI/TZ/PD/40627041/445ebdab-9b27-4e6f-86ae-aacbecda60ea.jpg"
   ],
 
-  description: "",
+  description: "99.5% Pure Sulphamic Acid",
 
-  price: " FCFA",
+  price: "12000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "500g Chemical Quantity",
+  "99.5% Laboratory Purity",
+  "Analytical Grade Acid",
+  "Moisture Resistant Container"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Sulphamic acid 500g is a laboratory-grade chemical compound widely used in analytical chemistry, descaling applications, cleaning formulations, and educational scientific experiments. Typically supplied at approximately 99.5% purity, it provides reliable chemical performance and consistent laboratory results for scientific and industrial applications. The compound is packaged in a moisture-resistant airtight container to maintain product stability and prevent contamination during storage and handling. It is commonly used in schools, research laboratories, pharmaceutical industries, and industrial chemical processes requiring dependable acidic reagents and cleaning compounds.",
 },
 
 {
   id: 163,
 
-  slug: "",
+  slug: "Sulphuric acid",
 
   category: "Chemistry",
 
-  name: "",
+  name: "Sulphuric acid",
 
-  image: "",
+  image: "https://inwfile.com/s-cc/n8syv0.jpg",
 
   images: [
-    "",
-    "",
-    ""
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSepSzVT6h2b4Ob-hMrEI8-TLSOLoG_ul_4Xw&s",
+    "https://www.chemicals.co.uk/wp-content/uploads/2020/06/Sulfuric-Acid-Laboratory-Use-2.5L-packsize.jpg",
+    "https://inwfile.com/s-cc/g99jvx.jpg"
   ],
 
-  description: "",
+  description: "98% Pure Sulphuric Acid",
 
-  price: " FCFA",
+  price: "3000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "1L Chemical Volume",
+  "98% Concentrated H₂SO₄",
+  "Analytical Grade Acid",
+  "Corrosion Resistant Bottle"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Concentrated sulphuric acid 1L is a laboratory-grade strong mineral acid widely used in analytical chemistry, dehydration reactions, chemical synthesis, battery research, and industrial scientific applications. Typically supplied at approximately 98% concentration, it provides reliable chemical performance and consistent laboratory results for scientific and industrial procedures. The acid is packaged in a corrosion-resistant chemical bottle to ensure safe storage, stability, and proper handling during use. It is commonly used in schools, research laboratories, pharmaceutical industries, fertilizer production, and industrial chemical processes requiring dependable concentrated acid reagents.",
 },
 
 {
   id: 164,
 
-  slug: "",
+  slug: "Tin II chloride",
 
   category: "Chemistry",
 
-  name: "",
+  name: "Tin II chloride  500g",
 
-  image: "",
+  image: "https://admin.haphansci.com/ProductImageUpload/2020/2/25/90-73-0C-28-CE-1F-D6-82-B6-3A-05-6A-E2-80-43-E6.jpg",
 
   images: [
-    "",
-    "",
-    ""
+    "https://5.imimg.com/data5/SELLER/Default/2023/11/363803280/MC/XK/OW/2651626/stannous-chloride-lr.jpeg",
+    "https://cpimg.tistatic.com/03814326/b/4/Tin-Chloride.jpg",
+    "https://j.lnwfile.com/z968ts.jpg"
   ],
 
-  description: "",
+  description: "98% Pure Tin II Chloride",
 
-  price: " FCFA",
+  price: "12000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "500g Chemical Quantity",
+  "98% Laboratory Purity",
+  "Analytical Grade Reagent",
+  "Moisture Resistant Container"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Tin(II) chloride 500g is a laboratory-grade chemical reagent widely used in analytical chemistry, reduction reactions, electroplating research, and educational scientific experiments. Typically supplied at approximately 98% purity, it provides reliable chemical performance and consistent laboratory results for scientific and industrial applications. The compound is packaged in a moisture-resistant airtight container to minimize oxidation and hydrolysis during storage and handling. It is commonly used in schools, research laboratories, pharmaceutical industries, and industrial chemical processes requiring dependable tin-based reducing reagents.",
 },
 
 {
   id: 165,
 
-  slug: "",
+  slug: "Zinc carbonate",
 
   category: "Chemistry",
 
-  name: "",
+  name: "Zinc carbonate  500g",
 
-  image: "",
+  image: "https://kingmariot.com/cdn/shop/files/ZincCarbonateBasic_1200x.jpg?v=1712569420",
 
   images: [
-    "",
-    "",
-    ""
+    "https://m.media-amazon.com/images/I/71mmaJEjEFL._AC_UF1000,1000_QL80_.jpg",
+    "https://m.media-amazon.com/images/I/61R5StrXmyL.jpg",
+    "https://5.imimg.com/data5/SELLER/Default/2024/2/393727967/JT/NE/XW/40681660/zinc-carbonate-powder-500x500.jpg"
   ],
 
-  description: "",
+  description: "98% Pure Zinc Carbonate",
 
-  price: " FCFA",
+  price: "10000 FCFA",
 
-  specifications: [],
+  specifications: [
+     "500g Chemical Quantity",
+  "98% Laboratory Purity",
+  "Analytical Grade Compound",
+  "Secure Airtight Container"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Zinc carbonate 500g is a laboratory-grade chemical compound widely used in analytical chemistry, ceramics production, pharmaceutical research, and educational scientific experiments. Typically supplied at approximately 98% purity, it provides reliable chemical performance and consistent laboratory results for scientific and industrial applications. The compound is packaged in a secure airtight chemical-resistant container to maintain product stability and reduce contamination during storage and handling. It is commonly used in schools, research laboratories, pharmaceutical industries, and industrial scientific processes requiring dependable zinc-based compounds.",
 },
 
 {
   id: 166,
 
-  slug: "",
+  slug: "Zinc powder",
 
   category: "Chemistry",
 
-  name: "",
+  name: "Zinc powder  500g",
 
-  image: "",
+  image: "https://pictures-nigeria.jijistatic.net/180737816_NjIwLTYyMC0zNGFjZDExY2Rk.webp",
 
   images: [
-    "",
-    "",
-    ""
+    "https://5.imimg.com/data5/SELLER/Default/2024/3/397575594/KE/WA/YA/2651626/zinc-dust-extrapure-250x250.jpeg",
+    "https://5.imimg.com/data5/SELLER/Default/2023/9/348918054/TZ/VS/JG/199117/zinc-powder.jpg",
+    "https://5.imimg.com/data5/SELLER/Default/2024/5/417634631/ZC/ZR/GM/41673194/zinc-metal-dust-powder-500x500.jpeg"
   ],
 
-  description: "",
+  description: "99% Pure Zinc Powder",
 
-  price: " FCFA",
+  price: "10000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "500g Chemical Quantity",
+  "99% Metal Purity",
+  "Fine Powder Form",
+  "Laboratory Grade Material"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Zinc powder 500g is a laboratory-grade metallic material widely used in analytical chemistry, reduction reactions, galvanizing research, battery studies, and educational scientific experiments. Typically supplied at approximately 99% purity, it provides reliable chemical performance and consistent laboratory results for scientific and industrial applications. The fine powder form allows efficient reactivity and easy handling during experimental procedures. It is packaged in a secure airtight container to minimize oxidation and maintain product stability during storage and handling.",
 },
 
 {
   id: 167,
 
-  slug: "",
+  slug: "Zinc sulphate hydrated",
 
   category: "Chemistry",
 
-  name: "",
+  name: "Zinc sulphate hydrated  500g",
 
-  image: "",
+  image: "https://cpimg.tistatic.com/12128604/b/4/zinc-sulphate-sq-500g-qualigens.webp",
 
   images: [
-    "",
-    "",
-    ""
+    "https://5.imimg.com/data5/SELLER/Default/2025/11/560177631/WT/FW/OO/10371689/product-jpeg.jpeg",
+    "https://www.srlchem.com/SRL/user_img/products/76455/76455.jpg",
+    "https://5.imimg.com/data5/SELLER/Default/2025/6/517415409/CU/GL/LK/15150501/loba-zinc-sulphate-heptahydrate-250x250.jpeg"
   ],
 
-  description: "",
+  description: "99% Pure Zinc Sulphate",
 
-  price: " FCFA",
+  price: "10000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "500g Chemical Quantity",
+  "99% Hydrated Purity",
+  "Analytical Grade Compound",
+  "Moisture Resistant Container"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Zinc sulphate hydrated 500g is a laboratory-grade chemical compound widely used in analytical chemistry, agricultural research, pharmaceutical applications, and educational scientific experiments. Typically supplied at approximately 99% purity in hydrated form, it provides reliable chemical performance and consistent laboratory results for scientific and industrial applications. The compound is packaged in a moisture-resistant airtight container to maintain product stability and prevent contamination during storage and handling. It is commonly used in schools, research laboratories, pharmaceutical industries, agriculture, and industrial scientific processes requiring dependable zinc-based compounds.",
 },
+
 
 {
   id: 168,
@@ -5041,59 +5137,7 @@ const chemistryProducts = [
 
   description: "",
 
-  price: " FCFA",
-
-  specifications: [],
-
-  fullDescription: "",
-},
-
-{
-  id: 169,
-
-  slug: "",
-
-  category: "Chemistry",
-
-  name: "",
-
-  image: "",
-
-  images: [
-    "",
-    "",
-    ""
-  ],
-
-  description: "",
-
-  price: " FCFA",
-
-  specifications: [],
-
-  fullDescription: "",
-},
-
-{
-  id: 170,
-
-  slug: "",
-
-  category: "Chemistry",
-
-  name: "",
-
-  image: "",
-
-  images: [
-    "",
-    "",
-    ""
-  ],
-
-  description: "",
-
-  price: " FCFA",
+  price: " ",
 
   specifications: [],
 
