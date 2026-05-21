@@ -4135,313 +4135,371 @@ const chemistryProducts = [
 {
   id: 136,
 
-  slug: "",
+  slug: "Potassium iodide",
 
   category: "Chemistry",
 
-  name: "",
+  name: "Potassium iodide  500g",
 
-  image: "",
+  image: "https://www.westlab.com.au/media/catalog/product/8/1/812-500g-img-06_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
 
   images: [
-    "",
-    "",
-    ""
+    "https://www.westlab.com.au/media/catalog/product/8/1/812-500g-img-06_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
+    "https://m.media-amazon.com/images/I/41zH+5usbpL.jpg",
+    "https://5.imimg.com/data5/EQ/HB/CI/SELLER-4175662/potassium-iodide-250x250.jpg"
   ],
 
-  description: "",
+  description: "99% Pure Potassium Iodide",
 
-  price: " FCFA",
+  price: "30000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "500g Chemical Quantity",
+  "99% Laboratory Purity",
+  "Analytical Grade Reagent",
+  "Light Resistant Container"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Potassium iodide 500g is a laboratory-grade chemical reagent commonly used in analytical chemistry, iodometric titrations, pharmaceutical research, and educational scientific experiments. Typically supplied at approximately 99% purity, it provides reliable chemical performance and consistent laboratory results for scientific and industrial applications. The compound is packaged in a light-resistant airtight container to minimize decomposition and maintain product stability during storage and handling. It is widely used in schools, research laboratories, pharmaceutical industries, and industrial scientific processes requiring dependable iodide reagents.",
 },
 
 {
   id: 137,
 
-  slug: "",
+  slug: "Potassium permanganate",
 
   category: "Chemistry",
 
-  name: "",
+  name: "Potassium permanganate  500g",
 
-  image: "",
+  image: "https://images-na.ssl-images-amazon.com/images/I/71vCIEOPhxL._UL500_.jpg",
 
   images: [
-    "",
-    "",
-    ""
+    "https://images-na.ssl-images-amazon.com/images/I/71+tSCeOdaL._UL500_.jpg",
+    "https://d91ztqmtx7u1k.cloudfront.net/ClientContent/Images/ExtraLarge/potassium-permanganate-powder-20240916124019571.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8WFv9tt4-dRK4fz6X8dnyDGsLpjTJCRbNnA&s"
   ],
 
-  description: "",
+  description: "99% Pure Potassium Permanganate",
 
-  price: " FCFA",
+  price: "10000 FCFA",
 
-  specifications: [],
+  specifications: [
+     "500g Chemical Quantity",
+  "99% Laboratory Purity",
+  "Strong Oxidizing Reagent",
+  "Secure Airtight Container"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Potassium permanganate 500g is a laboratory-grade chemical reagent widely used in analytical chemistry, redox titrations, water treatment, disinfection studies, and educational scientific experiments. Typically supplied at approximately 99% purity, it provides strong oxidizing performance and consistent laboratory results for scientific and industrial applications. The compound is packaged in a secure airtight chemical-resistant container to maintain product stability and protect against contamination during storage and handling. It is commonly used in schools, research laboratories, pharmaceutical industries, water treatment facilities, and industrial chemical processes requiring dependable oxidizing reagents.",
 },
 
 {
   id: 138,
 
-  slug: "",
+  slug: "Potassium persulphate",
 
   category: "Chemistry",
 
-  name: "",
+  name: "Potassium persulphate  500g",
 
-  image: "",
+  image: "https://m.media-amazon.com/images/I/61aLbSsdoWL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_QL100_.jpg",
 
   images: [
-    "",
-    "",
-    ""
+    "https://m.media-amazon.com/images/I/61VQ-oWS13L._AC_UF350,350_QL80_.jpg",
+    "https://m.media-amazon.com/images/I/61aLbSsdoWL._AC_UF1000,1000_QL80_.jpg",
   ],
 
-  description: "",
+  description: "98% Pure Potassium Persulphate",
 
-  price: " FCFA",
+  price: "10000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "500g Chemical Quantity",
+  "98% Laboratory Purity",
+  "Strong Oxidizing Reagent",
+  "Moisture Resistant Container"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Potassium persulphate 500g is a laboratory-grade chemical reagent widely used in analytical chemistry, polymerization reactions, etching processes, and educational scientific experiments. Typically supplied at approximately 98% purity, it provides reliable oxidizing performance and consistent laboratory results for scientific and industrial applications. The compound is packaged in a moisture-resistant airtight container to maintain product stability and minimize decomposition during storage and handling. It is commonly used in research laboratories, pharmaceutical industries, electronics manufacturing, and industrial chemical processes requiring dependable persulphate oxidizing reagents.",
 },
 
 {
   id: 139,
 
-  slug: "",
+  slug: "Potassium thiocyanate",
 
   category: "Chemistry",
 
-  name: "",
+  name: "Potassium thiocyanate  500g",
 
-  image: "",
+  image: "https://www.arkanlabs.com/image/cache/catalog/2026911000015209255-433x577.jpg",
 
   images: [
-    "",
-    "",
-    ""
+    "https://5.imimg.com/data5/SELLER/Default/2024/3/400479019/SP/SG/WH/2651626/potassium-thiocyanate.jpeg",
+    "https://5.imimg.com/data5/SELLER/Default/2020/9/WE/SI/OS/46113905/potassium-thiocyanate-500gm.jpg",
   ],
 
-  description: "",
+  description: "99% Pure Potassium Thiocyanate",
 
-  price: " FCFA",
+  price: "10000 FCFA",
 
-  specifications: [],
+  specifications: [
+     "500g Chemical Quantity",
+  "99% Laboratory Purity",
+  "Analytical Grade Reagent",
+  "Moisture Resistant Container"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Potassium thiocyanate 500g is a laboratory-grade chemical reagent commonly used in analytical chemistry, iron ion detection, complex formation studies, and educational scientific experiments. Typically supplied at approximately 99% purity, it provides reliable chemical performance and consistent laboratory results for scientific and industrial applications. The compound is packaged in a moisture-resistant airtight container to maintain product stability and prevent contamination during storage and handling. It is widely used in schools, research laboratories, pharmaceutical industries, and industrial scientific processes requiring dependable thiocyanate reagents.",
 },
 
 {
   id: 140,
 
-  slug: "",
+  slug: "Propan-1-ol",
 
   category: "Chemistry",
 
-  name: "",
+  name: "Propan-1-ol 500ml",
 
-  image: "",
+  image: "https://www.westlab.com.au/media/catalog/product/p/l/pl120-500m-img-01.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
 
   images: [
-    "",
-    "",
-    ""
+    "https://5.imimg.com/data5/SELLER/Default/2023/4/304266510/BM/PC/BK/107756120/500ml-finar-propan-1-ol.jpg",
+    "https://5.imimg.com/data5/ANDROID/Default/2020/9/WF/ZH/EV/18953177/product-jpeg-500x500.jpg",
+    "https://i.ebayimg.com/images/g/LFgAAOSwkpZk8K6e/s-l1200.jpg"
   ],
 
-  description: "",
+  description: "99.5% Pure Propan-1-ol",
 
-  price: " FCFA",
+  price: "4000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "500ml Chemical Volume",
+  "99.5% Laboratory Purity",
+  "High Purity Alcohol Solvent",
+  "Secure Chemical Bottle"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Propan-1-ol 500ml is a laboratory-grade organic solvent widely used in analytical chemistry, organic synthesis, cleaning applications, and industrial scientific procedures. Typically supplied at approximately 99.5% purity, it provides reliable chemical performance, effective solvency, and consistent laboratory results for scientific and industrial use. The solvent is packaged in a secure chemical-resistant bottle to maintain product stability and ensure safe storage and handling conditions. It is commonly used in research laboratories, pharmaceutical industries, educational institutions, and industrial chemical processes requiring dependable high-purity alcohol solvents.",
 },
 
 {
   id: 141,
 
-  slug: "",
+  slug: "Propan-2-ol",
 
   category: "Chemistry",
 
-  name: "",
+  name: "Propan-2-ol  500ml",
 
-  image: "",
+  image: "https://5.imimg.com/data5/SELLER/Default/2025/7/524120435/DA/XU/LA/5164373/img-7221.jpeg",
 
   images: [
-    "",
-    "",
-    ""
+    "https://5.imimg.com/data5/SELLER/Default/2025/7/531854170/OF/EG/KG/236309532/img-20250728-113633.jpeg",
+    "https://5.imimg.com/data5/SELLER/Default/2022/10/HV/SG/GT/115389649/51b151f1-7808-4ca8-83b2-e54eb21129e1-500x500.jpg",
+    "https://www.rcilabscan.com/wp-content/uploads/2025/04/BP1162-G1L.png"
   ],
 
-  description: "",
+  description: "99.8% Pure Propan-2-ol",
 
-  price: " FCFA",
+  price: "4000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "500ml Chemical Volume",
+  "99.8% Laboratory Purity",
+  "Fast Evaporating Solvent",
+  "Secure Chemical Bottle"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Propan-2-ol 500ml, also known as isopropyl alcohol, is a laboratory-grade solvent widely used in analytical chemistry, disinfection, cleaning applications, organic synthesis, and industrial scientific procedures. Typically supplied at approximately 99.8% purity, it provides reliable chemical performance, rapid evaporation, and consistent laboratory results for scientific and industrial use. The solvent is packaged in a secure chemical-resistant bottle to maintain product stability and ensure safe storage and handling conditions. It is commonly used in research laboratories, pharmaceutical industries, medical facilities, electronics cleaning, and industrial chemical applications requiring dependable high-purity alcohol solvents.",
 },
 
 {
   id: 142,
 
-  slug: "",
+  slug: "Salicylic acid",
 
   category: "Chemistry",
 
-  name: "",
+  name: "Salicylic acid  500g",
 
-  image: "",
+  image: "https://img.analytics-shop.com/aYT0nH8JlFrpmvYuk7gSZCZpidc=/fit-in/600x600/filters:fill(ffffff):no_upscale()/FL37865-500G.jpg",
 
   images: [
-    "",
-    "",
-    ""
+    "https://m.media-amazon.com/images/I/61VNi1a7vgL._AC_UF1000,1000_QL80_.jpg",
+    "https://m.media-amazon.com/images/I/614Jqu-0hEL._AC_UF350,350_QL80_.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNMqoXYANr4Zb9Wz-woKIDaaBfJz3dKhV_Sw&s"
   ],
 
-  description: "",
+  description: "99% Pure Salicylic Acid",
 
-  price: " FCFA",
+  price: "10000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "500g Chemical Quantity",
+  "99% Laboratory Purity",
+  "Analytical Grade Organic Acid",
+  "Secure Airtight Container"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Salicylic acid 500g is a laboratory-grade organic chemical compound widely used in analytical chemistry, pharmaceutical research, cosmetics production, and educational scientific experiments. Typically supplied at approximately 99% purity, it provides reliable chemical performance and consistent laboratory results for scientific and industrial applications. The compound is packaged in a secure airtight chemical-resistant container to maintain product stability and protect against moisture contamination during storage and handling. It is commonly used in research laboratories, pharmaceutical industries, skincare product manufacturing, and industrial scientific processes requiring dependable organic acid compounds.",
 },
 
 {
   id: 143,
 
-  slug: "",
+  slug: "Silver nitrate",
 
   category: "Chemistry",
 
-  name: "",
+  name: "Silver nitrate 100g",
 
-  image: "",
+  image: "https://m.media-amazon.com/images/I/51IbbQ4ImRL._AC_UF1000,1000_QL80_.jpg",
 
   images: [
-    "",
-    "",
-    ""
+    "https://5.imimg.com/data5/SELLER/Default/2023/8/338261920/LF/KD/VV/2702891/silver-nitrate-lr.jpg",
+    "https://m.media-amazon.com/images/I/41O2oaJlRlL._AC_UF1000,1000_QL80_.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWuZSle22Btws5w1IEomXB2P4RYmTReVsfrg&s"
   ],
 
-  description: "",
+  description: "99.9% Pure Silver Nitrate",
 
-  price: " FCFA",
+  price: "50000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "100g Chemical Quantity",
+  "99.9% Laboratory Purity",
+  "Light Sensitive Reagent",
+  "Amber Glass Container"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Silver nitrate 100g is a high-purity laboratory chemical reagent widely used in analytical chemistry, titration procedures, photography research, microbiology, and educational scientific experiments. Typically supplied at approximately 99.9% purity, it provides reliable chemical performance and highly accurate laboratory results for scientific and industrial applications. The compound is packaged in an amber glass container to protect it from light exposure and maintain product stability during storage and handling. It is commonly used in schools, research laboratories, pharmaceutical industries, medical facilities, and industrial scientific processes requiring dependable silver-based reagents.",
 },
 
 {
   id: 144,
 
-  slug: "",
+  slug: "Sodium acetate",
 
   category: "Chemistry",
 
-  name: "",
+  name: "Sodium acetate  500g",
 
-  image: "",
+  image: "https://5.imimg.com/data5/SELLER/Default/2022/4/WX/YB/MU/4070826/qualigens-sodium-acetate.jpg",
 
   images: [
-    "",
-    "",
-    ""
+    "https://5.imimg.com/data5/SELLER/Default/2024/3/396773494/KV/LQ/SM/2651626/sodium-acetate-trihydrate.jpeg",
+    "https://5.imimg.com/data5/SELLER/Default/2022/2/JH/SX/BS/3029329/whatsapp-image-2022-02-09-at-5-00-47-pm-500x500.jpeg",
+    "https://shanghaichemex.com/wp-content/uploads/2021/02/HTB1lLrgtH3nBKNjSZFMq6yUSFXai.jpg_640x640.jpg"
   ],
 
-  description: "",
+  description: "99% Pure Sodium Acetate",
 
-  price: " FCFA",
+  price: "8000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "500g Chemical Quantity",
+  "99% Laboratory Purity",
+  "Analytical Grade Compound",
+  "Moisture Resistant Container"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Sodium acetate 500g is a laboratory-grade chemical compound widely used in analytical chemistry, buffer solution preparation, textile processing, and educational scientific experiments. Typically supplied at approximately 99% purity, it provides reliable chemical performance and consistent laboratory results for scientific and industrial applications. The compound is packaged in a moisture-resistant airtight container to maintain product stability and minimize contamination during storage and handling. It is commonly used in schools, research laboratories, pharmaceutical industries, food processing, and industrial scientific processes requiring dependable acetate compounds.",
 },
 
 {
   id: 145,
 
-  slug: "",
+  slug: "Sodium carbonate anhydrous",
 
   category: "Chemistry",
 
-  name: "",
+  name: "Sodium carbonate anhydrous 500g",
 
-  image: "",
+  image: "https://j.lnwfile.com/15cot7.jpg",
 
   images: [
-    "",
-    "",
-    ""
+    "https://5.imimg.com/data5/SELLER/Default/2024/2/390706927/RZ/WR/TA/1813210/sodium-carbonate-anhydrous-powder-500x500.jpeg",
+    "https://5.imimg.com/data5/SELLER/Default/2021/9/JU/GI/KR/44543161/sodium-carbonate-500x500.jpg",
+    "https://5.imimg.com/data5/SELLER/Default/2022/8/ZM/LC/KR/40627041/sod-car-ar.jpg"
   ],
 
-  description: "",
+  description: "99.5% Pure Sodium Carbonate",
 
-  price: " FCFA",
+  price: "5000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "500g Chemical Quantity",
+  "99.5% Anhydrous Purity",
+  "Analytical Grade Alkali",
+  "Moisture Resistant Container"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Sodium carbonate anhydrous 500g is a laboratory-grade alkaline chemical compound widely used in analytical chemistry, water treatment, glass manufacturing, and educational scientific experiments. Typically supplied at approximately 99.5% purity in anhydrous form, it provides reliable chemical performance and consistent laboratory results for scientific and industrial applications. The compound is packaged in a moisture-resistant airtight container to prevent hydration and maintain product stability during storage and handling. It is commonly used in schools, research laboratories, pharmaceutical industries, and industrial chemical processes requiring dependable alkaline reagents.",
 },
 
 {
   id: 146,
 
-  slug: "",
+  slug: "Sodium carbonate hydrated",
 
   category: "Chemistry",
 
-  name: "",
+  name: "Sodium carbonate hydrated  500g",
 
-  image: "",
+  image: "https://assets.fishersci.com/TFS-Assets/CCG/Spectrum-Chemicals/product-images/S1210-ZZ613-10.jpg-650.jpg",
 
   images: [
-    "",
-    "",
-    ""
+    "https://corwin.africa/wp-content/uploads/2026/01/Sodium-Carbonate-Decahydrate-500g.webp",
+    "https://pegahmohit.ir/wp-content/uploads/2023/01/Sodium-Carbonate-min-1024x567-1.jpg",
+    "https://pandasoko.co.ke/wp-content/uploads/2023/07/30-6.png"
   ],
 
-  description: "",
+  description: "99% Pure Hydrated Soda Ash",
 
-  price: " FCFA",
+  price: "10000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "500g Chemical Quantity",
+  "99% Hydrated Purity",
+  "Analytical Grade Alkali",
+  "Moisture Resistant Container"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Sodium carbonate hydrated 500g is a laboratory-grade alkaline chemical compound widely used in analytical chemistry, cleaning formulations, water softening, and educational scientific experiments. Typically supplied at approximately 99% purity in hydrated form, it provides reliable chemical performance and consistent laboratory results for scientific and industrial applications. The compound is packaged in a moisture-resistant airtight container to maintain product stability and minimize contamination during storage and handling. It is commonly used in schools, research laboratories, pharmaceutical industries, and industrial chemical processes requiring dependable carbonate compounds.",
 },
 
 {
   id: 147,
 
-  slug: "",
+  slug: "Sodium chloride",
 
   category: "Chemistry",
 
-  name: "",
+  name: "Sodium chloride AR 500g",
 
-  image: "",
+  image: "https://hoachatthinghiem.org/wp-content/uploads/2023/08/Sodium-Chloride-AR-GHTECH-Cas-7647-14-5.jpg",
 
   images: [
-    "",
-    "",
-    ""
+    "https://img.lazcdn.com/g/p/19fd2d90542675b6794d53e10e548532.jpg_720x720q80.jpg",
+    "https://m.media-amazon.com/images/I/51UAI0qmqLL._AC_UF1000,1000_QL80_.jpg",
+    "https://5.imimg.com/data5/SELLER/Default/2025/11/560232539/WW/VV/LL/10371689/sodium-chloride-99-5-powder-500x500.jpeg"
   ],
 
-  description: "",
+  description: "99.8% Pure Sodium Chloride",
 
-  price: " FCFA",
+  price: "5000 FCFA",
 
-  specifications: [],
+  specifications: [
+    "500g Chemical Quantity",
+  "99.8% AR Grade Purity",
+  "Analytical Reagent Grade",
+  "Moisture Resistant Container"
+  ],
 
-  fullDescription: "",
+  fullDescription: "Sodium chloride AR 500g is an analytical reagent-grade chemical compound widely used in analytical chemistry, solution preparation, calibration procedures, and educational scientific experiments. Typically supplied at approximately 99.8% purity, it provides highly reliable chemical performance and accurate laboratory results for scientific and industrial applications. The compound is packaged in a moisture-resistant airtight container to maintain product stability and prevent contamination during storage and handling. It is commonly used in schools, research laboratories, pharmaceutical industries, medical facilities, and industrial scientific processes requiring dependable high-purity sodium chloride reagents.",
 },
 
 {
