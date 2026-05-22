@@ -5118,31 +5118,6 @@ const chemistryProducts = [
 },
 
 
-{
-  id: 168,
-
-  slug: "",
-
-  category: "Chemistry",
-
-  name: "",
-
-  image: "",
-
-  images: [
-    "",
-    "",
-    ""
-  ],
-
-  description: "",
-
-  price: " ",
-
-  specifications: [],
-
-  fullDescription: "",
-},
 
 ];
 
