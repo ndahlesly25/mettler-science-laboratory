@@ -1827,862 +1827,667 @@ const PhysicsProducts = [
 {
   id: 60,
 
-  slug: "",
+  slug: "Rectangular glass block",
 
   category: "Physics",
 
-  name: "",
+  name: "Rectangular glass block",
 
-  image: "",
+  image: "https://5.imimg.com/data5/SELLER/Default/2021/6/SF/QG/EF/24085951/rectangular-glass-block.jpeg",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://m.media-amazon.com/images/I/61jQZNRJEdL.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN5MVsPbPThPsK-Je0wchCXMXgo1eWqp3ipw&s",
+    "https://m.media-amazon.com/images/I/61s8ph6hcdL._AC_UF1000,1000_QL80_.jpg"
   ],
 
-  description: "",
+  description: "Optical Rectangular Glass Block",
 
-  price: "",
+  price: "3000 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"Clear Optical Glass",
+  "Rectangular Precision Shape",
+  "Accurate Light Refraction",
+  "Educational Physics Apparatus"
   ],
 
-  fullDescription: "",
+  fullDescription: "The rectangular glass block is an optical laboratory apparatus designed for studying light refraction, reflection, and optical path behavior during physics experiments and educational demonstrations. Manufactured from clear high-quality optical glass, it provides accurate light transmission and reliable optical performance for scientific applications. Its precision rectangular shape allows effective demonstration of refraction angles and lateral displacement of light rays during practical experiments. The glass block is widely used in schools, research laboratories, technical institutions, and physics education environments for optics studies and light experiments.",
 },
 
 {
   id: 61,
 
-  slug: "",
+  slug: "Resistors of  various types",
 
   category: "Physics",
 
-  name: "",
+  name: "Resistors of  various types",
 
-  image: "",
+  image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Electronic-Axial-Lead-Resistors-Array.png/960px-Electronic-Axial-Lead-Resistors-Array.png",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://m.media-amazon.com/images/I/61-roUmK6NL._AC_UF1000,1000_QL80_.jpg",
+    "https://m.media-amazon.com/images/I/61VZCgbdFWL._AC_UF1000,1000_QL80_.jpg",
+    "https://i.ebayimg.com/images/g/f-8AAOSw3~JkQN4K/s-l1200.jpg"
   ],
 
-  description: "",
+  description: "Assorted Laboratory Resistors",
 
-  price: "",
+  price: "100 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"Various Resistance Values",
+  "Multiple Resistor Types",
+  "Reliable Electrical Performance",
+  "Educational Electronics Components"
   ],
 
-  fullDescription: "",
+  fullDescription: "The assorted resistor set contains various resistor types and resistance values designed for controlling electrical current, voltage division, and circuit experimentation during scientific and technical practical work. Manufactured for reliable electrical performance, the components provide stable resistance and dependable operation in a wide range of electronic applications. The assortment supports practical studies of current control, circuit behavior, and electronic design in laboratory environments. These resistors are widely used in schools, research laboratories, engineering workshops, technical institutions, and electronics education environments for circuit assembly, testing, and electronic experimentation.",
 },
 
 {
   id: 62,
 
-  slug: "",
+  slug: "Resonance tube glass",
 
   category: "Physics",
 
-  name: "",
+  name: "Resonance tube glass",
 
-  image: "",
+  image: "https://phys-office.phys.washington.edu/lectdemo/DetailPages/3/D/Vertical_Resonance_Tube_(3D30.10)/Vertical_Resonance_Tube_(3D30.10).jpg",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://i5.walmartimages.com/seo/Resonance-Tube-Glass-38mm-OD-x-450mm-length-Ungraduated-Case-of-10_6edae2de-4746-41dd-8df8-d1f625c2633f.4d2299815ba5d4c13246eaa09831e48b.jpeg",
   ],
 
-  description: "",
+  description: "Glass Resonance Tube Apparatus",
 
-  price: "",
+  price: "5000 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"Clear Laboratory Glass",
+  "Accurate Sound Resonance Study",
+  "Durable Cylindrical Design",
+  "Educational Physics Apparatus"
   ],
 
-  fullDescription: "",
+  fullDescription: "The glass resonance tube is a laboratory physics apparatus designed for studying sound resonance, wave behavior, and the speed of sound during scientific experiments and educational practical activities. Manufactured from clear durable laboratory glass, it provides reliable visibility and accurate observation of resonance effects during experiments. Its cylindrical design allows effective investigation of standing waves and resonance lengths in air columns. The resonance tube is widely used in schools, research laboratories, technical institutions, and physics education environments for acoustics studies and sound wave demonstrations.",
 },
 
 {
   id: 63,
 
-  slug: "",
+  slug: "Rheostat",
 
   category: "Physics",
 
-  name: "",
+  name: "Rheostat",
 
-  image: "",
+  image: "https://cdn.images.fecom-media.com/FE00001966/images/Rheostat_Extended_Range__03A_1200_Ohm_8NAthgDJ_E.jpg?w=3840&q=75",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://cdn.images.fecom-media.com/FE00001966/images/Rheostat_Extended_Range__03A_1200_Ohm_8NAthgDJ_E.jpg?w=3840&q=75",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR15p50nbeRy5N4LQEow2E2XEfik5U00t99A&s",
+    "https://5.imimg.com/data5/ANDROID/Default/2023/8/330968161/EN/FG/KT/22203256/product-jpeg.jpg"
   ],
 
-  description: "",
+  description: "Adjustable Laboratory Rheostat",
 
-  price: "",
+  price: "6000 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+  "Variable Resistance Control",
+  "Smooth Adjustment Mechanism",
+  "Durable Resistance Coil",
+  "Educational Physics Instrument"
   ],
 
-  fullDescription: "",
+  fullDescription: "The rheostat is a laboratory electrical instrument designed for controlling and varying electrical current in circuits during scientific experiments and educational practical work. Equipped with a smooth adjustable resistance mechanism, it allows accurate regulation of current flow for reliable circuit analysis and electrical demonstrations. Manufactured with a durable resistance coil and sturdy construction, it provides dependable performance during repeated laboratory use. The rheostat is widely used in schools, research laboratories, engineering workshops, technical institutions, and physics education environments for studies involving current control, resistance, and electrical circuit behavior.",
 },
 
 {
   id: 64,
 
-  slug: "",
+  slug: "Ripple tank",
 
   category: "Physics",
 
-  name: "",
+  name: "Ripple tank",
 
-  image: "",
+  image: "https://www.shivsons.com/wp-content/uploads/IMG_3210-low.jpg",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://www.shivsons.com/wp-content/uploads/IMG_3210-low.jpg",
+    "https://assets.fishersci.com/TFS-Assets/CCG/product-images/13122870_A.JPG-650.jpg",
+    "https://assets.fishersci.com/TFS-Assets/CCG/United-Scientific-Supplies,-Inc/product-images/RPTANK1-Advanced-Projection-Ripple-Tank.jpg-650.jpg"
   ],
 
-  description: "",
+  description: "Laboratory Ripple Tank System",
 
-  price: "",
+  price: "125000 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"Wave Motion Demonstration",
+  "Clear Water Observation Tank",
+  "Adjustable Wave Generator",
+  "Educational Physics Apparatus"
   ],
 
-  fullDescription: "",
+  fullDescription: "The ripple tank is a laboratory physics apparatus designed for studying wave motion, reflection, refraction, diffraction, and interference during scientific experiments and educational demonstrations. Constructed with a clear observation tank and adjustable wave generation system, it allows accurate visualization of water wave behavior and wave patterns during practical investigations. Its durable laboratory-grade design ensures reliable performance and repeated classroom use. The ripple tank is widely used in schools, research laboratories, technical institutions, and physics education environments for wave mechanics and optics analogy studies.",
 },
 
 {
   id: 65,
 
-  slug: "",
+  slug: "Semicircular glass block",
 
   category: "Physics",
 
-  name: "",
+  name: "Semicircular glass block",
 
-  image: "",
+  image: "https://www.american-scientific.com/wp-content/uploads/2022/09/335301.jpg",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://www.eiscolabs.com/cdn/shop/products/n5kqjuinciatvnwqetx6_1200x786.jpg?v=1644414473",
+    "https://5.imimg.com/data5/SELLER/Default/2022/6/WS/UG/OV/27834457/75-mm-semicircular-glass-slab.jpg",
+    "https://5.imimg.com/data5/SELLER/Default/2022/6/YS/EP/DW/27834457/75-mm-semicircular-glass-slab-500x500.jpg"
   ],
 
-  description: "",
+  description: "Optical Semicircular Glass Block",
 
-  price: "",
+  price: "2500 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+ "Clear Optical Glass",
+  "Semicircular Precision Shape",
+  "Accurate Light Refraction",
+  "Educational Physics Apparatus"
   ],
 
-  fullDescription: "",
+  fullDescription: "The semicircular glass block is an optical laboratory apparatus designed for studying light refraction, critical angle, and total internal reflection during physics experiments and educational demonstrations. Manufactured from clear high-quality optical glass, it provides accurate light transmission and reliable optical performance for scientific applications. Its precision semicircular shape allows effective investigation of refractive properties and light behavior at curved surfaces during practical experiments. The glass block is widely used in schools, research laboratories, technical institutions, and physics education environments for optics studies and light experiments.",
 },
 
 {
   id: 66,
 
-  slug: "",
+  slug: "Slinky coil",
 
   category: "Physics",
 
-  name: "",
+  name: "Slinky coil",
 
-  image: "",
+  image: "https://studentsupply.com/cdn/shop/products/ScreenShot2021-09-03at3.45.51PM_1024x1024@2x.png?v=1630709768",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://studentsupply.com/cdn/shop/products/ScreenShot2021-09-03at3.45.51PM_1024x1024@2x.png?v=1630709768",
+    "https://5.imimg.com/data5/ANDROID/Default/2023/11/363131380/AA/YE/QH/201803769/product-jpeg-500x500.jpg",
+    "https://studentsupply.com/cdn/shop/products/ScreenShot2021-09-03at3.45.31PM_2048x.png?v=1630709768"
   ],
 
-  description: "",
+  description: "Flexible Laboratory Slinky Coil",
 
-  price: "",
+  price: "6000 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"Flexible Metal Coil",
+  "Wave Motion Demonstration",
+  "Durable Spring Construction",
+  "Educational Physics Apparatus"
   ],
 
-  fullDescription: "",
+  fullDescription: "The slinky coil is a laboratory physics apparatus designed for demonstrating wave motion, vibrations, oscillations, and energy transfer during scientific experiments and educational practical activities. Manufactured from durable flexible metal, it provides reliable elasticity and smooth wave propagation for clear observation of transverse and longitudinal waves. Its lightweight spring construction allows easy handling and repeated classroom use during mechanics and wave demonstrations. The slinky coil is widely used in schools, research laboratories, technical institutions, and physics education environments for practical studies of wave behavior and motion.",
 },
 
 {
   id: 67,
 
-  slug: "",
+  slug: "Slotted masses 5g",
 
   category: "Physics",
 
-  name: "",
+  name: "Slotted masses 5g, set of 5",
 
-  image: "",
+  image: "https://cdn11.bigcommerce.com/s-n3oe3ifhun/images/stencil/900x600/products/1613/2967/P-578200_50g__06240.1698987373.png?c=1",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://cdn.images.fecom-media.com/FE00013944/images/B8A73088_A73088-PHE-MEA-W01_kO5u3UB46E.jpg?w=3840&q=75",
+    "https://cdn.images.fecom-media.com/B8H27374_107142-PHE-MEA-W01.jpg?width=1600",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTk643V0PN4wTPlhrvGjfph1UqrtjZys-U4g&s"
   ],
 
-  description: "",
+  description: "Precision Slotted Mass Set",
 
-  price: "",
+  price: "2000 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"5g Masses Set Of 5",
+  "Accurate Weight Calibration",
+  "Durable Metal Construction",
+  "Educational Physics Apparatus"
   ],
 
-  fullDescription: "",
+  fullDescription: "The slotted masses 5g set contains five precision laboratory masses designed for studying force, motion, equilibrium, and mechanics during scientific experiments and educational practical activities. Manufactured from durable metal with accurate weight calibration, they provide reliable measurement performance and consistent experimental results. The slotted design allows convenient stacking and secure placement on mass hangers during laboratory procedures. The mass set is widely used in schools, research laboratories, technical institutions, and physics education environments for mechanics, dynamics, and force-related scientific studies.",
 },
 
 {
   id: 68,
 
-  slug: "",
+  slug: "Slotted masses 10g",
 
   category: "Physics",
 
-  name: "",
+  name: " Slotted masses 10g, set of 5",
 
-  image: "",
+  image: "https://www.3bscientific.com/thumblibrary/U30033/U30033_01_1200_1200_Slotted-Mass-Set-with-Hanger-5-x-50-g.jpg",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbjUy7umZ7emACDQhJv-LxuLsf8SV1oCyGsw&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFi1MRI8FJSqszeDfFA08jhB5GHHZF8UMbFQ&s",
+    "https://cdn.images.fecom-media.com/FE00058230/images/Philip_Harris_Hanging_Slotted_Masses_Brass_10g_rhdP3WBJ90.jpg?w=3840&q=75"
   ],
 
-  description: "",
+  description: "Precision Slotted Mass Set",
 
-  price: "",
+  price: "2000 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"10g Masses Set Of 5",
+  "Accurate Weight Calibration",
+  "Durable Metal Construction",
+  "Educational Physics Apparatus"
   ],
 
-  fullDescription: "",
+  fullDescription: "The slotted masses 10g set contains five precision laboratory masses designed for studying force, motion, equilibrium, and mechanics during scientific experiments and educational practical activities. Manufactured from durable metal with accurate weight calibration, they provide reliable measurement performance and consistent experimental results. The slotted design allows convenient stacking and secure placement on mass hangers during laboratory procedures. The mass set is widely used in schools, research laboratories, technical institutions, and physics education environments for mechanics, dynamics, and force-related scientific studies.",
 },
 
 {
   id: 69,
 
-  slug: "",
+  slug: "Slotted masses 20g",
 
   category: "Physics",
 
-  name: "",
+  name: "Slotted masses 20g, set of 5",
 
-  image: "",
+  image: "https://allschoolabs.com/wp-content/uploads/2023/09/PHMSSS05_06fe3b39-451c-4741-a8d4-24a39d77ebd7_700x663.jpg",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://5.imimg.com/data5/SELLER/Default/2024/3/396850014/BN/ET/WI/74589259/slotted-weights-with-hanger.jpeg",
+    "https://allschoolabs.com/wp-content/uploads/2023/09/PHMSSS05_06fe3b39-451c-4741-a8d4-24a39d77ebd7_700x663.jpg",
+    "https://i5.walmartimages.com/seo/Slotted-Mass-Set-with-Weight-Hanger_87b66b03-0d44-442a-bf3a-0b02f2c3b1ec.3aa649aea2e49bcc0c7d330eda2a6e5d.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF&odnDynImageQuality=10&format=avif"
   ],
 
-  description: "",
+  description: "Precision Slotted Mass Set",
 
-  price: "",
+  price: "2500 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"20g Masses Set Of 5",
+  "Accurate Weight Calibration",
+  "Durable Metal Construction",
+  "Educational Physics Apparatus"
   ],
 
-  fullDescription: "",
+  fullDescription: "The slotted masses 20g set contains five precision laboratory masses designed for studying force, motion, equilibrium, and mechanics during scientific experiments and educational practical activities. Manufactured from durable metal with accurate weight calibration, they provide reliable measurement performance and consistent experimental results. The slotted design allows convenient stacking and secure placement on mass hangers during laboratory procedures. The mass set is widely used in schools, research laboratories, technical institutions, and physics education environments for mechanics, dynamics, and force-related scientific studies.",
 },
 
 {
   id: 70,
 
-  slug: "",
+  slug: "Slotted masses 50g",
 
   category: "Physics",
 
-  name: "",
+  name: "Slotted masses 50g, set of 5",
 
-  image: "",
+  image: "https://m.media-amazon.com/images/I/614Iprk+jwL.jpg",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://5.imimg.com/data5/SELLER/Default/2023/4/304302347/KJ/LK/ZN/12476938/slotted-weights-with-hanger.jpg",
+    "https://m.media-amazon.com/images/I/61g0gnmxMzL._AC_UF894,1000_QL80_.jpg",
+    "https://cdn.images.fecom-media.com/FE00058250/images/PH0258CSSPHE_1_ilnrzR3sBU.jpeg?w=3840&q=75"
   ],
 
-  description: "",
+  description: "Precision Slotted Mass Set",
 
-  price: "",
+  price: "4500 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"50g Masses Set Of 5",
+  "Accurate Weight Calibration",
+  "Durable Metal Construction",
+  "Educational Physics Apparatus"
   ],
 
-  fullDescription: "",
+  fullDescription: "The slotted masses 50g set contains five precision laboratory masses designed for studying force, motion, equilibrium, and mechanics during scientific experiments and educational practical activities. Manufactured from durable metal with accurate weight calibration, they provide reliable measurement performance and consistent experimental results. The slotted design allows convenient stacking and secure placement on mass hangers during laboratory procedures. The mass set is widely used in schools, research laboratories, technical institutions, and physics education environments for mechanics, dynamics, and force-related scientific studies.",
 },
 
 {
   id: 71,
 
-  slug: "",
+  slug: "Slotted masses 100g",
 
   category: "Physics",
 
-  name: "",
+  name: "Slotted masses 100g, set of 5",
 
-  image: "",
+  image: "https://static.rapidonline.com/catalogueimages/product/52/34/s52-3408p01wj.jpg",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://cdn2.webdamdb.com/md_IMsDOaxFAaX0.png?1579793212",
+    "https://m.media-amazon.com/images/I/317yLtUTdsL._AC_UF1000,1000_QL80_.jpg",
+    "https://m.media-amazon.com/images/I/714jIcxfehL._AC_UF1000,1000_QL80_.jpg"
   ],
 
-  description: "",
+  description: "Precision Slotted Mass Set",
 
-  price: "",
+  price: "5000 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"100g Masses Set Of 5",
+  "Accurate Weight Calibration",
+  "Durable Metal Construction",
+  "Educational Physics Apparatus"
   ],
 
-  fullDescription: "",
+  fullDescription: "The slotted masses 100g set contains five precision laboratory masses designed for studying force, motion, equilibrium, and mechanics during scientific experiments and educational practical activities. Manufactured from durable metal with accurate weight calibration, they provide reliable measurement performance and consistent experimental results. The slotted design allows convenient stacking and secure placement on mass hangers during laboratory procedures. The mass set is widely used in schools, research laboratories, technical institutions, and physics education environments for mechanics, dynamics, and force-related scientific studies.",
 },
 
 {
   id: 72,
 
-  slug: "",
+  slug: "Soldering iron",
 
   category: "Physics",
 
-  name: "",
+  name: " Soldering iron  ",
 
-  image: "",
+  image: "https://tolsen.com.ph/cdn/shop/files/38065.jpg?v=1740798355",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://img.drz.lazcdn.com/static/bd/p/75c2ebcb1a55a72795b07ddab00afa9e.jpg_720x720q80.jpg",
+    "https://www.gigatools.ph/cdn/shop/products/SOLDERINGIRON_69-033C-22.jpg?v=1615511940",
+    "https://5.imimg.com/data5/SELLER/Default/2024/6/425236863/WH/NB/ZU/4058842/stanley-45-watt-soldering-iron.jpg"
   ],
 
-  description: "",
+  description: "Professional Soldering Iron",
 
-  price: "",
+  price: "2000 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"Fast Heating Element",
+  "Heat Resistant Handle",
+  "Reliable Soldering Performance",
+  "Educational Electronics Tool"
   ],
 
-  fullDescription: "",
+  fullDescription: "The soldering iron is an electrical tool designed for joining electronic components, wires, and circuit connections during electronics assembly, repair work, and scientific practical activities. Equipped with a fast heating element, it provides reliable and consistent heat for efficient solder melting and secure electrical connections. Its heat-resistant handle ensures safe and comfortable handling during extended use in laboratory and workshop environments. The soldering iron is widely used in schools, research laboratories, engineering workshops, technical institutions, and electronics education environments for circuit construction and electronic experimentation.",
 },
 
 {
   id: 73,
 
-  slug: "",
+  slug: "Spring balance / newton spring",
 
   category: "Physics",
 
-  name: "",
+  name: " Spring balance / Newton spring ",
 
-  image: "",
+  image: "https://aimscientific.com.au/bmz_cache/b/balance-spring-cylindrical-1000g-10n-ge1475-01jpg.image.687x550.jpg",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://www.tts-group.co.uk/dw/image/v2/AAXQ_PRD/on/demandware.static/-/Sites-TTSGroupE-commerceMaster/default/dwed2f722f/images/hi-res/1003767_00_SFM-036_large.jpg?sw=443",
+    "https://5.imimg.com/data5/SELLER/Default/2022/9/XG/VF/HZ/157277296/1n-2-5n-5n-10n-newton-meter-force-gauge-bar-box-spring-dynamometer-balance-physics-experiments.jpeg",
+    "https://www.gstc.com/wp-content/uploads/2017/10/RECTANGULAR-PLASTIC-BODY.gif"
   ],
 
-  description: "",
+  description: "Precision Spring Balance",
 
-  price: "",
+  price: "3000 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"Accurate Force Measurement",
+  "Calibrated Newton Scale",
+  "Durable Spring Mechanism",
+  "Educational Physics Instrument"
   ],
 
-  fullDescription: "",
+  fullDescription: "The spring balance, also known as a Newton spring, is a laboratory measuring instrument designed for accurately measuring force and weight during scientific experiments and educational practical work. Equipped with a calibrated spring mechanism and clear Newton scale, it provides reliable force measurements and consistent performance during laboratory investigations. Its durable construction ensures stable operation and repeated use in classroom and research environments. The spring balance is widely used in schools, research laboratories, technical institutions, and physics education environments for mechanics, force, and weight-related scientific studies.",
 },
 
 {
   id: 74,
 
-  slug: "",
+  slug: "Thermistor",
 
   category: "Physics",
 
-  name: "",
+  name: "Thermistor",
 
-  image: "",
+  image: "https://makerselectronics.com/wp-content/uploads/2020/02/HTB1K_UWgxTI8KJjSspi762M4FXal-750x750.jpg",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://www.allaboutcircuits.com/uploads/thumbnails/Davis_temperature_sensors_featured.jpg",
+    "https://down-id.img.susercontent.com/file/id-11134207-8224r-mjrxwloygsu9a0",
+    "https://makerselectronics.com/wp-content/uploads/2020/02/HTB1K_UWgxTI8KJjSspi762M4FXal-750x750.jpg"
   ],
 
-  description: "",
+  description: "Sensitive Laboratory Thermistor",
 
-  price: "",
+  price: "200 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"Temperature Sensitive Resistor",
+  "Fast Thermal Response",
+  "Reliable Semiconductor Component",
+  "Educational Electronics Device"
   ],
 
-  fullDescription: "",
+  fullDescription: "The thermistor is an electronic semiconductor component designed for detecting and responding to temperature changes during scientific experiments and electronic applications. Its electrical resistance varies according to temperature, allowing accurate thermal sensing and temperature control in laboratory and electronic systems. Manufactured for reliable performance and fast thermal response, it is suitable for a wide range of educational and technical applications. The thermistor is widely used in schools, research laboratories, engineering workshops, technical institutions, and electronics education environments for temperature sensing and sensor-based circuit experiments.",
 },
 
 {
   id: 75,
 
-  slug: "",
+  slug: "Thermometer -10 x 110 x 1°c divisions",
 
   category: "Physics",
 
-  name: "",
+  name: "Thermometer -10 x 110 x 1°c divisions",
 
-  image: "",
+  image: "https://www.scharlab.com/assets/media/articulos/de8c65f7-e774-4fd1-aa24-5809b95ec87b/005120T110.webp",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwZSFfT5U9DkYhFwCQBAFpWfJmmDAxkXC5Xg&s",
+    "https://www.sciencecompany.com/Assets/ProductImages/nc1019n-lg.jpg",
+    "https://omsonslabs.com/wp-content/uploads/T010.jpg"
   ],
 
-  description: "",
+  description: "Laboratory Glass Thermometer",
 
-  price: "",
+  price: "2500 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"Temperature Range -10°C To 110°C",
+  "1°C Scale Divisions",
+  "Clear Graduated Display",
+  "Laboratory Grade Glass"
   ],
 
-  fullDescription: "",
+  fullDescription: "The laboratory thermometer is a precision temperature measuring instrument designed for monitoring and measuring temperature during scientific experiments, laboratory procedures, and educational practical activities. Manufactured from clear laboratory-grade glass, it provides accurate temperature readings within a range of -10°C to 110°C with clear 1°C scale divisions for easy observation. Its reliable construction ensures consistent performance during heating and cooling experiments. The thermometer is widely used in schools, research laboratories, medical facilities, and scientific education environments for temperature measurement and thermal studies.",
 },
 
 {
   id: 76,
 
-  slug: "",
+  slug: "Ticker tape timer + tape",
 
   category: "Physics",
 
-  name: "",
+  name: " Ticker tape timer + tape",
 
-  image: "",
+  image: "https://smartlabs.co.za/cdn/shop/files/two-speed-ticker-tape-timer-plug-type-2979563_1200x1200.jpg?v=1751349653",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://m.media-amazon.com/images/I/81eFBFuedxL.jpg",
+    "https://assets.fishersci.com/TFS-Assets/CCG/product-images/F587915~p.eps-650.jpg",
+    "https://cdn11.bigcommerce.com/s-wtulnkmvw7/images/stencil/1280x1280/products/30868/102395/PH0353BTP_2400x1223__67551.1745823576.jpg?c=1"
   ],
 
-  description: "",
+  description: "Laboratory Ticker Tape Timer Set",
 
-  price: "",
+  price: "15000 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"Electronic Timing Mechanism",
+  "Includes Ticker Tape Roll",
+  "Accurate Motion Recording",
+  "Educational Physics Apparatus"
   ],
 
-  fullDescription: "",
+  fullDescription: "The ticker tape timer with tape is a laboratory physics apparatus designed for studying motion, velocity, acceleration, and time measurement during scientific experiments and educational practical activities. Equipped with an electronic timing mechanism, it produces evenly spaced marks on the ticker tape to accurately record motion over time. The included ticker tape allows clear analysis of speed and acceleration during mechanics experiments. Its durable laboratory-grade construction ensures reliable performance and repeated classroom use. The ticker tape timer is widely used in schools, research laboratories, technical institutions, and physics education environments for mechanics and motion studies.",
 },
 
 {
   id: 77,
 
-  slug: "",
+  slug: "Transistor",
 
   category: "Physics",
 
-  name: "",
+  name: "Transistor (n-p-n/p-n-p)",
 
-  image: "",
+  image: "https://ae01.alicdn.com/kf/Hc17c4e5bf8414a49bce603a6e2edb763V.jpg",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://s.alicdn.com/@sc04/kf/H5c0b18ee399545978520311be382100eH/PNP-NPN-Transistors-for-Radio-Applications-TL431A-2N2222-2N3904-2N5551-BC337-BC547-BC548-BC557-BC558-S8050-C1812-TO-92-Package.png",
+    "https://m.media-amazon.com/images/I/514QA+ucXIL._AC_UF894,1000_QL80_.jpg",
+    "https://m.media-amazon.com/images/I/61Oa3J5Mm7L.jpg"
   ],
 
-  description: "",
+  description: "Assorted Laboratory Transistors",
 
-  price: "",
+  price: "200 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"NPN And PNP Types",
+  "Reliable Semiconductor Performance",
+  "Signal Amplification Capability",
+  "Educational Electronics Components"
   ],
 
-  fullDescription: "",
+  fullDescription: "The transistor set contains NPN and PNP semiconductor transistors designed for amplification, switching, and electronic circuit applications during scientific experiments and technical practical work. Manufactured for reliable semiconductor performance, the components provide stable signal control and dependable operation in a wide range of electronic circuits. The assortment supports practical studies of current amplification, switching behavior, and transistor-based circuit design in laboratory environments. These transistors are widely used in schools, research laboratories, engineering workshops, technical institutions, and electronics education environments for circuit assembly, testing, and electronic experimentation.",
 },
 
 {
   id: 78,
 
-  slug: "",
+  slug: "Triple beam balance",
 
   category: "Physics",
 
-  name: "",
+  name: " Triple beam balance  ",
 
-  image: "",
+  image: "https://m.media-amazon.com/images/I/61ttFgmxwAL.jpg",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbFJMiN99Si-xGSsOcvV3a0E5Ln9HaamH8iw&s",
+    "https://m.media-amazon.com/images/I/61StF3PjDnL._AC_UF1000,1000_QL80_DpWeblab_.jpg",
+    "https://s.alicdn.com/@sc04/kf/H3c0791c4447049ed81e4df863779b74bh.jpg"
   ],
 
-  description: "",
+  description: "Precision Triple Beam Balance",
 
-  price: "",
+  price: "50000 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"Accurate Mass Measurement",
+  "Triple Beam Scale System",
+  "Fine Adjustment Capability",
+  "Educational Science Instrument"
   ],
 
-  fullDescription: "",
+  fullDescription: "The triple beam balance is a precision laboratory weighing instrument designed for accurately measuring mass during scientific experiments, analytical procedures, and educational practical work. Equipped with a triple beam scale system, it provides highly reliable weight measurements and fine adjustment capability for improved measurement accuracy during laboratory operations. Its durable laboratory-grade construction ensures stable performance and long-term repeated use in classroom and research environments. The triple beam balance is widely used in schools, research laboratories, technical institutions, and scientific education environments for precise mass determination and experimental analysis.",
 },
 
 {
   id: 79,
 
-  slug: "",
+  slug: "Tunning fork set of 8",
 
   category: "Physics",
 
-  name: "",
+  name: "Tunning fork set of 8",
 
-  image: "",
+  image: "https://www.carolina.com/images/product/medium/754212.jpg",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://arihantlab.com/wp-content/uploads/2024/02/1120360_1-1.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrhFcODokEPTXCZi1SrMO-l81Ky_c6EjhMCw&s",
+    "https://samtechlabs.com/wp-content/uploads/2023/07/img_3582.jpeg"
   ],
 
-  description: "",
+  description: "Precision Tuning Fork Set",
 
-  price: "",
+  price: "8000 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"Set Of 8 Tuning Forks",
+  "Accurate Frequency Production",
+  "Durable Metal Construction",
+  "Educational Physics Apparatus"
   ],
 
-  fullDescription: "",
+  fullDescription: "The tuning fork set of 8 is a laboratory physics apparatus designed for studying sound, vibration, resonance, and wave frequency during scientific experiments and educational practical activities. Manufactured from durable high-quality metal, each tuning fork produces a precise and consistent frequency for reliable acoustic demonstrations and laboratory investigations. The set provides multiple frequencies for comparative sound studies and resonance experiments. It is widely used in schools, research laboratories, technical institutions, and physics education environments for acoustics studies, sound wave demonstrations, and vibration experiments.",
 },
 
 {
   id: 80,
 
-  slug: "",
+  slug: "u-shaped magnet",
 
   category: "Physics",
 
-  name: "",
+  name: "u-shaped magnet",
 
-  image: "",
+  image: "https://tibaquipafrica.com/wp-content/uploads/2024/05/Lab-magnet-U-shaped.png",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://m.media-amazon.com/images/I/31x92JQ5NRL._AC_UF1000,1000_QL80_.jpg",
+    "https://m.media-amazon.com/images/I/51EQ1thhxOL._AC_UF1000,1000_QL80_.jpg",
+    "https://makerbazar.in/cdn/shop/files/U-Shaped_Magnets-4_1024x.jpg?v=1752662207"
   ],
 
-  description: "",
+  description: "High Strength U-Shaped Magnet",
 
-  price: "",
+  price: "3000 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"U-Shaped Magnet Design",
+  "Strong Magnetic Field",
+  "Durable Magnetic Material",
+  "Educational Physics Tool"
   ],
 
-  fullDescription: "",
+  fullDescription: "The U-shaped magnet is a laboratory and educational physics tool designed for demonstrating magnetic properties, magnetic fields, and attraction-repulsion experiments during scientific studies and practical lessons. Manufactured from durable high-strength magnetic material, it provides reliable magnetic performance and concentrated magnetic field strength between its poles. Its U-shaped design enhances magnetic efficiency and makes it convenient for classroom and laboratory demonstrations. The magnet is widely used in schools, research laboratories, technical institutions, and physics education environments for studying magnetism and electromagnetic principles.",
 },
 
 {
   id: 81,
 
-  slug: "",
+  slug: "Vernier caliper metal / plastic",
 
   category: "Physics",
 
-  name: "",
+  name: "Vernier caliper metal / plastic",
 
-  image: "",
+  image: "https://i.ebayimg.com/images/g/4QcAAOSwQhpg4yz9/s-l400.jpg",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://m.media-amazon.com/images/I/51c6eZ+C2PL._AC_UF1000,1000_QL80_.jpg",
+    "https://m.media-amazon.com/images/I/71zhW6j1bbL.jpg",
+    "https://m.media-amazon.com/images/I/51-HRbtTXBS._AC_UF350,350_QL80_.jpg"
   ],
 
   description: "",
@@ -2690,179 +2495,51 @@ const PhysicsProducts = [
   price: "",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"Accurate Linear Measurement",
+  "Metal Or Plastic Construction",
+  "Clear Vernier Scale",
+  "Educational Science Instrument"
   ],
 
-  fullDescription: "",
+  fullDescription: "The vernier caliper is a precision measuring instrument designed for accurately measuring internal dimensions, external dimensions, and depths during scientific experiments, engineering work, and technical practical applications. Available in metal or durable plastic construction, it provides reliable measurement performance and easy handling for laboratory and educational use. Equipped with a clear vernier scale, it allows precise readings and accurate dimensional analysis during measurement procedures. The vernier caliper is widely used in schools, research laboratories, engineering workshops, technical institutions, and industrial scientific applications requiring dependable precision measurement tools.",
 },
 
 {
   id: 82,
 
-  slug: "",
+  slug: "Voltmeter",
 
   category: "Physics",
 
-  name: "",
+  name: "Voltmeter",
 
-  image: "",
-
-  images: [
-
-    "",
-
-    "",
-
-    ""
-
-  ],
-
-  description: "",
-
-  price: "",
-
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
-
-  fullDescription: "",
-},
-
-{
-  id: 83,
-
-  slug: "",
-
-  category: "Physics",
-
-  name: "",
-
-  image: "",
+  image: "https://www.carolina.com/images/product/medium/757264_phy.jpg",
 
   images: [
 
-    "",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrBF3LhNCcDgzBYVm5wCylkZr_84B4gYMlWQ&s",
 
-    "",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH5yQzjr6pJ6Xlq10ULOz5vnUyavpwhzZ_Uw&s",
 
-    ""
+    "https://m.media-amazon.com/images/I/61wlLYBZ7AL._AC_UF1000,1000_QL80_.jpg"
 
   ],
 
-  description: "",
+  description: "Precision Laboratory Voltmeter",
 
-  price: "",
+  price: "6000 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"Accurate Voltage Measurement",
+  "Clear Graduated Display",
+  "Reliable Electrical Performance",
+  "Educational Physics Instrument"
   ],
 
-  fullDescription: "",
+  fullDescription: "The voltmeter is a laboratory electrical measuring instrument designed for accurately measuring electrical voltage during scientific experiments, circuit analysis, and educational practical work. Constructed with precision measuring components, it provides reliable voltage readings and consistent performance for electrical investigations and laboratory applications. The instrument features a clear graduated display for easy observation and accurate interpretation of measurements during experiments. Its durable laboratory-grade construction makes it ideal for schools, research laboratories, engineering workshops, technical institutions, and physics education environments requiring dependable electrical voltage measurement.",
 },
 
-{
-  id: 84,
 
-  slug: "",
-
-  category: "Physics",
-
-  name: "",
-
-  image: "",
-
-  images: [
-
-    "",
-
-    "",
-
-    ""
-
-  ],
-
-  description: "",
-
-  price: "",
-
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
-
-  fullDescription: "",
-},
-
-{
-  id: 85,
-
-  slug: "",
-
-  category: "Physics",
-
-  name: "",
-
-  image: "",
-
-  images: [
-
-    "",
-
-    "",
-
-    ""
-
-  ],
-
-  description: "",
-
-  price: "",
-
-  specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
-  ],
-
-  fullDescription: "",
-},
 
 ];
 
