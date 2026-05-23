@@ -898,1201 +898,930 @@ const PhysicsProducts = [
 {
   id: 30,
 
-  slug: "",
+  slug: "Diodes",
 
   category: "Physics",
 
-  name: "",
+  name: " Diodes (solid state + Zener diodes)",
 
-  image: "",
+  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvy890maFrovSpTSB9RA2QFw-f3eN3tqO6Cg&s",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://i.ebayimg.com/images/g/Ni4AAOSwzSNduHLO/s-l1200.jpg",
+    "https://www.micros.com.pl/gfx/micros/_thumbs/mediaserver/bd/c0/96/bdc0966cdc3c7f4b815db86c757f2a57,lFmUwl-kb1OY5YVUlA-jpg.webp",
+    "https://m.media-amazon.com/images/I/611lgzmOm5L.jpg"
   ],
 
-  description: "",
+  description: "Assorted Laboratory Diodes",
 
-  price: "",
+  price: "200 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"Solid State And Zener Types",
+  "Reliable Semiconductor Performance",
+  "Multiple Electrical Applications",
+  "Educational Electronics Components"
   ],
 
-  fullDescription: "",
+  fullDescription: "The assorted diode set contains solid state diodes and Zener diodes designed for controlling current flow, voltage regulation, rectification, and electronic circuit experiments during scientific and technical practical work. Manufactured for reliable semiconductor performance, the components provide stable electrical behavior and dependable operation in a wide range of electronic applications. The assortment supports practical studies of rectification, signal control, and voltage stabilization in laboratory environments. These diodes are widely used in schools, research laboratories, engineering workshops, technical institutions, and electronics education environments for circuit assembly, testing, and electronic experimentation.",
 },
 
 {
   id: 31,
 
-  slug: "",
+  slug: "Double beam balance",
 
   category: "Physics",
 
-  name: "",
+  name: "Double beam balance",
 
-  image: "",
+  image: "https://www.labotronics.com/assets/products/LB-10DBB/17695043391.webp",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://www.aticoexport.com/wp-content/uploads/2014/01/Balance-Double-Beam.jpg",
+    "https://shpuchun.com/wp-content/uploads/2022/08/%E5%8F%8C%E6%A0%87%E5%B0%BA.jpg",
+    "https://allschoolabs.com/wp-content/uploads/2023/06/image.jpg"
   ],
 
-  description: "",
+  description: "Precision Double Beam Balance",
 
-  price: "",
+  price: "60000 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"Accurate Mass Measurement",
+  "Dual Beam Scale System",
+  "Durable Laboratory Construction",
+  "Educational Science Instrument"
   ],
 
-  fullDescription: "",
+  fullDescription: "The double beam balance is a precision laboratory weighing instrument designed for accurately measuring mass during scientific experiments, analytical procedures, and educational practical work. Equipped with a dual beam scale system, it provides reliable weight measurements and fine adjustment capability for improved accuracy during laboratory operations. Its durable laboratory-grade construction ensures stable performance and long-term use in classroom and research environments. The double beam balance is widely used in schools, research laboratories, technical institutions, and scientific education environments for precise mass determination and experimental analysis.",
 },
 
 {
   id: 32,
 
-  slug: "",
+  slug: "Dynamic trolley",
 
   category: "Physics",
 
-  name: "",
+  name: "Dynamic trolley",
 
-  image: "",
+  image: "https://medilabexports.com/wp-content/uploads/2020/10/Dynamic-Trolley-Wooden.jpeg",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://www.eiscolabs.com/cdn/shop/products/PH0350A_46d21b15-c5f4-43d8-a41f-d9b9a4c4722f_1200x698.jpg?v=1571438715",
+    "https://arihantlab.com/wp-content/uploads/2024/02/1031220-1.jpg",
+    "https://5.imimg.com/data5/LK/HK/BF/SELLER-932240/dynamic-trolley-500x500.jpg"
   ],
 
-  description: "",
+  description: "Laboratory Dynamic Trolley",
 
-  price: "",
+  price: "20000 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"Smooth Rolling Wheels",
+  "Durable Metal Construction",
+  "Low Friction Movement",
+  "Educational Physics Apparatus"
   ],
 
-  fullDescription: "",
+  fullDescription: "The dynamic trolley is a laboratory physics apparatus designed for studying motion, force, momentum, and Newton’s laws during scientific experiments and educational practical activities. Manufactured with smooth rolling wheels and durable construction, it provides low-friction movement for accurate experimental observations and reliable results. Its sturdy design allows repeated classroom and laboratory use in mechanics demonstrations and motion analysis. The dynamic trolley is widely used in schools, research laboratories, technical institutions, and physics education environments for practical mechanics and dynamics studies.",
 },
 
 {
   id: 33,
 
-  slug: "",
+  slug: "Elemctromagnet U form",
 
   category: "Physics",
 
-  name: "",
+  name: "Elemctromagnet U form",
 
-  image: "",
+  image: "https://5.imimg.com/data5/SELLER/Default/2025/6/517380515/IM/TL/DX/3087223/petrol-engine-four-stroke-500x500.jpg",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://5.imimg.com/data5/SELLER/Default/2025/6/517380515/IM/TL/DX/3087223/petrol-engine-four-stroke-500x500.jpg",
+    "https://5.imimg.com/data5/SELLER/Default/2025/6/517380505/DV/FE/TW/3087223/petrol-engine-four-stroke.jpg",
+    "https://www.westlab.com.au/media/catalog/product/0/8/080513-0001.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000"
   ],
 
-  description: "",
+  description: "U-Shaped Laboratory Electromagnet",
 
-  price: "",
+  price: "5000 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"U Form Electromagnet Design",
+  "Strong Magnetic Field",
+  "Copper Coil Winding",
+  "Educational Physics Apparatus"
   ],
 
-  fullDescription: "",
+  fullDescription: "The U-form electromagnet is a laboratory physics apparatus designed for studying electromagnetism, magnetic fields, and electrical current effects during scientific experiments and educational demonstrations. Constructed with a U-shaped iron core and insulated copper coil winding, it produces a strong magnetic field when electric current passes through the coil. Its durable laboratory-grade construction ensures reliable performance and repeated use during classroom and research activities. The electromagnet is widely used in schools, research laboratories, engineering workshops, and physics education environments for practical studies of magnetism and electromagnetic principles.",
 },
 
 {
   id: 34,
 
-  slug: "",
+  slug: "Equilateral prism",
 
   category: "Physics",
 
-  name: "",
+  name: "Equilateral prism ",
 
-  image: "",
+  image: "https://www.e-holmarc.com/wp-content/uploads/2015/12/Equilateral_Prism_50a.jpg",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://rukminim2.flixcart.com/image/480/640/xif0q/prism/m/c/b/175-m-s-glass-prism-diy-reflection-prisms-equilateral-prism-original-imagzxr3h79sdh4b.jpeg?q=90",
+    "https://2.imimg.com/data2/VG/PV/MY-1403589/38mm-equilateral-prism-500x500.jpg",
+    "https://5.imimg.com/data5/SELLER/Default/2023/6/319616209/LT/LD/GT/191797645/20230624-143527-250x250.jpeg"
   ],
 
-  description: "",
+  description: "Precision Equilateral Prism",
 
-  price: "",
+  price: "2000 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"Equilateral Optical Prism",
+  "Clear Optical Glass",
+  "Accurate Light Refraction",
+  "Educational Physics Apparatus"
   ],
 
-  fullDescription: "",
+  fullDescription: "The equilateral prism is an optical laboratory apparatus designed for studying light refraction, dispersion, and spectrum formation during physics experiments and educational demonstrations. Manufactured from clear high-quality optical glass, it provides accurate light transmission and reliable optical performance for scientific applications. Its equilateral triangular design allows effective demonstration of deviation and separation of light into its component colors. The prism is widely used in schools, research laboratories, technical institutions, and physics education environments for optics studies and light experiments.",
 },
 
 {
   id: 35,
 
-  slug: "",
+  slug: "Galvanometer",
 
   category: "Physics",
 
-  name: "",
+  name: " Galvanometer ",
 
-  image: "",
+  image: "https://supertekedu.com/wp-content/uploads/2023/03/G-low.jpg",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://5.imimg.com/data5/WF/GU/MY-38758641/laboratory-galvanometer-500x500.jpg",
+    "https://sc04.alicdn.com/kf/Heda5037f9e734dc3b39a40d83aefface5.jpg",
+    "https://m.media-amazon.com/images/I/71CAidnQbyL._AC_UF1000,1000_QL80_.jpg"
   ],
 
-  description: "",
+  description: "Precision Laboratory Galvanometer",
 
-  price: "",
+  price: "6000 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"Sensitive Current Detection",
+  "Clear Needle Display",
+  "Accurate Electrical Measurement",
+  "Educational Physics Instrument"
   ],
 
-  fullDescription: "",
+  fullDescription: "The galvanometer is a sensitive laboratory electrical instrument designed for detecting and measuring small electric currents during scientific experiments and educational practical work. Equipped with a precision needle display mechanism, it provides accurate current indication and reliable performance for electrical analysis and circuit investigations. Its sensitive measurement system allows observation of weak electrical currents and directional current flow during experiments. The galvanometer is widely used in schools, research laboratories, engineering workshops, technical institutions, and physics education environments for electrical measurements and electromagnetism studies.",
 },
 
 {
   id: 36,
 
-  slug: "",
+  slug: "G-clamp 4",
 
   category: "Physics",
 
-  name: "",
+  name: "G-clamp 4’’",
 
-  image: "",
+  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyNM_l0fE74OdpcFBmIRAlqIq-3F2-pk9NVw&s",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://www.faithfulltools.com/images/xxlarge/FAICLAMPSET4.jpg",
+    "https://universalautospares.com.au/cdn/shop/files/3-Pieces-Mini-G-Clamp-Set-Heavy-Duty-Steel-Frame-Quick-Adjustment-PKTool-Universal-Auto-Spares-430.webp?v=1685830921&width=1214",
+    "https://i.ebayimg.com/images/g/09AAAOSw9l5jfkh4/s-l400.jpg"
   ],
 
-  description: "",
+  description: "Heavy Duty 4-inch G-Clamp",
 
-  price: "",
+  price: "3500 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"4 Inch Clamp Size",
+  "Strong Metal Construction",
+  "Adjustable Screw Mechanism",
+  "Workshop And Laboratory Use"
   ],
 
-  fullDescription: "",
+  fullDescription: "The 4-inch G-clamp is a durable holding tool designed for securing objects firmly during laboratory work, workshop activities, engineering projects, and scientific practical applications. Manufactured from strong heavy-duty metal, it provides reliable gripping force and stable support for a wide range of materials and equipment. Its adjustable screw mechanism allows precise tightening and secure positioning during use. The G-clamp is widely used in schools, research laboratories, engineering workshops, technical institutions, and industrial environments for clamping, assembly, and experimental setup applications.",
 },
 
 {
   id: 37,
 
-  slug: "",
+  slug: "G-clamp 6",
 
   category: "Physics",
 
-  name: "",
+  name: "G-clamp 6’’",
 
-  image: "",
+  image: "https://cdn.aws.toolstation.com/images/141020-UK/250/91896.jpg",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://www.irwin.eu/uploads/eu/products/large/121-heavy-duty-g-clamps-148.jpg",
+    "https://i.ebayimg.com/images/g/ipsAAOSwLh9dj6n~/s-l400.jpg",
+    "https://i5.walmartimages.com/seo/6-inches-C-Clamp-G-Clamp_27f07fe2-faf8-4761-96bb-7a81305c57f1.492b5c6c489a2a8806c0812b72e314d1.jpeg"
   ],
 
-  description: "",
+  description: "Heavy Duty 6-Inch G-Clamp",
 
-  price: "",
+  price: "4000 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"6 Inch Clamp Size",
+  "Strong Metal Construction",
+  "Adjustable Screw Mechanism",
+  "Workshop And Laboratory Use"
   ],
 
-  fullDescription: "",
+  fullDescription: "The 6-inch G-clamp is a durable holding tool designed for firmly securing objects during laboratory work, workshop activities, engineering projects, and scientific practical applications. Manufactured from strong heavy-duty metal, it provides reliable gripping force and stable support for larger materials and equipment. Its adjustable screw mechanism allows precise tightening and secure positioning during use. The G-clamp is widely used in schools, research laboratories, engineering workshops, technical institutions, and industrial environments for clamping, assembly, and experimental setup applications.",
 },
 
 {
   id: 38,
 
-  slug: "",
+  slug: "Gold leaf electroscope",
 
   category: "Physics",
 
-  name: "",
+  name: "Gold leaf electroscope ",
 
-  image: "",
+  image: "https://supertekedu.com/wp-content/uploads/2023/03/PH45255-1-low.jpg",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://labsarena.com/wp-content/uploads/2025/04/download-2.jpg",
+    "https://m.media-amazon.com/images/I/61xOLirOMCL._AC_UF350,350_QL50_.jpg",
+    "https://sc04.alicdn.com/kf/Hbd7adb897616400f92ffd02d71298790Z.jpg"
   ],
 
-  description: "",
+  description: "Precision Gold Leaf Electroscope",
 
-  price: "",
+  price: "15000 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"Sensitive Charge Detection",
+  "Gold Leaf Indicator System",
+  "Insulated Glass Enclosure",
+  "Educational Physics Apparatus"
   ],
 
-  fullDescription: "",
+  fullDescription: "The gold leaf electroscope is a laboratory physics instrument designed for detecting and demonstrating electric charge during scientific experiments and educational practical work. Equipped with a sensitive gold leaf indicator system, it allows clear observation of charge presence, charge type interactions, and electrostatic effects. The instrument is enclosed in a protective insulated glass chamber to reduce external interference and maintain accurate performance during experiments. The gold leaf electroscope is widely used in schools, research laboratories, technical institutions, and physics education environments for electrostatics demonstrations and electrical studies.",
 },
 
 {
   id: 39,
 
-  slug: "",
+  slug: "Helical spring",
 
   category: "Physics",
 
-  name: "",
+  name: "Helical spring",
 
-  image: "",
+  image: "https://image.made-in-china.com/2f0j00tWobNLyhMjcK/Competitive-Price-High-Quality-304-Stainless-Steel-Extension-Spring.webp",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://m.media-amazon.com/images/I/71MKsxCAfiL._AC_UF894,1000_QL80_.jpg",
+    "https://m.media-amazon.com/images/I/61hXQBUmZQL._AC_UF350,350_QL80_.jpg",
+    "https://5.imimg.com/data5/SELLER/Default/2025/2/489844200/ER/OK/VN/32083505/compression-spring-500x500.jpeg"
   ],
 
-  description: "",
+  description: "Laboratory Helical Spring",
 
-  price: "",
+  price: "1000 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"High Elasticity Spring",
+  "Durable Steel Construction",
+  "Uniform Coil Design",
+  "Educational Physics Apparatus"
   ],
 
-  fullDescription: "",
+  fullDescription: "The helical spring is a laboratory physics component designed for studying elasticity, force, oscillation, and Hooke’s law during scientific experiments and educational practical activities. Manufactured from durable high-quality steel, it provides reliable elasticity and consistent extension or compression behavior during repeated use. Its uniform coil design allows accurate observation and measurement of mechanical properties in laboratory applications. The helical spring is widely used in schools, research laboratories, technical institutions, and physics education environments for mechanics and elasticity studies.",
 },
 
 {
   id: 40,
 
-  slug: "",
+  slug: "Solenoid",
 
   category: "Physics",
 
-  name: "",
+  name: "Solenoid  ",
 
-  image: "",
+  image: "https://m.media-amazon.com/images/I/618L4KQE4hL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_QL100_.jpg",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://m.media-amazon.com/images/I/61-OeTb4NQS.jpg",
+    "https://www.westlab.com.au/media/catalog/product/0/8/081306-0005_Done.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCiS1Dc52nTW2MVCc8DZtlK4ENJxA5Nsv8uA&s"
   ],
 
-  description: "",
+  description: "Laboratory Solenoid Coil",
 
-  price: "",
+  price: "6000 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+ "Insulated Copper Coil",
+  "Electromagnetic Field Generation",
+  "Durable Cylindrical Design",
+  "Educational Physics Apparatus"
   ],
 
-  fullDescription: "",
+  fullDescription: "The solenoid is a laboratory electromagnetic component designed for studying magnetic fields, electromagnetism, and electrical current effects during scientific experiments and educational demonstrations. Constructed with insulated copper wire wound into a cylindrical coil, it generates a magnetic field when electric current passes through it. Its durable design ensures reliable performance and repeated use in classroom and laboratory applications. The solenoid is widely used in schools, research laboratories, engineering workshops, technical institutions, and physics education environments for practical studies of electromagnetism and magnetic field behavior.",
 },
 
 {
   id: 41,
 
-  slug: "",
+  slug: "Iron fillings",
 
   category: "Physics",
 
-  name: "",
+  name: "Iron fillings 500g",
 
-  image: "",
+  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvuIvLl64zZuCxhkdVTw01xddp4Url6yVQUw&s",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvuIvLl64zZuCxhkdVTw01xddp4Url6yVQUw&s",
+    "https://t3.ftcdn.net/jpg/00/90/07/30/360_F_90073066_H0ZtxtIRL4whrsRgiXPrXiCvNGyKyE75.jpg",
+    "https://www.sciencecompany.com/Assets/ProductImages/nc8536g.jpg"
   ],
 
-  description: "",
+  description: "High Purity Iron Filings",
 
-  price: "",
+  price: "10000 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"500g Metal Quantity",
+  "Fine Particle Form",
+  "Magnetic Demonstration Material",
+  "Educational Physics Material"
   ],
 
-  fullDescription: "",
+  fullDescription: "Iron filings 500g are fine metallic particles designed for studying magnetic fields, magnetism, and electromagnetic effects during scientific experiments and educational practical work. Manufactured from high-quality iron material, they provide clear visualization of magnetic field patterns and reliable performance in laboratory demonstrations. Their fine particle form allows easy spreading and accurate observation around magnets and electromagnets during experiments. Iron filings are widely used in schools, research laboratories, technical institutions, and physics education environments for practical studies of magnetism and electromagnetic principles.",
 },
 
 {
   id: 42,
 
-  slug: "",
+  slug: "Lens holder",
 
   category: "Physics",
 
-  name: "",
+  name: " Lens holder",
 
-  image: "",
+  image: "https://5.imimg.com/data5/SELLER/Default/2024/4/412139186/OI/IM/CJ/157277296/plastic-lens-holder.jpg",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://m.media-amazon.com/images/I/31BOoRMgs2L.jpg",
+    "https://m.media-amazon.com/images/I/61UCqN-SxSL._AC_UF1000,1000_QL80_.jpg",
+    "https://m.media-amazon.com/images/I/41Ym+yNBb3L.jpg"
   ],
 
-  description: "",
+  description: "Optical Lens Holder",
 
-  price: "",
+  price: "1000 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"Secure Lens Support",
+  "Adjustable Positioning System",
+  "Durable Metal Construction",
+  "Educational Physics Apparatus"
   ],
 
-  fullDescription: "",
+  fullDescription: "The lens holder is an optical laboratory accessory designed for securely supporting and positioning lenses during physics experiments and educational demonstrations. Manufactured from durable laboratory-grade materials, it provides stable lens alignment and reliable performance for optical studies and light experiments. Its adjustable positioning system allows accurate placement of lenses for studying refraction, focal length, and image formation. The lens holder is widely used in schools, research laboratories, technical institutions, and physics education environments for optics experiments and scientific demonstrations.",
 },
 
 {
   id: 43,
 
-  slug: "",
+  slug: "Light dependence resistor",
 
   category: "Physics",
 
-  name: "",
+  name: " Light dependence resistor LDR",
 
-  image: "",
+  image: "https://www.microscale.net/cdn/shop/files/LDR-destaque-scaled_2048x_23e7abea-b96f-4cfe-ad05-597e6a01c362.jpg?v=1725657624",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://www.ariat-tech.com/upfile/images/f7/20251212135841871.png",
+    "https://probots.co.in/pub/media/catalog/product/cache/d8ddd0f9b0cd008b57085cd218b48832/l/d/ldr.jpg",
+    "https://m.media-amazon.com/images/I/51L5lnCt9ML._AC_UF894,1000_QL80_.jpg"
   ],
 
-  description: "",
+  description: "Sensitive Light Dependent Resistor",
 
-  price: "",
+  price: "300 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"Light Sensitive Resistance Control",
+  "Fast Response Performance",
+  "Reliable Semiconductor Component",
+  "Educational Electronics Device"
   ],
 
-  fullDescription: "",
+  fullDescription: "The light dependent resistor (LDR) is an electronic semiconductor component designed for detecting and responding to changes in light intensity during scientific experiments and electronic applications. Its electrical resistance changes according to the amount of light falling on its surface, allowing accurate light sensing and automatic control functions in circuits. Manufactured for reliable performance and fast response, it is suitable for a wide range of laboratory and educational electronics projects. The LDR is widely used in schools, research laboratories, engineering workshops, technical institutions, and electronics education environments for light detection and sensor-based circuit experiments.",
 },
 
 {
   id: 44,
 
-  slug: "",
+  slug: "Light emitting diodes LED",
 
   category: "Physics",
 
-  name: "",
+  name: " Light emitting diodes LED",
 
-  image: "",
+  image: "https://www.smcomponents.com.au/cdn/shop/products/57_d0ec9234-8b7e-425c-a2c5-0fbebc85c7f4.jpg?v=1675951848&width=1445",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://new-server.developingexperts.com/file-cdn/images/get/440102c7-34f7-4505-a466-1486181f2f7f?transform=resize:340x_~fit:contain;format:webp;quality:80",
+    "https://www.smcomponents.com.au/cdn/shop/products/57_d0ec9234-8b7e-425c-a2c5-0fbebc85c7f4.jpg?v=1675951848&width=1445",
+    "https://2btrading.tn/446-large_default/diode-led-10mm.jpg"
   ],
 
-  description: "",
+  description: "High Brightness LED",
 
-  price: "",
+  price: "150 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"Low Power Consumption",
+  "Bright Light Emission",
+  "Reliable Semiconductor Technology",
+  "Educational Electronics Components"
   ],
 
-  fullDescription: "",
+  fullDescription: "Light emitting diodes (LEDs) are semiconductor electronic components designed for producing visible light during electrical operation in scientific experiments, circuit design, and educational electronics projects. Manufactured for high brightness and energy efficiency, they provide reliable illumination with low power consumption and long operational life. The components are suitable for indicator circuits, display systems, and practical electronics applications in laboratory environments. LEDs are widely used in schools, research laboratories, engineering workshops, technical institutions, and electronics education environments for circuit demonstrations and electronic experimentation.",
 },
 
 {
   id: 45,
 
-  slug: "",
+  slug: "Metre rule flexible",
 
   category: "Physics",
 
-  name: "",
+  name: " Metre rule flexible  ",
 
-  image: "",
+  image: "https://artdiscount.co.uk/cdn/shop/files/Wooden_Rule_grande.jpg?v=1699957886",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://www.gosupps.com/media/catalog/product/cache/25/image/1500x/040ec09b1e35df139433887a97daa66f/8/1/81KqnSdT4SL._AC_SL1500_.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSW1U2eLmzbp3KgT2sO-AZjAw9FPma0swO4w&s",
+    "https://www.itm.com/images/products/cache/starrett/c334_150/main/starrett-c334-150-full-flexible-rule-mm-and-inch-graduations-150mm-to-5-3-4-12mm.jpg"
   ],
 
-  description: "",
+  description: "Flexible Laboratory Metre Rule",
 
-  price: "",
+  price: "1500 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"1 Metre Measuring Length",
+  "Flexible Durable Material",
+  "Clear Measurement Markings",
+  "Educational Science Instrument"
   ],
 
-  fullDescription: "",
+  fullDescription: "The flexible metre rule is a measuring instrument designed for accurately measuring length, distance, and curved surfaces during scientific experiments, technical work, and educational practical activities. Manufactured from durable flexible material, it allows convenient measurement of both straight and irregular surfaces while maintaining reliable accuracy. The rule features clear and easy-to-read measurement markings for efficient laboratory and classroom use. It is widely used in schools, research laboratories, engineering workshops, technical institutions, and industrial scientific applications requiring dependable linear measurement tools.",
 },
 
 {
   id: 46,
 
-  slug: "",
+  slug: "Wooden bar size of metre rule",
 
   category: "Physics",
 
-  name: "",
+  name: " Wooden bar size of metre rule",
 
-  image: "",
+  image: "https://www.paperworm.com.sg/cdn/shop/products/WoodenRuler1m_grande.jpg?v=1601611781",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://m.media-amazon.com/images/I/71GSJPaMvnL.jpg",
+    "https://www.paperworm.com.sg/cdn/shop/products/WoodenRuler1m_grande.jpg?v=1601611781",
+    "https://www.iqratrading.com/wp-content/uploads/2017/12/B8A73842.jpg"
   ],
 
-  description: "",
+  description: "Wooden Metre Rule Bar",
 
-  price: "",
+  price: "1500 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"1 Metre Length",
+  "Durable Wooden Construction",
+  "Smooth Finished Surface",
+  "Educational Laboratory Material"
   ],
 
-  fullDescription: "",
+  fullDescription: "The wooden bar size of a metre rule is a laboratory and educational material designed for measurement demonstrations, mechanics experiments, and general scientific practical activities. Manufactured from durable quality wood, it provides reliable structural strength and long-lasting classroom performance. Its smooth finished surface ensures safe handling and convenient use during laboratory experiments and demonstrations. The wooden metre-length bar is widely used in schools, research laboratories, technical institutions, and physics education environments for measurement studies, support setups, and experimental applications.",
 },
 
 {
   id: 47,
 
-  slug: "",
+  slug: "Grooved wooden bar",
 
   category: "Physics",
 
-  name: "",
+  name: "Grooved wooden bar 150cm long ",
 
-  image: "",
+  image: "https://images.cdn.europe-west1.gcp.commercetools.com/76595976-a4cd-4992-b215-58c6bb2222e5/model_vlonderplank_g-9UMNLtQR-zoom.jpg",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://images.cdn.europe-west1.gcp.commercetools.com/76595976-a4cd-4992-b215-58c6bb2222e5/model_vlonderplank_g-9UMNLtQR-zoom.jpg",
   ],
 
-  description: "",
+  description: "Grooved Wooden Laboratory Bar",
 
-  price: "",
+  price: "2000 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"150cm Total Length",
+  "Precision Grooved Surface",
+  "Durable Wooden Construction",
+  "Educational Physics Apparatus"
   ],
 
-  fullDescription: "",
+  fullDescription: "The grooved wooden bar 150cm long is a laboratory apparatus designed for mechanics experiments, motion studies, and educational scientific demonstrations during practical physics activities. Manufactured from durable quality wood, it features a precision groove that allows guided movement of objects and experimental components with improved stability and accuracy. Its long sturdy construction provides reliable support for classroom and laboratory investigations involving motion and force. The grooved wooden bar is widely used in schools, research laboratories, technical institutions, and physics education environments for mechanics and dynamics experiments.",
 },
 
 {
   id: 48,
 
-  slug: "",
+  slug: "Micrometer screw guage",
 
   category: "Physics",
 
-  name: "",
+  name: " Micrometer screw guage ",
 
-  image: "",
+  image: "https://m.media-amazon.com/images/I/41kFwgbOERL._AC_UF1000,1000_QL80_.jpg",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://www.almicroinstruments.com/wp-content/uploads/2022/06/pr-24.jpg",
+    "https://labasiabd.com/wp-content/uploads/2021/02/25-mm-China-Best-Quality-Screw-Gauge-or-Micrometer-in-bd.jpg",
+    "https://mechanicalguidehub.com/wp-content/uploads/outside-micrometer.webp"
   ],
 
-  description: "",
+  description: "Precision Micrometer Screw Gauge",
 
-  price: "",
+  price: "7000 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"High Precision Measurement",
+  "Fine Screw Adjustment",
+  "Clear Graduated Scale",
+  "Durable Metal Construction"
   ],
 
-  fullDescription: "",
+  fullDescription: "The micrometer screw gauge is a precision measuring instrument designed for accurately measuring very small thicknesses, diameters, and dimensions during scientific experiments, engineering work, and technical practical applications. Equipped with a fine screw adjustment mechanism and clear graduated scale, it provides highly accurate measurements and reliable performance in laboratory environments. Its durable metal construction ensures stability and long-term repeated use during measurement procedures. The micrometer screw gauge is widely used in schools, research laboratories, engineering workshops, technical institutions, and industrial scientific applications requiring precise dimensional measurement.",
 },
 
 {
   id: 49,
 
-  slug: "",
+  slug: "Milliammeter",
 
   category: "Physics",
 
-  name: "",
+  name: " Milliammeter ",
 
-  image: "",
+  image: "https://s.alicdn.com/@sc04/kf/H9de3125b9b5a438eb14c6a4d566d7623w/Amperemeter-Lab-Teaching-Instrument-Educational-Equipment-Ammeter-AC-Milliammeter.png",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://m.media-amazon.com/images/I/61KnZ9MhSdL._AC_UF1000,1000_QL80_.jpg",
+    "https://5.imimg.com/data5/XZ/ZZ/HV/SELLER-28371180/milli-ammeter.jpg",
+    "https://bilder.afterbuy.de/images/NQZSNP/86151371_1.JPG"
   ],
 
-  description: "",
+  description: "Precision Laboratory Milliammeter",
 
-  price: "",
+  price: "6000 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"Measures Small Electric Currents",
+  "Clear Graduated Display",
+  "Accurate Current Detection",
+  "Educational Physics Instrument"
   ],
 
-  fullDescription: "",
+  fullDescription: "The milliammeter is a laboratory electrical measuring instrument designed for accurately measuring small electric currents in milliamperes during scientific experiments and educational practical work. Constructed with precision measuring components, it provides reliable current readings and consistent performance for electrical analysis and circuit investigations. The instrument features a clear graduated display for easy observation and accurate interpretation of measurements during experiments. Its durable laboratory-grade construction makes it ideal for schools, research laboratories, engineering workshops, technical institutions, and physics education environments requiring dependable low-current electrical measurement.",
 },
 
 {
   id: 50,
 
-  slug: "",
+  slug: "Millivoltmeter",
 
   category: "Physics",
 
-  name: "",
+  name: "Millivoltmeter",
 
-  image: "",
+  image: "https://m.media-amazon.com/images/I/614exUNF29L.jpg",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://m.media-amazon.com/images/I/61FIDa70miL._AC_UF894,1000_QL80_.jpg",
+    "https://m.media-amazon.com/images/I/614exUNF29L.jpg",
   ],
 
-  description: "",
+  description: "Precision Laboratory Millivoltmeter",
 
-  price: "",
+  price: "6000 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+   "Measures Small Voltages",
+  "Clear Graduated Display",
+  "Accurate Voltage Detection",
+  "Educational Physics Instrument",
   ],
 
-  fullDescription: "",
+  fullDescription: "The millivoltmeter is a laboratory electrical measuring instrument designed for accurately measuring small electrical voltages in millivolts during scientific experiments and educational practical work. Constructed with precision measuring components, it provides reliable voltage readings and consistent performance for electrical analysis and circuit investigations. The instrument features a clear graduated display for easy observation and accurate interpretation of measurements during experiments. Its durable laboratory-grade construction makes it ideal for schools, research laboratories, engineering workshops, technical institutions, and physics education environments requiring dependable low-voltage electrical measurement.",
 },
 
 {
   id: 51,
 
-  slug: "",
+  slug: "Nichrome wire",
 
   category: "Physics",
 
-  name: "",
+  name: "Nichrome wire ",
 
-  image: "",
+  image: "https://bmseducation.com/wp-content/uploads/2024/05/EEWN3112.jpg",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://bmseducation.com/wp-content/uploads/2024/05/EEWN3112.jpg",
+    "https://cdn.store-assets.com/s/638258/i/20095663.jpg",
   ],
 
-  description: "",
+  description: "High Resistance Nichrome Wire Roll",
 
-  price: "",
+  price: "4000 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"Heat Resistant Alloy Wire",
+  "Stable Electrical Resistance",
+  "Flexible Durable Construction",
+  "Educational Physics Material"
   ],
 
-  fullDescription: "",
+  fullDescription: "The nichrome wire roll is a laboratory electrical material designed for heating applications, resistance experiments, and scientific practical work during physics and electronics studies. Manufactured from a nickel-chromium alloy, it provides stable electrical resistance, excellent heat resistance, and reliable performance during repeated laboratory use. Its flexible and durable construction allows easy handling and efficient setup in experimental circuits and heating devices. Nichrome wire is widely used in schools, research laboratories, engineering workshops, technical institutions, and physics education environments for studies involving electrical resistance, heating effects, and thermal experiments.",
 },
 
 {
   id: 52,
 
-  slug: "",
+  slug: "Optical pins",
 
   category: "Physics",
 
-  name: "",
+  name: " Optical pins pack of 100 ",
 
-  image: "",
+  image: "https://cdn.images.fecom-media.com/FE00009494/images/HE1536467_160619-PHE-LEQ-P01.jpg?w=3840&q=75",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://www.eiscolabs.com/cdn/shop/products/PH0553A_1200x600_crop_center.jpg?v=1571438834",
+    "https://www.rutland.co.za/cdn/shop/products/092221_pins_optical_pkt_of_100_1024x1024.jpeg?v=1440436986",
   ],
 
-  description: "",
+  description: "Precision Optical Pins Set",
 
-  price: "",
+  price: "3000 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"Pack Of 100 Pins",
+  "Sharp Straight Pin Design",
+  "Durable Metal Construction",
+  "Educational Physics Accessory"
   ],
 
-  fullDescription: "",
+  fullDescription: "The optical pins pack contains 100 precision metal pins designed for optical experiments, light alignment studies, and educational physics practical activities. Manufactured with sharp straight pin construction, they provide accurate positioning and reliable alignment during experiments involving reflection, refraction, and image formation. Their durable metal design ensures repeated laboratory use and consistent experimental performance. Optical pins are widely used in schools, research laboratories, technical institutions, and physics education environments for optics demonstrations and light-related scientific studies.",
 },
 
 {
   id: 53,
 
-  slug: "",
+  slug: "Overflow can plastic",
 
   category: "Physics",
 
-  name: "",
+  name: "Overflow can plastic",
 
-  image: "",
+  image: "https://www.indianlabsuppliers.com/front_assets/images/catalog/product/thumb/775142974OverflowVessel(EurekaCan)Plastic.jpg",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://www.labequipmentsambala.com/front_assets/images/catalog/product/1136989589OverflowVessel(EurekaCan)Plastic.jpg",
+    "https://corwin.africa/wp-content/uploads/2026/01/Eureca-Can.webp",
+    "https://www.rutland.co.za/cdn/shop/products/000625_eureka_can_clear_plastic_1024x1024.jpeg?v=1440438584"
   ],
 
-  description: "",
+  description: "Plastic Overflow Can",
 
-  price: "",
+  price: "2000 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"Durable Plastic Construction",
+  "Overflow Spout Design",
+  "Accurate Volume Displacement",
+  "Educational Physics Apparatus"
   ],
 
-  fullDescription: "",
+  fullDescription: "The plastic overflow can is a laboratory apparatus designed for measuring the volume of irregular objects using the displacement method during scientific experiments and educational practical work. Manufactured from durable lightweight plastic, it provides reliable performance and easy handling in classroom and laboratory environments. The overflow spout design allows accurate collection of displaced liquid for precise volume determination during experiments. The overflow can is widely used in schools, research laboratories, technical institutions, and physics education environments for density and volume displacement studies.",
 },
 
 {
   id: 54,
 
-  slug: "",
+  slug: " Pendulum bob",
 
   category: "Physics",
 
-  name: "",
+  name: " Pendulum bob",
 
-  image: "",
+  image: "https://www.eiscolabs.com/cdn/shop/products/PH0306F_1181x700.jpg?v=1571438832",
 
   images: [
 
-    "",
+    "https://www.eiscolabs.com/cdn/shop/products/PH0306F_1181x700.jpg?v=1571438832",
 
-    "",
+    "https://m.media-amazon.com/images/I/61O4VcbV60L._AC_UF1000,1000_QL80_.jpg",
 
-    ""
+    "https://static.rapidonline.com/catalogueimages/product/06/22/s06-2226p01wc.jpg"
 
   ],
 
-  description: "",
+  description: "Precision Pendulum Bob",
 
-  price: "",
+  price: "1000 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+ "Balanced Metal Construction",
+  "Smooth Spherical Design",
+  "Accurate Oscillation Performance",
+  "Educational Physics Apparatus"
   ],
 
-  fullDescription: "",
+  fullDescription: "The pendulum bob is a laboratory physics component designed for studying oscillation, periodic motion, and gravitational effects during scientific experiments and educational practical activities. Manufactured from balanced durable metal, it provides accurate and consistent oscillation performance for reliable experimental observations. Its smooth spherical design minimizes air resistance and supports stable pendulum motion during laboratory investigations. The pendulum bob is widely used in schools, research laboratories, technical institutions, and physics education environments for mechanics and motion studies.",
 },
 
 {
   id: 55,
 
-  slug: "",
+  slug: "Plain mirror",
 
   category: "Physics",
 
-  name: "",
+  name: "Plain mirror",
 
-  image: "",
+  image: "https://5.imimg.com/data5/SELLER/Default/2023/7/323034582/JB/VR/HT/3345915/mirror-glass-500x500.jpg",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://5.imimg.com/data5/SELLER/Default/2024/8/442025949/FA/PE/BT/21918743/window-mirror-glass-1-500x500.jpeg",
+    "https://m.media-amazon.com/images/I/51AWttMWIvL._AC_UF894,1000_QL80_.jpg",
+    "https://m.media-amazon.com/images/I/71CFWScd7fL._AC_UF894,1000_QL80_.jpg"
   ],
 
-  description: "",
+  description: "Precision Plane Mirror",
 
-  price: "",
+  price: "400 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"Flat Reflective Surface",
+  "Clear Image Reflection",
+  "Durable Optical Construction",
+  "Educational Physics Apparatus"
   ],
 
-  fullDescription: "",
+  fullDescription: "The plane mirror is an optical laboratory apparatus designed for studying reflection, image formation, and light behavior during physics experiments and educational demonstrations. Manufactured with a high-quality flat reflective surface, it provides clear image reflection and reliable optical performance for scientific applications. Its durable construction ensures stable repeated use in classroom and laboratory environments during practical experiments. The plane mirror is widely used in schools, research laboratories, technical institutions, and physics education environments for optics studies and light reflection demonstrations.",
 },
 
 {
   id: 56,
 
-  slug: "",
+  slug: "Plotting compass",
 
   category: "Physics",
 
-  name: "",
+  name: "Plotting compass",
 
-  image: "",
+  image: "https://www.westlab.com.au/media/catalog/product/0/8/080316-0001-img-09.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://www.eiscolabs.com/cdn/shop/products/fyvprtxlizaeby23wxj1_626x611.jpg?v=1653669783",
+    "https://www.lssuganda.com/images/catalog/product/1050860145PlottingCompass,DoubleGlassFace.jpg",
+    "https://www.eiscolabs.com/cdn/shop/products/PH0820D_734x700.jpg?v=1571438836"
   ],
 
-  description: "",
+  description: "Precision Plotting Compass",
 
-  price: "",
+  price: "1000 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"Accurate Circle Drawing",
+  "Adjustable Radius Control",
+  "Durable Metal Construction",
+  "Educational Geometry Instrument"
   ],
 
-  fullDescription: "",
+  fullDescription: "The plotting compass is a precision drawing instrument designed for constructing circles, arcs, and accurate geometric measurements during scientific, mathematical, and technical practical work. Manufactured with durable metal construction and adjustable radius control, it provides reliable accuracy and smooth operation for classroom and laboratory applications. Its sharp and stable design allows precise plotting and measurement during geometry and engineering tasks. The plotting compass is widely used in schools, research laboratories, technical institutions, engineering workshops, and educational environments for geometry, drafting, and scientific plotting activities.",
 },
 
 {
   id: 57,
 
-  slug: "",
+  slug: "Pulley single",
 
   category: "Physics",
 
-  name: "",
+  name: " Pulley single ",
 
-  image: "",
+  image: "https://sc04.alicdn.com/kf/H44e51733d75940dba743a7d866b81940j.jpg",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://5.imimg.com/data5/SELLER/Default/2025/8/537253805/VP/OV/CO/248667938/single-pulley-for-physics-laboratory.png",
+    "https://sc04.alicdn.com/kf/H0acfcdba309842dd8190dbd3bd1e4f8e2.jpg",
+    "https://sc04.alicdn.com/kf/H44e51733d75940dba743a7d866b81940j.jpg"
   ],
 
-  description: "",
+  description: "Single Wheel Laboratory Pulley",
 
-  price: "",
+  price: "2000 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"Single Pulley Wheel Design",
+  "Smooth Rotational Movement",
+  "Durable Metal Construction",
+  "Educational Physics Apparatus"
   ],
 
-  fullDescription: "",
+  fullDescription: "The single-way pulley is a laboratory physics apparatus designed for studying force, motion, mechanical advantage, and lifting systems during scientific experiments and educational practical activities. Manufactured with a smooth rotating wheel and durable construction, it provides reliable performance and efficient movement of ropes or cords during experimental demonstrations. Its sturdy design allows repeated classroom and laboratory use for mechanics investigations and practical learning. The pulley is widely used in schools, research laboratories, technical institutions, and physics education environments for mechanics and simple machine studies.",
 },
 
 {
   id: 58,
 
-  slug: "",
+  slug: "Pulley 2 ways",
 
   category: "Physics",
 
-  name: "",
+  name: " Pulley 2 ways  ",
 
-  image: "",
+  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuYMir0Ycp4oykwC93XGwTCNBiLd1s_NegfQ&s",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://tunnexlab.com/wp-content/uploads/2021/09/Pulley.jpg",
+    "https://media.teaching.com.au/uploads/nk50943/nk50943_pulley-metal-double-tandem.webp",
+    "https://sciencekitstore.com/resources/image/18/9c/f.jpg"
   ],
 
-  description: "",
+  description: "Double Wheel Laboratory Pulley",
 
-  price: "",
+  price: "3000 FCFA",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+"Two Way Pulley System",
+  "Smooth Rotational Movement",
+  "Durable Metal Construction",
+  "Educational Physics Apparatus"
   ],
 
-  fullDescription: "",
+  fullDescription: "The 2-way pulley is a laboratory physics apparatus designed for studying force, motion, mechanical advantage, and compound pulley systems during scientific experiments and educational practical activities. Constructed with dual pulley wheel functionality and durable materials, it provides reliable performance and smooth movement of ropes or cords during mechanics demonstrations. Its sturdy design supports repeated classroom and laboratory use for advanced lifting and force distribution experiments. The pulley is widely used in schools, research laboratories, technical institutions, and physics education environments for mechanics and simple machine studies.",
 },
 
 {
   id: 59,
 
-  slug: "",
+  slug: "Pulley 3 ways",
 
   category: "Physics",
 
-  name: "",
+  name: "Pulley 3 ways",
 
-  image: "",
+  image: "https://why.gr/wp-content/uploads/2019/07/664603.jpg",
 
   images: [
-
-    "",
-
-    "",
-
-    ""
-
+    "https://cdn11.bigcommerce.com/s-ufhcuzfxw9/images/stencil/640w/products/11986/13543/MC-PULLY6__64884.1.jpg",
+    "https://cdn11.bigcommerce.com/s-wtulnkmvw7/images/stencil/320x320/products/26511/90308/16084_2_large__63961.1728477212.jpg?c=1",
+    "https://i5.walmartimages.com/asr/817551ee-d42a-48f4-9360-da6be68dc457.20409ca37f4e09dcd502c7797a5b6cc6.jpeg"
   ],
 
-  description: "",
+  description: "Triple Wheel Laboratory Pulley",
 
-  price: "",
+  price: "3000",
 
   specifications: [
-
-    "",
-
-    "",
-
-    "",
-
-    ""
-
+  "Three Way Pulley System",
+  "Smooth Rotational Movement",
+  "Durable Metal Construction",
+  "Educational Physics Apparatus"
   ],
 
-  fullDescription: "",
+  fullDescription: "The 3-way pulley is a laboratory physics apparatus designed for studying force distribution, mechanical advantage, and compound pulley systems during scientific experiments and educational practical activities. Constructed with a triple pulley wheel arrangement and durable materials, it provides reliable performance and efficient movement of ropes or cords during mechanics demonstrations. Its sturdy design allows repeated classroom and laboratory use for advanced lifting and force analysis experiments. The pulley is widely used in schools, research laboratories, technical institutions, and physics education environments for mechanics and simple machine studies.",
 },
 
 {
