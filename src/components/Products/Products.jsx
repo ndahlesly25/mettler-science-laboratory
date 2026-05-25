@@ -77,11 +77,15 @@ function ProductCard({
 
   {product.badge && (
 
-    <span className="product-badge">
+    <span
+  className={`product-badge ${product.badge
+    .toLowerCase()
+    .replace(/\s+/g, "-")}`}
+>
 
-      {product.badge}
+  {product.badge}
 
-    </span>
+</span>
 
   )}
 

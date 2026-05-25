@@ -607,25 +607,51 @@
 .product-badge {
   position: absolute;
 
-  top: 14px;
-  left: 14px;
+  top: 10px;
+  left: 10px;
 
   z-index: 10;
 
-  background: #ff5722;
+  padding: 3px 8px;
+
+  border-radius: 6px;
+
+  font-size: 9px;
+
+  font-weight: 600;
+
+  letter-spacing: 0.3px;
+
+  line-height: 1.0;
 
   color: white;
 
-  padding: 7px 12px;
-
-  border-radius: 30px;
-
-  font-size: 12px;
-
-  font-weight: 700;
-
-  letter-spacing: 0.5px;
+  text-transform: uppercase;
 
   box-shadow:
-    0 4px 12px rgba(0,0,0,0.2);
+    0 2px 8px rgba(0,0,0,0.12);
+}
+
+/* HOT */
+
+.product-badge.hot {
+  background: #ff5722;
+}
+
+/* NEW */
+
+.product-badge.new {
+  background: #2196f3;
+}
+
+/* BEST SELLER */
+
+.product-badge.best-seller {
+  background: #9c27b0;
+}
+
+/* IN STOCK */
+
+.product-badge.in-stock {
+  background: #28c76f;
 }

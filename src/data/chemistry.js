@@ -8,6 +8,7 @@ const chemistryProducts = [
     category: "Chemistry",
 
     name: "Beaker 50ml",
+    badge: "in-stock",
 
     image:
       "https://i5.walmartimages.com/seo/Uxcell-50ml-Low-Form-Glass-Beaker-3-3-Borosilicate-Graduated-Lab-Measuring-Cups-2-Pack_fadf5adf-ecd4-43b4-b1c6-6fdd7f33d277.e8af1d3fcd8e088bc0ef7f11c73274fa.jpeg",
