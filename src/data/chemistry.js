@@ -85,6 +85,8 @@ const chemistryProducts = [
 
   name: "Beaker 250ml",
 
+  badge: "BEST SELLER",
+
   image: "https://5.imimg.com/data5/SELLER/Default/2025/10/553963359/RP/QC/MJ/111805331/untitled-design-1.png",
 
   images: ["https://jomudiligenttraders.africa/wp-content/uploads/2024/09/Beaker-250ml-glass.jpg",
@@ -145,6 +147,8 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Beaker 1000ml",
+
+  badge: "HOT",
 
   image: "https://cdn.images.fecom-media.com/FE052967/images/Pyrex%20Glass%20Beaker%20Squat%20Form%201000ml_5sOTF7wHbU.jpg",
 

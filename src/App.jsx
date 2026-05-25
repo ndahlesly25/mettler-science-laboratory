@@ -37,6 +37,8 @@ import { FaWhatsapp } from "react-icons/fa";
 
 import { Helmet } from "react-helmet";
 
+import TopBar from "./components/TopBar/TopBar";
+
 /* PAGE TRANSITION */
 
 const pageVariants = {
@@ -257,6 +259,10 @@ function App() {
         />
 
       </Helmet>
+
+      {/* TOP BAR */}
+
+        <TopBar />
 
       {/* NAVBAR */}
 

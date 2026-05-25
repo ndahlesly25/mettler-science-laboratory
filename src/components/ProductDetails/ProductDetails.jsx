@@ -267,18 +267,19 @@ export default function ProductDetails({
             </button>
 
             <a
-              href={`https://wa.me/237670899763?text=Hello,%20I%20am%20interested%20in%20${product.name}`}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+  href={`https://wa.me/237670899763?text=Hello,%20I%20want%20to%20order%20${product.name}`}
+  target="_blank"
+  rel="noopener noreferrer"
+  className="whatsapp-order-link"
+>
 
-              <button className="whatsapp-contact-btn">
+  <button className="whatsapp-contact-btn">
 
-                Contact Supplier
+    Order On WhatsApp
 
-              </button>
+  </button>
 
-            </a>
+</a>
 
           </div>
 

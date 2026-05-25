@@ -428,3 +428,39 @@
   }
 
 }
+
+/* WHATSAPP BUTTON */
+
+.whatsapp-order-link {
+  text-decoration: none;
+}
+
+.whatsapp-contact-btn {
+  background: #25d366;
+
+  color: white;
+
+  border: none;
+
+  padding: 14px 22px;
+
+  border-radius: 10px;
+
+  font-size: 15px;
+
+  font-weight: 600;
+
+  cursor: pointer;
+
+  transition: all 0.3s ease;
+
+  box-shadow: 0 4px 14px rgba(37,211,102,0.25);
+}
+
+.whatsapp-contact-btn:hover {
+  background: #1ebe5d;
+
+  transform: translateY(-3px);
+
+  box-shadow: 0 8px 20px rgba(37,211,102,0.35);
+}

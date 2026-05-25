@@ -71,17 +71,34 @@ function ProductCard({
 
       {/* IMAGE */}
 
-      <Link
-        to={`/product/${product.slug}`}
-      >
+<div className="product-image-wrapper">
 
-        <img
-          src={product.image}
-          alt={product.name}
-          loading="lazy"
-        />
+  {/* BADGE */}
 
-      </Link>
+  {product.badge && (
+
+    <span className="product-badge">
+
+      {product.badge}
+
+    </span>
+
+  )}
+
+  <Link
+    to={`/product/${product.slug}`}
+  >
+
+    <img
+      src={product.image}
+      alt={product.name}
+      loading="lazy"
+      className="product-image"
+    />
+
+  </Link>
+
+</div>
 
       {/* TITLE */}
 
