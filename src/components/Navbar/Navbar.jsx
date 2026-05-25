@@ -4,6 +4,7 @@ import "./Navbar.css";
 
 import {
   FaShoppingCart,
+  FaSearch,
 } from "react-icons/fa";
 
 import {
@@ -14,6 +15,7 @@ import {
 export default function Navbar({
   cartCount,
   openCart,
+  
 }) {
 
   const [menuOpen, setMenuOpen] =
@@ -31,6 +33,16 @@ export default function Navbar({
   const isHomePage =
     location.pathname === "/";
 
+  /* CLOSE ALL MENUS */
+
+  const closeMenus = () => {
+
+    setMenuOpen(false);
+
+    setDropdownOpen(false);
+
+  };
+
   return (
 
     <nav className="navbar">
@@ -40,15 +52,36 @@ export default function Navbar({
       <Link
         to="/"
         className="logo"
+        onClick={closeMenus}
       >
 
-        Mettler Science Laboratory
+        Mettler Company Limited
 
       </Link>
 
       {/* RIGHT SIDE */}
 
       <div className="nav-right">
+
+        {/* SEARCH ICON */}
+
+<div
+  className="search-icon"
+  onClick={() => {
+
+    document
+      .getElementById("home")
+      ?.scrollIntoView({
+        behavior: "smooth",
+      });
+
+  }}
+>
+
+  <FaSearch />
+
+</div>
+
 
         {/* CART */}
 
@@ -88,17 +121,36 @@ export default function Navbar({
         }`}
       >
 
+
         {/* HOME */}
 
         <li>
 
-          <Link to="/">
+  {isHomePage ? (
 
-            Home
+    <a
+      href="#home"
+      onClick={closeMenus}
+    >
 
-          </Link>
+      Home
 
-        </li>
+    </a>
+
+  ) : (
+
+    <Link
+      to="/"
+      onClick={closeMenus}
+    >
+
+      Home
+
+    </Link>
+
+  )}
+
+</li>
 
         {/* ONLY SHOW SCROLL LINKS ON HOME */}
 
@@ -110,7 +162,10 @@ export default function Navbar({
 
             <li>
 
-              <a href="#about">
+              <a
+                href="#about"
+                onClick={closeMenus}
+              >
 
                 About
 
@@ -145,7 +200,10 @@ export default function Navbar({
 
                 <li>
 
-                  <a href="#chemistry">
+                  <a
+                    href="#chemistry"
+                    onClick={closeMenus}
+                  >
 
                     Chemistry
 
@@ -155,7 +213,10 @@ export default function Navbar({
 
                 <li>
 
-                  <a href="#biology">
+                  <a
+                    href="#biology"
+                    onClick={closeMenus}
+                  >
 
                     Biology
 
@@ -165,7 +226,10 @@ export default function Navbar({
 
                 <li>
 
-                  <a href="#physics">
+                  <a
+                    href="#physics"
+                    onClick={closeMenus}
+                  >
 
                     Physics
 
@@ -175,7 +239,10 @@ export default function Navbar({
 
                 <li>
 
-                  <a href="#geology">
+                  <a
+                    href="#geology"
+                    onClick={closeMenus}
+                  >
 
                     Geology
 
@@ -191,7 +258,10 @@ export default function Navbar({
 
             <li>
 
-              <a href="#contact">
+              <a
+                href="#contact"
+                onClick={closeMenus}
+              >
 
                 Contact
 
@@ -207,7 +277,10 @@ export default function Navbar({
 
         <li>
 
-          <Link to="/checkout">
+          <Link
+            to="/checkout"
+            onClick={closeMenus}
+          >
 
             Checkout
 

@@ -31,6 +31,8 @@ import Footer from "./components/Footer/Footer";
 
 import CartDrawer from "./components/CartTemp/CartDrawer";
 
+import ScrollToTop from "./components/ScrollToTop";
+
 import { FaWhatsapp } from "react-icons/fa";
 
 import { Helmet } from "react-helmet";
@@ -66,6 +68,7 @@ const pageTransition = {
 function HomePage({
   cartItems,
   setCartItems,
+  searchTerm,
 }) {
 
   return (
@@ -91,6 +94,7 @@ function HomePage({
       <Products
         cartItems={cartItems}
         setCartItems={setCartItems}
+        searchTerm={searchTerm}
       />
 
       {/* CONTACT */}
@@ -105,6 +109,11 @@ function HomePage({
 function App() {
 
   const location = useLocation();
+
+  /* GLOBAL SEARCH */
+
+const [searchTerm, setSearchTerm] =
+  useState("");
 
   /* GLOBAL CART STATE */
 
@@ -185,6 +194,10 @@ function App() {
 
     <>
 
+      {/* SCROLL TO TOP */}
+
+      <ScrollToTop />
+
       {/* SEO */}
 
       <Helmet>
@@ -244,9 +257,11 @@ function App() {
       {/* NAVBAR */}
 
       <Navbar
-        cartCount={cartItems.length}
-        openCart={openCart}
-      />
+  cartCount={cartItems.length}
+  openCart={openCart}
+  searchTerm={searchTerm}
+  setSearchTerm={setSearchTerm}
+/>
 
       {/* ROUTES */}
 
@@ -261,9 +276,10 @@ function App() {
           path="/"
           element={
             <HomePage
-              cartItems={cartItems}
-              setCartItems={setCartItems}
-            />
+  cartItems={cartItems}
+  setCartItems={setCartItems}
+  searchTerm={searchTerm}
+/>
           }
         />
 

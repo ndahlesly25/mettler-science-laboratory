@@ -131,10 +131,9 @@ function ProductCard({
 export default function Products({
   cartItems,
   setCartItems,
+  searchTerm,
 }) {
 
-  const [searchTerm, setSearchTerm] =
-    useState("");
 
   const [selectedProduct, setSelectedProduct] =
     useState(null);
@@ -202,11 +201,12 @@ export default function Products({
 
       const matchesSearch =
 
-        product.name
-          .toLowerCase()
-          .includes(
-            searchTerm.toLowerCase()
-          );
+  product.name &&
+  product.name
+    .toLowerCase()
+    .includes(
+      searchTerm.toLowerCase()
+    );
 
       const matchesCategory =
 
@@ -263,28 +263,13 @@ export default function Products({
 
   return (
 
-    <div className="products-page">
+    <div className="products-page"
+    id="products">
 
       {/* TOP CONTROLS */}
 
       <div className="products-controls">
 
-        {/* SEARCH */}
-
-        <div className="search-bar">
-
-          <input
-            type="text"
-            placeholder="Search laboratory equipment..."
-            value={searchTerm}
-            onChange={(e) =>
-              setSearchTerm(
-                e.target.value
-              )
-            }
-          />
-
-        </div>
 
         {/* FILTER */}
 
@@ -360,24 +345,149 @@ export default function Products({
 
       </div>
 
-      {/* PRODUCTS GRID */}
+      {/* CHEMISTRY */}
 
-      <div className="products-grid">
+<section
+  className="category-section"
+  id="chemistry"
+>
 
-        {sortedProducts.map((product) => (
+  <h2 className="category-title">
+    Chemistry Items
+  </h2>
 
-          <ProductCard
-            key={product.id}
-            product={product}
-            openModal={
-              setSelectedProduct
-            }
-            addToCart={addToCart}
-          />
+  <div className="products-grid">
 
-        ))}
+    {sortedProducts
+      .filter(
+        (product) =>
+          product.category ===
+          "Chemistry"
+      )
+      .map((product) => (
 
-      </div>
+        <ProductCard
+          key={product.id}
+          product={product}
+          openModal={
+            setSelectedProduct
+          }
+          addToCart={addToCart}
+        />
+
+      ))}
+
+  </div>
+
+</section>
+
+{/* BIOLOGY */}
+
+<section
+  className="category-section"
+  id="biology"
+>
+
+  <h2 className="category-title">
+    Biology Items
+  </h2>
+
+  <div className="products-grid">
+
+    {sortedProducts
+      .filter(
+        (product) =>
+          product.category ===
+          "Biology"
+      )
+      .map((product) => (
+
+        <ProductCard
+          key={product.id}
+          product={product}
+          openModal={
+            setSelectedProduct
+          }
+          addToCart={addToCart}
+        />
+
+      ))}
+
+  </div>
+
+</section>
+
+{/* PHYSICS */}
+
+<section
+  className="category-section"
+  id="physics"
+>
+
+  <h2 className="category-title">
+    Physics Items
+  </h2>
+
+  <div className="products-grid">
+
+    {sortedProducts
+      .filter(
+        (product) =>
+          product.category ===
+          "Physics"
+      )
+      .map((product) => (
+
+        <ProductCard
+          key={product.id}
+          product={product}
+          openModal={
+            setSelectedProduct
+          }
+          addToCart={addToCart}
+        />
+
+      ))}
+
+  </div>
+
+</section>
+
+{/* GEOLOGY */}
+
+<section
+  className="category-section"
+  id="geology"
+>
+
+  <h2 className="category-title">
+    Geology Items
+  </h2>
+
+  <div className="products-grid">
+
+    {sortedProducts
+      .filter(
+        (product) =>
+          product.category ===
+          "Geology"
+      )
+      .map((product) => (
+
+        <ProductCard
+          key={product.id}
+          product={product}
+          openModal={
+            setSelectedProduct
+          }
+          addToCart={addToCart}
+        />
+
+      ))}
+
+  </div>
+
+</section>
 
       {/* EMPTY */}
 

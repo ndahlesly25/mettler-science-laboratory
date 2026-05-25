@@ -38,11 +38,35 @@ const fadeUp = {
 
 };
 
-export default function Hero() {
+export default function Hero({
+  searchTerm,
+  setSearchTerm,
+}) {
+
+  /* SEARCH FUNCTION */
+
+  const handleSearch = () => {
+
+  document
+    .getElementById("products")
+    ?.scrollIntoView({
+      behavior: "smooth",
+    });
+
+  setTimeout(() => {
+
+    setSearchTerm("");
+
+  }, 500);
+
+};
 
   return (
 
-    <section className="hero">
+    <section
+      className="hero"
+      id="home"
+    >
 
       {/* SLIDER */}
 
@@ -66,6 +90,41 @@ export default function Hero() {
       {/* OVERLAY */}
 
       <div className="hero-overlay">
+
+        {/* FLOATING SEARCH */}
+
+        <div className="hero-search">
+
+          <input
+            type="text"
+            placeholder="Search products..."
+            value={searchTerm}
+            onChange={(e) =>
+              setSearchTerm(
+                e.target.value
+              )
+            }
+
+            onKeyDown={(e) => {
+
+              if (e.key === "Enter") {
+
+                handleSearch();
+
+              }
+
+            }}
+          />
+
+          <button
+            onClick={handleSearch}
+          >
+
+            🔍
+
+          </button>
+
+        </div>
 
         <motion.div
           className="hero-content"

@@ -231,9 +231,10 @@ export default function Checkout({
             <h3>
 
               Total:
-              {" "}
-              $
+              {" "}  
+              
               {totalPrice.toFixed(2)}
+                FCFA
 
             </h3>
 
