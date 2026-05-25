@@ -199,14 +199,21 @@ export default function Products({
   const filteredProducts =
     allProducts.filter((product) => {
 
-      const matchesSearch =
-
-  product.name &&
-  product.name
+      const cleanSearch =
+  searchTerm
     .toLowerCase()
-    .includes(
-      searchTerm.toLowerCase()
-    );
+    .trim();
+
+const cleanName =
+  product.name
+    ?.toLowerCase()
+    .trim();
+
+const matchesSearch =
+
+  cleanName?.includes(
+    cleanSearch
+  );
 
       const matchesCategory =
 

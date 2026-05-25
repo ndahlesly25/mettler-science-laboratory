@@ -47,11 +47,27 @@ export default function Hero({
 
   const handleSearch = () => {
 
-  document
-    .getElementById("products")
-    ?.scrollIntoView({
+  const firstMatch =
+    document.querySelector(
+      ".product-card"
+    );
+
+  if (firstMatch) {
+
+    firstMatch.scrollIntoView({
       behavior: "smooth",
+      block: "center",
     });
+
+  } else {
+
+    document
+      .getElementById("products")
+      ?.scrollIntoView({
+        behavior: "smooth",
+      });
+
+  }
 
   setTimeout(() => {
 
