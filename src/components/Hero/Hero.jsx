@@ -47,33 +47,38 @@ export default function Hero({
 
   const handleSearch = () => {
 
-  const firstMatch =
-    document.querySelector(
-      ".product-card"
-    );
-
-  if (firstMatch) {
-
-    firstMatch.scrollIntoView({
-      behavior: "smooth",
-      block: "center",
-    });
-
-  } else {
-
-    document
-      .getElementById("products")
-      ?.scrollIntoView({
-        behavior: "smooth",
-      });
-
-  }
-
   setTimeout(() => {
 
-    setSearchTerm("");
+    const visibleSections =
+      Array.from(
+        document.querySelectorAll(
+          ".category-section"
+        )
+      );
 
-  }, 500);
+    const firstSection =
+      visibleSections.find(
+        (section) => {
+
+          return (
+            section.querySelectorAll(
+              ".product-card"
+            ).length > 0
+          );
+
+        }
+      );
+
+    if (firstSection) {
+
+      firstSection.scrollIntoView({
+        behavior: "smooth",
+        block: "start",
+      });
+
+    }
+
+  }, 1200);
 
 };
 
@@ -115,6 +120,7 @@ export default function Hero({
             type="text"
             placeholder="Search products..."
             value={searchTerm}
+
             onChange={(e) =>
               setSearchTerm(
                 e.target.value
@@ -172,10 +178,9 @@ export default function Hero({
             variants={fadeUp}
           >
 
-            Modern Laboratory Equipment For
+            Modern Laboratory Supplies For
             Chemistry, Biology, Physics,
-            Geology & Professional Scientific
-            Research Solutions
+            Geology & Scientific Research
 
           </motion.p>
 
@@ -188,7 +193,7 @@ export default function Hero({
           >
 
             <span>
-              ✔ Quality Equipment
+              ✔ Quality Laboratory Items
             </span>
 
             <span>

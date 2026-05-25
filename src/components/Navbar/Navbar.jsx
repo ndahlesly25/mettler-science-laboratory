@@ -1,6 +1,7 @@
 import { useState } from "react";
 
 import "./Navbar.css";
+import logo from "../../assets/logo/logo.png";
 
 import {
   FaShoppingCart,
@@ -50,14 +51,24 @@ export default function Navbar({
       {/* LOGO */}
 
       <Link
-        to="/"
-        className="logo"
-        onClick={closeMenus}
-      >
+  to="/"
+  className="logo"
+  onClick={closeMenus}
+>
 
-        Mettler Company Limited
+  <img
+    src={logo}
+    alt="Mettler Logo"
+    className="logo-image"
+  />
 
-      </Link>
+  <span className="logo-text">
+
+    Mettler Company Limited
+
+  </span>
+
+</Link>
 
       {/* RIGHT SIDE */}
 

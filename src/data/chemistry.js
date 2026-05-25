@@ -5,7 +5,7 @@ const chemistryProducts = [
 
     slug: "beaker-50ml",
 
-    category: "chemistry",
+    category: "Chemistry",
 
     name: "Beaker 50ml",
 
@@ -43,7 +43,7 @@ const chemistryProducts = [
 
     slug: "beaker 100ml",
 
-    category: "chemistry",
+    category: "Chemistry",
 
     name: "Beaker 100ml",
 
@@ -81,7 +81,7 @@ const chemistryProducts = [
 
   slug: "beaker 250ml",
 
-  category: "chemistry",
+  category: "Chemistry",
 
   name: "Beaker 250ml",
 

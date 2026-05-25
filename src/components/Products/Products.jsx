@@ -42,30 +42,32 @@ function ProductCard({
   return (
 
     <motion.div
-      className="product-card"
+  className="product-card"
 
-      initial={{
-        opacity: 0,
-        y: 40,
-      }}
+  data-name={product.name}
 
-      whileInView={{
-        opacity: 1,
-        y: 0,
-      }}
+  initial={{
+    opacity: 0,
+    y: 40,
+  }}
 
-      viewport={{
-        once: true,
-      }}
+  whileInView={{
+    opacity: 1,
+    y: 0,
+  }}
 
-      transition={{
-        duration: 0.5,
-      }}
+  viewport={{
+    once: true,
+  }}
 
-      whileHover={{
-        y: -10,
-      }}
-    >
+  transition={{
+    duration: 0.5,
+  }}
+
+  whileHover={{
+    y: -10,
+  }}
+>
 
       {/* IMAGE */}
 
@@ -354,13 +356,21 @@ const matchesSearch =
 
       {/* CHEMISTRY */}
 
+/* CHEMISTRY */
+
+{sortedProducts.some(
+  (product) =>
+    product.category ===
+    "Chemistry"
+) && (
+
 <section
   className="category-section"
   id="chemistry"
 >
 
   <h2 className="category-title">
-    Chemistry Items
+    Chemistry Laboratory Items
   </h2>
 
   <div className="products-grid">
@@ -388,7 +398,15 @@ const matchesSearch =
 
 </section>
 
-{/* BIOLOGY */}
+)}
+
+/* BIOLOGY */
+
+{sortedProducts.some(
+  (product) =>
+    product.category ===
+    "Biology"
+) && (
 
 <section
   className="category-section"
@@ -396,7 +414,7 @@ const matchesSearch =
 >
 
   <h2 className="category-title">
-    Biology Items
+    Biology Laboratory Items
   </h2>
 
   <div className="products-grid">
@@ -424,7 +442,15 @@ const matchesSearch =
 
 </section>
 
-{/* PHYSICS */}
+)}
+
+/* PHYSICS */
+
+{sortedProducts.some(
+  (product) =>
+    product.category ===
+    "Physics"
+) && (
 
 <section
   className="category-section"
@@ -432,7 +458,7 @@ const matchesSearch =
 >
 
   <h2 className="category-title">
-    Physics Items
+    Physics Laboratory Items
   </h2>
 
   <div className="products-grid">
@@ -460,7 +486,15 @@ const matchesSearch =
 
 </section>
 
-{/* GEOLOGY */}
+)}
+
+/* GEOLOGY */
+
+{sortedProducts.some(
+  (product) =>
+    product.category ===
+    "Geology"
+) && (
 
 <section
   className="category-section"
@@ -468,7 +502,7 @@ const matchesSearch =
 >
 
   <h2 className="category-title">
-    Geology Items
+    Geology Laboratory Items
   </h2>
 
   <div className="products-grid">
@@ -495,6 +529,8 @@ const matchesSearch =
   </div>
 
 </section>
+
+)}
 
       {/* EMPTY */}
 

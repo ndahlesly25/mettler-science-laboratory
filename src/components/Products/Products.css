@@ -549,3 +549,7 @@
   }
 
 }
+
+.product-card {
+  scroll-margin-top: 120px;
+}

@@ -69,6 +69,7 @@ function HomePage({
   cartItems,
   setCartItems,
   searchTerm,
+  setSearchTerm,
 }) {
 
   return (
@@ -83,7 +84,10 @@ function HomePage({
 
       {/* HERO */}
 
-      <Hero />
+      <Hero
+        searchTerm={searchTerm}
+        setSearchTerm={setSearchTerm}
+      />
 
       {/* ABOUT */}
 
@@ -112,8 +116,8 @@ function App() {
 
   /* GLOBAL SEARCH */
 
-const [searchTerm, setSearchTerm] =
-  useState("");
+  const [searchTerm, setSearchTerm] =
+    useState("");
 
   /* GLOBAL CART STATE */
 
@@ -257,11 +261,11 @@ const [searchTerm, setSearchTerm] =
       {/* NAVBAR */}
 
       <Navbar
-  cartCount={cartItems.length}
-  openCart={openCart}
-  searchTerm={searchTerm}
-  setSearchTerm={setSearchTerm}
-/>
+        cartCount={cartItems.length}
+        openCart={openCart}
+        searchTerm={searchTerm}
+        setSearchTerm={setSearchTerm}
+      />
 
       {/* ROUTES */}
 
@@ -276,10 +280,11 @@ const [searchTerm, setSearchTerm] =
           path="/"
           element={
             <HomePage
-  cartItems={cartItems}
-  setCartItems={setCartItems}
-  searchTerm={searchTerm}
-/>
+              cartItems={cartItems}
+              setCartItems={setCartItems}
+              searchTerm={searchTerm}
+              setSearchTerm={setSearchTerm}
+            />
           }
         />
 
