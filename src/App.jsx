@@ -53,14 +53,14 @@ import BackToTop from "./components/BackToTop/BackToTop";
 
 import CookieBanner from "./components/CookieBanner/CookieBanner";
 
-import CookiesPage from "./pages/CookiesPage";
-import TermsPage from "./pages/TermsPage";
-import PrivacyPage from "./pages/PrivacyPage";
-import ShippingPage from "./pages/ShippingPage";
-import ReturnsPage from "./pages/ReturnsPage";
-import FAQPage from "./pages/FAQPage";
-import MaintenancePage from "./pages/MaintenancePage";
-import CataloguePage from "./pages/CataloguePage";
+import CookiesPage from "./Pages/CookiesPage";
+import TermsPage from "./Pages/TermsPage";
+import PrivacyPage from "./Pages/PrivacyPage";
+import ShippingPage from "./Pages/ShippingPage";
+import ReturnsPage from "./Pages/ReturnsPage";
+import FAQPage from "./Pages/FAQPage";
+import MaintenancePage from "./Pages/MaintenancePage";
+import CataloguePage from "./Pages/CataloguePage";
 
 /* PAGE TRANSITION */
 
