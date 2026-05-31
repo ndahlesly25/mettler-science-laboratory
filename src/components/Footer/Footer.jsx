@@ -9,7 +9,10 @@ import {
   FaLinkedinIn,
 } from "react-icons/fa";
 
+import { Link } from "react-router-dom";
+
 const Footer = () => {
+
   return (
 
     <footer className="footer">
@@ -21,13 +24,14 @@ const Footer = () => {
         <div className="footer-section">
 
           <h2>
-            Mettler Science Laboratory
+            Mettler Company Limited
           </h2>
 
           <p>
             Professional supplier of chemistry,
-            biology, physics, and geology
-            laboratory equipment.
+            biology, physics and geology
+            laboratory equipment, chemicals
+            and scientific solutions.
           </p>
 
         </div>
@@ -43,7 +47,7 @@ const Footer = () => {
           <ul>
 
             <li>
-              <a href="#">
+              <a href="/">
                 Home
               </a>
             </li>
@@ -110,6 +114,62 @@ const Footer = () => {
 
         </div>
 
+        {/* LEGAL */}
+
+        <div className="footer-section">
+
+          <h3>
+            Legal
+          </h3>
+
+          <ul>
+
+            <li>
+              <Link to="/faq">
+                FAQs
+              </Link>
+          </li>
+
+           <li>
+              <Link to="/maintenance">
+                  Maintenance Request
+              </Link>
+        </li>
+
+            <li>
+              <Link to="/terms">
+                Terms & Conditions
+              </Link>
+            </li>
+
+            <li>
+              <Link to="/privacy">
+                Privacy Policy
+              </Link>
+            </li>
+
+            <li>
+              <Link to="/cookies">
+                Cookie Policy
+              </Link>
+            </li>
+
+            <li>
+              <Link to="/shipping">
+                Shipping Policy
+              </Link>
+            </li>
+
+            <li>
+              <Link to="/returns">
+                Returns & Refund Policy
+              </Link>
+           </li>
+
+          </ul>
+
+        </div>
+
         {/* SOCIALS */}
 
         <div className="footer-section">
@@ -142,7 +202,7 @@ const Footer = () => {
 
       <div className="footer-bottom">
 
-        © 2026 Mettler Science Laboratory.
+        © 2026 Mettler Company Limited.
         All Rights Reserved.
 
       </div>
@@ -150,6 +210,7 @@ const Footer = () => {
     </footer>
 
   );
+
 };
 
 export default Footer;

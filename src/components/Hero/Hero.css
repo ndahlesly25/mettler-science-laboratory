@@ -387,3 +387,170 @@
   }
 
 }
+
+.catalogue-btn {
+
+  display: inline-flex;
+
+  align-items: center;
+
+  justify-content: center;
+
+  gap: 8px;
+
+  padding: 14px 24px;
+
+  background: white;
+
+  color: #002b5c;
+
+  border-radius: 8px;
+
+  text-decoration: none;
+
+  font-weight: 600;
+
+  border: 2px solid white;
+
+  transition: 0.3s ease;
+}
+
+.catalogue-btn:hover {
+
+  background: #f5f5f5;
+
+  transform: translateY(-3px);
+}
+
+@media (max-width: 768px) {
+
+  .catalogue-btn {
+
+    padding: 10px 14px;
+
+    font-size: 12px;
+
+    gap: 5px;
+
+    border-radius: 6px;
+  }
+
+}
+
+@media (max-width: 480px) {
+
+  .catalogue-btn {
+
+    padding: 8px 12px;
+
+    font-size: 11px;
+
+    gap: 4px;
+  }
+
+}
+
+
+/* ===================================
+   HERO BUTTONS
+=================================== */
+
+.shop-btn,
+.contact-btn,
+.catalogue-btn {
+
+  display: inline-flex;
+
+  align-items: center;
+
+  justify-content: center;
+
+  gap: 8px;
+
+  padding: 14px 24px;
+
+  border-radius: 8px;
+
+  text-decoration: none;
+
+  font-weight: 600;
+
+  transition: 0.3s ease;
+
+  min-width: 180px;
+}
+
+.shop-btn {
+
+  background: #0077cc;
+
+  color: white;
+}
+
+.contact-btn {
+
+  background: transparent;
+
+  color: white;
+
+  border: 2px solid white;
+}
+
+.catalogue-btn {
+
+  background: white;
+
+  color: #002b5c;
+
+  border: 2px solid white;
+}
+
+.shop-btn:hover,
+.contact-btn:hover,
+.catalogue-btn:hover {
+
+  transform: translateY(-3px);
+}
+
+@media (max-width: 768px) {
+
+  .hero-buttons {
+
+    display: flex;
+
+    flex-wrap: wrap;
+
+    justify-content: center;
+
+    gap: 10px;
+  }
+
+  .shop-btn,
+  .contact-btn,
+  .catalogue-btn {
+
+    min-width: 140px;
+
+    padding: 10px 14px;
+
+    font-size: 12px;
+
+    border-radius: 6px;
+  }
+
+}
+
+@media (max-width: 480px) {
+
+  .shop-btn,
+  .contact-btn,
+  .catalogue-btn {
+
+    min-width: 120px;
+
+    padding: 8px 12px;
+
+    font-size: 11px;
+  }
+
+}

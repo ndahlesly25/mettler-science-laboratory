@@ -1,6 +1,10 @@
 import "./Products.css";
 
-import { useState } from "react";
+import {
+  useState,
+  useEffect,
+} from "react";
+
 
 import {
   Link,
@@ -161,6 +165,9 @@ export default function Products({
   const [selectedProduct, setSelectedProduct] =
     useState(null);
 
+    const [activeCategory, setActiveCategory] =
+  useState("chemistry");
+
   /* FILTER */
 
   const [selectedCategory, setSelectedCategory] =
@@ -170,6 +177,67 @@ export default function Products({
 
   const [sortOption, setSortOption] =
     useState("default");
+
+    useEffect(() => {
+
+  const sections = [
+
+    "chemistry",
+
+    "biology",
+
+    "physics",
+
+    "geology",
+
+  ];
+
+  const handleScroll = () => {
+
+    let current =
+      "chemistry";
+
+    sections.forEach((id) => {
+
+      const section =
+        document.getElementById(id);
+
+      if (!section) return;
+
+      const top =
+        section.offsetTop;
+
+      if (
+
+        window.scrollY >=
+        top - 180
+
+      ) {
+
+        current = id;
+
+      }
+
+    });
+
+    setActiveCategory(
+      current
+    );
+
+  };
+
+  window.addEventListener(
+    "scroll",
+    handleScroll
+  );
+
+  return () =>
+    window.removeEventListener(
+      "scroll",
+      handleScroll
+    );
+
+}, []);
 
   /* ADD TO CART */
 
@@ -374,6 +442,66 @@ const matchesSearch =
         </strong>
 
       </div>
+
+      <div className="sticky-category-nav">
+
+  <a
+    href="#chemistry"
+    className={
+      activeCategory ===
+      "chemistry"
+
+        ? "active"
+
+        : ""
+    }
+  >
+    Chemistry
+  </a>
+
+  <a
+    href="#biology"
+    className={
+      activeCategory ===
+      "biology"
+
+        ? "active"
+
+        : ""
+    }
+  >
+    Biology
+  </a>
+
+  <a
+    href="#physics"
+    className={
+      activeCategory ===
+      "physics"
+
+        ? "active"
+
+        : ""
+    }
+  >
+    Physics
+  </a>
+
+  <a
+    href="#geology"
+    className={
+      activeCategory ===
+      "geology"
+
+        ? "active"
+
+        : ""
+    }
+  >
+    Geology
+  </a>
+
+</div>
 
       {/* CHEMISTRY */}
 

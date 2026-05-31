@@ -39,6 +39,29 @@ import { Helmet } from "react-helmet";
 
 import TopBar from "./components/TopBar/TopBar";
 
+import AboutPage from "./pages/AboutPage";
+
+import WhyChoose from "./components/WhyChoose/WhyChoose";
+
+import CategoryShowcase from "./components/CategoryShowcase/CategoryShowcase";
+
+import FeaturedCategories from "./components/FeaturedCategories/FeaturedCategories";
+
+import Testimonials from "./components/Testimonials/Testimonials";
+
+import BackToTop from "./components/BackToTop/BackToTop";
+
+import CookieBanner from "./components/CookieBanner/CookieBanner";
+
+import CookiesPage from "./pages/CookiesPage";
+import TermsPage from "./pages/TermsPage";
+import PrivacyPage from "./pages/PrivacyPage";
+import ShippingPage from "./pages/ShippingPage";
+import ReturnsPage from "./pages/ReturnsPage";
+import FAQPage from "./pages/FAQPage";
+import MaintenancePage from "./pages/MaintenancePage";
+import CataloguePage from "./pages/CataloguePage";
+
 /* PAGE TRANSITION */
 
 const pageVariants = {
@@ -94,6 +117,15 @@ function HomePage({
       {/* ABOUT */}
 
       <About />
+
+      <WhyChoose />
+
+      <CategoryShowcase />
+
+      <FeaturedCategories />
+
+      <Testimonials />
+
 
       {/* PRODUCTS */}
 
@@ -294,6 +326,53 @@ function App() {
           }
         />
 
+        <Route
+  path="/about"
+  element={
+    <AboutPage />
+  }
+/>
+
+<Route
+  path="/cookies"
+  element={<CookiesPage />}
+/>
+
+<Route
+  path="/terms"
+  element={<TermsPage />}
+/>
+
+<Route
+  path="/privacy"
+  element={<PrivacyPage />}
+/>
+
+<Route
+  path="/shipping"
+  element={<ShippingPage />}
+/>
+
+<Route
+  path="/returns"
+  element={<ReturnsPage />}
+/>
+
+<Route
+  path="/faq"
+  element={<FAQPage />}
+/>
+
+<Route
+  path="/maintenance"
+  element={<MaintenancePage />}
+/>
+
+<Route
+  path="/catalogue"
+  element={<CataloguePage />}
+/>
+
         {/* PRODUCT DETAILS */}
 
         <Route
@@ -340,6 +419,8 @@ function App() {
           }
         />
 
+        
+
       </Routes>
 
       {/* CART DRAWER */}
@@ -365,9 +446,15 @@ function App() {
 
       </a>
 
+      <CookieBanner />
+
       {/* FOOTER */}
 
       <Footer />
+
+      {/* BACK TO TOP */}
+
+      <BackToTop />
 
     </>
 

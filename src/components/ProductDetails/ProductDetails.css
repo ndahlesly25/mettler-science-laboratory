@@ -464,3 +464,86 @@
 
   box-shadow: 0 8px 20px rgba(37,211,102,0.35);
 }
+
+/* ===================================
+   IMAGE SLIDER ARROWS
+=================================== */
+
+.image-slider {
+  position: relative;
+}
+
+.image-arrow {
+  position: absolute;
+
+  top: 50%;
+
+  transform: translateY(-50%);
+
+  width: 45px;
+  height: 45px;
+
+  border: none;
+
+  border-radius: 50%;
+
+  background: rgba(255,255,255,0.95);
+
+  color: #002b5c;
+
+  font-size: 24px;
+
+  font-weight: bold;
+
+  cursor: pointer;
+
+  z-index: 20;
+
+  box-shadow:
+    0 4px 15px rgba(0,0,0,0.15);
+
+  transition: 0.3s ease;
+}
+
+.image-arrow:hover {
+  background: #0077cc;
+
+  color: white;
+
+  transform:
+    translateY(-50%)
+    scale(1.08);
+}
+
+/* LEFT */
+
+.left-arrow {
+  left: 15px;
+}
+
+/* RIGHT */
+
+.right-arrow {
+  right: 15px;
+}
+
+/* MOBILE */
+
+@media (max-width: 768px) {
+
+  .image-arrow {
+    width: 38px;
+    height: 38px;
+
+    font-size: 20px;
+  }
+
+  .left-arrow {
+    left: 10px;
+  }
+
+  .right-arrow {
+    right: 10px;
+  }
+
+}

@@ -376,3 +376,33 @@
   }
 
 }
+
+.about-read-more {
+
+  display: inline-block;
+
+  margin-top: 25px;
+
+  padding: 14px 28px;
+
+  background: #0077cc;
+
+  color: white;
+
+  text-decoration: none;
+
+  border-radius: 8px;
+
+  font-weight: 600;
+
+  transition: 0.3s ease;
+
+}
+
+.about-read-more:hover {
+
+  background: #005fa3;
+
+  transform: translateY(-3px);
+
+}

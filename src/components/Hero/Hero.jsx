@@ -11,6 +11,7 @@ import banner4 from "../../assets/banner/banner4.png";
 import banner5 from "../../assets/banner/banner5.png";
 import banner6 from "../../assets/banner/banner6.png";
 import banner7 from "../../assets/banner/banner7.png";
+import { FaDownload } from "react-icons/fa";
 
 const images = [
   banner1,
@@ -206,33 +207,47 @@ export default function Hero({
 
           </motion.div>
 
+
           {/* BUTTONS */}
 
-          <motion.div
-            className="hero-buttons"
+<motion.div
+  className="hero-buttons"
 
-            variants={fadeUp}
-          >
+  variants={fadeUp}
+>
 
-            <a
-              href="#products"
-              className="shop-btn"
-            >
+  <a
+    href="#products"
+    className="shop-btn"
+  >
 
-              Shop Now
+    Shop Now
 
-            </a>
+  </a>
 
-            <a
-              href="#contact"
-              className="contact-btn"
-            >
+  <a
+    href="#contact"
+    className="contact-btn"
+  >
 
-              Contact Us
+    Contact Us
 
-            </a>
+  </a>
 
-          </motion.div>
+  <a
+  href="/catalogue"
+  className="catalogue-btn"
+>
+
+  <FaDownload />
+
+  <span>
+    Download Catalogue 📄
+  </span>
+
+</a>
+
+</motion.div>
 
         </motion.div>
 

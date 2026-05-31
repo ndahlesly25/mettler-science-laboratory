@@ -38,19 +38,58 @@ export default function ProductDetails({
 
   /* FIND PRODUCT */
 
-  const product = allProducts.find(
+const product = allProducts.find(
+  (item) => item.slug === slug
+);
 
-    (item) => item.slug === slug
+/* ACTIVE IMAGE */
+
+const [activeImage, setActiveImage] =
+  useState(
+    product?.images?.[0] ||
+    product?.image
   );
 
-  /* ACTIVE IMAGE */
+/* ALL IMAGES */
 
-  const [activeImage, setActiveImage] =
-    useState(
+const images =
+  product?.images ||
+  [product?.image];
 
-      product?.images?.[0] ||
-      product?.image
-    );
+/* NEXT IMAGE */
+
+const nextImage = () => {
+
+  const currentIndex =
+    images.indexOf(activeImage);
+
+  const nextIndex =
+    (currentIndex + 1) %
+    images.length;
+
+  setActiveImage(
+    images[nextIndex]
+  );
+
+};
+
+/* PREVIOUS IMAGE */
+
+const prevImage = () => {
+
+  const currentIndex =
+    images.indexOf(activeImage);
+
+  const prevIndex =
+    (currentIndex - 1 +
+      images.length) %
+    images.length;
+
+  setActiveImage(
+    images[prevIndex]
+  );
+
+};
 
   /* PRODUCT NOT FOUND */
 
@@ -169,11 +208,29 @@ export default function ProductDetails({
 
           {/* ACTIVE IMAGE */}
 
-          <img
-            src={activeImage}
-            alt={product.name}
-            className="main-product-image"
-          />
+          <div className="image-slider">
+
+  <button
+    className="image-arrow left-arrow"
+    onClick={prevImage}
+  >
+    ❮
+  </button>
+
+  <img
+    src={activeImage}
+    alt={product.name}
+    className="main-product-image"
+  />
+
+  <button
+    className="image-arrow right-arrow"
+    onClick={nextImage}
+  >
+    ❯
+  </button>
+
+</div>
 
           {/* THUMBNAILS */}
 
