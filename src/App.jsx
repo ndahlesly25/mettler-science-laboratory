@@ -39,7 +39,7 @@ import { Helmet } from "react-helmet";
 
 import TopBar from "./components/TopBar/TopBar";
 
-import AboutPage from "./pages/AboutPage";
+import AboutPage from "./Pages/AboutPage";
 
 import WhyChoose from "./components/WhyChoose/WhyChoose";
 
