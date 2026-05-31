@@ -1,34 +1,41 @@
 import "./CookieBanner.css";
 
-import { useEffect, useState } from "react";
-
 import { Link } from "react-router-dom";
-
+import { FaCookieBite } from "react-icons/fa";
+import { useState } from "react";
 export default function CookieBanner() {
 
-  const [showBanner, setShowBanner] =
-    useState(false);
+ const [showBanner, setShowBanner] =
+  useState(() => {
 
-  useEffect(() => {
-
-    const accepted =
-      localStorage.getItem(
-        "cookiesAccepted"
-      );
-
-    if (!accepted) {
-
-      setShowBanner(true);
-
+    if (
+      typeof window === "undefined"
+    ) {
+      return false;
     }
 
-  }, []);
+    return !localStorage.getItem(
+      "cookiesAccepted"
+    );
+
+  });
 
   const acceptCookies = () => {
 
     localStorage.setItem(
       "cookiesAccepted",
       "true"
+    );
+
+    setShowBanner(false);
+
+  };
+
+  const declineCookies = () => {
+
+    localStorage.setItem(
+      "cookiesAccepted",
+      "false"
     );
 
     setShowBanner(false);
@@ -43,25 +50,41 @@ export default function CookieBanner() {
 
       <div className="cookie-content">
 
-        <p>
+        <div className="cookie-text">
 
-          We use cookies to improve
-          your experience, analyze
-          website traffic and enhance
-          our services.
+          <FaCookieBite
+            className="cookie-icon"
+          />
 
-        </p>
+          <p>
+
+            We use cookies to improve website
+            performance, personalize content
+            and enhance your browsing experience.
+
+          </p>
+
+        </div>
 
         <div className="cookie-buttons">
 
           <button
+            className="accept-btn"
             onClick={acceptCookies}
           >
             Accept
           </button>
 
+          <button
+            className="decline-btn"
+            onClick={declineCookies}
+          >
+            Decline
+          </button>
+
           <Link
             to="/cookies"
+            className="learn-btn"
           >
             Learn More
           </Link>
