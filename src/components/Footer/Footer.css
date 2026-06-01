@@ -226,7 +226,7 @@
 }
 
 /* ==========================
-   TABLET
+   TABLET & MOBILE
 ========================== */
 
 @media (max-width: 768px) {
@@ -235,89 +235,88 @@
 
     text-align: center;
 
-    padding-top: 45px;
+    padding-top: 50px;
 
-    margin-top: 60px;
+    margin-top: 70px;
   }
 
   .footer-container {
 
-    gap: 22px;
+    gap: 28px;
 
-    padding-bottom: 35px;
+    padding-bottom: 40px;
   }
 
   .footer-section h2 {
 
-    font-size: 17px;
+    font-size: 20px;
 
-    margin-bottom: 8px;
+    margin-bottom: 10px;
   }
 
   .footer-section h3 {
 
-    font-size: 15px;
+    font-size: 17px;
 
-    margin-bottom: 8px;
+    margin-bottom: 10px;
   }
 
   .footer-section h3::after {
 
     left: 50%;
 
-    transform:
-      translateX(-50%);
+    transform: translateX(-50%);
 
-    width: 40px;
+    width: 45px;
   }
 
   .footer-section p {
 
-    font-size: 12px;
+    font-size: 14px;
 
-    line-height: 1.5;
+    line-height: 1.6;
   }
 
   .footer-section ul li {
 
-    margin-bottom: 5px;
+    margin-bottom: 7px;
   }
 
   .footer-section ul li a {
 
-    font-size: 12px;
+    font-size: 14px;
   }
 
   .footer-icon {
 
-    font-size: 12px;
+    font-size: 14px;
 
-    margin-right: 5px;
+    margin-right: 6px;
   }
 
   .social-icons {
 
     justify-content: center;
 
-    gap: 10px;
+    gap: 12px;
 
     margin-top: 12px;
   }
 
   .social-icons a {
 
-    width: 36px;
+    width: 38px;
 
-    height: 36px;
+    height: 38px;
 
-    font-size: 14px;
+    font-size: 15px;
   }
 
   .footer-bottom {
 
-    font-size: 11px;
+    font-size: 12px;
 
-    padding: 15px 10px;
+    padding: 16px 10px;
   }
 
 }
@@ -330,48 +329,50 @@
 
   .footer {
 
-    padding-top: 35px;
+    padding-top: 40px;
   }
 
   .footer-container {
 
-    gap: 18px;
+    gap: 22px;
   }
 
   .footer-section h2 {
 
-    font-size: 15px;
+    font-size: 18px;
   }
 
   .footer-section h3 {
 
-    font-size: 13px;
+    font-size: 16px;
   }
 
   .footer-section p,
 
   .footer-section ul li a {
 
-    font-size: 10px;
+    font-size: 13px;
+
+    line-height: 1.6;
   }
 
   .footer-icon {
 
-    font-size: 10px;
+    font-size: 13px;
   }
 
   .social-icons a {
 
-    width: 32px;
+    width: 34px;
 
-    height: 32px;
+    height: 34px;
 
-    font-size: 12px;
+    font-size: 13px;
   }
 
   .footer-bottom {
 
-    font-size: 9px;
+    font-size: 11px;
   }
 
 }
