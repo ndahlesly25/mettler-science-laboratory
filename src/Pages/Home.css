@@ -1,0 +1,87 @@
+/* ==========================
+   SEO SECTION
+========================== */
+
+.seo-section {
+
+  padding: 80px 20px;
+
+  background: linear-gradient(
+    to bottom,
+    #f8f9fb,
+    #ffffff
+  );
+
+  text-align: center;
+}
+
+.seo-container {
+
+  max-width: 1000px;
+
+  margin: auto;
+}
+
+.seo-section h2 {
+
+  font-size: 2rem;
+
+  color: #002b5c;
+
+  margin-bottom: 25px;
+
+  font-weight: 700;
+}
+
+.seo-section p {
+
+  font-size: 1rem;
+
+  line-height: 1.9;
+
+  color: #555;
+
+  margin-bottom: 18px;
+}
+
+/* MOBILE */
+
+@media (max-width: 768px) {
+
+  .seo-section {
+
+    padding: 60px 20px;
+  }
+
+  .seo-section h2 {
+
+    font-size: 1.5rem;
+  }
+
+  .seo-section p {
+
+    font-size: 0.95rem;
+
+    line-height: 1.8;
+  }
+
+}
+
+@media (max-width: 480px) {
+
+  .seo-section {
+
+    padding: 50px 15px;
+  }
+
+  .seo-section h2 {
+
+    font-size: 1.25rem;
+  }
+
+  .seo-section p {
+
+    font-size: 0.9rem;
+  }
+
+}

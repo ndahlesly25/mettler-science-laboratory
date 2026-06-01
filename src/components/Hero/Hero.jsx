@@ -169,7 +169,9 @@ export default function Hero({
             variants={fadeUp}
           >
 
-            Mettler Science Laboratory
+            <h1>
+              Laboratory Equipment & Scientific Supplies in Cameroon
+            </h1>
 
           </motion.h1>
 

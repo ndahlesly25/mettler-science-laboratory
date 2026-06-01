@@ -120,6 +120,7 @@ function HomePage({
 
       <WhyChoose />
 
+
       <CategoryShowcase />
 
       <FeaturedCategories />
