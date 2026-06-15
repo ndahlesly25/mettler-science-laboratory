@@ -79,20 +79,6 @@ function ProductCard({
 
   {/* BADGE */}
 
-  {product.badge && (
-
-    <span
-  className={`product-badge ${product.badge
-    .toLowerCase()
-    .replace(/\s+/g, "-")}`}
->
-
-  {product.badge}
-
-</span>
-
-  )}
-
   <Link
     to={`/product/${product.slug}`}
   >
@@ -121,7 +107,21 @@ function ProductCard({
 
       <p>{product.description}</p>
 
-      <span>{product.price}</span>
+{product.badge && (
+
+  <div
+    className={`stock-status ${product.badge
+      .toLowerCase()
+      .replace(/\s+/g, "-")}`}
+  >
+
+    ● {product.badge}
+
+  </div>
+
+)}
+
+<span>{product.price}</span>
 
       {/* BUTTONS */}
 

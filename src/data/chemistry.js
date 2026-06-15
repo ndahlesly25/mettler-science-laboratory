@@ -44,9 +44,12 @@ const chemistryProducts = [
 
     slug: "beaker 100ml",
 
+
     category: "Chemistry",
 
     name: "Beaker 100ml",
+
+    badge: "Best Seller",
 
     image:
       "https://5.imimg.com/data5/ECOM/Default/2023/4/297979698/OG/SN/UT/4683247/100-ml-graduated-borosilicate-glass-beaker-lab-glassware-science-laboratory-8.jpg",
@@ -86,7 +89,7 @@ const chemistryProducts = [
 
   name: "Beaker 250ml",
 
-  badge: "BEST SELLER",
+  badge: "Best Seller",
 
   image: "https://5.imimg.com/data5/SELLER/Default/2025/10/553963359/RP/QC/MJ/111805331/untitled-design-1.png",
 
@@ -117,6 +120,8 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Beaker 500ml",
+
+  badge: "in-stock",
 
   image: "https://m.media-amazon.com/images/I/41vGxqzVasL.jpg",
 
@@ -149,7 +154,7 @@ const chemistryProducts = [
 
   name: "Beaker 1000ml",
 
-  badge: "HOT",
+  badge: "in-stock",
 
   image: "https://cdn.images.fecom-media.com/FE052967/images/Pyrex%20Glass%20Beaker%20Squat%20Form%201000ml_5sOTF7wHbU.jpg",
 
@@ -181,6 +186,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Boiling tube",
+  badge: "HOT",
 
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-Dpace3t9LdLiroEMpzAdRRHJZLABG_W3sg&s",
 
@@ -212,6 +218,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Bunsen burner",
+  badge: "in-stock",
 
   image: "https://m.media-amazon.com/images/I/41jKJwqp7ML._AC_UF1000,1000_QL80_.jpg",
 
@@ -243,6 +250,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Burette 50ml, amber graduation",
+  badge: "Best Seller",
 
   image: "https://i5.walmartimages.com/asr/53c24f33-a26b-4352-a2bb-9813ec81c48f.3d3f89d6ba20bc578d6aa588cd061feb.jpeg",
 
@@ -254,7 +262,7 @@ const chemistryProducts = [
 
   description: "Precision 50ml Amber Burette",
 
-  price: "4000 FCFA",
+  price: "3500 FCFA",
 
   specifications: [
     "50ml Capacity",
@@ -274,6 +282,8 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Burette clamp + retort stand + bosshead ",
+
+  badge: "in-stock",
 
   image: "https://wagoninvestments.co.ke/wp-content/uploads/2023/02/s13-0140p01wl.webp",
 
@@ -305,6 +315,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Burette clip",
+  badge: "in-stock",
 
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTPrsFhIhQVVFArkDqJNUmdXKgkZSC19rk1g&s",
 
@@ -330,17 +341,17 @@ const chemistryProducts = [
 {
   id: 11,
 
-  slug: "burette clip",
+  slug: "burette tip",
 
   category: "Chemistry",
 
   name: "Burette tip",
+  badge: "in-stock",
 
-  image: "https://generationspace.co.ke/wp-content/uploads/2024/05/gp1093.webp",
+  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLsvmqukFsK-aMvG6gWccPtkT6Vs2VLZ71Xg&s",
 
   images: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLsvmqukFsK-aMvG6gWccPtkT6Vs2VLZ71Xg&s",
-    "https://generationspace.co.ke/wp-content/uploads/2024/05/gp1093.webp",
     "https://www.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/258/887/e6ed52cb-7d92-446e-ab6a-b5803ebc2440/640/e6ed52cb-7d92-446e-ab6a-b5803ebc2440.jpg"
   ],
 
@@ -366,6 +377,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Burette tubing",
+  badge: "in-stock",
 
   image: "https://capitalrubber.com/wp-content/uploads/2020/06/Amber-Latex-Tubing-300x233.png",
 
@@ -377,7 +389,7 @@ const chemistryProducts = [
 
   description: "Flexible Laboratory Burette Tubing",
 
-  price: "1500 FCFA",
+  price: "1000 FCFA",
 
   specifications: [
     "Flexible Rubber Material",
@@ -397,6 +409,8 @@ const chemistryProducts = [
   category: "chemistry",
 
   name: "Conical flask 100ml",
+
+  badge: "in-stock",
 
   image: "https://www.bemitexlimited.co.ke/cdn/shop/files/download-2025-06-12T051819.710.jpg?v=1749694733",
 
@@ -428,6 +442,8 @@ const chemistryProducts = [
 
   name: "Conical flask 250ml",
 
+  badge: "HOT",
+
   image: "https://halomedicals.com/uk/wp-content/uploads/2020/08/conical-Glass-flask-250ml-570x570.jpg",
 
   images: [
@@ -458,6 +474,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: " Crucible + lid ",
+  badge: "in-stock",
 
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9fMkvYG0MvA4z2naUwAtdPYZZkYfQrf3vzw&s",
 
@@ -489,6 +506,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Crucible tongs",
+  badge: "in-stock",
 
   image: "https://i.ebayimg.com/images/g/0YEAAOSwNipkbp74/s-l1200.jpg",
 
@@ -519,6 +537,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Dropping bottle 125ml",
+  badge: "in-stock",
 
   image: "https://i.ebayimg.com/images/g/j2oAAOSwAl5mOdA5/s-l1200.jpg",
 
@@ -548,6 +567,7 @@ const chemistryProducts = [
   slug: "Electronic balance 1000g x 0.01g accuracy",
 
   category: "Chemistry",
+  badge: "Best Seller",
 
   name: " Electronic balance 0.01g accuracy ",
 
@@ -562,7 +582,7 @@ const chemistryProducts = [
 
   description: "Precision Digital Lab Balance",
 
-  price: "160000 / 80000 / 50000 FCFA",
+  price: "120000 FCFA",
 
   specifications: [
     "1000g Maximum Capacity",
@@ -582,6 +602,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Evaporating dish",
+  badge: "in-stock",
 
   image: "https://upload.wikimedia.org/wikipedia/commons/c/cf/Abdampfschalen_verschiedene_Groessen.jpg",
 
@@ -612,6 +633,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Flat bottom flask 250ml",
+  badge: "in-stock",
 
   image: "https://5.imimg.com/data5/SELLER/Default/2022/7/SK/RC/RP/94026011/250ml-flat-bottom-flask.jpg",
 
@@ -642,6 +664,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Filter paper",
+  badge: "in-stock",
 
   image: "https://www.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/300/823/e712f29d-2651-49ce-952c-d19ea2b8b9f1/640/e712f29d-2651-49ce-952c-d19ea2b8b9f1.jpg",
 
@@ -673,6 +696,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Graduated plastic dropper",
+  badge: "in-stock",
 
   image: "https://fishofhex.com/cdn/shop/files/20191015_105203-removebg-preview.png?v=1740408421",
 
@@ -703,6 +727,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Measuring cylinder 5ml glass",
+  badge: "in-stock",
 
   image: "https://www.totalpharmacy.com.au/cdn/shop/files/COGC005_748x700.jpg?v=1750059155",
 
@@ -733,6 +758,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Measuring cylinder 10ml glass/plastic",
+  badge: "in-stock",
 
   image: "https://m.media-amazon.com/images/I/31WjEAgrMeL.jpg",
 
@@ -762,6 +788,7 @@ const chemistryProducts = [
   slug: "Measuring cylinder 25ml",
 
   category: "Chemistry",
+  badge: "Best Seller",
 
   name: "Measuring cylinder 25ml glass / plastic",
 
@@ -794,6 +821,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Measuring cylinder 50ml glass/plastic",
+  badge: "HOT",
 
   image: "https://i.ebayimg.com/images/g/oXEAAOSwrxFdH8Ud/s-l1200.jpg",
 
@@ -824,6 +852,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Measuring cylinder 100ml glass/plastic",
+  badge: "in-stock",
 
   image: "https://solutionscience.co.ke/cdn/shop/files/MEASURINGCYLINDER100ML_GLASS.webp?v=1746791529",
 
@@ -856,6 +885,8 @@ const chemistryProducts = [
 
   name: "Measuring cylinder 250ml glass/plastic ",
 
+  badge: "in-stock",
+
   image: "https://labbox.eu/wp-content/uploads/sites/4/2020/02/MCLG-250-002.jpg",
 
   images: [
@@ -885,6 +916,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Measuring cylinder 1000ml glass/plastic",
+  badge: "in-stock",
 
   image: "https://solutionscience.co.ke/cdn/shop/files/MEASURINGCYLINDER1000MLGLASS.jpg?v=1746794144",
 
@@ -916,6 +948,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Molecular model set",
+  badge: "in-stock",
 
   image: "https://assets.fishersci.com/TFS-Assets/CCG/Eisco/product-images/SET00603.jpg-650.jpg",
 
@@ -927,7 +960,7 @@ const chemistryProducts = [
 
   description: "Complete Molecular Model Set",
 
-  price: "35000 FCFA",
+  price: "15000 FCFA",
 
   specifications: [
     "Durable Plastic Components",
@@ -947,6 +980,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name:  "Periodic table",
+  badge: "in-stock",
 
   image: "https://npr.brightspotcdn.com/dims4/default/014e9dd/2147483647/strip/true/crop/2400x1646+0+0/resize/880x604!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwuwm%2Ffiles%2F201912%2FAdobeStock_238869971.jpg",
 
@@ -978,6 +1012,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Pipette 5ml",
+  badge: "in-stock",
 
   image: "https://assets.fishersci.com/TFS-Assets/CCG/product-images/VN00128861-IMG367-5MLSEROLOGICALPIPET-SHO.JPG-650.jpg",
 
@@ -1008,6 +1043,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Pipette 10ml, graduated",
+  badge: "Best Seller",
 
   image: "https://www.leybold-shop.com/media/phk/images/150dpi/665997.jpg",
 
@@ -1038,6 +1074,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Pipette 25ml (bulb form)",
+  badge: "HOT",
 
   image: "https://sentori.com.my/uploads/product-images/8891fd1eba98e2cd4ddb7ff7f3e4031d.jpg",
 
@@ -1068,8 +1105,9 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Pipette filler",
+  badge: "in-stock",
 
-  image: "https://generationspace.co.ke/wp-content/uploads/2024/05/PIPETTE-FILLER-BULB-TYPE-10ML-CAPACITY.webp",
+  image: "https://shop12456.sfstatic.io/upload_dir/shop/laboratory-equipment/glassco/_thumbs/drifton-glassco-pipette-filler-bulb-red.w610.h610.fill.jpg",
 
   images: [
     "https://www.creative-chemistry.org.uk/wp-content/uploads/pipette-fillers.webp",
@@ -1079,7 +1117,7 @@ const chemistryProducts = [
 
   description: "Safe Laboratory Pipette Filler",
 
-  price: "3500 FCFA",
+  price: "3000 FCFA",
 
   specifications: [
     "Easy Suction Control",
@@ -1099,6 +1137,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Plastic funnel",
+  badge: "Best Seller",
 
   image: "https://laboratorysales.com/images/products/display/UnitedFunnelStandardStem.jpg",
 
@@ -1129,6 +1168,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "PH meter pocket type",
+  badge: "in-stock",
 
   image: "https://www.wehydroponics.com/store/wp-content/uploads/2021/07/ph-meter-5-1.png",
 
@@ -1139,7 +1179,7 @@ const chemistryProducts = [
 
   description: "Portable Pocket PH Meter",
 
-  price: "15000 FCFA",
+  price: "13000 FCFA",
 
   specifications: [
     "Digital PH Measurement",
@@ -1189,6 +1229,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Reagent bottle 250ml (amber / transparent)",
+  badge: "in-stock",
 
   image: "https://s.alicdn.com/@sc04/kf/H524a4632eed04cf2b209a39896deef6aT/Lab-Supplies-Borosilicate-Glass-Reagent-Bottle-Amber-Transparent-Corrosion-Resistance-Storage-Bottles-with-Blue-Screw-Cap.jpg_300x300.jpg",
 
@@ -1200,7 +1241,7 @@ const chemistryProducts = [
 
   description: "Premium 250ml Reagent Bottle",
 
-  price: "1000 FCFA",
+  price: "1500 FCFA",
 
   specifications: [
      "250ml Capacity",
@@ -1220,6 +1261,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Round bottom flask 250ml",
+  badge: "in-stock",
 
   image: "https://www.american-scientific.com/wp-content/uploads/2026/04/573212-1776792339.jpg",
 
@@ -1250,6 +1292,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Separating funnel 250ml",
+  badge: "in-stock",
 
   image: "https://mylabmart.com/media/separating-funnel-29049F.jpg",
 
@@ -1281,6 +1324,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Spatula stainless steel",
+  badge:"in-stock",
 
   image: "https://www.buerkle.de/products/L%C3%B6ffelspatel%20Edelstahl/5386-0025/92649/image-thumb__92649__productDetail/5386-0025_Loeffelspatel-Edelstahl_hauptbild.jpg",
 
@@ -1291,7 +1335,7 @@ const chemistryProducts = [
 
   description: "Stainless Steel Lab Spatula",
 
-  price: "1000 FCFA",
+  price: "500 FCFA",
 
   specifications: [
     "Corrosion Resistant Steel",
@@ -1311,6 +1355,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Stirring glass rod",
+  badge: "Best Seller",
 
   image: "https://myerstest.com/wp-content/uploads/2017/10/Glass-Stirring-Rods-1.jpg",
 
@@ -1321,7 +1366,7 @@ const chemistryProducts = [
 
   description: "Laboratory Glass Stirring Rod",
 
-  price: "700 FCFA",
+  price: "500 FCFA",
 
   specifications: [
     "Smooth Glass Surface",
@@ -1341,6 +1386,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Stop watch digital",
+  badge: "HOT",
 
   image: "https://controls-group.com/wp-content/uploads/2023/05/82-D1231.webp",
 
@@ -1371,6 +1417,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Test tube",
+  badge: "Best Seller",
 
   image: "https://www.scientificlabs.co.uk/image/full/TES1220",
 
@@ -1402,6 +1449,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Test tube brush",
+  badge: "Best Seller",
 
   image: "https://cdn.thomassci.com/_resources/_global/media/resized/00057/ihwx.8da40ce4-355d-49bc-b994-c8626b27ad28.500.500.jpg",
 
@@ -1433,6 +1481,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Test tube holder",
+  badge: "in-stock",
 
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSK61qOjyGHwRYCP1vABnU9Z0MYJc3cNca5w&s",
 
@@ -1463,6 +1512,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Test tube rack",
+  badge: "in-stock",
 
   image: "https://www.eiscolabs.com/cdn/shop/products/wvkuxr1cyoqkpxrtsxs9_37383718-6816-4c01-b996-b4f752ebd79b_1024x1024.jpg?v=1597932180",
 
@@ -1494,6 +1544,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Thermometer – 10 x 110 x 0.1°c Divisions",
+  badge: "Best Seller",
 
   image: "https://m.media-amazon.com/images/I/31TDi0iD9OL._AC_UF1000,1000_QL80_.jpg",
 
@@ -1504,7 +1555,7 @@ const chemistryProducts = [
 
   description: "Precision Laboratory Thermometer",
 
-  price: "5000 FCFA",
+  price: "4000 FCFA",
 
   specifications: [
     "0.1°C Graduation Scale",
@@ -1524,6 +1575,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Tripod stand",
+  badge: "in-stock",
 
   image: "https://samtechlabs.com/wp-content/uploads/2024/06/img_6866.png.webp",
 
@@ -1554,6 +1606,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Volumetric flask 250ml",
+  badge: "HOT",
 
   image: "https://www.eiscolabs.com/cdn/shop/products/jpbgntnkvnzehlxiknu7_1200x1200.jpg?v=1660141466",
 
@@ -1584,6 +1637,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Volumetric flask 500ml",
+  badge: "Best Seller",
 
   image: "https://5.imimg.com/data5/SELLER/Default/2025/5/509860075/TX/XN/PX/2348034/flasks-volumetric-with-interchangeable-stopper-class-b.png",
 
@@ -1614,6 +1668,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Volumetric flask 1000ml",
+  badge: "Best Seller",
 
   image: "https://img.lazcdn.com/g/p/5d2c2282f5bd1073cc59fef7041dec87.jpg_720x720q80.jpg",
 
@@ -1645,6 +1700,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Volumetric flask 2000ml",
+  badge: "Best Seller",
 
   image: "https://accuscience.com/wp-content/uploads/2021/08/2000ml-e1629810275380.png",
 
@@ -1675,6 +1731,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Volumetric flask 5000ml",
+  badge: "in-stock",
 
   image: "https://cdn11.bigcommerce.com/s-u45hz/products/1563/images/4510/Simax-volumetric-flask-5000ml__82013.1707782261.490.588.jpg?c=2",
 
@@ -1705,6 +1762,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Wash bottle",
+  badge: "Best Seller",
 
   image: "https://m.media-amazon.com/images/I/412MWVVt2UL._AC_SL1001_.jpg",
 
@@ -1735,6 +1793,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Wire gauze",
+  badge: "in-stock",
 
   image: "https://www.arborsci.com/cdn/shop/files/66-4013WireGauzewithCeramicCenter2048x2048.jpg?v=1765897963&width=1920",
 
@@ -1765,6 +1824,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "2,4-Dinitrophenyl hydrazine 100g",
+  badge: "in-stock",
 
   image: "https://www.hammaddeler.com/shop/cr/25/myassets/products/699/sgma-5.png?revision=1732703960",
 
@@ -1795,6 +1855,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "2-Naphthol 100g",
+  badge: "in-stock",
 
   image: "https://www.biolaboratorium.com/cdn/shop/files/NEW_IMG_48861-100G_1024x1024.jpg?v=1753359049",
 
@@ -1825,6 +1886,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Acetaldehyde 500ml",
+  badge: "in-stock",
 
   image: "https://biogo.de/cdn/shop/files/NEW_IMG_30021-500ML.jpg?v=1754237859",
 
@@ -1855,6 +1917,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Acetic acid Glacial 500ml ",
+  badge: "in-stock",
 
   image: "https://5.imimg.com/data5/SELLER/Default/2022/2/LX/UV/WZ/147581837/acetic-acid-glacial.jpg",
 
@@ -1885,6 +1948,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Acetone 500ml",
+  badge: "in-stock",
 
   image: "https://1malaysiabiolab.com/wp-content/uploads/2020/04/1582013670-l.jpg",
 
@@ -1915,6 +1979,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Aluminium carbonate  500g",
+  badge: "in-stock",
 
   image: "https://www.carlroth.com/medias/1000Wx1000H-Gruppe-Salze-02.jpg?context=bWFzdGVyfGltYWdlc3wzMDA5N3xpbWFnZS9qcGVnfGFXMWhaMlZ6TDJnME1DOW9ZVGd2T1RFeE9UWXlOekUwT1RNME1pNXFjR2N8ZDRiN2Y2YWE2Nzg4NTcyMzhiNmY2MzI2MDM0ZWIwZGNjZTVmNzZkZGQ2NjdhOWU2MDczMGNmYjRkNzE4N2Y4NA",
 
@@ -1925,7 +1990,7 @@ const chemistryProducts = [
 
   description: "99% Pure Aluminium Carbonate",
 
-  price: "14000 FCFA",
+  price: "10000 FCFA",
 
   specifications: [
     "500g Chemical Quantity",
@@ -1945,6 +2010,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Ammonia solution  500ml",
+  badge: "HOT",
 
   image: "https://kingmariot.com/cdn/shop/files/AmmoniaSolution30.jpg?v=1707478222",
 
@@ -1976,6 +2042,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Ammonium chloride 500g",
+  badge: "in-stock",
 
   image: "https://cdn11.bigcommerce.com/s-k069xfmhqb/products/15630/images/101369/A4514-500G-12352300__60075.1744031669.386.513.png?c=1",
 
@@ -2007,6 +2074,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Ammonium sulphate 500g",
+  badge: "in-stock",
 
   image: "https://m.media-amazon.com/images/I/51akYMV55YL.jpg",
 
@@ -2038,6 +2106,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Aniline  500ml",
+  badge: "in-stock",
 
   image: "https://cpimg.tistatic.com/11978424/b/4/Aniline-500ml..webp",
 
@@ -2068,6 +2137,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Barium chloride 500g",
+  badge: "Best Seller",
 
   image: "https://www.arkanlabs.com/image/cache/catalog/barium-chloride-dihydrate-ar-500gm-29847-433x577.jpg",
 
@@ -2078,7 +2148,7 @@ const chemistryProducts = [
 
   description: "99% Pure Barium Chloride",
 
-  price: "10000 FCFA",
+  price: "8000 FCFA",
 
   specifications: [
     "500g Chemical Quantity",
@@ -2098,11 +2168,12 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Barium hydroxide 500g",
+  badge: "in-stock",
 
-  image: "https://generationspace.co.ke/wp-content/uploads/2024/06/BARIUM-HYDROXIDE-OCTAHYDRATE-500G-GRIFFCHEM.webp",
+  image: "https://assets.fishersci.com/TFS-Assets/CCG/Spectrum-Chemicals/product-images/B1040-ZZ597-04.jpg-650.jpg",
 
   images: [
-    "https://generationspace.co.ke/wp-content/uploads/2024/06/BARIUM-HYDROXIDE-OCTAHYDRATE-500G-GRIFFCHEM.webp",
+    "https://assets.fishersci.com/TFS-Assets/CCG/Spectrum-Chemicals/product-images/B1040-ZZ597-04.jpg-650.jpg",
     "https://5.imimg.com/data5/SELLER/Default/2024/5/418425079/MA/TJ/LE/41673194/barium-extra-pure-hydroxide-250x250.jpeg"
   ],
 
@@ -2128,6 +2199,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Barium nitrate   500g",
+  badge: "in-stock",
 
   image: "https://worldofscience.co.za/wp-content/uploads/2025/02/Barium-Nitrate-AR-500g.webp",
 
@@ -2158,6 +2230,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Barium sulphate 500g",
+  badge: "in-stock",
 
   image: "https://www.westlab.com.au/media/catalog/product/050a7bb5635ac2c48f7ed1fc51b23f4e/contents/variations/BT040-X/BL105-500G-min.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
 
@@ -2186,6 +2259,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Benzaldehyde 500ml",
+  badge: "in-stock",
 
   image: "https://5.imimg.com/data5/ANDROID/Default/2024/2/394674618/OT/OH/KE/96645429/product-jpeg.jpeg",
 
@@ -2216,6 +2290,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Benzoic acid  500g",
+  badge: "in-stock",
 
   image: "https://5.imimg.com/data5/SELLER/Default/2021/7/OT/JW/AQ/33935950/b11225-benzoic-acid-99-500gm-500x500.png",
 
@@ -2246,6 +2321,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: " Borax 500g",
+  badge: "in-stock",
 
   image: "https://sciencelab.co.ke/cdn/shop/files/57a829bd-9fb5-4797-b2be-bfc5caa191f2.jpg?v=1746123271",
 
@@ -2256,7 +2332,7 @@ const chemistryProducts = [
 
   description: "99.5% Pure Laboratory Borax",
 
-  price: "8000 FCFA",
+  price: "6000 FCFA",
 
   specifications: [
      "500g Chemical Quantity",
@@ -2276,6 +2352,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Calcium carbonate  500g",
+  badge: "in-stock",
 
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHJ0aIqrU_PA84q1t3U_sI06UgeSePja5Zxw&s",
 
@@ -2286,7 +2363,7 @@ const chemistryProducts = [
 
   description: "99.5% Pure Calcium Carbonate",
 
-  price: "8000 FCFA",
+  price: "5000 FCFA",
 
   specifications: [
  "500g Chemical Quantity",
@@ -2306,6 +2383,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Calcium chloride 500g",
+  badge: "in-stock",
 
   image: "https://www.laboratorydeal.com/cdn/shop/files/Calcium_Chloride_500gm.jpg",
 
@@ -2340,6 +2418,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Calcium hydroxide  500g",
+  badge: "in-stock",
 
   image: "https://kingmariot.com/cdn/shop/files/CalciumHydroxide95_800x.jpg?v=1712569007",
 
@@ -2372,6 +2451,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Calcium nitrate 500g",
+  badge: "in-stock",
 
   image: "https://www.arkanlabs.com/image/cache/catalog/calcium-nitrate-tetrahydrate-lr-500gm-30448-375x666.jpg",
 
@@ -2402,6 +2482,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Copper II carbonate 500g",
+  badge: "in-stock",
 
   image: "https://m.media-amazon.com/images/I/81P-1IPOxvL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_QL100_.jpg",
 
@@ -2433,6 +2514,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Copper II chloride hydrated 500g",
+  badge: "in-stock",
 
   image: "https://m.media-amazon.com/images/I/819tEbl-yfL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_QL100_.jpg",
 
@@ -2464,6 +2546,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Copper II oxide 500g",
+  badge: "in-stock",
 
   image: "https://hoachatthinghiem.org/wp-content/uploads/2020/06/Copper-II-oxide-powder-xilong.jpg",
 
@@ -2495,6 +2578,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Copper II sulphate anhydrous  500g",
+  badge: "in-stock",
 
   image: "https://labequipsupply.co.za/wp-content/uploads/2023/03/Copper-Sulphate-Anhydrous-500g-300x300.jpg",
 
@@ -2525,6 +2609,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Copper II sulphate pentahydrate 500g",
+  badge: "Best seller",
 
   image: "https://hoachatthinghiem.org/wp-content/uploads/2024/06/Copper-II-sulfate-pentahydrate-JHD.jpg",
 
@@ -2535,7 +2620,7 @@ const chemistryProducts = [
 
   description: "99% Pure CuSO₄·5H₂O",
 
-  price: "10000 FCFA",
+  price: "6000 FCFA",
 
   specifications: [
 "500g Chemical Quantity",
@@ -2555,6 +2640,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: " Copper metal  100g",
+  badge: "in-stock",
 
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1rpYedNCe6uz9r66B3Wm7lj1pj3eHn6_Yxw&s",
 
@@ -2585,6 +2671,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "EDTA – Disodium salt 500g",
+  badge: "in-stock",
 
   image: "https://www.westlab.com.au/media/catalog/product/050a7bb5635ac2c48f7ed1fc51b23f4e/contents/EA023-X/EA023-500G-min.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
 
@@ -2616,6 +2703,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Erichrome Black T. indicator 25g",
+  badge: "in-stock",
 
   image: "https://5.imimg.com/data5/SELLER/Default/2025/1/479132159/UC/EZ/IT/224967873/eriochrome-black-t-indicator-11.jpg",
 
@@ -2647,6 +2735,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: " Ethanol  1L",
+  badge: "Best seller",
 
   image: "https://6science.co.uk/wp-content/uploads/2025/08/6-Science-Ethanol-99.8-1L-600x600.webp",
 
@@ -2677,6 +2766,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: " Ethyl acetate 500ml",
+  badge: "in-stock",
 
   image: "https://hoachatthinghiem.org/wp-content/uploads/2021/09/Ethyl-acetate-Xilong-nhan-xanh.jpg",
 
@@ -2707,6 +2797,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Butylamine 500ml",
+  badge: "in-stock",
 
   image: "https://s.alicdn.com/@sc04/kf/H52f3d82eece64ea98e5ef0799d2f2335c/2-N-Butylamine-1Mol-L-Standard-Solution-500ml-Bottle-Experimental-Scientific-Research-Flavor-Fragrance-Analysis.png",
 
@@ -2737,6 +2828,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: " Ethylamine  500ml",
+  badge: "in-stock",
 
   image: "https://www.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/354/078/0671a440-e0c9-4a6d-b2b7-7fc22b8ba698/640/0671a440-e0c9-4a6d-b2b7-7fc22b8ba698.jpg",
 
@@ -2769,6 +2861,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Ferrous ammonium sulphate 500g",
+  badge: "Best Seller",
 
   image: "https://synthetikaeu.com/userdata/public/gfx/9855/Amonu__elaza__II__siaczan_6_hydrat_99__Loba_ARACS_op_500g_jpg.jpg",
 
@@ -2800,6 +2893,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Formic acid  500ml",
+  badge: "in-stock",
 
   image: "https://tslabs.vn/wp-content/uploads/2023/03/hoa-chat-tinh-khiet-merck-100264-1.jpg",
 
@@ -2810,7 +2904,7 @@ const chemistryProducts = [
 
   description: "98% Pure Formic Acid",
 
-  price: "5000 FCFA",
+  price: "4000 FCFA",
 
   specifications: [
 "500ml Chemical Volume",
@@ -2830,6 +2924,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "D-Glucose  500g",
+  badge: "in-stock",
 
   image: "https://hoachatthinghiem.org/wp-content/uploads/2020/06/D-Glucose-AR-Xilong-Cas-5996-10-1.jpg",
 
@@ -2841,7 +2936,7 @@ const chemistryProducts = [
 
   description: "99.5% Pure D-Glucose",
 
-  price: "",
+  price: "4000 FCFA",
 
   specifications: [
 "500g Chemical Quantity",
@@ -2861,6 +2956,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: " Hydrochloric acid  1L",
+  badge: "HOT",
 
   image: "https://pindodeli-chemicals.com/storage/product-photos/1737359122-hcl1.jpg",
 
@@ -2871,7 +2967,7 @@ const chemistryProducts = [
 
   description: "37% Pure Hydrochloric Acid",
 
-  price: "3000 FCFA",
+  price: "5000 FCFA",
 
   specifications: [
  "1L Chemical Volume",
@@ -2891,6 +2987,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Hydrogen peroxide 500ml",
+  badge: "Best seller",
 
   image: "https://5.imimg.com/data5/SELLER/Default/2025/5/508804255/TC/RC/TH/226332641/hydrogen-peroxide-solution-er-500ml.jpeg",
 
@@ -2921,8 +3018,9 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Iron II sulphate  500g",
+  badge: "in-stock",
 
-  image: "https://synthetikaeu.com/userdata/public/gfx/8136/_elaza__II__siarczan_7_hydrat_98_5__Loba_ekstra_czysty_op_500_g_jpg.jpg",
+  image: "https://www.srlchem.com/SRL/user_img/products/97868/97868.jpeg",
 
   images: [
     "https://www.srlchem.com/SRL/user_img/products/97868/97868.jpeg",
@@ -2951,7 +3049,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Iron II sulphide  500g",
-
+  badge: "in-stock",
   image: "https://cdn-ilbncbn.nitrocdn.com/WPlheFCmzEAiQrfNmLaInztOsRXUpdbi/assets/images/optimized/rev-1159fef/i0.wp.com/brightscientific.com/wp-content/uploads/2025/02/eb5745c9aeac035e4d30da30d406662c.IronII-sulfide-sticks-Merck-India.jpg",
 
   images: [
@@ -2982,6 +3080,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Iron II chloride 500g",
+  badge: "in-stock",
 
   image: "https://neutronco.com/wp-content/uploads/2024/06/1.3080Iron-ii-chloride-tetrahydrate-scaled.webp",
 
@@ -3013,6 +3112,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: " Iron III chloride  500g",
+  badge: "in-stock",
 
   image: "https://www.westlab.com.au/media/catalog/product/050a7bb5635ac2c48f7ed1fc51b23f4e/contents/FL022-500G/FL022-500G-min.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
 
@@ -3044,6 +3144,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Iron powder 500g",
+  badge: "in-stock",
 
   image: "https://danchemical.co.id/wp-content/uploads/2025/10/Iron-Metal-Powder-Fine-Grade.jpg",
 
@@ -3054,7 +3155,7 @@ const chemistryProducts = [
 
   description: "98% Pure Iron Powder",
 
-  price: "10000 FCFA",
+  price: "8000 FCFA",
 
   specifications: [
 "500g Chemical Quantity",
@@ -3074,6 +3175,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Lead acetate  500g",
+  badge: "in-stock",
 
   image: "https://cdn.moglix.com/p/JaOLu2HZhkWtU-xxlarge.jpg",
 
@@ -3084,7 +3186,7 @@ const chemistryProducts = [
 
   description: "99% Pure Lead Acetate",
 
-  price: "10000 FCFA",
+  price: "6000 FCFA",
 
   specifications: [
   "500g Chemical Quantity",
@@ -3104,6 +3206,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Lead carbonate  500g",
+  badge: "in-stock",
 
   image: "https://cdn11.bigcommerce.com/s-3yvzqa/images/stencil/1280x1280/products/72820/104170/L1049-500GM__96222.1618420411.jpg?c=2",
 
@@ -3134,6 +3237,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Lead II nitrate  500g",
+  badge: "in-stock",
 
   image: "https://www.westlab.com.au/media/catalog/product/8/2/828-500g-img-05_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
 
@@ -3165,6 +3269,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: " Lithium carbonate  100g",
+  badge: "in-stock",
 
   image: "https://www.biolaboratorium.com/cdn/shop/files/NEW_IMG_46821-100G.jpg?v=1753267037",
 
@@ -3195,6 +3300,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: " Lithium chloride  100g",
+  badge: "in-stock",
 
   image: "https://m.media-amazon.com/images/I/41SjZBpWDaL.jpg",
 
@@ -3206,7 +3312,7 @@ const chemistryProducts = [
 
   description: "99% Pure Lithium Chloride",
 
-  price: "12000 FCFA",
+  price: "8000 FCFA",
 
   specifications: [
 "100g Chemical Quantity",
@@ -3226,6 +3332,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: " Litmus paper blue",
+  badge: "Best seller",
 
   image: "https://www.xump.com/images/products/litmus-blue-test-paper-100pcs-1000A.jpg",
 
@@ -3237,7 +3344,7 @@ const chemistryProducts = [
 
   description: "High Sensitivity Blue Litmus",
 
-  price: "1500 FCFA",
+  price: "1000 FCFA",
 
   specifications: [
 "1 Packet Supply",
@@ -3257,6 +3364,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Litmus paper red",
+  badge: "Best seller",
 
   image: "https://www.xump.com/images/products/litmus-red-test-paper-100pcs-1000A.jpg",
 
@@ -3268,7 +3376,7 @@ const chemistryProducts = [
 
   description: "High Sensitivity Red Litmus",
 
-  price: "1500 FCFA",
+  price: "1000 FCFA",
 
   specifications: [
 "1 Packet Supply",
@@ -3288,6 +3396,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Magnesium chloride  500g",
+  badge: "in-stock",
 
   image: "https://cdn11.bigcommerce.com/s-k069xfmhqb/products/16701/images/102440/M2670-500G-12161700__59256.1744032179.386.513.png?c=1",
 
@@ -3318,6 +3427,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Magnesium oxide  500g",
+  badge: "New",
 
   image: "https://s.alicdn.com/@sc04/kf/H4f08c387d4ff45d4a9f2038cd9749c45N/Nano-Magnesium-Oxide-MgO-Powder-Ultrafine-MgO-Magnesium-Oxide-Nanoparticle-Powder.jpg",
 
@@ -3348,6 +3458,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Magnesium sulphate  500g",
+  badge: "in-stock",
 
   image: "https://5.imimg.com/data5/SELLER/Default/2023/8/336514491/MG/XA/BU/139302294/magnesium-sulphate-dried-98-5-extra-pure.jpg",
 
@@ -3358,7 +3469,7 @@ const chemistryProducts = [
 
   description: "98.5% Pure Magnesium Sulphate",
 
-  price: "8000 FCFA",
+  price: "6000 FCFA",
 
   specifications: [
  "500g Chemical Quantity",
@@ -3378,6 +3489,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: " Magnesium ribbon 25g",
+  badge: "in-stock",
 
   image: "https://ph-test-11.slatic.net/p/2d85c80517da7090041c5ebf84719776.png",
 
@@ -3389,7 +3501,7 @@ const chemistryProducts = [
 
   description: "99.8% Pure Magnesium Ribbon",
 
-  price: "8000 FCFA",
+  price: "4000 FCFA",
 
   specifications: [
 "High Purity Metal Ribbon",
@@ -3409,8 +3521,9 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Maleic acid  500g",
+  badge: "New",
 
-  image: "https://generationspace.co.ke/wp-content/uploads/2024/06/re-MALEIC-ACID-500G-LOBA-2-1.webp",
+  image: "https://5.imimg.com/data5/SELLER/Default/2025/11/560225660/YI/DT/HY/10371689/maleic-acid-99-powder-500x500.jpeg",
 
   images: [
     "https://5.imimg.com/data5/SELLER/Default/2025/11/560225660/YI/DT/HY/10371689/maleic-acid-99-powder-500x500.jpeg",
@@ -3419,7 +3532,7 @@ const chemistryProducts = [
 
   description: "99% Pure Maleic Acid",
 
-  price: "12000 FCFA",
+  price: "5000 FCFA",
 
   specifications: [
 "500g Chemical Quantity",
@@ -3439,6 +3552,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: " Manganese IV oxide  500g",
+  badge: "in-stock",
 
   image: "https://www.pentachemicals.eu/data/Images/23310-30500.png",
 
@@ -3449,7 +3563,7 @@ const chemistryProducts = [
 
   description: "95% Pure Manganese IV Oxide",
 
-  price: "12000 FCFA",
+  price: "10000 FCFA",
 
   specifications: [
 "500g Chemical Quantity",
@@ -3469,6 +3583,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Methanol  500ml",
+  badge: "Best Seller",
 
   image: "https://www.biolaboratorium.com/cdn/shop/files/NEW_IMG_47811-500ML.jpg?v=1753268527",
 
@@ -3499,6 +3614,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: " Methyl orange indicator  25g",
+  badge: "HOT",
 
   image: "https://hoachatthinghiem.org/wp-content/uploads/2020/06/Methyl-Orange-Xilong.jpg",
 
@@ -3510,7 +3626,7 @@ const chemistryProducts = [
 
   description: "85% Pure Methyl Orange",
 
-  price: "5000 FCFA",
+  price: "4000 FCFA",
 
   specifications: [
 "25g Chemical Quantity",
@@ -3530,6 +3646,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Methyl red indicator  25g",
+  badge: "in-stock",
 
   image: "https://www.masiyelabs.co.za/wp-content/uploads/2021/01/Methyl-Red-50g.jpeg",
 
@@ -3541,7 +3658,7 @@ const chemistryProducts = [
 
   description: "90% Pure Methyl Red",
 
-  price: "5000 FCFA",
+  price: "4000 FCFA",
 
   specifications: [
  "25g Chemical Quantity",
@@ -3561,6 +3678,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: " Murexide indicator  25g",
+  badge: "in-stock",
 
   image: "https://5.imimg.com/data5/SELLER/Default/2023/6/314035380/MJ/IM/SZ/188944651/murexide-laboratory-chemicals-250x250.jpeg",
 
@@ -3572,7 +3690,7 @@ const chemistryProducts = [
 
   description: "80% Pure Murexide Indicator",
 
-  price: "6000 FCFA",
+  price: "4000 FCFA",
 
   specifications: [
   "25g Chemical Quantity",
@@ -3592,6 +3710,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: " Nickel II sulphate 500g",
+  badge: "in-stock",
 
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPzN_m_G7waBbGi-yvMQlUyD7SENjYwOnbIQ&s",
 
@@ -3623,6 +3742,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Nitric acid  500ml",
+  badge: "HOT",
 
   image: "https://ecoclean-global.com/wp-content/uploads/2024/09/Chemical-Nitric-Acid-HNO%E2%82%83-Xilong-C-500ml-1024x787.png",
 
@@ -3634,7 +3754,7 @@ const chemistryProducts = [
 
   description: "68% Pure Nitric Acid",
 
-  price: "4500 FCFA",
+  price: "4000 FCFA",
 
   specifications: [
 "500ml Chemical Volume",
@@ -3654,6 +3774,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Oxalic acid (Ethanedioic acid ) 500g",
+  badge: "Best seller",
 
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4zwdTjpNp7oDwqYon-xAuw4nnSyrW5pDntg&s",
 
@@ -3665,7 +3786,7 @@ const chemistryProducts = [
 
   description: "99.5% Pure Oxalic Acid",
 
-  price: "10000 FCFA",
+  price: "8000 FCFA",
 
   specifications: [
 "500g Chemical Quantity",
@@ -3685,6 +3806,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "PH indicator paper 1-14",
+  badge: "in-stock",
 
   image: "https://shop.appliedbiotech.ng/wp-content/uploads/2024/03/IMG-20240328-WA0020-600x530.jpg",
 
@@ -3696,7 +3818,7 @@ const chemistryProducts = [
 
   description: "Universal PH Indicator Paper",
 
-  price: "2500 FCFA",
+  price: "2000 FCFA",
 
   specifications: [
     "PH Range 1-14",
@@ -3716,6 +3838,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: " Phenol crystals  500g",
+  badge: "in-stock",
 
   image: "https://5.imimg.com/data5/SELLER/Default/2024/6/429429421/SM/JP/ES/125039132/phenol-crystals-500gm.jpg",
 
@@ -3747,6 +3870,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: " Phenolpthalein indicator  25g",
+  badge: "HOT",
 
   image: "https://img.alicdn.com/imgextra/i1/719820549/TB2Xngabt3nyKJjSZFEXXXTTFXa_!!719820549.jpg",
 
@@ -3758,7 +3882,7 @@ const chemistryProducts = [
 
   description: "98% Pure Phenolphthalein",
 
-  price: "5000 FCFA",
+  price: "4000 FCFA",
 
   specifications: [
     "25g Chemical Quantity",
@@ -3778,6 +3902,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: " Phenyl ammonium chloride (Aniline hydrochloride) 100g",
+  badge: "in-stock",
 
   image: "https://amarischemicalsolutions.com/wp-content/uploads/2025/07/Anilium-Chloride-Extra-Pure-Amaris-Chemicals.png",
 
@@ -3808,6 +3933,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: " Phosphorus pentachloride  100g",
+  badge: "in-stock",
 
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg3HH4LLCBPbuGE3ujt9HlQe6oWmG51v_HGg&s",
 
@@ -3819,7 +3945,7 @@ const chemistryProducts = [
 
   description: "98% Pure Phosphorus Pentachloride",
 
-  price: "15000 FCFA",
+  price: "10000 FCFA",
 
   specifications: [
     "100g Chemical Quantity",
@@ -3839,6 +3965,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: " Potassium bromate  500g",
+  badge: "in-stock",
 
   image: "https://cdn11.bigcommerce.com/s-3yvzqa/images/stencil/1280x1280/products/76894/105394/P1215-500GM__37547.1618426246.jpg?c=2",
 
@@ -3850,7 +3977,7 @@ const chemistryProducts = [
 
   description: "99% Pure Potassium Bromate",
 
-  price: "12000 FCFA",
+  price: "10000 FCFA",
 
   specifications: [
     "500g Chemical Quantity",
@@ -3870,6 +3997,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Potassium bromide 500g",
+  badge: "in-stock",
 
   image: "https://down-vn.img.susercontent.com/file/sg-11134201-22110-noykq2v2sejv42",
 
@@ -3901,6 +4029,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name:  "Potassium carbonate  500g",
+  badge: "in-stock",
 
   image: "https://hoachatthinghiem.org/wp-content/uploads/2022/06/Potassium-carbonate-anhydrous-xilong-xanh.jpg",
 
@@ -3911,7 +4040,7 @@ const chemistryProducts = [
 
   description: "99% Pure Potassium Carbonate",
 
-  price: "10000 FCFA",
+  price: "8000 FCFA",
 
   specifications: [
     "500g Chemical Quantity",
@@ -3931,6 +4060,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Potassium chloride 500g",
+  badge: "in-stock",
 
   image: "https://hoachatthinghiem.org/wp-content/uploads/2024/03/Potassium-Chloride-AR-Chai-500G-JHD-Cas-7447-40-7.jpg",
 
@@ -3961,6 +4091,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Potassium chromate 500g",
+  badge: "in-stock",
 
   image: "https://5.imimg.com/data5/SELLER/Default/2023/6/314764950/WM/EV/IT/188944651/potassium-chromate-powder-500x500.jpeg",
 
@@ -3992,6 +4123,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Potassium dichromate 500g",
+  badge: "in-stock",
 
   image: "https://5.imimg.com/data5/SELLER/Default/2024/9/449418315/OY/BZ/FW/1949757/img-4006.png",
 
@@ -4003,7 +4135,7 @@ const chemistryProducts = [
 
   description: "99.5% Pure Potassium Dichromate",
 
-  price: "12000 FCFA",
+  price: "10000 FCFA",
 
   specifications: [
     "500g Chemical Quantity",
@@ -4023,6 +4155,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Potassium hydrogen carbonate  500g",
+  badge: "in-stock",
 
   image: "https://hoachatthinghiem.org/wp-content/uploads/2024/03/Potassium-bicarbonate-Potassium-hydrogen-carbonate-AR-Chai-500G-JHD-Cas-298-14-6.jpg",
 
@@ -4033,7 +4166,7 @@ const chemistryProducts = [
 
   description: "99% Pure Potassium Bicarbonate",
 
-  price: "8000 FCFA",
+  price: "5000 FCFA",
 
   specifications: [
     "500g Chemical Quantity",
@@ -4053,6 +4186,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Potassium hydrogen sulphate  500g",
+  badge: "in-stock",
 
   image: "https://mymicrolab.com/pub/media/catalog/product/cache/4c4cf122317d5ed3c60d8f9a6a5b5181/2/6/2686_500gpg_u62vt4fr0ksjdnxd.jpg",
 
@@ -4084,6 +4218,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name:  "Potassium hydroxide  500g",
+  badge: "in-stock",
 
   image: "https://www.chemicalplus.co.za/wp-content/uploads/2024/12/potassium-hydroxide-pellets-cp-500g.jpg",
 
@@ -4115,6 +4250,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: " Potassium iodate  500g",
+  badge: "in-stock",
 
   image: "https://pictures-nigeria.jijistatic.net/172508582_NjIwLTEyNTctMzFmNThmZWM5NA.webp",
 
@@ -4125,7 +4261,7 @@ const chemistryProducts = [
 
   description: "99.5% Pure Potassium Iodate",
 
-  price: "30000 FCFA",
+  price: "25000 FCFA",
 
   specifications: [
     "500g Chemical Quantity",
@@ -4145,6 +4281,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Potassium iodide  500g",
+  badge: "in-stock",
 
   image: "https://www.westlab.com.au/media/catalog/product/8/1/812-500g-img-06_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
 
@@ -4156,7 +4293,7 @@ const chemistryProducts = [
 
   description: "99% Pure Potassium Iodide",
 
-  price: "30000 FCFA",
+  price: "25000 FCFA",
 
   specifications: [
     "500g Chemical Quantity",
@@ -4176,6 +4313,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Potassium permanganate  500g",
+  badge: "in-stock",
 
   image: "https://images-na.ssl-images-amazon.com/images/I/71vCIEOPhxL._UL500_.jpg",
 
@@ -4187,7 +4325,7 @@ const chemistryProducts = [
 
   description: "99% Pure Potassium Permanganate",
 
-  price: "10000 FCFA",
+  price: "8000 FCFA",
 
   specifications: [
      "500g Chemical Quantity",
@@ -4207,6 +4345,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Potassium persulphate  500g",
+  badge: "in-stock",
 
   image: "https://m.media-amazon.com/images/I/61aLbSsdoWL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_QL100_.jpg",
 
@@ -4238,6 +4377,7 @@ const chemistryProducts = [
 
   name: "Potassium thiocyanate  500g",
 
+  badge: "in-stock",
   image: "https://www.arkanlabs.com/image/cache/catalog/2026911000015209255-433x577.jpg",
 
   images: [
@@ -4267,6 +4407,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Propan-1-ol 500ml",
+  badge: "in-stock",
 
   image: "https://www.westlab.com.au/media/catalog/product/p/l/pl120-500m-img-01.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
 
@@ -4278,7 +4419,7 @@ const chemistryProducts = [
 
   description: "99.5% Pure Propan-1-ol",
 
-  price: "4000 FCFA",
+  price: "2500 FCFA",
 
   specifications: [
     "500ml Chemical Volume",
@@ -4298,6 +4439,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Propan-2-ol  500ml",
+  badge: "in-stock",
 
   image: "https://5.imimg.com/data5/SELLER/Default/2025/7/524120435/DA/XU/LA/5164373/img-7221.jpeg",
 
@@ -4309,7 +4451,7 @@ const chemistryProducts = [
 
   description: "99.8% Pure Propan-2-ol",
 
-  price: "4000 FCFA",
+  price: "2500 FCFA",
 
   specifications: [
     "500ml Chemical Volume",
@@ -4329,6 +4471,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Salicylic acid  500g",
+  badge: "in-stock",
 
   image: "https://img.analytics-shop.com/aYT0nH8JlFrpmvYuk7gSZCZpidc=/fit-in/600x600/filters:fill(ffffff):no_upscale()/FL37865-500G.jpg",
 
@@ -4340,7 +4483,7 @@ const chemistryProducts = [
 
   description: "99% Pure Salicylic Acid",
 
-  price: "10000 FCFA",
+  price: "8000 FCFA",
 
   specifications: [
     "500g Chemical Quantity",
@@ -4360,6 +4503,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Silver nitrate 100g",
+  badge: "in-stock",
 
   image: "https://m.media-amazon.com/images/I/51IbbQ4ImRL._AC_UF1000,1000_QL80_.jpg",
 
@@ -4391,6 +4535,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Sodium acetate  500g",
+  badge: "in-stock",
 
   image: "https://5.imimg.com/data5/SELLER/Default/2022/4/WX/YB/MU/4070826/qualigens-sodium-acetate.jpg",
 
@@ -4422,6 +4567,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Sodium carbonate anhydrous 500g",
+  badge: "Best seller",
 
   image: "https://j.lnwfile.com/15cot7.jpg",
 
@@ -4433,7 +4579,7 @@ const chemistryProducts = [
 
   description: "99.5% Pure Sodium Carbonate",
 
-  price: "5000 FCFA",
+  price: "3000 FCFA",
 
   specifications: [
     "500g Chemical Quantity",
@@ -4453,6 +4599,8 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Sodium carbonate hydrated  500g",
+  badge: "in-stock",
+
 
   image: "https://assets.fishersci.com/TFS-Assets/CCG/Spectrum-Chemicals/product-images/S1210-ZZ613-10.jpg-650.jpg",
 
@@ -4484,6 +4632,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Sodium chloride AR 500g",
+  badge: "in-stock",
 
   image: "https://hoachatthinghiem.org/wp-content/uploads/2023/08/Sodium-Chloride-AR-GHTECH-Cas-7647-14-5.jpg",
 
@@ -4495,7 +4644,7 @@ const chemistryProducts = [
 
   description: "99.8% Pure Sodium Chloride",
 
-  price: "5000 FCFA",
+  price: "4000 FCFA",
 
   specifications: [
     "500g Chemical Quantity",
@@ -4515,6 +4664,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Sodium formate  500g",
+  badge: "in-stock",
 
   image: "https://apcpure.com/images/productPictures/842/packPictures/500g.webp",
 
@@ -4545,6 +4695,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Sodium hydrogen carbonate  500g",
+  badge: "in-stock",
 
   image: "https://www.westlab.com.au/media/catalog/product/8/1/817-500g-img-06_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
 
@@ -4556,7 +4707,7 @@ const chemistryProducts = [
 
   description: "99.5% Pure Sodium Bicarbonate",
 
-  price: "10000 FCFA",
+  price: "5000 FCFA",
 
   specifications: [
     "500g Chemical Quantity",
@@ -4576,6 +4727,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Sodium hydroxide pellets  500g",
+  badge: "HOT",
 
   image: "https://www.westlab.com.au/media/catalog/product/s/a/sa178-500g-img-02_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
 
@@ -4638,6 +4790,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Sodium nitrate 500g",
+  badge: "in-stock",
 
   image: "https://labequipsupply.co.za/wp-content/uploads/2021/03/RLS-Chemicals-Sodium-Nitrate-CP-1.jpg",
 
@@ -4669,6 +4822,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Sodium sulphate  500g",
+  badge: "in-stock",
 
   image: "https://5.imimg.com/data5/KL/LP/MY-2127918/sodium-sulphate-anhydrous-ar-500gm.jpg",
 
@@ -4680,7 +4834,7 @@ const chemistryProducts = [
 
   description: "99% Pure Sodium Sulphate",
 
-  price: "8000 FCFA",
+  price: "5000 FCFA",
 
   specifications: [
      "500g Chemical Quantity",
@@ -4700,6 +4854,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Sodium sulphide 500g",
+  badge: "in-stock",
 
   image: "https://piochemstore.com/wp-content/uploads/2023/08/120.png",
 
@@ -4731,6 +4886,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Sodium sulphite anhydrous  500g",
+  badge: "in-stock",
 
   image: "https://ases.in/cdn/shop/files/SodiumSUlphiteAnhy.jpg?v=1738912412",
 
@@ -4761,6 +4917,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Sodium thiosulphate pentahydrate  500g",
+  badge: "HOT",
 
   image: "https://m.media-amazon.com/images/I/41QgWDon2ML._SS400_.jpg",
 
@@ -4792,6 +4949,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Starch soluble 500g",
+  badge: "Best seller",
 
   image: "https://mymicrolab.com/pub/media/catalog/product/cache/4c4cf122317d5ed3c60d8f9a6a5b5181/3/5/3543_23c7f9xxf6zduu6z.jpg",
 
@@ -4803,7 +4961,7 @@ const chemistryProducts = [
 
   description: "99% Pure Soluble Starch",
 
-  price: "5000 FCFA",
+  price: "4000 FCFA",
 
   specifications: [
     "500g Chemical Quantity",
@@ -4821,6 +4979,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Strontium carbonate 500g",
+  badge: "in-stock",
 
   image: "https://www.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/433/169/1ad7dbac-ff67-4536-922b-b7af9795c91f/640/1ad7dbac-ff67-4536-922b-b7af9795c91f.jpg",
 
@@ -4852,6 +5011,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Strontium chloride 500g",
+  badge: "in-stock",
 
   image: "https://www.westlab.com.au/media/catalog/product/050a7bb5635ac2c48f7ed1fc51b23f4e/contents/SL062-500G/SL062-500G-min.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
 
@@ -4883,6 +5043,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Strontium nitrate  500g",
+  badge: "in-stock",
 
   image: "https://www.westlab.com.au/media/catalog/product/s/a/sa063-500g.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
 
@@ -4894,7 +5055,7 @@ const chemistryProducts = [
 
   description: "99% Pure Strontium Nitrate",
 
-  price: "12000 FCFA",
+  price: "10000 FCFA",
 
   specifications: [
     "500g Chemical Quantity",
@@ -4914,6 +5075,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Succinic acid  (Butanedioic acid ) 500g",
+  badge: "in-stock",
 
   image: "https://assets.fishersci.com/TFS-Assets/CCG/Spectrum-Chemicals/product-images/S1686-ZZ613-10.jpg-650.jpg",
 
@@ -4944,6 +5106,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Sulphamic acid 500g",
+  badge: "in-stock",
 
   image: "https://ecpltd.co.nz/wp-content/uploads/2023/05/ECP-Sulphamic-Acid-AR-99.jpg",
 
@@ -4975,6 +5138,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Sulphuric acid",
+  badge: "HOT",
 
   image: "https://inwfile.com/s-cc/n8syv0.jpg",
 
@@ -4986,7 +5150,7 @@ const chemistryProducts = [
 
   description: "98% Pure Sulphuric Acid",
 
-  price: "3000 FCFA",
+  price: "4000 FCFA",
 
   specifications: [
     "1L Chemical Volume",
@@ -5006,6 +5170,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Tin II chloride  500g",
+  badge: "in-stock",
 
   image: "https://admin.haphansci.com/ProductImageUpload/2020/2/25/90-73-0C-28-CE-1F-D6-82-B6-3A-05-6A-E2-80-43-E6.jpg",
 
@@ -5017,7 +5182,7 @@ const chemistryProducts = [
 
   description: "98% Pure Tin II Chloride",
 
-  price: "12000 FCFA",
+  price: "15000 FCFA",
 
   specifications: [
     "500g Chemical Quantity",
@@ -5037,6 +5202,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Zinc carbonate  500g",
+  badge: "in-stock",
 
   image: "https://kingmariot.com/cdn/shop/files/ZincCarbonateBasic_1200x.jpg?v=1712569420",
 
@@ -5068,6 +5234,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Zinc powder  500g",
+  badge: "in-stock",
 
   image: "https://pictures-nigeria.jijistatic.net/180737816_NjIwLTYyMC0zNGFjZDExY2Rk.webp",
 
@@ -5099,7 +5266,7 @@ const chemistryProducts = [
   category: "Chemistry",
 
   name: "Zinc sulphate hydrated  500g",
-
+  badge: "in-stock",
   image: "https://cpimg.tistatic.com/12128604/b/4/zinc-sulphate-sq-500g-qualigens.webp",
 
   images: [

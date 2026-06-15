@@ -580,57 +580,110 @@
 /* PRODUCT BADGE */
 
 .product-badge {
+
   position: absolute;
 
-  top: 10px;
-  left: 10px;
+  top: 8px;
 
-  z-index: 10;
+  left: 8px;
 
-  padding: 3px 8px;
+  background: transparent;
 
-  border-radius: 6px;
+  color: #16a34a;
 
-  font-size: 9px;
+  font-size: 8px;
 
-  font-weight: 600;
+  font-weight: 500;
 
   letter-spacing: 0.3px;
 
-  line-height: 1.0;
+  padding: 0;
 
-  color: white;
+  border: none;
 
-  text-transform: uppercase;
+  border-radius: 0;
 
-  box-shadow:
-    0 2px 8px rgba(0,0,0,0.12);
+  box-shadow: none;
+
+  z-index: 2;
 }
 
 /* HOT */
 
 .product-badge.hot {
-  background: #ff5722;
+
+  background: transparent !important;
+
+  color: #ff5722 !important;
+
+  padding: 0 !important;
+
+  box-shadow: none !important;
+
+  border: none !important;
 }
 
 /* NEW */
 
 .product-badge.new {
-  background: #2196f3;
+
+  background: transparent !important;
+
+  color: #2196f3 !important;
+
+  padding: 0 !important;
+
+  box-shadow: none !important;
+
+  border: none !important;
 }
 
 /* BEST SELLER */
 
 .product-badge.best-seller {
-  background: #9c27b0;
+
+  background: transparent !important;
+
+  color: #9c27b0 !important;
+
+  padding: 0 !important;
+
+  box-shadow: none !important;
+
+  border: none !important;
 }
 
 /* IN STOCK */
 
 .product-badge.in-stock {
-  background: #28c76f;
+
+  background: transparent !important;
+
+  color: #16a34a !important;
+
+  padding: 0 !important;
+
+  box-shadow: none !important;
+
+  border: none !important;
 }
 
+
+.product-badge.hot::before {
+  content: "● ";
+}
+
+.product-badge.new::before {
+  content: "● ";
+}
+
+.product-badge.best-seller::before {
+  content: "● ";
+}
+
+.product-badge.in-stock::before {
+  content: "● ";
+}
 
 
 /* ===================================
@@ -720,15 +773,17 @@
   }
 
   .product-badge {
-    top: 8px;
-    left: 8px;
 
-    padding: 2px 6px;
+  top: 6px;
 
-    font-size: 8px;
+  left: 6px;
 
-    border-radius: 4px;
-  }
+  padding: 0;
+
+  font-size: 7px;
+
+  border-radius: 0;
+}
 
   .products-controls {
     flex-direction: column;
@@ -845,4 +900,47 @@
       204,
       0.35
     );
+}
+
+/* STOCK STATUS */
+
+.stock-status {
+
+  margin-top: 8px;
+
+  margin-bottom: 8px;
+
+  font-size: 11px;
+
+  font-weight: 500;
+
+  text-align: center;
+}
+
+/* IN STOCK */
+
+.stock-status.in-stock {
+
+  color: #16a34a;
+}
+
+/* HOT */
+
+.stock-status.hot {
+
+  color: #ff5722;
+}
+
+/* BEST SELLER */
+
+.stock-status.best-seller {
+
+  color: #9c27b0;
+}
+
+/* NEW */
+
+.stock-status.new {
+
+  color: #2196f3;
 }
