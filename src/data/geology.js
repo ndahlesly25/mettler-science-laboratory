@@ -8,6 +8,7 @@ const geologyProducts = [
   category: "Geology",
 
   name: "Simple cube",
+  badge: "in-stock",
 
   image: "https://d1mv2b9v99cq0i.cloudfront.net/eyJidWNrZXQiOiJ3ZWItbmluamEtaW1hZ2VzIiwia2V5Ijoic3NhXC9pbWFnZXNcL3Byb2RpbWdcLzM5NzA5MzlfMS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQ4MCwiaGVpZ2h0Ijo0ODAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX19LCJ2ZXJzaW9uIjoiMTRkMzFkNTVjMzk3YWI3MTc0NzNjYmE3MjhhMGI1ZTE1NTNiYWNmMiJ9",
 
@@ -39,6 +40,7 @@ const geologyProducts = [
   category: "Geology",
 
   name: "Octahedron",
+  badge: "in-stock",
 
   image: "https://www.vanleestantiques.com/wp-content/uploads/2022/01/Octahedron-Crystal-models-van-Leest-Antiques-1.jpg",
 
@@ -49,7 +51,7 @@ const geologyProducts = [
 
   description: "Geological Octahedron Crystal Model",
 
-  price: "2500 FCFA",
+  price: "2000 FCFA",
 
   specifications: [
 "Octahedral Crystal Geometry",
@@ -69,6 +71,7 @@ const geologyProducts = [
   category: "Geology",
 
   name: "Galena",
+  badge: "in-stock",
 
   image: "https://cdn11.bigcommerce.com/s-nk69eog6/images/stencil/1280x1280/products/1888/21808/Raw_Galena_Crystal_Specimen_M__90783.1697029620.jpg?c=2",
 
@@ -80,7 +83,7 @@ const geologyProducts = [
 
   description: "Natural Galena Mineral Specimen",
 
-  price: "3500 FCFA",
+  price: "3000 FCFA",
 
   specifications: [
 "Lead Sulphide Mineral",
@@ -100,6 +103,7 @@ const geologyProducts = [
   category: "Geology",
 
   name: "Rhombohedron",
+  badge: "in-stock",
 
   image: "https://dl.myminifactory.com/object-assets/5da7754ebc853/images/720X720-img-0212.jpg",
 
@@ -130,6 +134,7 @@ const geologyProducts = [
   category: "Geology",
 
   name: "Olivine",
+  badge: "in-stock",
 
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyF3sqvmOP8tA_rrPWRoCufGyNO32yDg_kEQ&s",
 
@@ -141,7 +146,7 @@ const geologyProducts = [
 
   description: "Natural Olivine Mineral Specimen",
 
-  price: "3500 FCFA",
+  price: "3000 FCFA",
 
   specifications: [
 "Magnesium Iron Silicate Mineral",
@@ -161,6 +166,7 @@ const geologyProducts = [
   category: "Geology",
 
   name: "Hornblende",
+  badge: "in-stock",
 
   image: "https://www.eiscolabs.com/cdn/shop/products/vxgg5qjxbfrfoslgk3pw_1200x1076.jpg?v=1601648377",
 
@@ -172,7 +178,7 @@ const geologyProducts = [
 
   description: "Natural Hornblende Mineral Specimen",
 
-  price: "3500 FCFA",
+  price: "3000 FCFA",
 
   specifications: [
 "Dark Amphibole Mineral",
@@ -192,6 +198,7 @@ const geologyProducts = [
   category: "Geology",
 
   name: "Orthoclase",
+  badge: "in-stock",
 
   image: "https://nationalgemlab.in/wp-content/uploads/2017/04/46b955dbdca086ada92056105c8477fe-300x300.jpg",
 
@@ -202,7 +209,7 @@ const geologyProducts = [
 
   description: "Natural Orthoclase Mineral Specimen",
 
-  price: "3500 FCFA",
+  price: "3000 FCFA",
 
   specifications: [
 "Potassium Feldspar Mineral",
@@ -222,6 +229,7 @@ const geologyProducts = [
   category: "Geology",
 
   name: "Muscovite  ",
+  badge: "in-stock",
 
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtvuoxE8pvRf1xUKOkboWub8fxlFV7mZrsIQ&s",
 
@@ -233,7 +241,7 @@ const geologyProducts = [
 
   description: "Natural Muscovite Mineral Specimen",
 
-  price: "3500 FCFA",
+  price: "3000 FCFA",
 
   specifications: [
 "Light Colored Mica Mineral",
@@ -253,6 +261,7 @@ const geologyProducts = [
   category: "Geology",
 
   name: "Quartz",
+  badge: "in-stock",
 
   image: "https://spectrumed.ca/media/nextgenimages/media/catalog/product/cache/a5f2be41a62421663e970bfa3c62b304/s/b/sb09562m.webp",
 
@@ -263,7 +272,7 @@ const geologyProducts = [
 
   description: "Natural Quartz Mineral Specimen",
 
-  price: "3500 FCFA",
+  price: "3000 FCFA",
 
   specifications: [
 "Silicon Dioxide Mineral",
@@ -283,6 +292,7 @@ const geologyProducts = [
   category: "Geology",
 
   name: "Plagioclase  ",
+  badge: "in-stock",
 
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDoxfrU4aMDTEKf33-Q_7Qhz6e-glYIAv7Xw&s",
 
@@ -294,7 +304,7 @@ const geologyProducts = [
 
   description: "Natural Plagioclase Mineral Specimen",
 
-  price: "3500 FCFA",
+  price: "3000 FCFA",
 
   specifications: [
   "Feldspar Silicate Mineral",
@@ -314,6 +324,7 @@ const geologyProducts = [
   category: "Geology",
 
   name: "Talc",
+  badge: "in-stock",
 
   image: "https://mineralseducationcoalition.org/wp-content/uploads/shutterstock_144775801TALC.jpg",
 
@@ -324,7 +335,7 @@ const geologyProducts = [
 
   description: "Natural Talc Mineral Specimen",
 
-  price: "3500 FCFA",
+  price: "3000 FCFA",
 
   specifications: [
 "Hydrated Magnesium Silicate",
@@ -344,6 +355,7 @@ const geologyProducts = [
   category: "Geology",
 
   name: "Kaolinite",
+  badge: "in-stock",
 
   image: "https://upload.wikimedia.org/wikipedia/commons/4/40/Kaolinite_from_Twiggs_County_in_Georgia_in_USA.jpg",
 
@@ -354,7 +366,7 @@ const geologyProducts = [
 
   description: "Natural Kaolinite Mineral Specimen",
 
-  price: "3500 FCFA",
+  price: "3000 FCFA",
 
   specifications: [
 "Clay Silicate Mineral",
@@ -374,6 +386,7 @@ const geologyProducts = [
   category: "Geology",
 
   name: " Gypsum",
+  badge: "in-stock",
 
   image: "https://cdn.zmescience.com/wp-content/uploads/2024/02/Gypsum_12249949575.jpg",
 
@@ -414,7 +427,7 @@ const geologyProducts = [
 
   description: "Natural Pyrite Mineral Specimen",
 
-  price: "",
+  price: "3000 FCFA",
 
   specifications: [
 "Iron Sulphide Mineral",
@@ -434,6 +447,7 @@ const geologyProducts = [
   category: "Geology",
 
   name: " Hematite",
+  badge: "in-stock",
 
   image: "https://www.eiscolabs.com/cdn/shop/products/ctxmzg979ukjfjkn3qbx_1024x1024.jpg?v=1578504002",
 
@@ -445,7 +459,7 @@ const geologyProducts = [
 
   description: "Natural Hematite Mineral Specimen",
 
-  price: "3500 FCFA",
+  price: "3000 FCFA",
 
   specifications: [
 "Iron Oxide Mineral",
@@ -465,6 +479,7 @@ const geologyProducts = [
   category: "Geology",
 
   name: "Magnetite",
+  badge: "in-stock",
 
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1CqLX5Yxh_Mr3jU1mSRtmzcwFANU5R3IQKw&s",
 
@@ -476,7 +491,7 @@ const geologyProducts = [
 
   description: "Natural Magnetite Mineral Specimen",
 
-  price: "3500 FCFA",
+  price: "3000 FCFA",
 
   specifications: [
  "Magnetic Iron Oxide Mineral",
@@ -497,6 +512,7 @@ const geologyProducts = [
   category: "Geology",
 
   name: " Limonite",
+  badge: "in-stock",
 
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsenLnKH-anZznHs8MyXKDI_JSlPXMsWsduw&s",
 
@@ -507,7 +523,7 @@ const geologyProducts = [
 
   description: "Natural Limonite Mineral Specimen",
 
-  price: "3500 FCFA",
+  price: "3000 FCFA",
 
   specifications: [
 "Hydrated Iron Oxide Mineral",
@@ -527,6 +543,7 @@ const geologyProducts = [
   category: "Geology",
 
   name: " Corundum ",
+  badge: "in-stock",
 
   image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Several_corundum_crystals.jpg/1280px-Several_corundum_crystals.jpg",
 
@@ -536,8 +553,7 @@ const geologyProducts = [
   ],
 
   description: "Natural Corundum Mineral Specimen",
-
-  price: "3500 FCFA",
+  price: "3000 FCFA",
 
   specifications: [
 "Aluminium Oxide Mineral",

@@ -8,6 +8,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "AC/DC Power supply",
+  badge: "in-stock",
 
   image: "https://www.voltaat.com/cdn/shop/files/voltaat-pwr-power-supplies-adapters-metal-case-ac-dc-power-supply-12v-3a-1132229993.jpg?v=1739904040",
 
@@ -19,7 +20,7 @@ const PhysicsProducts = [
 
   description: "Professional AC/DC Power Supply",
 
-  price: "45000 FCFA",
+  price: "35000 FCFA",
 
   specifications: [
 "AC And DC Output",
@@ -39,6 +40,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Ammeter",
+  badge: "in-stock",
 
   image: "https://www.experilab.co.za/wp-content/uploads/1970/01/Ammeter-Triple-Scale.png",
 
@@ -70,6 +72,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Analog multimeter",
+  badge: "in-stock",
 
   image: "https://img.lazcdn.com/g/p/c2d799cb8e2786bd3ba53244532d6afe.jpg_720x720q80.jpg",
 
@@ -101,6 +104,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Analogue top pan balance 1000 x 5g)",
+  badge: "in-stock",
 
   image: "https://static-01.daraz.lk/p/8a6c34c3155082ad2fe7b49ddbf336a1.jpg",
 
@@ -132,6 +136,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Ball and ring apparatus",
+  badge: "in-stock",
 
   image: "https://www.arborsci.com/cdn/shop/files/33-0630Ball_Ring2048x2048.jpg?v=1766070775&width=1920",
 
@@ -162,6 +167,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Bar magnet 4cm / 10cm long",
+  badge: "Best Seller",
 
   image: "https://0cebf39j.aerocdn.com/image-factory/4bcfe4c23a061a32d51fb515f201330f75526c2d~500x500:contain/images/products/xYQBP0HUv1fO925oZvN1StjpKkppuYxSb2zyuhJg.jpg",
 
@@ -193,6 +199,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Battery holder 1.5V",
+  badge: "in-stock",
 
   image: "https://www.voltaat.com/cdn/shop/products/voltaat-2x-aa-battery-holder-28884998783078.png?v=1653733226",
 
@@ -225,6 +232,7 @@ const PhysicsProducts = [
 
   name: "Battery 1.5V size AA",
 
+badge: "in-stock",
   image: "https://www.topserveltd.co.ke/_next/image?url=https%3A%2F%2Fapp.topserveltd.co.ke%2Fimage%2Fcatalog%2Fproducts%2FTOCEBAL%20AA%20BATTERY%201.5V_88fdb7.jpg&w=1200&q=75",
 
   images: [
@@ -255,6 +263,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Battery 9V",
+  badge: "in-stock",
 
   image: "https://5.imimg.com/data5/SELLER/Default/2024/8/440784966/UN/OC/RR/75336779/hi-watt-9-v-battery-cell-500x500.jpg",
 
@@ -285,6 +294,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Battery holder 9V",
+  badge: "HOT",
 
   image: "https://media.rs-online.com/R1756059-01.jpg",
 
@@ -316,6 +326,7 @@ const PhysicsProducts = [
 
   name: "Biconvex lens",
 
+  badge: "in-stock",
   image: "https://www.e-holmarc.com/wp-content/uploads/2016/07/Plano_Convex50c.jpg",
 
   images: [
@@ -346,6 +357,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Biconcave lens",
+  badge: "in-stock",
 
   image: "https://www.e-holmarc.com/wp-content/uploads/2016/07/Plano_Convex25c.jpg",
 
@@ -375,6 +387,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Bulb holder",
+  badge: "in-stock",
 
   image: "https://i.ebayimg.com/images/g/kwkAAOSwpAVkr2iH/s-l1200.jpg",
 
@@ -407,6 +420,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: " Bulb  1.5V",
+  badge: "in-stock",
 
   image: "https://filebroker-cdn.lazada.com.ph/kf/Sc0cffe9e33d24c2b82757a45f40832f6v.jpg",
 
@@ -438,6 +452,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Bread board",
+  badge: "in-stock",
 
   image: "https://cdn-shop.adafruit.com/970x728/64-06.jpg",
 
@@ -449,7 +464,7 @@ const PhysicsProducts = [
 
   description: "Reusable Circuit Bread Board",
 
-  price: "5000 FCFA",
+  price: "4000 FCFA",
 
   specifications: [
  "Solderless Circuit Design",
@@ -469,6 +484,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: " Capacitors of various types ",
+  badge: "in-stock",
 
   image: "https://5.imimg.com/data5/SELLER/Default/2022/10/JE/IM/NP/46163698/aluminium-electrolytic-capacitor-500x500.jpg",
 
@@ -500,6 +516,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: " Capillary tube glass ",
+  badge: "in-stock",
 
   image: "https://www.eiscolabs.com/cdn/shop/products/CH0748-copy_91574e03-47d4-439f-a364-5fe67f3038a2_1055x700.jpg?v=1571438892",
 
@@ -531,8 +548,9 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: " Cathode ray oscilloscope dual trace analogue + signal generator ",
+  badge: "New",
 
-  image: "https://www.twintex-china.com/wp-content/uploads/2025/03/TOS-2020CT-side-750x750-1.jpg",
+  image: "https://www.twintex.com.tw/comm/upimage/p-241231-07262.jpg",
 
   images: [
     "https://www.twintex.com.tw/comm/upimage/p-241231-07262.jpg",
@@ -561,8 +579,9 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Cathode ray oscilloscope with inbuilt signal generator dual channels digital simple ",
+  badge: "New",
 
-  image: "https://static1.industrybuying.com/products/testing-and-measuring-instruments/electronic-testing/cathode-ray-oscilloscopecro/TES.CAT.432953680_1747805516795.webp",
+  image: "https://www.circuitspecialists.com/blog/wp-content/uploads/2016/09/dso5202bm-0-e1643131253535-800x445.jpg",
 
   images: [
     "https://content.jdmagicbox.com/quickquotes/images_main/dual-channel-oscilloscope-model-a-803401445-9jcjbmda.png?impolicy=queryparam&im=Resize=(360,360),aspect=fit",
@@ -591,6 +610,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: " Circuit board / electromagnetic kit ",
+  badge: "in-stock",
 
   image: "https://ae-pic-a1.aliexpress-media.com/kf/Sb3676c20795f4a1a857776f4d149887aC.jpg?has_lang=1&ver=1",
 
@@ -622,6 +642,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Concave mirror ",
+  badge: "in-stock",
 
   image: "https://www.sciencefirst.com.au/media/catalog/product/cache/7800bb778a954cb4c97ef3c76a1a4610/C/o/ConcaveMirror_9.jpg",
 
@@ -653,6 +674,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Convex mirror",
+  badge: "in-stock",
 
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsK1VRJAwQj1MAEblgujNs_oDwwZVxjin9tA&s",
 
@@ -684,6 +706,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Connecting lead",
+  badge: "in-stock",
 
   image: "https://i.ebayimg.com/images/g/kL4AAOSwzdJm1l6d/s-l1200.jpg",
 
@@ -715,6 +738,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Connecting cable",
+  badge: "in-stock",
 
   image: "https://m.media-amazon.com/images/I/61HxxpXsAYL._AC_UF894,1000_QL80_.jpg",
 
@@ -747,6 +771,7 @@ const PhysicsProducts = [
 
   name: " Crocodile clip ",
 
+  badge: "in-stock",
   image: "https://5.imimg.com/data5/SELLER/PDFImage/2023/11/357610544/ZR/VR/DJ/378705/crocodile-clip-cr-3.png",
 
   images: [
@@ -777,6 +802,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: " Constantine wire ",
+  badge: "in-stock",
 
   image: "https://2.imimg.com/data2/MB/SQ/MY-3276783/wx-constantan-wires.jpeg",
 
@@ -807,6 +833,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Copper calorimeter",
+  badge: "in-stock",
 
   image: "https://www.jlabexport.com/images/catalog/product/942005385copper-calorimeter.jpg",
 
@@ -842,6 +869,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Copper wire",
+  badge: "Best seller",
 
   image: "https://cdn11.bigcommerce.com/s-ryhfhsn/images/stencil/500x659/products/2024/11554/BCW-MD__37394.1774978368.jpg?c=2",
 
@@ -852,7 +880,7 @@ const PhysicsProducts = [
 
   description: "High Conductivity Copper Wire",
 
-  price: "6000 FCFA",
+  price: "5000 FCFA",
 
   specifications: [
 "Excellent Electrical Conductivity",
@@ -872,6 +900,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: " Digital multimeter  ",
+  badge: "HOT",
 
   image: "https://sc04.alicdn.com/kf/H7e0228296eaa417398bc7ff219842ad3M.jpg",
 
@@ -903,6 +932,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: " Diodes (solid state + Zener diodes)",
+  badge: "in-stock",
 
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvy890maFrovSpTSB9RA2QFw-f3eN3tqO6Cg&s",
 
@@ -934,6 +964,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Double beam balance",
+  badge: "in-stock",
 
   image: "https://www.labotronics.com/assets/products/LB-10DBB/17695043391.webp",
 
@@ -945,7 +976,7 @@ const PhysicsProducts = [
 
   description: "Precision Double Beam Balance",
 
-  price: "60000 FCFA",
+  price: "50000 FCFA",
 
   specifications: [
 "Accurate Mass Measurement",
@@ -965,6 +996,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Dynamic trolley",
+  badge: "in-stock",
 
   image: "https://medilabexports.com/wp-content/uploads/2020/10/Dynamic-Trolley-Wooden.jpeg",
 
@@ -976,7 +1008,7 @@ const PhysicsProducts = [
 
   description: "Laboratory Dynamic Trolley",
 
-  price: "20000 FCFA",
+  price: "15000 FCFA",
 
   specifications: [
 "Smooth Rolling Wheels",
@@ -996,6 +1028,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Elemctromagnet U form",
+  badge: "in-stock",
 
   image: "https://5.imimg.com/data5/SELLER/Default/2025/6/517380515/IM/TL/DX/3087223/petrol-engine-four-stroke-500x500.jpg",
 
@@ -1028,6 +1061,7 @@ const PhysicsProducts = [
 
   name: "Equilateral prism ",
 
+badge: "in-stock",
   image: "https://www.e-holmarc.com/wp-content/uploads/2015/12/Equilateral_Prism_50a.jpg",
 
   images: [
@@ -1058,8 +1092,9 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: " Galvanometer ",
+  badge: "in-stock",
 
-  image: "https://supertekedu.com/wp-content/uploads/2023/03/G-low.jpg",
+  image: "https://sc04.alicdn.com/kf/Heda5037f9e734dc3b39a40d83aefface5.jpg",
 
   images: [
     "https://5.imimg.com/data5/WF/GU/MY-38758641/laboratory-galvanometer-500x500.jpg",
@@ -1089,6 +1124,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "G-clamp 4’’",
+  badge: "in-stock",
 
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyNM_l0fE74OdpcFBmIRAlqIq-3F2-pk9NVw&s",
 
@@ -1120,6 +1156,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "G-clamp 6’’",
+  badge: "in-stock",
 
   image: "https://cdn.aws.toolstation.com/images/141020-UK/250/91896.jpg",
 
@@ -1151,8 +1188,9 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Gold leaf electroscope ",
+  badge: "in-stock",
 
-  image: "https://supertekedu.com/wp-content/uploads/2023/03/PH45255-1-low.jpg",
+  image: "https://labsarena.com/wp-content/uploads/2025/04/download-2.jpg",
 
   images: [
     "https://labsarena.com/wp-content/uploads/2025/04/download-2.jpg",
@@ -1182,6 +1220,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Helical spring",
+  badge: "in-stock",
 
   image: "https://image.made-in-china.com/2f0j00tWobNLyhMjcK/Competitive-Price-High-Quality-304-Stainless-Steel-Extension-Spring.webp",
 
@@ -1213,6 +1252,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Solenoid  ",
+  badge: "in-stock",
 
   image: "https://m.media-amazon.com/images/I/618L4KQE4hL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_QL100_.jpg",
 
@@ -1244,6 +1284,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Iron fillings 500g",
+  badge: "in-stock",
 
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvuIvLl64zZuCxhkdVTw01xddp4Url6yVQUw&s",
 
@@ -1255,7 +1296,7 @@ const PhysicsProducts = [
 
   description: "High Purity Iron Filings",
 
-  price: "10000 FCFA",
+  price: "8000 FCFA",
 
   specifications: [
 "500g Metal Quantity",
@@ -1275,6 +1316,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: " Lens holder",
+  badge: "in-stock",
 
   image: "https://5.imimg.com/data5/SELLER/Default/2024/4/412139186/OI/IM/CJ/157277296/plastic-lens-holder.jpg",
 
@@ -1306,6 +1348,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: " Light dependence resistor LDR",
+  badge: "in-stock",
 
   image: "https://www.microscale.net/cdn/shop/files/LDR-destaque-scaled_2048x_23e7abea-b96f-4cfe-ad05-597e6a01c362.jpg?v=1725657624",
 
@@ -1337,6 +1380,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: " Light emitting diodes LED",
+  badge: "in-stock",
 
   image: "https://www.smcomponents.com.au/cdn/shop/products/57_d0ec9234-8b7e-425c-a2c5-0fbebc85c7f4.jpg?v=1675951848&width=1445",
 
@@ -1368,6 +1412,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: " Metre rule flexible  ",
+  badge: "in-stock",
 
   image: "https://artdiscount.co.uk/cdn/shop/files/Wooden_Rule_grande.jpg?v=1699957886",
 
@@ -1399,6 +1444,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: " Wooden bar size of metre rule",
+  badge: "in-stock",
 
   image: "https://www.paperworm.com.sg/cdn/shop/products/WoodenRuler1m_grande.jpg?v=1601611781",
 
@@ -1430,6 +1476,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Grooved wooden bar 150cm long ",
+  badge: "in-stock",
 
   image: "https://images.cdn.europe-west1.gcp.commercetools.com/76595976-a4cd-4992-b215-58c6bb2222e5/model_vlonderplank_g-9UMNLtQR-zoom.jpg",
 
@@ -1439,7 +1486,7 @@ const PhysicsProducts = [
 
   description: "Grooved Wooden Laboratory Bar",
 
-  price: "2000 FCFA",
+  price: "1500 FCFA",
 
   specifications: [
 "150cm Total Length",
@@ -1459,6 +1506,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: " Micrometer screw guage ",
+  badge: "Best Seller",
 
   image: "https://m.media-amazon.com/images/I/41kFwgbOERL._AC_UF1000,1000_QL80_.jpg",
 
@@ -1490,6 +1538,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: " Milliammeter ",
+  badge: "in-stock",
 
   image: "https://s.alicdn.com/@sc04/kf/H9de3125b9b5a438eb14c6a4d566d7623w/Amperemeter-Lab-Teaching-Instrument-Educational-Equipment-Ammeter-AC-Milliammeter.png",
 
@@ -1521,6 +1570,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Millivoltmeter",
+  badge: "in-stock",
 
   image: "https://m.media-amazon.com/images/I/614exUNF29L.jpg",
 
@@ -1551,6 +1601,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Nichrome wire ",
+  badge: "in-stock",
 
   image: "https://bmseducation.com/wp-content/uploads/2024/05/EEWN3112.jpg",
 
@@ -1581,6 +1632,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: " Optical pins pack of 100 ",
+  badge: "in-stock",
 
   image: "https://cdn.images.fecom-media.com/FE00009494/images/HE1536467_160619-PHE-LEQ-P01.jpg?w=3840&q=75",
 
@@ -1611,6 +1663,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Overflow can plastic",
+  badge: "in-stock",
 
   image: "https://www.indianlabsuppliers.com/front_assets/images/catalog/product/thumb/775142974OverflowVessel(EurekaCan)Plastic.jpg",
 
@@ -1642,6 +1695,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: " Pendulum bob",
+  badge: "Best Seller",
 
   image: "https://www.eiscolabs.com/cdn/shop/products/PH0306F_1181x700.jpg?v=1571438832",
 
@@ -1677,6 +1731,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Plain mirror",
+  badge: "in-stock",
 
   image: "https://5.imimg.com/data5/SELLER/Default/2023/7/323034582/JB/VR/HT/3345915/mirror-glass-500x500.jpg",
 
@@ -1708,6 +1763,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Plotting compass",
+  badge: "in-stock",
 
   image: "https://www.westlab.com.au/media/catalog/product/0/8/080316-0001-img-09.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
 
@@ -1739,6 +1795,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: " Pulley single ",
+  badge: "in-stock",
 
   image: "https://sc04.alicdn.com/kf/H44e51733d75940dba743a7d866b81940j.jpg",
 
@@ -1770,6 +1827,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: " Pulley 2 ways  ",
+  badge: "in-stock",
 
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuYMir0Ycp4oykwC93XGwTCNBiLd1s_NegfQ&s",
 
@@ -1801,6 +1859,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Pulley 3 ways",
+  badge: "in-stock",
 
   image: "https://why.gr/wp-content/uploads/2019/07/664603.jpg",
 
@@ -1832,6 +1891,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Rectangular glass block",
+  badge: "in-stock",
 
   image: "https://5.imimg.com/data5/SELLER/Default/2021/6/SF/QG/EF/24085951/rectangular-glass-block.jpeg",
 
@@ -1843,7 +1903,7 @@ const PhysicsProducts = [
 
   description: "Optical Rectangular Glass Block",
 
-  price: "3000 FCFA",
+  price: "2500 FCFA",
 
   specifications: [
 "Clear Optical Glass",
@@ -1863,6 +1923,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Resistors of  various types",
+  badge: "in-stock",
 
   image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Electronic-Axial-Lead-Resistors-Array.png/960px-Electronic-Axial-Lead-Resistors-Array.png",
 
@@ -1894,6 +1955,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Resonance tube glass",
+  badge: "in-stock",
 
   image: "https://phys-office.phys.washington.edu/lectdemo/DetailPages/3/D/Vertical_Resonance_Tube_(3D30.10)/Vertical_Resonance_Tube_(3D30.10).jpg",
 
@@ -1923,6 +1985,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Rheostat",
+  badge: "in-stock",
 
   image: "https://cdn.images.fecom-media.com/FE00001966/images/Rheostat_Extended_Range__03A_1200_Ohm_8NAthgDJ_E.jpg?w=3840&q=75",
 
@@ -1955,7 +2018,7 @@ const PhysicsProducts = [
 
   name: "Ripple tank",
 
-  image: "https://www.shivsons.com/wp-content/uploads/IMG_3210-low.jpg",
+  image: "https://assets.fishersci.com/TFS-Assets/CCG/product-images/13122870_A.JPG-650.jpg",
 
   images: [
     "https://www.shivsons.com/wp-content/uploads/IMG_3210-low.jpg",
@@ -1985,7 +2048,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Semicircular glass block",
-
+  badge: "in-stock",
   image: "https://www.american-scientific.com/wp-content/uploads/2022/09/335301.jpg",
 
   images: [
@@ -2016,6 +2079,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Slinky coil",
+  badge: "in-stock",
 
   image: "https://studentsupply.com/cdn/shop/products/ScreenShot2021-09-03at3.45.51PM_1024x1024@2x.png?v=1630709768",
 
@@ -2047,6 +2111,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Slotted masses 5g, set of 5",
+  badge: "in-stock",
 
   image: "https://cdn11.bigcommerce.com/s-n3oe3ifhun/images/stencil/900x600/products/1613/2967/P-578200_50g__06240.1698987373.png?c=1",
 
@@ -2079,6 +2144,7 @@ const PhysicsProducts = [
 
   name: " Slotted masses 10g, set of 5",
 
+badge: "HOT",
   image: "https://www.3bscientific.com/thumblibrary/U30033/U30033_01_1200_1200_Slotted-Mass-Set-with-Hanger-5-x-50-g.jpg",
 
   images: [
@@ -2109,6 +2175,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Slotted masses 20g, set of 5",
+  badge: "Best Seller",
 
   image: "https://allschoolabs.com/wp-content/uploads/2023/09/PHMSSS05_06fe3b39-451c-4741-a8d4-24a39d77ebd7_700x663.jpg",
 
@@ -2140,6 +2207,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Slotted masses 50g, set of 5",
+  badge: "HOT",
 
   image: "https://m.media-amazon.com/images/I/614Iprk+jwL.jpg",
 
@@ -2171,6 +2239,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Slotted masses 100g, set of 5",
+  badge: "HOT",
 
   image: "https://static.rapidonline.com/catalogueimages/product/52/34/s52-3408p01wj.jpg",
 
@@ -2202,6 +2271,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: " Soldering iron  ",
+  badge: "in-stock",
 
   image: "https://tolsen.com.ph/cdn/shop/files/38065.jpg?v=1740798355",
 
@@ -2233,6 +2303,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: " Spring balance / Newton spring ",
+  badge: "Best Seller",
 
   image: "https://aimscientific.com.au/bmz_cache/b/balance-spring-cylindrical-1000g-10n-ge1475-01jpg.image.687x550.jpg",
 
@@ -2244,7 +2315,7 @@ const PhysicsProducts = [
 
   description: "Precision Spring Balance",
 
-  price: "3000 FCFA",
+  price: "2500 FCFA",
 
   specifications: [
 "Accurate Force Measurement",
@@ -2264,6 +2335,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Thermistor",
+  badge: "in-stock",
 
   image: "https://makerselectronics.com/wp-content/uploads/2020/02/HTB1K_UWgxTI8KJjSspi762M4FXal-750x750.jpg",
 
@@ -2295,6 +2367,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Thermometer -10 x 110 x 1°c divisions",
+  badge: "Best Seller",
 
   image: "https://www.scharlab.com/assets/media/articulos/de8c65f7-e774-4fd1-aa24-5809b95ec87b/005120T110.webp",
 
@@ -2357,6 +2430,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Transistor (n-p-n/p-n-p)",
+  badge: "in-stock",
 
   image: "https://ae01.alicdn.com/kf/Hc17c4e5bf8414a49bce603a6e2edb763V.jpg",
 
@@ -2388,6 +2462,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: " Triple beam balance  ",
+  badge: "in-stock",
 
   image: "https://m.media-amazon.com/images/I/61ttFgmxwAL.jpg",
 
@@ -2419,6 +2494,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Tunning fork set of 8",
+  badge: "in-stock",
 
   image: "https://www.carolina.com/images/product/medium/754212.jpg",
 
@@ -2450,6 +2526,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "u-shaped magnet",
+  badge: "in-stock",
 
   image: "https://tibaquipafrica.com/wp-content/uploads/2024/05/Lab-magnet-U-shaped.png",
 
@@ -2481,6 +2558,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Vernier caliper metal / plastic",
+  badge: "Best Seller",
 
   image: "https://i.ebayimg.com/images/g/4QcAAOSwQhpg4yz9/s-l400.jpg",
 
@@ -2490,9 +2568,9 @@ const PhysicsProducts = [
     "https://m.media-amazon.com/images/I/51-HRbtTXBS._AC_UF350,350_QL80_.jpg"
   ],
 
-  description: "",
+  description: "Precise instrument used to measure linear dimensions",
 
-  price: "",
+  price: "4000 FCFA",
 
   specifications: [
 "Accurate Linear Measurement",
@@ -2512,6 +2590,7 @@ const PhysicsProducts = [
   category: "Physics",
 
   name: "Voltmeter",
+  badge: "in-stock",
 
   image: "https://www.carolina.com/images/product/medium/757264_phy.jpg",
 

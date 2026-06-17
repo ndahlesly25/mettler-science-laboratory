@@ -8,6 +8,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Monocular microscope  AC/DC ",
+  badge: "in-stock",
 
   image: "https://5.imimg.com/data5/SELLER/Default/2026/1/577589923/JT/JZ/YS/71286264/pathological-monocular-microscope-mm-11-500x500.png",
 
@@ -19,7 +20,7 @@ const biologyProducts = [
 
   description: "Professional AC/DC Microscope",
 
-  price: "110000 FCFA",
+  price: "100000 FCFA",
 
   specifications: [
 "Monocular Viewing Head",
@@ -39,6 +40,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Monocular microscope simple solar",
+  badge: "Best Seller",
 
   image: "https://image.made-in-china.com/365f3j00ozvQMijqMmcZ/Wincom-Cheap-Monocular-Microscope-Xsp-3A1-with-High-Quality.webp",
 
@@ -70,6 +72,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Binocular microscope",
+  badge: "HOT",
 
   image: "https://5.imimg.com/data5/SELLER/Default/2023/8/335707759/WK/BH/EN/42290621/binocular-microscope.jpg",
 
@@ -101,6 +104,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Blank slide, pack of 72",
+  badge: "in-stock",
 
   image: "https://m.media-amazon.com/images/I/51jzMu6J8BL._AC_UF1000,1000_QL80_.jpg",
 
@@ -112,7 +116,7 @@ const biologyProducts = [
 
   description: "Premium Microscope Blank Slides",
 
-  price: "2000 FCFA",
+  price: "1500 FCFA",
 
   specifications: [
 "Pack Of 72 Slides",
@@ -132,6 +136,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Slide cover, pack of 100",
+  badge: "in-stock",
 
   image: "https://m.media-amazon.com/images/I/61wWMNJCcbL._AC_UF1000,1000_QL80_.jpg",
 
@@ -163,6 +168,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Hand lens",
+  badge: "in-stock",
 
   image: "https://m.media-amazon.com/images/I/51jMkvI2ZQL._AC_UF894,1000_QL80_.jpg",
 
@@ -194,6 +200,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Petri dish plastic",
+  badge: "in-stock",
 
   image: "https://als-static-assets.s3.ap-south-1.amazonaws.com/wp-content/uploads/2025/10/petri-dish-1.jpg",
 
@@ -226,6 +233,7 @@ const biologyProducts = [
 
   name: "Plastic mortar and pestle ",
 
+  badge: "Best seller", 
   image: "https://www.chopboku.com/public/uploads/all/hHJ42ZA28YX8GWcXbKJvV0gdlvgoAavQpuzC6mtt.jpg",
 
   images: [
@@ -235,7 +243,7 @@ const biologyProducts = [
 
   description: "Durable Plastic Mortar Set",
 
-  price: "2500 FCFA",
+  price: "2000 FCFA",
 
   specifications: [
 "Chemical Resistant Plastic",
@@ -255,8 +263,9 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Dissecting set",
+  badge: "HOT",
 
-  image: "https://www.shivsons.com/wp-content/uploads/BG10912-7-1.jpg",
+  image: "https://m.media-amazon.com/images/I/816-hsaI-4L._SL1000_.jpg",
 
   images: [
     "https://static-01.daraz.lk/p/9fabdd0f26c7f47a469049c83e33bab7.jpg",
@@ -286,6 +295,8 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Filter paper",
+  badge: "in-stock",
+
 
   image: "https://labbuddy.co.za/cdn/shop/products/Whatman-Filter-paper-Grade-1-RLS.jpg?v=1671615865",
 
@@ -317,6 +328,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Forceps",
+  badge: "in-stock",
 
   image: "https://m.media-amazon.com/images/I/2124WpJnYjL.jpg",
 
@@ -348,6 +360,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Human skeleton model",
+  badge: "in-stock",
 
   image: "https://www.science2education.co.uk/image/full/AMCH1002AS",
 
@@ -379,6 +392,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Water bath digital",
+  badge: "in-stock",
 
   image: "https://alphasurgicals.co.ke/wp-content/uploads/2024/02/water-bath-12-l.png",
 
@@ -390,7 +404,7 @@ const biologyProducts = [
 
   description: "Digital Laboratory Water Bath",
 
-  price: "150000 FCFA",
+  price: "125000 FCFA",
 
   specifications: [
 "Digital Temperature Control",
@@ -410,6 +424,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Male/Female torso",
+  badge: "New",
 
   image: "https://5.imimg.com/data5/SELLER/Default/2023/4/298588114/NJ/KT/XA/66996778/unisex-torso-23-parts.jpg",
 
@@ -421,7 +436,7 @@ const biologyProducts = [
 
   description: "23-Part Human Torso Model",
 
-  price: "200000",
+  price: "150000",
 
   specifications: [
  "23 Removable Body Parts",
@@ -441,6 +456,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Biology wall chart",
+  badge: "in-stock",
 
   image: "https://www.123publishinghouse.com/cdn/shop/files/Website-01_8135fc9f-13ab-4d09-b74b-a77e3ca445b0.jpg?v=1718112467&width=2048",
 
@@ -472,6 +488,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Millon’s reagent 500ml",
+  badge: "Best Seller",
 
   image: "https://g3chem.online/wp-content/uploads/2022/09/Millon_s_reagent-removebg-preview.png",
 
@@ -483,7 +500,7 @@ const biologyProducts = [
 
   description: "Analytical Grade Millon’s Reagent",
 
-  price: "15000 FCFA",
+  price: "10000 FCFA",
 
   specifications: [
 "500ml Chemical Volume",
@@ -503,6 +520,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Benedict’s reagent   500ml",
+  badge: "Best Seller",
 
   image: "https://d2j6dbq0eux0bg.cloudfront.net/images/81866506/3379653448.jpg",
 
@@ -534,6 +552,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Fehling’s solution A, 500ml",
+  badge: "Best Seller",
 
   image: "https://manischemicals.com/10755-large_default/fehling-s-a-reagent.jpg",
 
@@ -565,6 +584,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: " Fehling’s solution B, 500ml",
+  badge: "Best Seller",
 
   image: "https://5.imimg.com/data5/SELLER/Default/2025/7/531086232/TW/CK/VW/6741130/whatsapp-image-2025-07-08-at-12-08-12-pm-500x500.jpeg",
 
@@ -596,6 +616,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Sudan III  , 25g",
+  badge: "in-stock",
 
   image: "https://www.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/421/673/b711362f-3ae4-4131-99fc-4e07ab9e0434/640/b711362f-3ae4-4131-99fc-4e07ab9e0434.jpg",
 
@@ -607,7 +628,7 @@ const biologyProducts = [
 
   description: "85% Pure Sudan III Dye",
 
-  price: "6000 FCFA",
+  price: "5000 FCFA",
 
   specifications: [
  "25g Chemical Quantity",
@@ -627,6 +648,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: " Sudan III solution 500ml",
+  badge: "in-stock",
 
   image: "https://www.carolina.com/images/product/large/892963.jpg",
 
@@ -658,6 +680,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Methylene blue  25g",
+  badge: "in-stock",
 
   image: "https://5.imimg.com/data5/SELLER/Default/2025/5/512690443/XQ/IB/FA/15150501/methylene-blue-stain-powder-25g-glass-bottle.jpg",
 
@@ -670,7 +693,7 @@ const biologyProducts = [
 
   description: "82% Pure Methylene Blue",
 
-  price: "6000 FCFA",
+  price: "5000 FCFA",
 
   specifications: [
 "25g Chemical Quantity",
@@ -690,6 +713,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Methylene blue solution  500ml",
+  badge: "in-stock",
 
   image: "https://www.vionbiosciences.com/wp-content/uploads/2025/03/VN-MM0440-500ML.jpg",
 
@@ -721,6 +745,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: " Formalin 40%,  1L",
+  badge: "in-stock",
 
   image: "https://www.kubus-sa.com/wp-content/uploads/2020/09/2559-001-formaldehido-kubus.png",
 
@@ -752,6 +777,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Sucrose AR 500g",
+  badge: "in-stock",
 
   image: "https://down-ph.img.susercontent.com/file/sg-11134201-22120-15058vmmnykvf0",
 
@@ -763,7 +789,7 @@ const biologyProducts = [
 
   description: "99.8% Pure Sucrose AR",
 
-  price: "6000 FCFA",
+  price: "5000 FCFA",
 
   specifications: [
  "500g Chemical Quantity",
@@ -783,6 +809,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Diastase 25g",
+  badge: "New",
 
   image: "https://amarischemicalsolutions.com/wp-content/uploads/2025/07/Diastase-Enzyme-Powder-Extra-Pure-Amaris-Chemicals.png",
 
@@ -794,7 +821,7 @@ const biologyProducts = [
 
   description: "High Activity Diastase Enzyme",
 
-  price: "15000 FCFA",
+  price: "10000 FCFA",
 
   specifications: [
 "25g Enzyme Quantity",
@@ -814,6 +841,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Iodine solution  500ml",
+  badge: "in-stock",
 
   image: "https://4.imimg.com/data4/XV/LJ/MY-21381121/weak-lodine-solution-i-p.jpg",
 
@@ -844,6 +872,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Hydrogen peroxide 500ml",
+  badge: "HOT",
 
   image: "https://carolinachemical.com/wp-content/uploads/2024/06/hydrogen-peroxide.jpg",
 
@@ -875,6 +904,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Cobalt chloride  test paper  ",
+  badge: "New",
 
   image: "https://m.media-amazon.com/images/I/41kKES9oAAL._SS1000_.jpg",
 
@@ -906,6 +936,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Fucus vegetative bunch",
+  badge: "in-stock",
 
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyvVsbGsMluUas11-yEOY5iPVwtIoW2snwyQ&s",
 
@@ -917,7 +948,7 @@ const biologyProducts = [
 
   description: "Preserved Fucus Vegetative Specimen",
 
-  price: "2000 FCFA",
+  price: "1500 FCFA",
 
   specifications: [
 "Prepared Botanical Specimen",
@@ -938,6 +969,7 @@ const biologyProducts = [
 
   name: "jelly fish",
 
+  badge: "in-stock",
   image: "https://www.carolina.com/images/product/detail/224192.jpg",
 
   images: [
@@ -968,6 +1000,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Sea anemone",
+  badge: "in-stock",
 
   image: "https://www.carolina.com/images/product/large/224228.jpg",
 
@@ -999,6 +1032,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Liver fluke",
+  badge: "in-stock",
 
   image: "https://5.imimg.com/data5/SELLER/Default/2025/6/521784763/ER/ZL/SP/150111587/liver-fluke-specimen-jar.jpeg",
 
@@ -1009,7 +1043,7 @@ const biologyProducts = [
 
   description: "Preserved Liver Fluke Specimen",
 
-  price: "1500 FCFA",
+  price: "2500 FCFA",
 
   specifications: [
 "Prepared Zoology Specimen",
@@ -1029,6 +1063,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Ascaris",
+  badge: "in-stock",
 
   image: "https://m.media-amazon.com/images/I/61VtOCmT5YL._AC_UF1000,1000_QL80_.jpg",
 
@@ -1059,6 +1094,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: " Nereis",
+  badge: "in-stock",
 
   image: "https://inverts.wallawalla.edu/Annelida/Nereidae/Nereis_brandti2sDLC2005.jpg",
 
@@ -1089,6 +1125,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Crayfish",
+  badge: "in-stock",
 
   image: "https://tailsandscales.ca/cdn/shop/files/534031E5-C357-4969-853B-7A6542B4C693.jpg?v=1705005271",
 
@@ -1119,6 +1156,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Prawn",
+  badge: "in-stock",
 
   image: "https://labtechcorporation.com/cdn/shop/files/IMG20241118114631.jpg?v=1732168732&width=1445",
 
@@ -1129,7 +1167,7 @@ const biologyProducts = [
 
   description: "Preserved Prawn Specimen",
 
-  price: "500 FCFA",
+  price: "1000 FCFA",
 
   specifications: [
  "Prepared Zoology Specimen",
@@ -1149,6 +1187,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Shrimp",
+  badge: "in-stock",
 
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTyZQJ48QyYSLxlYedhfHVHN9tWyqztOyzsQ&s",
 
@@ -1180,6 +1219,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Tarantula",
+  badge: "in-stock",
 
   image: "https://m.media-amazon.com/images/I/91CQkM8Tr+L._AC_UF1000,1000_QL80_.jpg",
 
@@ -1211,6 +1251,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Clam",
+  badge: "in-stock",
 
   image: "https://www.workshopplus.com/cdn/shop/products/LS01083-main-1200Wx1200H_1_1200x1200.jpg?v=1750696483",
 
@@ -1241,6 +1282,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: " Squid",
+  badge: "in-stock",
 
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6V_4LqHYXfEaTOufwX83jj0AKooeN8cXbrg&s",
 
@@ -1272,6 +1314,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: " Starfish  ",
+  badge: "in-stock",
 
   image: "https://i.ebayimg.com/images/g/1L4AAOSwDgtfly4n/s-l1200.jpg",
 
@@ -1303,6 +1346,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: " Sea urchin ",
+  badge: "in-stock",
 
   image: "https://res.cloudinary.com/perkchops/image/upload/c_scale,w_350/v1600253147/ingredients/20208161345/fghg96yvcbfa2y4m76tk.png",
 
@@ -1334,6 +1378,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Tadpole",
+  badge: "in-stock",
 
   image: "https://green-acres.org/wp-content/uploads/2020/05/tadpole.png",
 
@@ -1363,6 +1408,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Millipede",
+  badge: "in-stock",
 
   image: "https://preview.redd.it/dead-or-molting-millipede-v0-gu4flztty2jf1.jpeg?auto=webp&s=d27f8fa0727e5f90045f7c33b553572a8b8badf4",
 
@@ -1394,6 +1440,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Centipede",
+  badge: "in-stock",
 
   image: "https://www.saxon.com.au/media/catalog/product/cache/077d9b3c6c55a2fe67e6991b5924254d/s/a/saxon_resin_preserved_insect_-_centipede_specimen-sku_310213_2.jpg",
 
@@ -1425,6 +1472,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Crab",
+  badge: "in-stock",
 
   image: "https://www.carolina.com/images/product/large/225220.jpg",
 
@@ -1456,6 +1504,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Bat",
+  badge: "in-stock",
 
   image: "https://s.alicdn.com/@sc04/kf/H8c21333da459495ba04f50ffdd9b97c98/Insect-in-Resin-Specimen-Bat-Halloween-Collection-Paperweights-Animal-Specimen-Bug-Preserved-in-Resin-for-Scientific-Education.png_300x300.jpg",
 
@@ -1485,6 +1534,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: " Dogfish  ",
+  badge: "in-stock",
 
   image: "https://www.carolina.com/images/product/large/226700.jpg",
 
@@ -1516,6 +1566,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: " Toad  ",
+  badge: "in-stock",
 
   image: "https://i.etsystatic.com/19209014/r/il/3d9c48/6277784004/il_340x270.6277784004_iwk3.jpg",
 
@@ -1547,6 +1598,7 @@ const biologyProducts = [
   category: "Biology",
 
   name: "Prepared slides",
+  badge: "in-stock",
 
   image: "https://cdn11.bigcommerce.com/s-ufhcuzfxw9/images/stencil/640w/products/11969/12770/MS-SETBIO__64683.1.jpg",
 
