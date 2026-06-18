@@ -41,8 +41,6 @@ import TopBar from "./components/TopBar/TopBar";
 
 import AboutPage from "./Pages/AboutPage";
 
-import WhyChoose from "./components/WhyChoose/WhyChoose";
-
 import CategoryShowcase from "./components/CategoryShowcase/CategoryShowcase";
 
 import FeaturedCategories from "./components/FeaturedCategories/FeaturedCategories";
@@ -117,8 +115,6 @@ function HomePage({
       {/* ABOUT */}
 
       <About />
-
-      <WhyChoose />
 
 
       <CategoryShowcase />
