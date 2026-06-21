@@ -13,6 +13,7 @@ import chemistryProducts from "../../data/chemistry";
 import biologyProducts from "../../data/biology";
 import physicsProducts from "../../data/physics";
 import geologyProducts from "../../data/geology";
+import medicalScienceProducts from "../../data/medicalScience";
 
 export default function ProductDetails({
   setCartItems,
@@ -29,6 +30,8 @@ export default function ProductDetails({
     ...physicsProducts,
 
     ...geologyProducts,
+
+    ...medicalScienceProducts,
 
   ];
 
