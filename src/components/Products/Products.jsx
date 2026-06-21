@@ -20,6 +20,7 @@ import chemistryProducts from "../../data/chemistry";
 import biologyProducts from "../../data/biology";
 import physicsProducts from "../../data/physics";
 import geologyProducts from "../../data/geology";
+import medicalScienceProducts from "../../data/medicalScience";
 
 /* ALL PRODUCTS */
 
@@ -32,6 +33,8 @@ const allProducts = [
   ...physicsProducts,
 
   ...geologyProducts,
+
+  ...medicalScienceProducts,
 
 ];
 
@@ -189,6 +192,8 @@ export default function Products({
     "physics",
 
     "geology",
+
+    "medical-science",
 
   ];
 
@@ -401,6 +406,10 @@ const matchesSearch =
             Geology
           </option>
 
+          <option value="Medical Science">
+            Medical Science
+          </option>
+
         </select>
 
         {/* SORT */}
@@ -500,6 +509,20 @@ const matchesSearch =
   >
     Geology
   </a>
+
+  <a
+  href="#medical-science"
+  className={
+    activeCategory ===
+    "medical-science"
+
+      ? "active"
+
+      : ""
+  }
+>
+  Medical Science
+</a>
 
 </div>
 
@@ -661,6 +684,50 @@ const matchesSearch =
         (product) =>
           product.category ===
           "Geology"
+      )
+      .map((product) => (
+
+        <ProductCard
+          key={product.id}
+          product={product}
+          openModal={
+            setSelectedProduct
+          }
+          addToCart={addToCart}
+        />
+
+      ))}
+
+  </div>
+
+</section>
+
+)}
+
+/* MEDICAL SCIENCE */
+
+{sortedProducts.some(
+  (product) =>
+    product.category ===
+    "Medical Science"
+) && (
+
+<section
+  className="category-section"
+  id="medical-science"
+>
+
+  <h2 className="category-title">
+    Medical Science Equipment
+  </h2>
+
+  <div className="products-grid">
+
+    {sortedProducts
+      .filter(
+        (product) =>
+          product.category ===
+          "Medical Science"
       )
       .map((product) => (
 

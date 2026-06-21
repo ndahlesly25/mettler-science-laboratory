@@ -4,7 +4,9 @@ import {
   FaFlask,
   FaMicroscope,
   FaAtom,
+  FaStethoscope,
 } from "react-icons/fa";
+
 
 import { GiCrystalGrowth } from "react-icons/gi";
 
@@ -34,6 +36,12 @@ export default function CategoryShowcase() {
       icon: <GiCrystalGrowth />,
       title: "Geology",
       link: "#geology",
+    },
+
+    {
+      icon: <FaStethoscope />,
+      title: "Medical Science",
+      link: "#medical-science",
     },
 
   ];

@@ -206,6 +206,7 @@ export default function Navbar({
                     ? "show"
                     : ""
                 }`}
+                onClick={closeMenus}
               >
 
                 <li>
@@ -259,6 +260,19 @@ export default function Navbar({
                   </a>
 
                 </li>
+
+                <li>
+
+                  <a
+                    href="#medical-science"
+                    onClick={closeMenus}
+                  >
+
+                    Medical Science
+
+                </a>
+
+              </li>
 
               </ul>
 
