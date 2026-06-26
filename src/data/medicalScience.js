@@ -1921,2041 +1921,2042 @@ const medicalScienceProducts = [
   {
     id: 5049,
 
-    slug: "",
+    slug: "Petri dishes  ",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Petri dish",
 
-    badge: "new",
+    badge: "In stock",
 
     image:
-      "",
+      "https://5.imimg.com/data5/SELLER/Default/2025/3/498022822/RN/UD/LC/6298587/disposable-petridishes-sterile-500x500.jpg",
 
     images: [
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPbthKX9I-QhrpvRZl7iua18K6ZtFrWV-5QSJaSa8g2g&s=10",
 
-      "",
+      "https://ksscientific.com/cdn/shop/products/d36927_375c120b7eaf4f0ba593264b2a0de0af_mv2_1400x.jpg?v=1661355483",
 
-      ""
+      "https://i.ebayimg.com/images/g/45QAAOSwSnNiKL1e/s-l400.jpg"
 
     ],
 
     description:
-      "",
+      "Microbial culture dish",
 
-    price: " FCFA",
+    price: "150 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "90 mm standard diameter",
+  "Glass or polystyrene material",
+  "Sterile or non-sterile options",
+  "Transparent with fitted lid"
     ],
 
     fullDescription:
-      "."
+      "Petri dishes are laboratory vessels designed for the cultivation, isolation, and observation of microorganisms. They are widely used in microbiology, pathology, and medical teaching laboratories. Manufactured from durable borosilicate glass or medical-grade polystyrene, they provide excellent clarity for observing microbial colonies while the fitted lid helps reduce contamination during incubation. They are suitable for agar media preparation, bacterial culture, fungal studies, and routine laboratory analysis."
   },
 
   {
     id: 5050,
 
-    slug: "",
+    slug: " Crystal violet",
 
     category: "Medical Science",
 
-    name: "",
+    name: " Crystal violet  1L",
 
     badge: "best-seller",
 
     image:
-      "",
+      "https://cdn11.bigcommerce.com/s-ckefyv33gd/images/stencil/608x608/products/7662/206583/groupPicture__75877.1726565379.png?c=1",
 
     images: [
 
-      "",
+      "https://cdn11.bigcommerce.com/s-ckefyv33gd/images/stencil/608x608/products/7662/206583/groupPicture__75877.1726565379.png?c=1",
 
-      "",
+      "https://pro-lab.co.uk/wp-content/uploads/2015/01/cv_pl7000_01_02_bck029_003_1.jpg",
 
-      ""
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6GXbRNFMkU1Wxnv_93fYFoE7TYcAdnL4E5gptCZCFCkT57Zwfr2joR6U&s=10"
 
     ],
 
     description:
-      "",
+      "Microbiology stain",
 
-    price: " FCFA",
+    price: "8000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Volume: 1 L",
+  "Primary Gram stain reagent",
+  "Laboratory-grade quality",
+  "Ready-to-use solution"
     ],
 
     fullDescription:
-      ""
+      "Crystal Violet 1L is a high-quality laboratory staining reagent used primarily as the primary stain in the Gram staining technique for differentiating bacteria. It is widely used in microbiology, histology, pathology, and medical teaching laboratories. The reagent provides excellent staining intensity, consistent performance, and reliable results, making it ideal for routine diagnostic procedures, research, and practical training."
   },
 
   {
     id: 5051,
 
-    slug: "",
+    slug: "Carbolfuchsin  1L",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Carbol fuchsin  1L",
 
     badge: "in-stock",
 
     image:
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc2FX9Z0UsIfcsMxIIM4tH81GB59CtzPh-nuWLZCqbFfAWxOsmKJdVqLI&s=10",
 
     images: [
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEq7445JVv83hJq2Fq_tgKicVaGOWKQoM_hrJElRieGIq56aXz1-ZmKr8&s=10",
 
-      "",
+      "https://www.histoline.com/sites/default/files/images_products/TB-StainHot.jpg",
 
-      ""
+      "https://m.media-amazon.com/images/I/710q7YaQDnL.jpg"
 
     ],
 
     description:
-      "",
+      "AFB staining dye",
 
-    price: " FCFA",
+    price: "10000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Volume: 1 L",
+  "Primary Ziehl-Neelsen stain",
+  "Laboratory-grade reagent",
+  "Ready-to-use solution"
     ],
 
     fullDescription:
-      ""
+      "Carbolfuchsin 1L is a laboratory-grade staining reagent used as the primary stain in the Ziehl-Neelsen and Kinyoun acid-fast staining methods. It is essential for the identification of acid-fast organisms such as Mycobacterium tuberculosis in clinical, research, and teaching laboratories. The ready-to-use formulation provides strong staining intensity, excellent reliability, and consistent performance for routine microbiological analysis."
   },
 
   {
     id: 5052,
 
-    slug: "",
+    slug: "Immersion Oil  50ml",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Immersion Oil  50ml",
 
     badge: "best-seller",
 
     image:
-      "",
+      "https://i.ebayimg.com/images/g/ScAAAOSwdfdh6CL2/s-l1200.png",
 
     images: [
 
-      "",
+      "https://i.ebayimg.com/images/g/BIoAAOSwkfFhaEdF/s-l400.jpg",
 
-      "",
+      "https://www.thevetstore.net/wp-content/uploads/2017/06/Immersion-Oil.jpg",
 
-      ""
+      "https://image.made-in-china.com/202f0j00FcHBPVidftqh/25ml-100ml-Laboratory-Microscope-Immersion-Oil.webp"
 
     ],
 
     description:
-      "",
+      "Microscope oil",
 
-    price: " FCFA",
+    price: "7000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Volume: 50 mL",
+  "High refractive index",
+  "Non-drying formula",
+  "Suitable for 100× objectives"
     ],
 
     fullDescription:
-      ""
+      "Immersion Oil 50 mL is a high-quality optical oil designed for use with 100× oil immersion microscope objectives. It minimizes light refraction between the specimen and objective lens, producing brighter, sharper, and higher-resolution images. The non-drying, low-fluorescence formula ensures consistent optical performance, making it ideal for microbiology, histology, hematology, pathology, and medical teaching laboratories."
   },
 
   {
     id: 5053,
 
-    slug: "",
+    slug: "Giemsa solution  1L",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Giemsa solution  1L",
 
     badge: "in-stock",
 
     image:
-      "",
+      "https://5.imimg.com/data5/SELLER/Default/2024/10/462469586/DB/VF/PR/74737876/img-9642-copy.jpeg",
 
     images: [
 
-      "",
+      "https://5.imimg.com/data5/KY/FW/MY-54610179/giemsa-stain-solution.jpg",
 
-      "",
+      "https://5.imimg.com/data5/SELLER/Default/2022/12/CD/PH/MN/4393898/giemsa-s-stain-solution.jpeg",
 
-      ""
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjL3KWmIvaYCVGlWkFra1OQphs94OanfT01N8qa6NI9tpcsq3P5WeE4Fc&s=10"
 
     ],
 
     description:
-      "",
+      "Blood stain",
 
-    price: " FCFA",
+    price: "10000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Volume: 1 L",
+  "Laboratory-grade reagent",
+  "Ready-to-use solution",
+  "For hematology and parasitology"
     ],
 
     fullDescription:
-      ""
+      "Giemsa Solution 1L is a high-quality laboratory staining reagent used for staining blood smears, bone marrow specimens, and microorganisms. It is widely employed in hematology, parasitology, cytology, and microbiology laboratories for the identification of blood cells, malaria parasites, and other hemoparasites. The ready-to-use formulation provides excellent staining quality, clear cellular differentiation, and consistent results, making it ideal for routine diagnostics, research, and medical teaching laboratories."
   },
 
   {
     id: 5054,
 
-    slug: "",
+    slug: "May Grunwald  1L",
 
     category: "Medical Science",
 
-    name: "",
+    name: "May Grunwald  1L",
 
-    badge: "new",
+    badge: "In stock",
 
     image:
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeYaXAaZsuhbmfKchDoQ99_ZF-a7385N511ZvLwTx_rg&s=10",
 
     images: [
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeYaXAaZsuhbmfKchDoQ99_ZF-a7385N511ZvLwTx_rg&s=10",
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiDZAxtIcDdqJFt0KhsIDGp0BEwv-v7ZDsEFhEICovGBoGpycaOR0mDRaW&s=10",
 
-      ""
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxkKvCBoqutArx4KFpkJbDHqYAh5zVZa1KGef3InmnLw&s"
 
     ],
 
     description:
-      "",
+      "Blood stain",
 
-    price: " FCFA",
+    price: "10000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Volume: 1 L",
+  "Laboratory-grade reagent",
+  "Ready-to-use solution",
+  "For hematology staining"
     ],
 
     fullDescription:
-      "."
+      "May-Grünwald Solution 1L is a high-quality laboratory staining reagent used for staining peripheral blood smears, bone marrow aspirates, and other cytological specimens. It is commonly used together with Giemsa stain in the May-Grünwald–Giemsa (MGG) staining technique to provide excellent differentiation of blood cells and cellular structures. The ready-to-use formulation delivers consistent staining quality, making it suitable for hematology, pathology, clinical diagnostics, research, and medical teaching laboratories."
   },
 
   {
     id: 5055,
 
-    slug: "",
+    slug: " Slide holder / rack",
 
     category: "Medical Science",
 
-    name: "",
+    name: " Slide holder / rack ",
 
-    badge: "best-seller",
+    badge: "In stock",
 
     image:
-      "",
+      "https://m.media-amazon.com/images/I/71uAwZT0vgL._AC_UF1000,1000_QL80_.jpg",
 
     images: [
 
-      "",
+      "https://m.media-amazon.com/images/I/71uAwZT0vgL._AC_UF1000,1000_QL80_.jpg",
 
-      "",
+      "https://sc04.alicdn.com/kf/Hbd14e91fab514c91ac071f7f7b00bad5h.jpg",
 
-      ""
+      "https://media.printables.com/media/prints/168667/images/1578156_84d0dfdf-b92f-40f8-9961-91951a93fce9/thumbs/inside/1280x960/jpg/large_display_p1140065_168667.webp"
 
     ],
 
     description:
-      "",
+      "Slide storage rack",
 
-    price: " FCFA",
+    price: "4000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Holds multiple microscope slides",
+  "Stainless steel or ABS construction",
+  "Corrosion-resistant design",
+  "Suitable for staining and drying"
     ],
 
     fullDescription:
-      ""
+      "A Slide Holder/Rack is a laboratory accessory designed to securely hold microscope slides during staining, washing, drying, and storage procedures. It accommodates multiple slides simultaneously, improving workflow efficiency while minimizing the risk of slide damage or contamination. Constructed from durable stainless steel or chemical-resistant ABS plastic, it is widely used in histology, cytology, microbiology, pathology, and medical teaching laboratories."
   },
 
    {
     id: 5056,
 
-    slug: "",
+    slug: "  Lugol’s iodine  1L",
 
     category: "Medical Science",
 
-    name: "",
+    name: "  Lugol’s iodine  1L ",
 
     badge: "in-stock",
 
     image:
-      "",
+      "https://i.ebayimg.com/images/g/17cAAOSw9HBl8Ekf/s-l1200.png",
 
     images: [
 
-      "",
+      "https://i.ebayimg.com/images/g/YKYAAOSwO0Jl8Eka/s-l1200.png",
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbNaJUnxAS1Hny8L2vYTMe--PFAcQXatc-QPowj77Rrel8wZ-lUpT4f56C&s=10",
 
-      ""
+      "https://i.ebayimg.com/images/g/17cAAOSw9HBl8Ekf/s-l1200.png"
 
     ],
 
     description:
-      "",
+      "Iodine stain",
 
-    price: " FCFA",
+    price: "20000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Volume: 1 L",
+  "Laboratory-grade reagent",
+  "Aqueous iodine solution",
+  "Used in Gram staining"
     ],
 
     fullDescription:
-      ""
+      "Lugol’s Iodine 1L is a laboratory reagent consisting of iodine and potassium iodide in aqueous solution. It is commonly used as a mordant in Gram staining to enhance the binding of crystal violet to bacterial cell walls, producing a clear differentiation between Gram-positive and Gram-negative organisms. It is also used in microbiology, histology, and educational laboratory demonstrations due to its reliable staining properties and stable formulation."
   },
 
   {
     id: 5057,
 
-    slug: "",
+    slug: "Methylene blue 1L",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Methylene blue 1L",
 
     badge: "best-seller",
 
     image:
-      "",
+      "https://m.media-amazon.com/images/I/819O8giQ5vL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_QL100_.jpg",
 
     images: [
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvFD3gZAX9ni26nVRj7I0CKZP73rrKWigWKW1zWKhewnlLTdfwtPArHFrh&s=10",
 
-      "",
+      "https://m.media-amazon.com/images/I/71ZACbAOHdL._AC_UF350,350_QL80_.jpg",
 
-      ""
+      "https://m.media-amazon.com/images/I/71crAYIm1BL._AC_UF1000,1000_QL80_.jpg"
 
     ],
 
     description:
-      "",
+      "Cell stain 0.1%",
 
-    price: " FCFA",
+    price: "10000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Volume: 1 L",
+  "Concentration: 0.1% w/v aqueous solution",
+  "Laboratory-grade reagent",
+  "Used for simple staining in microscopy"
     ],
 
     fullDescription:
-      ""
+      "Methylene Blue 1L is a vital laboratory staining reagent widely used in microbiology, histology, and medical diagnostics. It is commonly applied as a simple stain for observing cell morphology and as a contrast dye in microscopy. It can also be used in blood film preparation and as a redox indicator in biochemical experiments. The 0.1% aqueous formulation provides consistent staining intensity, clear visualization of cellular structures, and reliable performance in teaching and clinical laboratories."
   },
 
   {
     id: 5058,
 
-    slug: "",
+    slug: "Nigrosine  100ml",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Nigrosine  100ml ",
 
     badge: "in-stock",
 
     image:
-      "",
+      "https://m.media-amazon.com/images/I/71otFXn1I5L.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_QL100_.jpg",
 
     images: [
 
-      "",
+      "https://www.thelabstockroom.com/cdn/shop/files/qstsdbq93zrddvrwxq5m.jpg?v=1776556840&width=1946",
 
-      "",
+      "https://www.ibuychemikals.com/s/69c973fbd0520f3f14fd87f0/69f195b8afca7b9f32f5b9fb/v_0738b.jpg",
 
-      ""
+      "https://cdn11.bigcommerce.com/s-7zis6l3vkk/images/stencil/1280x1280/products/4764/4905/15405-0029__23785__88868.1737048474.png?c=1"
 
     ],
 
     description:
-      "",
+      "Negative stain dye",
 
-    price: " FCFA",
+    price: "6000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Volume: 100 mL",
+  "Concentration: ~10% aqueous solution",
+  "Used for negative staining",
+  "Laboratory-grade reagent"
     ],
 
     fullDescription:
-      ""
+      "Nigrosine 100 mL is a laboratory staining reagent used for negative staining techniques in microbiology. It stains the background instead of the cells, allowing clear visualization of capsules and delicate bacterial structures without distortion. Commonly used in teaching and diagnostic laboratories, the ~10% aqueous solution provides strong contrast and reliable performance for observing unstained microorganisms under the microscope."
   },
 
   {
     id: 5059,
 
-    slug: "",
+    slug: "Blood grouping kit (anti A, B, D)",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Blood grouping kit (anti A, B, D)",
 
     badge: "new",
 
     image:
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhRKo-XPoHyxRTS4Wztg5MRi8sQfllUKYxcfD31rNqvC2otWk0i4OEJvY&s=10",
 
     images: [
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhRKo-XPoHyxRTS4Wztg5MRi8sQfllUKYxcfD31rNqvC2otWk0i4OEJvY&s=10",
 
-      "",
+      "https://in.microsidd.com/cdn/shop/files/Anti-Abd-kit-swemed.webp?v=1761567884&width=2048",
 
-      ""
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7JU2fma9teI6EUdQlg0QjdnEp6yCMW4L-0_Ajq-24SmJkPXB0tSqnZ7bT&s=10"
 
     ],
 
     description:
-      "",
+      "Blood typing kit",
 
-    price: " FCFA",
+    price: "15000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Contains Anti-A, Anti-B, Anti-D sera",
+  "Typical concentration: monoclonal antibodies (ready-to-use)",
+  "Used for ABO and Rh blood grouping",
+  "Storage: 2–8°C refrigerated"
     ],
 
     fullDescription:
-      "."
+      "The Blood Grouping Kit (Anti-A, Anti-B, Anti-D) is a laboratory diagnostic set used for determining ABO blood groups and Rh factor. It contains standardized monoclonal antisera that react specifically with A, B, and D antigens on red blood cells, allowing accurate blood typing through agglutination reactions. It is widely used in medical school laboratories, hospitals, and blood banks for teaching, screening, and transfusion compatibility testing."
   },
 
   {
     id: 5060,
 
-    slug: "",
+    slug: "PT reagent",
 
     category: "Medical Science",
 
-    name: "",
+    name: "PT reagent",
 
-    badge: "best-seller",
+    badge: "In stock",
 
     image:
-      "",
+      "https://drj9qnbi4cppv.cloudfront.net/wp-content/uploads/20250320171652/RAYTO-PT-200-TEST-Prothrombin-Time-Reagent-lyophilizate_Reagents_4460_16.png",
 
     images: [
 
-      "",
+      "https://drj9qnbi4cppv.cloudfront.net/wp-content/uploads/20250320171652/RAYTO-PT-200-TEST-Prothrombin-Time-Reagent-lyophilizate_Reagents_4460_16.png",
 
-      "",
+      "https://drj9qnbi4cppv.cloudfront.net/wp-content/uploads/20250320171617/RAYTO-PT-200-TEST-Prothrombin-Time-Reagent-Liquid_Reagents_4462_16.png",
 
-      ""
+      "https://5.imimg.com/data5/SELLER/Default/2021/8/DD/YU/ND/10817612/pt-reagent-500x500.jpg"
 
     ],
 
     description:
-      "",
+      "Coagulation test",
 
-    price: " FCFA",
+    price: "30000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+     "PT reagent (Thromboplastin + Ca²⁺)",
+  "Typical concentration: standardized thromboplastin (ISI calibrated)",
+  "Used for prothrombin time testing",
+  "Storage: 2–8°C (do not freeze)"
     ],
 
     fullDescription:
-      ""
+      "Prothrombin Time (PT) reagent is a laboratory coagulation reagent used to assess the extrinsic pathway of blood clotting. It contains standardized thromboplastin and calcium ions to initiate clot formation when mixed with citrated plasma. PT is widely used in clinical diagnostics and medical school laboratories to monitor coagulation disorders, liver function, and anticoagulant therapy such as warfarin monitoring. Results are often expressed in seconds or INR for standardized interpretation."
   },
 
    {
     id: 5061,
 
-    slug: "",
+    slug: "APTT reagent (phospholipid + activator + Ca²⁺)",
 
     category: "Medical Science",
 
-    name: "",
+    name: "APTT reagent (phospholipid + activator + Ca²⁺)",
 
     badge: "in-stock",
 
     image:
-      "",
+      "https://g3chem.online/wp-content/uploads/2022/06/APTT_Reagent_with_Calcium_Chloride__COAG110A_-removebg-preview.png",
 
     images: [
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHyq7D2i46LF1be5PeUymRlMwC-NQvQXlWoL0L12FqECt5SBG2QNnZslfR&s=10",
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCyE_qZPNiizJyA6e-B16M8FTH4EpL9suysJoWD3iAsXMaFMMzLqpT4Jwj&s=10",
 
-      ""
+      "https://www.ozonebio.com/public//storage/media/products/file_201215014427.jpg"
 
     ],
 
     description:
-      "",
+      "Clotting test",
 
-    price: " FCFA",
+    price: "30000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "APTT reagent (phospholipid + activator + Ca²⁺)",
+  "Typical formulation: kaolin/silica activator system",
+  "Used for intrinsic pathway assessment",
+  "Storage: 2–8°C (refrigerated)"
     ],
 
     fullDescription:
-      ""
+      "Activated Partial Thromboplastin Time (APTT) reagent is a laboratory coagulation reagent used to evaluate the intrinsic and common pathways of blood clotting. It contains phospholipids, an activator (such as kaolin, silica, or ellagic acid), and calcium chloride to initiate and measure clot formation in citrated plasma. APTT is widely used in clinical diagnostics, hospitals, and medical teaching laboratories to investigate bleeding disorders and to monitor heparin anticoagulant therapy."
   },
 
   {
     id: 5062,
 
-    slug: "",
+    slug: "Eosin  100ml",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Eosin  100ml",
 
     badge: "best-seller",
 
     image:
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz6_HTEGjd-kTlUZGl5nwADODU0iL6mHujXwdE44VICjxE98lRaywbnkAy&s=10",
 
     images: [
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuev8OUh6At1unEXTxUDgWmT0BXLIMQh5X4MzrR54noeGL8BgBwT0ueM7U&s=10",
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnOgzhjDis5DUPjnTSqA_wJBPhZhoezYd0bSbBTnyBCOPyPgg3mg5d2uI&s=10",
 
-      ""
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD461CiOkWKfHWFLRpdAEZiUCnMDKIbnCrHsKfSjzlZbxq3HjDhzgBCds&s=10"
 
     ],
 
     description:
-      "",
+      "Cytology stain",
 
-    price: " FCFA",
+    price: "8000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Volume: 100 mL",
+  "Concentration: 2% aqueous eosin Y solution",
+  "Used as counterstain in H&E",
+  "Laboratory-grade reagent"
     ],
 
     fullDescription:
-      ""
+      "Eosin 100 mL is a laboratory staining reagent commonly used as a counterstain in histology and cytology, especially in Hematoxylin and Eosin (H&E) staining procedures. It stains cytoplasmic components and extracellular matrix in shades of pink to red, providing contrast against hematoxylin-stained nuclei. The 1% aqueous eosin Y solution is widely used in medical school laboratories, pathology, and research for clear tissue differentiation and microscopic examination."
   },
 
   {
     id: 5063,
 
-    slug: "",
+    slug: "Neubauer counting chamber",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Neubauer counting chamber  ",
 
     badge: "in-stock",
 
     image:
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI0tQWmZPnSkju558lqrogaa2z590n5F4DZtbKMFbjfeXocTOU3n8jMkpN&s=10",
 
     images: [
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-XcT69lE8kCccTswyAr0gosDCwethTh3hthnNNo7efPfR4YkQGLSRLi4&s=10",
 
-      "",
+      "https://5.imimg.com/data5/SELLER/Default/2022/12/QH/GI/LM/7444604/improved-neubauer-counting-chamber-500x500.jpg",
 
-      ""
+      "https://5.imimg.com/data5/IOS/Default/2024/4/409880975/QI/UQ/ZH/5725575/product-jpeg-500x500.png"
 
     ],
 
     description:
-      "",
+      "Cell counting slide",
 
     price: " FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Improved Neubauer grid chamber",
+  "Depth: 0.1 mm precision etched",
+  "Used with coverslip for cell counting",
+  "Suitable for hemocytometry (blood cells, sperm, etc.)"
     ],
 
     fullDescription:
-      ""
+      "The Neubauer Counting Chamber is a precision glass instrument used in hematology and microbiology laboratories for manual counting of cells such as red blood cells, white blood cells, sperm cells, and other particulate suspensions. It consists of a specially etched grid with a defined depth of 0.1 mm, allowing accurate calculation of cell concentration per volume. Widely used in medical schools and clinical laboratories, it is essential for teaching hemocytometry techniques and routine diagnostic cell counts."
   },
 
   {
     id: 5064,
 
-    slug: "",
+    slug: "EDTA test tubes",
 
     category: "Medical Science",
 
-    name: "",
+    name: "EDTA test tubes",
 
     badge: "new",
 
     image:
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf4XGK2w7BuAh8-2faIL_MMFBe1I70uLEHzJlcVVjNpw&s=10",
 
     images: [
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFyGP2iZzSE6HJ-Ahc2cQLtXVUF2tYU9_PZwDPpL08T3yzrahuGqv2q4fm&s=10",
 
-      "",
+      "https://bluttest.com.ar/wp-content/uploads/2020/05/Tubo-EDTA.jpg",
 
-      ""
+      "https://m.media-amazon.com/images/I/71LBihI23dL._AC_UF1000,1000_QL80_.jpg"
 
     ],
 
     description:
-      "",
+      "Blood collection tubes",
 
-    price: " FCFA",
+    price: "5000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+       "Contains EDTA K2 or K3 anticoagulant",
+  "Vacutainer or plain tube type (100–200 µL additive)",
+  "Used for hematology blood samples",
+  "Color code: lavender/purple cap"
     ],
 
     fullDescription:
-      "."
+      "EDTA test tubes are laboratory blood collection tubes containing ethylenediaminetetraacetic acid (EDTA) as an anticoagulant. They prevent blood clotting by chelating calcium ions, preserving cellular morphology for hematological analysis. These tubes are widely used in medical school laboratories and clinical diagnostics for full blood count (FBC), blood film preparation, and other hematology tests. They ensure accurate and stable results for cell-based investigations."
   },
 
   {
     id: 5065,
 
-    slug: "",
+    slug: "Citrate tubes",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Citrate tubes  ",
 
     badge: "best-seller",
 
     image:
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEE_EBtT60KyXOUYkoNvQM7r0qi3yr_DEPWW-AURA_OcEqBWqsd8s8L0o&s=10",
 
     images: [
 
-      "",
+      "https://assets.fishersci.com/TFS-Assets/CCG/product-images/F174727~p.eps-650.jpg",
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf-neVqGPqlFs1dfRj27ugLXA3wEXWGDP4hpVx6cd8oGU86up1iXQhN7k&s=10",
 
-      ""
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG5tJ3qUti9QhVO2w7ssl5FxhnMYimo7dMz7Mm4KV9D-9603xxVtg-J2ma&s=10"
 
     ],
 
     description:
-      "",
+      "Coagulation tubes",
 
-    price: " FCFA",
+    price: "8000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Contains 3.2% sodium citrate solution",
+  "9:1 blood-to-anticoagulant ratio",
+  "Used for coagulation tests (PT, APTT)",
+  "Light blue cap color code"
     ],
 
     fullDescription:
-      ""
+      "Citrate tubes are specialized blood collection tubes containing sodium citrate as an anticoagulant. They work by binding calcium ions in blood at a standardized ratio (9 parts blood to 1 part anticoagulant), preserving plasma for coagulation studies. These tubes are essential in clinical laboratories and medical school practicals for performing tests such as Prothrombin Time (PT), Activated Partial Thromboplastin Time (APTT), and other clotting factor analyses. They ensure accurate and reproducible coagulation results."
   },
 
    {
     id: 5066,
 
-    slug: "",
+    slug: "Dry tubes",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Dry tubes",
 
     badge: "in-stock",
 
     image:
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrUmWxkm4dbMuTaLCIbW7gXZ7tTZq_Ca0ftsGGE4LpU0DzxEntKsaevspK&s=10",
 
     images: [
 
-      "",
+      "https://safaribiomed.com/wp-content/uploads/2025/02/Capture-decran-2025-04-17-150441-300x300.png",
 
-      "",
+      "https://referencemedicosarl.com/wp-content/uploads/2026/04/tube-sec.png",
 
-      ""
+      "https://ales-cms.ales.ualberta.ca/afnsstores/wp-content/uploads/sites/6/2018/05/37_08762.jpg"
 
     ],
 
     description:
-      "",
+      "Plain blood tubes",
 
-    price: " FCFA",
+    price: "5000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "No anticoagulant additive",
+  "Used for serum separation",
+  "Red or plain cap color",
+  "Allow natural clotting of blood"
     ],
 
     fullDescription:
-      ""
+      "Dry tubes, also known as plain blood collection tubes, are used for collecting blood samples without any anticoagulant. The blood is allowed to clot naturally, after which serum is separated for biochemical and serological tests. These tubes are widely used in medical school laboratories and clinical diagnostics for tests such as liver function, kidney function, hormone assays, and serology. They provide clean serum samples free from clotting agents, ensuring accurate biochemical analysis."
   },
 
   {
     id: 5067,
 
-    slug: "",
+    slug: "Lancet ",
 
     category: "Medical Science",
 
-    name: "",
+    name: " Lancet ",
 
     badge: "best-seller",
 
     image:
-      "",
+      "https://m.media-amazon.com/images/I/41Rzwsb4wCL.jpg",
 
     images: [
 
-      "",
+      "https://m.media-amazon.com/images/I/41Rzwsb4wCL.jpg",
 
-      "",
+      "https://m.media-amazon.com/images/I/61J9aF1b3oL._AC_UF1000,1000_QL80_.jpg",
 
-      ""
+      "https://m.media-amazon.com/images/I/61kjiRIsX4L._AC_UF1000,1000_QL80_.jpg"
 
     ],
 
     description:
-      "",
+      "Finger-prick needle",
 
-    price: " FCFA",
+    price: "2500 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Sterile single-use device",
+  "Gauge: 21–28G (varies by model)",
+  "Used for capillary blood sampling",
+  "Disposable safety design"
     ],
 
     fullDescription:
-      ""
+      "A lancet is a small sterile medical device used to perform finger-prick punctures for capillary blood collection. It is commonly used in medical laboratories, diabetes testing, and basic hematology practicals in medical schools. The lancet produces a quick, minimally painful puncture to obtain small blood samples for tests such as glucose measurement, hemoglobin estimation, and blood grouping. Modern safety lancets are single-use and designed to reduce infection risk and improve patient comfort."
   },
 
   {
     id: 5068,
 
-    slug: "",
+    slug: "Vacutainer needles ",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Vacutainer needles",
 
     badge: "in-stock",
 
     image:
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5gvVyTeSB2E-KGIIQzI5B25g6ksLrt_RPzQ9eHAW102p1ktlc6tq1JZ8&s=10",
 
     images: [
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5gvVyTeSB2E-KGIIQzI5B25g6ksLrt_RPzQ9eHAW102p1ktlc6tq1JZ8&s=10",
 
-      "",
+      "https://m.media-amazon.com/images/I/41q8XQLHEoL._AC_UF350,350_QL80_.jpg",
 
-      ""
+      "https://www.novafit.ro/wp-content/uploads/2023/10/ACE-NIPRO.jpg"
 
     ],
 
     description:
-      "",
+      "Blood draw needles",
 
-    price: " FCFA",
+    price: "6500 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Double-ended sterile needle system",
+  "Gauge: 21G or 22G commonly used",
+  "Compatible with vacutainer holders",
+  "Single-use disposable design"
     ],
 
     fullDescription:
-      ""
+      "Vacutainer needles are sterile, double-ended needles used with vacuum blood collection systems for efficient and safe venous blood sampling. One end is used for venipuncture while the other pierces the vacuum tube stopper, allowing automatic blood flow into collection tubes. They are widely used in hospitals, diagnostic laboratories, and medical school training for phlebotomy practice and routine blood collection. Their design minimizes contamination risk and improves sample collection speed and accuracy."
   },
 
   {
     id: 5069,
 
-    slug: "",
+    slug: "ESR tubes  100",
 
     category: "Medical Science",
 
-    name: "",
+    name: "ESR tubes",
 
     badge: "new",
 
     image:
-      "",
+      "https://5.imimg.com/data5/SELLER/Default/2021/11/QG/RX/CP/47209497/new-product-500x500.jpeg",
 
     images: [
 
-      "",
+      "https://5.imimg.com/data5/SELLER/Default/2021/11/QG/RX/CP/47209497/new-product-500x500.jpeg",
 
-      "",
+      "https://m.media-amazon.com/images/I/81CRenL7QkL.jpg",
 
-      ""
+      "https://5.imimg.com/data5/IOS/Default/2025/1/484031871/UO/HV/FP/135735133/product-jpeg.png"
 
     ],
 
     description:
-      "",
+      "ESR test tubes",
 
-    price: " FCFA",
+    price: "25000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+ "Graduated Westergren type",
+  "Length: 200 mm standard",
+  "Used for erythrocyte sedimentation rate",
+  "Calibrated for 1-hour reading"
     ],
 
     fullDescription:
-      "."
+      "ESR (Erythrocyte Sedimentation Rate) tubes are specialized laboratory tubes used to measure the rate at which red blood cells settle in anticoagulated blood over one hour. The most commonly used system is the Westergren method, which utilizes standardized graduated tubes. ESR is a non-specific test used in clinical diagnostics and medical school laboratories to assess inflammation, infections, and some chronic diseases. The tubes are designed for accurate vertical sedimentation measurement and reliable results."
   },
 
   {
     id: 5070,
 
-    slug: "",
+    slug: "Electrophoresis machine",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Electrophoresis machine",
 
     badge: "best-seller",
 
     image:
-      "",
+      "https://halomedicals.com/wp-content/uploads/2020/08/DY-300-Electrophoresis-Machine-570x570.jpg",
 
     images: [
 
-      "",
+      "https://halomedicals.com/wp-content/uploads/2020/08/DY-300-Electrophoresis-Machine-570x570.jpg",
 
-      "",
+      "https://pictures-nigeria.jijistatic.net/116811867_NjIwLTcyNy1kNDk5ODliNjAz.webp",
 
-      ""
+      "https://iprymed.com/wp-content/uploads/2024/08/WhatsApp-Image-2024-08-20-at-10.55.40.jpeg"
 
     ],
 
     description:
-      "",
+      "DNA/protein separator",
 
-    price: " FCFA",
+    price: "400000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+     "Horizontal or vertical gel system",
+  "Voltage range: 50–500V adjustable",
+  "Power supply included",
+  "Used for DNA, RNA, protein separation"
     ],
 
     fullDescription:
-      ""
+      "An electrophoresis machine is a laboratory instrument used to separate biological molecules such as DNA, RNA, and proteins based on size and charge. It operates by applying an electric field across a gel matrix, causing charged molecules to migrate at different rates. This equipment is widely used in molecular biology, genetics, pathology, and medical school laboratories for diagnostic analysis, research, and teaching practicals. It typically includes a gel tank, combs, trays, and a regulated power supply for controlled separation."
   },
 
    {
     id: 5071,
 
-    slug: "",
+    slug: "Complete blood count analyzer with standard kit",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Complete blood count analyzer with standard kit",
 
-    badge: "in-stock",
+    badge: "Out of stock",
 
     image:
-      "",
+      "https://hacmedical.org/wp-content/uploads/2021/03/H9e5f2530d5404bb8b5fa1b786c27a22b4.jpg",
 
     images: [
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoQgN3S5i65_9Ap6h0yzisUMUHdZ3I0luq41qydGaWUUDGe0D60JcIWhNV&s=10",
 
-      "",
+      "https://hacmedical.org/wp-content/uploads/2021/03/H9e5f2530d5404bb8b5fa1b786c27a22b4.jpg",
 
-      ""
+      "https://s.alicdn.com/@sc04/kf/He0500760b3ed4deb901e7530e884d99bv/Brand-New-Auto-Hematology-Analyzer-Cbc-6000-3-diff-Hematology-Analyzer-Veterinary-or-Human-Blood-Mindray-for-Sale.jpg"
 
     ],
 
     description:
-      "",
+      "Blood cell analyzer",
 
-    price: " FCFA",
+    price: "2500000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Automated hematology analyzer system",
+  "Parameters: WBC, RBC, HGB, PLT, HCT",
+  "Throughput: ~20–60 samples/hour",
+  "Includes reagent kit (diluent, lyse, cleaner)"
     ],
 
     fullDescription:
-      ""
+      "A Complete Blood Count (CBC) analyzer is an automated hematology instrument used to measure and analyze blood components including white blood cells, red blood cells, hemoglobin, hematocrit, and platelets. It uses electrical impedance or optical methods to provide rapid and accurate blood profile results. The system is widely used in hospitals, diagnostic laboratories, and medical schools for clinical testing, research, and student training. The standard kit includes essential reagents such as diluent, lysing solution, and cleaning solutions to ensure accurate and consistent performance."
   },
 
   {
     id: 5072,
 
-    slug: "",
+    slug: "Oxidase discs",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Oxidase discs",
 
     badge: "best-seller",
 
     image:
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_fTDsWFfN693AK_tQOQ3ALetkKm9AqUF5KTEErHH7U29sCFPICYNnMcE&s=10",
 
     images: [
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_fTDsWFfN693AK_tQOQ3ALetkKm9AqUF5KTEErHH7U29sCFPICYNnMcE&s=10",
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS49so5xLlKRHVqobh6xfIowfbKJ0uX66gg8cXv0DAD2GJwTzedYOCGykp&s=10",
 
-      ""
+      "https://images.tcdn.com.br/img/img_prod/1203342/180_disco_de_oxidase_c_50_himedia_3753_1_4807ebfc41aced5a1f2821a6ed2d7143.jpg"
 
     ],
 
     description:
-      "",
+      "Oxidase test discs",
 
-    price: " FCFA",
+    price: "8000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Pack size: 50 discs",
+  "Contains oxidase reagent (tetramethyl-p-phenylenediamine)",
+  "Used for bacterial identification",
+  "Rapid color change indicator system"
     ],
 
     fullDescription:
-      ""
+      "Oxidase discs are microbiology reagent discs used to detect the presence of cytochrome c oxidase in bacteria. When a colony is applied to the disc, a rapid color change to dark purple/blue indicates a positive oxidase reaction. This test is essential in bacterial identification and differentiation, especially in clinical microbiology and medical school laboratories for distinguishing oxidase-positive organisms such as Pseudomonas species. The discs provide quick, reliable, and easy-to-use biochemical testing results."
   },
 
   {
     id: 5073,
 
-    slug: "",
+    slug: " Turk’s solution ",
 
     category: "Medical Science",
 
-    name: "",
+    name: " Turk’s solution  1L",
 
     badge: "in-stock",
 
     image:
-      "",
+      "https://emmonya.eu/wp-content/uploads/2021/03/TURK-SOLUTION-124124100-bottle-0.100L.jpg",
 
     images: [
 
-      "",
+      "https://pictures-nigeria.jijistatic.net/116199077_NjIwLTgyOC0yM2FiZmQ3ZDY1.webp",
 
-      "",
+      "https://m.media-amazon.com/images/I/81dOkXTj6jL.jpg",
 
-      ""
+      "https://5.imimg.com/data5/ANDROID/Default/2023/2/AB/OJ/PK/116258883/product-jpeg.jpg"
 
     ],
 
     description:
-      "",
+      "WBC diluting fluid",
 
-    price: " FCFA",
+    price: "15000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+     "Volume: 1 L",
+  "Contains acetic acid + gentian violet",
+  "Used for white blood cell count",
+  "Lyses red blood cells",
+  "Laboratory-grade hematology reagent"
     ],
 
     fullDescription:
-      ""
+      "Turk’s solution is a hematology diluting fluid used for the manual counting of white blood cells (WBC). It contains acetic acid, which lyses red blood cells, and a staining dye such as gentian violet that highlights white blood cell nuclei for easier counting under a microscope. It is widely used in medical school laboratories and clinical settings for hemocytometry and basic hematology practicals, providing clear visualization and accurate WBC enumeration."
   },
 
   {
     id: 5074,
 
-    slug: "",
+    slug: "Potassium hydroxide (KOH) 20%",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Potassium hydroxide (KOH) 20%",
 
     badge: "new",
 
     image:
-      "",
+      "https://5.imimg.com/data5/SELLER/Default/2022/11/CS/ZD/RA/116258883/potassium-hydroxide-20-500ml.jpeg",
 
     images: [
 
-      "",
+      "https://5.imimg.com/data5/SELLER/Default/2023/1/GG/HD/BN/116258883/potassium-hydroxide-20-500ml.jpeg",
 
-      "",
+      "https://5.imimg.com/data5/SELLER/Default/2022/11/CS/ZD/RA/116258883/potassium-hydroxide-20-500ml.jpeg",
 
-      ""
+      "https://m.media-amazon.com/images/I/41lnmYH9u4L._AC_SL1000_.jpg"
 
     ],
 
     description:
-      "",
+      "Fungal test reagent",
 
-    price: " FCFA",
+    price: "10000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Concentration: 20% w/v KOH solution",
+  "Volume: typically 100 mL–1 L",
+  "Used for direct microscopic examination",
+  "Clears keratinized tissue samples"
     ],
 
     fullDescription:
-      "."
+      "Potassium Hydroxide (KOH) 20% is a strong alkaline solution used in microbiology and dermatology laboratories for the preparation of clinical specimens. It dissolves keratin and cellular debris in skin, hair, and nail samples, allowing clearer visualization of fungal elements such as hyphae and spores under the microscope. It is widely used in medical school practicals and diagnostic laboratories for rapid detection of dermatophyte infections."
   },
 
   {
     id: 5075,
 
-    slug: "",
+    slug: "Sterile swabs",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Sterile swabs",
 
     badge: "best-seller",
 
     image:
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSYqkJDKya_qfrFGOCbX9_hbDWFraEI_WLIu4s1-482GX_GfExSGJIvLY&s=10",
 
     images: [
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSYqkJDKya_qfrFGOCbX9_hbDWFraEI_WLIu4s1-482GX_GfExSGJIvLY&s=10",
 
-      "",
+      "https://www.rothbioscience.com/cdn/shop/products/sterileswabs_2b04736b-3a71-4ec8-8766-1954748e72e0_850x.jpg?v=1617886146",
 
-      ""
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ132LN9EyXYh7XAbMkEdvenvviJZe9XyHhvV5VnXRmNa2997R7eFn7bFsz&s=10"
 
     ],
 
     description:
-      "",
+      "Sample collection swabs",
 
-    price: " FCFA",
+    price: "6000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Sterile, single-use cotton swabs",
+  "Individually packed",
+  "Wooden or plastic shaft",
+  "Used for microbiological sampling"
     ],
 
     fullDescription:
-      ""
+      "Sterile swabs are single-use sample collection tools used in microbiology and clinical laboratories for collecting specimens from the throat, nose, wounds, and other surfaces. They are designed to maintain sterility and prevent contamination during sample collection. Commonly used in medical schools, hospitals, and diagnostic laboratories, they are essential for culture and sensitivity testing as well as routine microbiological investigations."
   },
 
   {
     id: 5076,
 
-    slug: "",
+    slug: "Urine containers ",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Urine containers",
 
     badge: "in-stock",
 
     image:
-      "",
+      "https://m.media-amazon.com/images/I/71l+9FkvfUL._AC_UF1000,1000_QL80_.jpg",
 
     images: [
 
-      "",
+      "https://m.media-amazon.com/images/I/71l+9FkvfUL._AC_UF1000,1000_QL80_.jpg",
 
-      "",
+      "https://rukminim2.flixcart.com/image/480/640/xif0q/container/c/x/7/10-urine-sample-specimen-collector-plastic-container-sterile-original-imahj5nahfsd3h7z.jpeg?q=90",
 
-      ""
+      "https://m.media-amazon.com/images/I/51BJxIS5U9L._AC_UF350,350_QL80_.jpg"
 
     ],
 
     description:
-      "",
+      "Urine sample cup",
 
-    price: " FCFA",
+    price: "4000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Sterile disposable plastic container",
+  "Capacity: 50–120 mL",
+  "Leak-proof screw cap",
+  "Graduated markings for volume"
     ],
 
     fullDescription:
-      ""
+      "Urine containers are sterile disposable plastic cups used for the collection, transport, and storage of urine samples in clinical and laboratory settings. They are designed with a secure screw cap to prevent leakage and contamination, and often include graduated markings for volume measurement. These containers are widely used in medical school laboratories and hospitals for urinalysis, pregnancy testing, and other diagnostic urine examinations."
   },
 
   {
     id: 5077,
 
-    slug: "",
+    slug: "Stool containers",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Stool containers",
 
     badge: "best-seller",
 
     image:
-      "",
+      "https://assets.1.commercebuild.com/e5679379b58995ada200c19806353331/contents/43011/43011.png",
 
     images: [
 
-      "",
+      "https://sc04.alicdn.com/kf/HTB17xmdX4_rK1RkHFqDq6yJAFXac.jpg",
 
-      "",
+      "https://5.imimg.com/data5/SELLER/Default/2023/5/311865331/RU/EL/ND/547327/stool-container-50ml.jpg",
 
-      ""
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAYuqPH4Ca_c_kCmSfxb8PZXR5-RjoQB2T5_o9tn9l6f3w3GSm49x3xigm&s=10"
 
     ],
 
     description:
-      "",
+      "Stool sample cup",
 
-    price: " FCFA",
+    price: "6000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Sterile disposable plastic container",
+  "Wide-mouth screw cap design",
+  "Leak-proof and odor-resistant",
+  "Used for microbiology stool analysis"
     ],
 
     fullDescription:
-      ""
+      "Stool containers are sterile, disposable plastic specimen cups designed for the safe collection and transport of stool samples in clinical and laboratory environments. They feature a wide-mouth opening for easy sample collection and a secure screw cap to prevent leakage and contamination. These containers are commonly used in medical school laboratories and hospitals for parasitological examination, culture and sensitivity testing, and routine stool analysis."
   },
 
   {
     id: 5078,
 
-    slug: "",
+    slug: "Formol citrate",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Formol citrate",
 
     badge: "in-stock",
 
     image:
-      "",
+      "https://mboapharma.cm/wp-content/uploads/produit/FORMOL.jpg",
 
     images: [
 
-      "",
+      "https://mboapharma.cm/wp-content/uploads/produit/FORMOL.jpg",
 
-      "",
+      "https://mevag.ma/wp-content/uploads/2024/04/FORMOLE.jpg",
 
-      ""
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdRSSqGSMg2jXmsaruvA0FIsX_4VP-mxhth3sQ-frkdMyxakShs28atcw&s=10"
 
     ],
 
     description:
-      "",
+      "Blood fixative",
 
-    price: " FCFA",
+    price: "17000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Concentration: 10% formalin-citrate solution",
+  "Volume: 1 L",
+  "Used for blood preservation and dilution",
+  "Anticoagulant and fixative action"
     ],
 
     fullDescription:
-      ""
+      "Formol citrate is a laboratory reagent composed of formaldehyde (formol) and sodium citrate, commonly prepared as a 10% solution. It is used in hematology laboratories for preserving and fixing blood cells, especially in procedures requiring delayed analysis. It also acts as a mild anticoagulant by chelating calcium ions. It is widely used in medical school laboratories and diagnostic settings for blood cell counting and preservation of cellular morphology in certain hematological techniques."
   },
 
   {
     id: 5079,
 
-    slug: "",
+    slug: "Glycerol",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Glycerol",
 
     badge: "new",
 
     image:
-      "",
+      "https://5.imimg.com/data5/SELLER/Default/2020/10/PG/ZZ/DC/34727415/glycerol.jpg",
 
     images: [
 
-      "",
+      "https://5.imimg.com/data5/SELLER/Default/2020/10/PG/ZZ/DC/34727415/glycerol.jpg",
 
-      "",
+      "https://www.netpharmacy.co.nz/cdn/shop/products/healthe-glycerol-bp-liquid-500ml.jpg?v=1626045758",
 
-      ""
+      "https://m.media-amazon.com/images/I/31I9j7VgkcL.jpg"
 
     ],
 
     description:
-      "",
+      "Lab solvent",
 
-    price: " FCFA",
+    price: "5000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Concentration: 99–99.5% pure glycerol",
+  "Volume: 1 L",
+  "Viscous liquid humectant",
+  "Used in microscopy and reagent prep"
     ],
 
     fullDescription:
-      "."
+      "Glycerol is a clear, viscous, hygroscopic liquid widely used in medical and biological laboratories. It serves as a mounting medium in microscopy, a humectant in reagent preparation, and a stabilizer for biological samples. In microbiology and histology, glycerol helps preserve specimens and prevent drying. It is also used in enzyme storage, pharmaceutical formulations, and various laboratory preparations due to its chemical stability and non-toxic nature."
   },
 
   {
     id: 5080,
 
-    slug: "",
+    slug: " Normal saline",
 
     category: "Medical Science",
 
-    name: "",
+    name: " Normal saline  1L ",
 
     badge: "best-seller",
 
     image:
-      "",
+      "https://www.alpropharmacy.com/cdn/shop/files/00051064_L_1.jpg?v=1768579965",
 
     images: [
 
-      "",
+      "https://www.alpropharmacy.com/cdn/shop/files/00051064_L_1.jpg?v=1768579965",
 
-      "",
+      "https://down-my.img.susercontent.com/file/761fd16adfa8e3045222bfc47eb36527",
 
-      ""
+      "https://www.ahns.com.au/wp-content/uploads/2015/04/Saline-0.9-Sodium-Chloride-Sterile-For-Irrigation-1000ml-Pour-Bottle.jpg"
 
     ],
 
     description:
-      "",
+      "IV fluid",
 
-    price: " FCFA",
+    price: "4000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Concentration: 0.9% sodium chloride (NaCl)",
+  "Volume: 1 L sterile solution",
+  "Isotonic with blood plasma",
+  "Used for dilution and IV therapy"
     ],
 
     fullDescription:
-      ""
+      "Normal Saline 1L is a sterile isotonic solution containing 0.9% sodium chloride in water for injection. It closely matches the osmolarity of human blood plasma, making it safe for intravenous use. It is widely used in hospitals, clinics, and medical laboratories for fluid replacement, sample dilution, wound irrigation, and as a general-purpose diluent in various laboratory and clinical procedures."
   },
 
    {
     id: 5081,
 
-    slug: "",
+    slug: "Blood Bags 250ml",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Blood Bags 250ml 5pcs",
 
     badge: "in-stock",
 
     image:
-      "",
+      "https://m.media-amazon.com/images/I/71PFwPjMizL._AC_UF894,1000_QL80_.jpg",
 
     images: [
 
-      "",
+      "https://m.media-amazon.com/images/I/817V+dx6UPL._AC_UF1000,1000_QL80_.jpg",
 
-      "",
+      "https://m.media-amazon.com/images/I/61PgY53cOrL.jpg",
 
-      ""
+      "https://i5.walmartimages.com/asr/a95a581b-82e1-4aa5-8395-35798c51e7c4.1bde501945a37ce1d0cc76a06478beca.jpeg"
 
     ],
 
     description:
-      "",
+      "Blood collection bag",
 
-    price: " FCFA",
+    price: "10000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Capacity: 250 mL whole blood",
+  "Contains CPDA-1 anticoagulant-preservative solution",
+  "Sterile, single-use PVC blood bag",
+  "Pack size: 5 bags"
     ],
 
     fullDescription:
-      ""
+      "Blood Bags 250 mL are sterile, single-use blood collection systems designed for the safe collection, storage, transportation, and transfusion of whole blood. Each bag contains CPDA-1 (Citrate Phosphate Dextrose Adenine) anticoagulant-preservative solution, which maintains blood viability and extends the storage life of red blood cells. They are widely used in blood banks, hospitals, and medical school laboratories for blood donation, transfusion practice, and clinical training. The bags are manufactured from medical-grade PVC and feature tamper-proof tubing for secure blood collection and handling."
   },
 
   {
     id: 5082,
 
-    slug: "",
+    slug: "Blood Bags 450ml",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Blood Bags 450ml",
 
     badge: "best-seller",
 
     image:
-      "",
+      "https://t4.ftcdn.net/jpg/00/90/80/47/360_F_90804720_2SDY6dCWClpiYKW9c6kSj6y4Ch7Oh9JZ.jpg",
 
     images: [
 
-      "",
+      "https://image.made-in-china.com/365f3j00GkEqlobBYDcp/Medical-Disposable-Blood-Bags-Triple-Blood-Bag-450ml.webp",
 
-      "",
+      "https://www.perfectseal.com/wp-content/uploads/2023/03/7-min-3.jpg",
 
-      ""
+      "https://5.imimg.com/data5/SELLER/Default/2020/12/YZ/OT/GM/111692368/blood-bag-.jpg"
 
     ],
 
     description:
-      "",
+      "Blood collection bag",
 
-    price: " FCFA",
+    price: "12000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Capacity: 450 mL whole blood",
+  "Contains 63 mL CPDA-1 anticoagulant-preservative",
+  "Sterile, single-use medical-grade PVC bag",
+  "Pack size: 5 blood bags"
     ],
 
     fullDescription:
-      ""
+      "Blood Bags 450 mL are sterile, single-use blood collection systems designed for the collection, storage, transport, and transfusion of whole blood. Each bag contains 63 mL of CPDA-1 (Citrate Phosphate Dextrose Adenine) anticoagulant-preservative solution, providing an optimal blood-to-anticoagulant ratio and allowing red blood cells to be stored for up to 35 days under recommended conditions. They are widely used in blood banks, hospitals, transfusion centers, and medical school laboratories for blood donation, component preparation, and clinical training. Manufactured from medical-grade PVC, the bags feature integrated tubing for safe and efficient blood collection."
   },
 
   {
     id: 5083,
 
-    slug: "",
+    slug: " Blood collection needles",
 
     category: "Medical Science",
 
-    name: "",
+    name: " Blood collection needles  100",
 
     badge: "in-stock",
 
     image:
-      "",
+      "https://m.media-amazon.com/images/I/11BgRizcs-L._AC_UF1000,1000_QL80_.jpg",
 
     images: [
 
-      "",
+      "https://m.media-amazon.com/images/I/11BgRizcs-L._AC_UF1000,1000_QL80_.jpg",
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbVgr8C2F4M_q5xzwR9NX_IGCQ9D0zXkiRasytksGbstUhTtNhehnbQjE2&s=10",
 
-      ""
+      "https://www.chengwumed.com/uploads/34202/safety-blood-collection-set35169.jpg"
 
     ],
 
     description:
-      "",
+      "Blood collection needle",
 
-    price: " FCFA",
+    price: "8000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+     "Gauge: 21G (commonly used), sterile",
+  "Single-use disposable design",
+  "Silicone-coated stainless steel needle",
+  "Pack size: 100 needles"
     ],
 
     fullDescription:
-      ""
+      "Blood collection needles are sterile, single-use needles designed for safe and efficient venous blood collection. Manufactured from high-quality stainless steel with a silicone-coated surface, they provide smooth venipuncture and minimize patient discomfort. The 21G size is the most commonly used for routine blood sampling, although other gauges are available. These needles are widely used in hospitals, diagnostic laboratories, blood banks, and medical school practical sessions for specimen collection and phlebotomy training."
   },
 
   {
     id: 5084,
 
-    slug: "",
+    slug: "Blood set 20",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Blood set 20",
 
-    badge: "new",
+    badge: "In stock",
 
     image:
-      "",
+      "https://www.oxyaider.co.za/wp-content/uploads/2021/11/blood-transfusion-set-500x500-1.jpeg",
 
     images: [
 
-      "",
+      "https://www.oxyaider.co.za/wp-content/uploads/2021/11/blood-transfusion-set-500x500-1.jpeg",
 
-      "",
+      "https://cellbios.com/wp-content/uploads/2019/10/Image-1.jpg",
 
-      ""
+      "https://betapharm.ng/wp-content/uploads/2024/08/Blood-Transfusion-Set.jpg"
 
     ],
 
     description:
-      "",
+      "Blood transfusion set",
 
-    price: " FCFA",
+    price: "7500 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Sterile single-use transfusion set",
+  "170–200 µm blood filter",
+  "Standard Luer lock connector",
+  "Pack size: 20 sets"
     ],
 
     fullDescription:
-      "."
+      "A Blood Set is a sterile, disposable transfusion administration set used for the safe delivery of whole blood and blood components to patients. It is equipped with an integrated 170–200 µm filter that removes clots and debris during transfusion, ensuring safe blood administration. The set includes medical-grade tubing, a drip chamber, roller clamp, and a standard Luer lock connector compatible with intravenous cannulas. It is widely used in hospitals, blood banks, emergency units, and medical school laboratories for transfusion procedures and practical training."
   },
 
   {
     id: 5085,
 
-    slug: "",
+    slug: "Micropipette tips 50ul ",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Micropipette tips 50ul ",
 
-    badge: "best-seller",
+    badge: "In stock",
 
     image:
-      "",
+      "https://5.imimg.com/data5/SELLER/Default/2024/6/427015716/QZ/BW/GR/1510678/micropipette-tips-250x250.jpg",
 
     images: [
 
-      "",
+      "https://5.imimg.com/data5/SELLER/Default/2025/4/505830374/MP/VU/NL/74325153/50-ul-micropipette-tips.png",
 
-      "",
+      "https://5.imimg.com/data5/ANDROID/Default/2021/6/GO/RX/WS/64001908/product-jpeg.jpeg",
 
-      ""
+      "https://tiimg.tistatic.com/fp/2/009/035/micro-tips-filter-pipette-652.jpg"
 
     ],
 
     description:
-      "",
+      "Micropipette tips",
 
-    price: " FCFA",
+    price: "14000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Volume range: 0.5–50 µL",
+  "Sterile polypropylene tips",
+  "Compatible with standard micropipettes",
+  "Pack size: 1,000 tips"
     ],
 
     fullDescription:
-      ""
+      "Micropipette Tips 50 µL are precision laboratory consumables designed for accurate dispensing and transfer of microliter volumes. Manufactured from high-quality medical-grade polypropylene, they provide excellent chemical resistance, low liquid retention, and a secure fit on compatible micropipettes. These sterile disposable tips help prevent cross-contamination and are widely used in molecular biology, microbiology, hematology, clinical diagnostics, research laboratories, and medical school practical sessions."
   },
 
    {
     id: 5086,
 
-    slug: "",
+    slug: "Micropipette tips 100ul blue",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Micropipette tips 100ul blue",
 
     badge: "in-stock",
 
     image:
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw26MDAhFYhq218i9J6B32JrZEnZI5vlPssemfQnq7yMNVj0hi5bIZE1E&s=10",
 
     images: [
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD5gh80vcEYdiGDAjRM6YQeyjRq0W9NZ45P5rMJ-tozQJNefIDddxFKb8&s=10",
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTee0lriaGckZLE4iAzUUevvFdKvGhCxZO5wj33VktH4mmKbisHroGn9iVx&s=10",
 
-      ""
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5K2SNFVhQkGfSHUIryUdFBAz1oHFvMXRDVeqN7gERwANylQcMkUkomZY&s=10"
 
     ],
 
     description:
-      "",
+      "Micropipette tips",
 
-    price: " FCFA",
+    price: "14000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Volume range: 20–200 µL (blue)",
+  "Sterile polypropylene tips",
+  "Compatible with standard 200 µL micropipettes",
+  "Pack size: 1,000 tips"
     ],
 
     fullDescription:
-      ""
+      "Micropipette Tips 100 µL (Blue) are high-precision disposable laboratory tips designed for accurate aspiration and dispensing of liquid samples. Manufactured from medical-grade polypropylene, they offer excellent transparency, chemical resistance, and low liquid retention. Although commonly referred to as '100 µL blue tips', they are typically compatible with micropipettes covering a volume range of 20–200 µL. They are widely used in clinical laboratories, molecular biology, microbiology, research facilities, and medical school practical sessions for contamination-free liquid handling."
   },
 
   {
     id: 5087,
 
-    slug: "",
+    slug: "Pipette tips holder",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Pipette tips holder",
 
     badge: "best-seller",
 
     image:
-      "",
+      "https://assets.fishersci.com/TFS-Assets/LCD/product-images/HPT-Softfit-L-Hinged-Rack.jpg-650.jpg",
 
     images: [
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSWw1NvgkQIR5-1gL91pegNIvEVcx8dOAvG1A9P9xju8FCbtP40oSGzZ7F&s=10",
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuKFIVFgWrOp3xnmdPcA1_7yiGxTdz4I6cWH1L20NEhwCLbOCCzthwC8I&s=10",
 
-      ""
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNJHHpm_TCdaYFd9ZHBdXQiA8SiCIzqsT4Y2L7OlUV2ll8gRa2it0kq-I&s=10"
 
     ],
 
     description:
-      "",
+      "Pipette tip rack",
 
-    price: " FCFA",
+    price: "12500 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Autoclavable polypropylene construction",
+  "Holds 96 pipette tips",
+  "Compatible with 20–200 µL or 200–1000 µL tips",
+  "Reusable laboratory-grade rack"
     ],
 
     fullDescription:
-      ""
+      "A Pipette Tips Holder (Tip Rack) is a reusable laboratory accessory designed to securely organize and dispense micropipette tips while maintaining cleanliness and reducing contamination. Manufactured from durable autoclavable polypropylene, it accommodates standard 96-tip configurations and is compatible with most major micropipette brands. It is widely used in microbiology, molecular biology, clinical diagnostics, research laboratories, and medical school practical sessions for efficient and organized liquid handling."
   },
 
   {
     id: 5088,
 
-    slug: "",
+    slug: " Lithium Heparin tubes 5ml vacutainer  100pcs",
 
     category: "Medical Science",
 
-    name: "",
+    name: " Lithium Heparin tubes 5ml vacutainer  100pcs",
 
     badge: "in-stock",
 
     image:
-      "",
+      "https://m.media-amazon.com/images/I/713jtmo3QUL._AC_UF1000,1000_QL80_.jpg",
 
     images: [
 
-      "",
+      "https://m.media-amazon.com/images/I/713jtmo3QUL._AC_UF1000,1000_QL80_.jpg",
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLJXMTgOhGrZx_JI8koQM9GBIzg5xzVONkNtubzIp-ysDqhzgTab9nzjw&s=10",
 
-      ""
+      "https://www.tammexmedical.com.au/media/catalog/product/cache/1bac667f0cbcac0e95e7e64e2a429c23/3/6/367526-1.jpg"
 
     ],
 
     description:
-      "",
+      "Heparin vacutainer",
 
-    price: " FCFA",
+    price: "8000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+     "Capacity: 5 mL",
+  "Contains lithium heparin (17–30 IU/mL blood)",
+  "Green cap, sterile vacuum tube",
+  "Pack size: 100 tubes"
     ],
 
     fullDescription:
-      ""
+      "Lithium Heparin 5 mL Vacutainer tubes are sterile vacuum blood collection tubes containing lithium heparin as an anticoagulant. Lithium heparin inhibits clot formation by activating antithrombin, making it the anticoagulant of choice for plasma-based biochemical and electrolyte analyses. These tubes are widely used in clinical chemistry laboratories, hospitals, research facilities, and medical school practical laboratories for tests requiring plasma, including renal function, liver function, cardiac markers, and electrolyte assays. The vacuum system ensures accurate blood collection and the correct blood-to-additive ratio for reliable laboratory results."
   },
 
   {
     id: 5089,
 
-    slug: "",
+    slug: "alcon tubes 5ml ",
 
     category: "Medical Science",
 
-    name: "",
+    name: "alcon tubes 5ml ",
 
     badge: "new",
 
     image:
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeiVrdj7PaAm12_E_YAM-hNsfwARgB0Lw-1XMsx2D_-Q&s=10",
 
     images: [
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeiVrdj7PaAm12_E_YAM-hNsfwARgB0Lw-1XMsx2D_-Q&s=10",
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPArtyo2R6SA0d6UMCrTvOC0T9Xi2_JEaAgi-IwaaLaIOKWbtktRu4Awg&s=10",
 
-      ""
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpHTOZlXbGkqApaJAdSFEZUqeRNFcez0e5lrgNiRdlAWCERlLQAUHzEiA&s=10"
 
     ],
 
     description:
-      "",
+      "Conical centrifuge tube",
 
-    price: " FCFA",
+    price: "3000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Capacity: 5 mL",
+  "Sterile polypropylene tube",
+  "Leak-proof screw cap",
+  "Graduated with conical bottom"
     ],
 
     fullDescription:
-      "."
+      "Falcon-type (often spelled 'Falcon', though sometimes written 'Alcon') 5 mL tubes are sterile polypropylene conical centrifuge tubes used for the collection, storage, mixing, and centrifugation of biological and chemical samples. They feature a conical bottom for efficient sample recovery, leak-proof screw cap for secure sealing, and graduated markings for accurate volume measurement. These tubes are widely used in microbiology, molecular biology, clinical diagnostics, research laboratories, and medical school practical sessions."
   },
 
   {
     id: 5090,
 
-    slug: "",
+    slug: "Eppendorf tubes",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Eppendorf tubes",
 
     badge: "best-seller",
 
     image:
-      "",
+      "https://m.media-amazon.com/images/I/51cxbM6JGDL.jpg",
 
     images: [
 
-      "",
+      "https://m.media-amazon.com/images/I/51cxbM6JGDL.jpg",
 
-      "",
+      "https://www.mandel.ca/media/catalog/product/cache/afad95d7734d2fa6d0a8ba78597182b7/e/p/epp_safe_lock_colours.jpg",
 
-      ""
+      "https://digitalassets.avantorsciences.com/adaptivemedia/rendition?id=b21bd8b95f01f2dd1b60607f1f66ea11f0b462dd&vid=0a9431b551de784a77bb80c83d4ec757ebe359a0&prid=original&clid=SAPDAM"
 
     ],
 
     description:
-      "",
+      "Microcentrifuge tube",
 
-    price: " FCFA",
+    price: "200 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Capacity: 1.5 mL (standard size)",
+  "Sterile polypropylene construction",
+  "Snap-cap leak-proof closure",
+  "Suitable for centrifugation up to 20,000 × g"
     ],
 
     fullDescription:
-      ""
+      "Eppendorf tubes are high-quality microcentrifuge tubes used for the storage, mixing, centrifugation, and transport of small-volume liquid samples. Manufactured from medical-grade polypropylene, they provide excellent chemical resistance and sample integrity. Their secure snap-cap design minimizes evaporation and contamination, making them ideal for molecular biology, microbiology, biochemistry, clinical diagnostics, and medical school laboratory practicals. They are compatible with most standard microcentrifuges and laboratory equipment."
   },
 
    {
     id: 5091,
 
-    slug: "",
+    slug: " Microscope with Camera ",
 
     category: "Medical Science",
 
-    name: "",
+    name: " Microscope with Camera ",
 
     badge: "in-stock",
 
     image:
-      "",
+      "https://sc04.alicdn.com/kf/HTB1CxFlOkvoK1RjSZPfq6xPKFXa7.jpg",
 
     images: [
 
-      "",
+      "https://amscope.com/cdn/shop/products/1-T750-TP-main-hero_1500x.jpg?v=1650384016",
 
-      "",
+      "https://m.media-amazon.com/images/I/41IF5uhv8pL.jpg",
 
-      ""
+      "https://cdn11.bigcommerce.com/s-gresmczhg1/images/stencil/original/image-manager/digital.png"
 
     ],
 
     description:
-      "",
+      "Digital microscope",
 
-    price: " FCFA",
+    price: "350000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+       "Binocular/trinocular microscope with digital camera",
+  "Magnification: 40×–1000× (oil immersion)",
+  "Camera resolution: 5–10 MP USB CMOS",
+  "LED illumination with coarse and fine focus"
     ],
 
     fullDescription:
-      ""
+      "A Microscope with Camera is an advanced laboratory instrument that combines high-quality optical microscopy with digital image capture and analysis. It is equipped with a binocular or trinocular viewing head and a high-resolution USB CMOS camera for capturing, displaying, and recording microscopic images on a computer. The microscope provides magnifications from 40× to 1000× using achromatic objectives, including a 100× oil immersion lens. It is widely used in medical schools, hospitals, research laboratories, microbiology, histology, hematology, and pathology for teaching, diagnostics, documentation, and scientific research."
   },
 
   {
     id: 5092,
 
-    slug: "",
+    slug: "Alcohol gel 30ml ",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Alcohol gel 30ml ",
 
     badge: "best-seller",
 
     image:
-      "",
+      "https://www.vivopl.com/wp-content/uploads/Vivo-Hand-Sanitizer-30ML-1.png",
 
     images: [
 
-      "",
+      "https://www.vivopl.com/wp-content/uploads/Vivo-Hand-Sanitizer-100ML-1.png",
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNEOL_8HCd39sZqgtHok3RIhGX4vzK-rmGSvzZeIRUpw&s=10",
 
-      ""
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbiInZXB-3tSPJ-rqnc5U48hnmmVQ_7zYtRMFuPvfoofFCRwBNHyYpnOmm&s=10"
 
     ],
 
     description:
-      "",
+      "Hand sanitizer",
 
-    price: " FCFA",
+    price: "2000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Volume: 30 mL",
+  "Alcohol concentration: 70% v/v ethanol or isopropyl alcohol",
+  "Quick-drying gel formulation",
+  "Kills 99.9% of common microorganisms"
     ],
 
     fullDescription:
-      ""
+      "Alcohol Gel 30 mL is a portable alcohol-based hand sanitizer formulated to reduce the number of microorganisms on the hands without the need for water. Containing 70% alcohol, it provides rapid antimicrobial action against a broad spectrum of bacteria, viruses, and fungi. The quick-drying gel is suitable for use in hospitals, medical laboratories, clinics, classrooms, and other healthcare environments, promoting effective hand hygiene and infection prevention."
   },
 
   {
     id: 5093,
 
-    slug: "",
+    slug: "Clinical thermometers  ",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Clinical thermometers  ",
 
     badge: "in-stock",
 
     image:
-      "",
+      "https://m.media-amazon.com/images/I/41pOVu3kuDL.jpg",
 
     images: [
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS172hFTL8aRwMD0oq6O_xMx_XKLz4C-ze5mWNoacX0AG6mUllM13TaLWxi&s=10",
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3P_kpGnJOSrQWkrXh_nDOXNBeVPAx9RZTmTejyFJpF2jKqll3VVBBZkkc&s=10",
 
-      ""
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxVE0vrY7Ty6T25i7GM1Hp8B3HutHlsTXjGGfSdH6pJ-6YxvCOGtpp7i0q&s=10"
 
     ],
 
     description:
-      "",
+      "Clinical thermometer",
 
-    price: " FCFA",
+    price: "700 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Measurement range: 35.0–42.0°C",
+  "Accuracy: ±0.1°C",
+  "Digital electronic thermometer",
+  "Oral, axillary, and rectal use"
     ],
 
     fullDescription:
-      ""
+      "A Clinical Thermometer is a medical instrument used to accurately measure human body temperature. Digital clinical thermometers provide fast, precise readings and are suitable for oral, axillary (underarm), and rectal measurements. They feature an easy-to-read display, automatic shut-off, and audible fever alert. Widely used in hospitals, clinics, medical school laboratories, and home healthcare, they are essential for routine patient assessment and fever diagnosis."
   },
 
   {
     id: 5094,
 
-    slug: "",
+    slug: " Digital thermometers ",
 
     category: "Medical Science",
 
-    name: "",
+    name: " Digital thermometers ",
 
     badge: "new",
 
     image:
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0z69Tj_jPLmYI3u__IpL76b3HVecCFvmn6pDqc6o0KgvhCgD-I-PxdNKJ&s=10",
 
     images: [
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMroOf51BPIR8YGWq40SH3KAvn7Ya4YZhvvefP-SA0-vznFse-OheSFwI&s=10",
 
-      "",
+      "https://www.ikonlinestore.com/wp-content/uploads/2023/06/digital-thermometer.png",
 
-      ""
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0Y1JTQAOQqgKCefsycT4ebYCrS3SqsUu9APJSiyx4lRrBF70rNZIaNBe&s=10"
 
     ],
 
     description:
-      "",
+      "Digital thermometer",
 
-    price: " FCFA",
+    price: "900 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Measurement range: 32.0–42.9°C",
+  "Accuracy: ±0.1°C",
+  "LCD display with fever alarm",
+  "Battery-powered with auto shut-off"
     ],
 
     fullDescription:
-      "."
+      "A Digital Thermometer is an electronic medical device designed for rapid and accurate measurement of human body temperature. It features a sensitive electronic sensor, an easy-to-read LCD display, and an audible beep indicating completion of the measurement. Suitable for oral, axillary, and rectal use, it is widely used in hospitals, clinics, medical school laboratories, and home healthcare for routine temperature monitoring and fever detection."
   },
 
   {
     id: 5095,
 
-    slug: "",
+    slug: "Fetal Doppler + Gel",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Fetal Doppler + Gel",
 
     badge: "best-seller",
 
     image:
-      "",
+      "https://medixiaonline.com/wp-content/uploads/2023/07/Doppler.jpg",
 
     images: [
 
-      "",
+      "https://medixiaonline.com/wp-content/uploads/2023/07/Doppler.jpg",
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ4FUkNLxrgT-aRR5LnJZU28n2RQ5wAwRKCd15CFTWUOVCdfE4ew1b_t0&s=10",
 
-      ""
+      "https://torontek.com/wp-content/uploads/2023/12/ToronTek-R88-Fetal-doppler.jpg"
 
     ],
 
     description:
-      "",
+      "Fetal Doppler",
 
-    price: " FCFA",
+    price: "15000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+     "Ultrasound frequency: 2–3 MHz probe",
+  "LCD display with fetal heart rate",
+  "Includes 250 mL ultrasound gel",
+  "Battery-powered portable device"
     ],
 
     fullDescription:
-      ""
+      "A Fetal Doppler with Gel is a portable handheld ultrasound device used to detect and monitor the fetal heart rate during pregnancy. It utilizes a 2–3 MHz Doppler probe to accurately detect fetal cardiac activity and displays the heart rate on an LCD screen. The kit includes medical-grade ultrasound gel to ensure optimal acoustic coupling between the probe and the patient's skin. It is widely used in obstetrics, antenatal clinics, hospitals, and medical school laboratories for fetal assessment and practical training."
   },
 
    {
     id: 5096,
 
-    slug: "",
+    slug: " Baby scale  ",
 
     category: "Medical Science",
 
-    name: "",
+    name: " Baby scale  ",
 
     badge: "in-stock",
 
     image:
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkeme-99yWH2UUR2U6p5C1Pg72cabjjOlg38HSF3r7YP6V7W-ON0OSVM-K&s=10",
 
     images: [
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkeme-99yWH2UUR2U6p5C1Pg72cabjjOlg38HSF3r7YP6V7W-ON0OSVM-K&s=10",
 
-      "",
+      "https://static.wesco.fr/media/catalog/product/cache/7ccc10e5a8277e9f8854785247b9d41d/3/5/35083_c020_10_pd.jpg",
 
-      ""
+      "https://www.socimed.com/img/p/6/1/5/9/8/61598-large_default.webp"
 
     ],
 
     description:
-      "",
+      "Infant weighing scale",
 
-    price: " FCFA",
+    price: "25000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+       "Capacity: up to 20 kg",
+  "Accuracy: ±10 g precision",
+  "Digital LCD display",
+  "Detachable baby tray"
     ],
 
     fullDescription:
-      ""
+      "A Baby Scale is a precision medical device designed for accurate measurement of infant body weight. It features a stable weighing platform or contoured tray to safely hold babies during measurement, ensuring comfort and safety. The digital system provides fast and accurate readings with high sensitivity, typically to within ±10 grams. It is widely used in maternity wards, pediatric clinics, hospitals, and medical school laboratories for monitoring infant growth and development."
   },
 
   {
     id: 5097,
 
-    slug: "",
+    slug: "Mechanical scale 180kg ",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Mechanical scale 180kg ",
 
     badge: "best-seller",
 
     image:
-      "",
+      "https://m.media-amazon.com/images/I/61RRr7sX9+L.jpg",
 
     images: [
 
-      "",
+      "https://m.media-amazon.com/images/I/61RRr7sX9+L.jpg",
 
-      "",
+      "https://m.media-amazon.com/images/I/61bQXlfhzwL._AC_UF350,350_QL50_.jpg",
 
-      ""
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGQxXB7E2HOWhzKAwM8Xe3FYhvVlz3Qkpd59q7Vhb5xpxT1XfFEfkT96Tc&s=10"
 
     ],
 
     description:
-      "",
+      "Mechanical weighing scale",
 
-    price: " FCFA",
+    price: "22000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Capacity: up to 180 kg",
+  "Analog dial display",
+  "No battery required",
+  "Sturdy steel platform"
     ],
 
     fullDescription:
-      ""
+      "A Mechanical Scale 180 kg is a durable analog weighing instrument used for measuring body weight without the need for electricity or batteries. It operates using an internal spring mechanism that provides reliable and consistent weight readings on a calibrated dial display. Commonly used in hospitals, clinics, gyms, and medical school practical environments, it is valued for its simplicity, durability, and low maintenance design."
   },
 
   {
     id: 5098,
 
-    slug: "",
+    slug: " Tourniquets  ",
 
     category: "Medical Science",
 
-    name: "",
+    name: " Tourniquets  ",
 
     badge: "in-stock",
 
     image:
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM4lf_t4fdKAjPwndA_e4jtdcpYcFwVEabqmvzwZuNRB5yAKQ8FIMwGKI&s=10",
 
     images: [
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM4lf_t4fdKAjPwndA_e4jtdcpYcFwVEabqmvzwZuNRB5yAKQ8FIMwGKI&s=10",
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgiY4--t79gv9n_ImukdlYvmxhpLOgPQjtqNVnzkvPxQ&s=10",
 
-      ""
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQezpuJvv93ur0DoFwLG21HX1HQthD7YEGXM0nnioE-Lw&s=10"
 
     ],
 
     description:
-      "",
+      "Vein constrictor band",
 
-    price: " FCFA",
+    price: "1500 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+     "Elastic or latex-free material",
+  "Adjustable quick-release buckle",
+  "Used for venipuncture procedures",
+  "Reusable and easy to disinfect"
     ],
 
     fullDescription:
-      ""
+      "A tourniquet is a medical device used to temporarily restrict venous blood flow during venipuncture to make veins more visible and accessible. It is commonly used in hospitals, clinics, blood banks, and medical school laboratories during blood collection procedures. Modern tourniquets are made from elastic or latex-free materials and include a quick-release mechanism for safety and ease of use. They are essential for phlebotomy training and routine blood sampling."
   },
 
   {
     id: 5099,
 
-    slug: "",
+    slug: "Sphygmomanometers",
 
     category: "Medical Science",
 
-    name: "",
+    name: " Sphygmomanometers  ",
 
     badge: "new",
 
     image:
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiE1Wyz7ck9eenJNavQkGzPK0ao7-mYpDmlWjG-B0CCfdkvvYEWDjr1bsf&s=10",
 
     images: [
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiE1Wyz7ck9eenJNavQkGzPK0ao7-mYpDmlWjG-B0CCfdkvvYEWDjr1bsf&s=10",
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7EjvkBQLGsJSeiO4m6GKsjW6tJOtkj-3qaHnQyNdRv1GCnUrPLeHfVDRk&s=10",
 
-      ""
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt2m6qE4mriEGf5rDkaF4GNh0dj7P1-HVeWlw5iX4Hybvr76cD8F0NKhQ&s=10"
 
     ],
 
     description:
-      "",
+      "Blood pressure monitor",
 
-    price: " FCFA",
+    price: "7500 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Measurement range: 0–300 mmHg",
+  "Manual aneroid or digital model",
+  "Includes cuff (adult size standard)",
+  "Accuracy: ±3 mmHg (typical)"
     ],
 
     fullDescription:
-      "."
+      "A sphygmomanometer is a medical device used to measure arterial blood pressure. It consists of an inflatable cuff, a pressure gauge (aneroid or digital), and a bulb or automatic pump system. It is widely used in hospitals, clinics, and medical school training to measure systolic and diastolic blood pressure. The device is essential for diagnosing and monitoring hypertension and other cardiovascular conditions."
   },
 
   {
