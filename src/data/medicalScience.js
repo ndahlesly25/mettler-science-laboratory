@@ -3962,1321 +3962,1321 @@ const medicalScienceProducts = [
   {
     id: 5100,
 
-    slug: "",
+    slug: "Blood Pressure Machine arm style ",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Blood Pressure Machine arm style",
 
     badge: "best-seller",
 
     image:
-      "",
+      "https://smartdeal.com.bd/public/uploads/all/yNttd1C7LrlXBHRbF63jrjr4fLOqYN20S4qI9JqG.jpg",
 
     images: [
 
-      "",
+      "https://image.made-in-china.com/2f0j00GsJlutKcymkd/Arm-Style-Home-Care-Electronic-Blood-Pressure-Monitor.jpg",
 
-      "",
+      "https://smartdeal.com.bd/public/uploads/all/yNttd1C7LrlXBHRbF63jrjr4fLOqYN20S4qI9JqG.jpg",
 
-      ""
+      "https://m.media-amazon.com/images/I/51-v8q5YA6L._AC_UF1000,1000_QL80_.jpg"
 
     ],
 
     description:
-      "",
+      "Digital BP monitor",
 
-    price: " FCFA",
+    price: "8000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Measurement range: 0–299 mmHg",
+  "Accuracy: ±3 mmHg pressure, ±5% pulse rate",
+  "Automatic upper arm cuff (22–42 cm)",
+  "LCD display with pulse rate detection"
     ],
 
     fullDescription:
-      ""
+      "A Blood Pressure Machine (Arm Style) is an automatic digital sphygmomanometer designed for accurate, non-invasive measurement of systolic pressure, diastolic pressure, and pulse rate. It uses the oscillometric method and features an adjustable upper arm cuff, large LCD display, one-touch operation, and automatic inflation/deflation. Many models also include irregular heartbeat detection, memory storage, and low-battery indication. It is widely used in hospitals, clinics, medical school laboratories, pharmacies, and home healthcare for routine cardiovascular monitoring."
   },
 
   {
     id: 5101,
 
-    slug: "",
+    slug: "Blood Pressure Machine with voice ",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Blood Pressure Machine with voice ",
 
     badge: "best-seller",
 
     image:
-      "",
+      "https://tiimg.tistatic.com/fp/1/009/412/digital-blood-pressure-monitor-504.jpg",
 
     images: [
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEcEx_Y6l8OUp6qP2NC0mSI_dV8dzdVgFvZvqBBTmAHZJwDsRDfi-ggSbB&s=10",
 
-      "",
+      "https://www.lbs-medical.com/cdn/shop/files/phototensiometrepoignetparlantLBS62I.jpg?v=1698171661&width=416",
 
-      ""
+      "https://www.gosupps.com/media/catalog/product/7/1/71Y_dbMqHwL.jpg"
 
     ],
 
     description:
-      "",
+      "Voice BP monitor",
 
-    price: " FCFA",
+    price: "10000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Measurement range: 0–299 mmHg",
+  "Accuracy: ±3 mmHg pressure, ±5% pulse rate",
+  "Automatic upper arm cuff with voice guidance",
+  "LCD display with memory and irregular heartbeat detection"
     ],
 
     fullDescription:
-      ""
+      "A Blood Pressure Machine with Voice is an automatic digital upper arm monitor designed to measure systolic pressure, diastolic pressure, and pulse rate with high accuracy. It features voice guidance that announces measurement results, making it particularly suitable for elderly users and visually impaired patients. The device uses oscillometric technology and includes an adjustable arm cuff, large LCD display, one-touch operation, memory storage for previous readings, irregular heartbeat detection, and automatic inflation and deflation. It is widely used in hospitals, clinics, pharmacies, medical school laboratories, and home healthcare for convenient and reliable blood pressure monitoring."
   },
 
   {
     id: 5102,
 
-    slug: "",
+    slug: "Blood pressure BP-103H type ",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Blood pressure BP-103H type ",
 
     badge: "in-stock",
 
     image:
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT49rN7MJJSBE0oImcatj_-z-fzaPcLq48BZtp-EXZtXgQFt1vDCPiOcfR&s=10",
 
     images: [
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlv6GBopv4WAejAVFddF0fdq2YJYVhoGKrgcZu_nMgeQP_cQQ_I94zWlw2&s=10",
 
-      "",
+      "https://referencemedicosarl.com/wp-content/uploads/2026/04/120-M-moire-Automatique-poignet-num-rique-Pression-Art-rielle-et-cardiofr-quencem-tre-Tensiom-tre.jpg",
 
-      ""
+      "https://img.lazcdn.com/live/ph/p/5eb6d2162590f015147e5397887f62b1.jpg_720x720q80.jpg"
 
     ],
 
     description:
-      "",
+      "BP-103H BP monitor",
 
-    price: " FCFA",
+    price: "20000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Measurement range: 0–300 mmHg, pulse 30–180 bpm",
+  "Accuracy: ±3 mmHg pressure, ±5% pulse rate",
+  "Upper arm cuff (22–36 cm) with oscillometric measurement",
+  "LCD display, 4×30 memory, AC adapter & 4×AA batteries"
     ],
 
     fullDescription:
-      ""
+      "The BP-103H is a fully automatic digital upper-arm blood pressure monitor designed for accurate measurement of systolic pressure, diastolic pressure, and pulse rate using the oscillometric method. It features a large LCD display, one-touch operation, memory storage for up to 120 readings (4 users × 30 readings), WHO blood pressure classification indicator, date and time display, automatic inflation/deflation, and low-battery indication. The device is suitable for hospitals, clinics, pharmacies, medical school practical training, and home healthcare monitoring"
   },
 
   {
     id: 5103,
 
-    slug: "",
+    slug: "Wrist sphygmomanometer ",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Wrist sphygmomanometer ",
 
     badge: "new",
 
     image:
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzjxXgM6ijGCTWhYXv4EtoZLE0urQ-6SV2qKKtXosXIWNVm4e-aQrUjMHZ&s=10",
 
     images: [
 
-      "",
+      "https://m.media-amazon.com/images/I/716AEznQiZL.jpg",
 
-      "",
+      "https://www.dhmaterialmedico.com/material-medico/fotos/tensimetro-digital-de-mueca-omron-rs7-intelli-it-1664275208.jpg",
 
-      ""
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzbWu-Ugr3z6jS1wTYdycm-Viwu1ORJMf1Ee-wrWaCmSH86qPVOUX74mKG&s=10"
 
     ],
 
     description:
-      "",
+      "Wrist BP monitor",
 
-    price: " FCFA",
+    price: "8000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Measurement range: 0–299 mmHg, pulse 40–180 bpm",
+  "Accuracy: ±3 mmHg pressure, ±5% pulse rate",
+  "Automatic wrist cuff (13.5–21.5 cm circumference)",
+  "LCD display with memory and irregular heartbeat detection"
     ],
 
     fullDescription:
-      "."
+      "A Wrist Sphygmomanometer is a compact automatic digital blood pressure monitor designed to measure systolic pressure, diastolic pressure, and pulse rate from the wrist using oscillometric technology. It features a comfortable adjustable wrist cuff, large LCD display, one-touch operation, automatic inflation and deflation, memory storage for previous readings, and irregular heartbeat detection. Its lightweight and portable design makes it ideal for hospitals, clinics, pharmacies, medical school practical sessions, and home blood pressure monitoring."
   },
 
   {
     id: 5104,
 
-    slug: "",
+    slug: "Pulse Oximeters ",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Pulse Oximeters ",
 
     badge: "best-seller",
 
     image:
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzDIcmLFQZ-G9lBhnd3oheMH9hmuYWHhMS1FkNAGDjuDo3MxXHOiI3mhbE&s=10",
 
     images: [
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzDIcmLFQZ-G9lBhnd3oheMH9hmuYWHhMS1FkNAGDjuDo3MxXHOiI3mhbE&s=10",
 
-      "",
+      "https://www.health.com/thmb/HnbpEt_RFIOZBz2IFF9UDCTLKxc=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc()/accare-thrasio-pulse-oximeter-Leticia-Almeida-photo-04-c60a9567387e4d718e7645fe06b90b75.jpeg",
 
-      ""
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6K99O3JijJNtH6RXYAa8qbYPbMdjDXtH1s4Vxnkhcmg&s=10"
 
     ],
 
     description:
-      "",
+      "Pulse oximeter",
 
-    price: " FCFA",
+    price: "8000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+       "SpO₂ measurement range: 70–100%",
+  "Pulse rate range: 30–250 bpm",
+  "Accuracy: ±2% SpO₂, ±2 bpm pulse rate",
+  "OLED/LCD display with finger clip design"
     ],
 
     fullDescription:
-      ""
+      "A Pulse Oximeter is a non-invasive medical device used to measure arterial oxygen saturation (SpO₂) and pulse rate quickly and accurately. It operates by emitting red and infrared light through the fingertip to determine blood oxygen levels. The device features a bright OLED or LCD display, automatic power-off, low power consumption, and a compact finger-clip design for easy portability. It is widely used in hospitals, clinics, emergency care, medical school laboratories, and home healthcare for monitoring respiratory and cardiovascular status."
   },
 
    {
     id: 5105,
 
-    slug: "",
+    slug: "Kidney dish ",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Kidney dish ",
 
     badge: "in-stock",
 
     image:
-      "",
+      "https://mortech.co.nz/image/cache/catalog/Instruments/kidney%20dish-320x320.jpg",
 
     images: [
 
-      "",
+      "https://www.clinihealth.co.za/wp-content/uploads/2021/06/Kidney-Dish-1-scaled.jpg",
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSPFzVge5mawor7MPylDKvMfe5opJDvqrPtblbQgpvYTM0ZVgNS3oc2Jk&s=10",
 
-      ""
+      "https://www.hemcmedical.com/wp-content/uploads/2025/02/Kidney-Tray-Types-and-Benefits-1.jpg"
 
     ],
 
     description:
-      "",
+      "Kidney dish",
 
-    price: " FCFA",
+    price: "5000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Capacity: 250–700 mL",
+  "Medical-grade stainless steel or polypropylene",
+  "Kidney-shaped ergonomic design",
+  "Autoclavable and reusable"
     ],
 
     fullDescription:
-      ""
+      "A Kidney Dish is a kidney-shaped medical tray used to collect surgical instruments, dressings, body fluids, and medical waste during clinical procedures. Manufactured from high-quality stainless steel or durable polypropylene, it is resistant to corrosion, easy to clean, and suitable for repeated sterilization. It is widely used in hospitals, clinics, operating theatres, laboratories, and medical school practical sessions for maintaining a clean and organized working environment."
   },
 
   {
     id: 5106,
 
-    slug: "",
+    slug: "Stethoscope ",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Stethoscope ",
 
     badge: "best-seller",
 
     image:
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp7p8MpPxZz3z-4-3nRiJP1ZyPMoIluYles0bpMqDgz4GH91A2-q-f9b5A&s=10",
 
     images: [
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp7p8MpPxZz3z-4-3nRiJP1ZyPMoIluYles0bpMqDgz4GH91A2-q-f9b5A&s=10",
 
-      "",
+      "https://dktoyz.com/cdn/shop/files/Stethoscope_pretend_play.webp?v=1742445923",
 
-      ""
+      "https://rukmini1.flixcart.com/image/300/300/kxrvi4w0/stethoscope/o/q/b/littmann-classic-iii-stethoscope-black-tube-27-inch-5620-dual-original-imaga5u8xdfqtfem.jpeg"
 
     ],
 
     description:
-      "",
+      "Acoustic stethoscope",
 
-    price: " FCFA",
+    price: "15000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+       "Dual-head chest piece (adult diaphragm & bell)",
+  "High-acoustic sensitivity stainless steel chest piece",
+  "Latex-free Y-tubing with soft ear tips",
+  "Suitable for adult general clinical examination"
     ],
 
     fullDescription:
-      ""
+      "A Stethoscope is an essential diagnostic instrument used to auscultate heart, lung, bowel, and vascular sounds during physical examination. It features a high-acoustic sensitivity dual-head chest piece, durable latex-free tubing, and comfortable soft-sealing ear tips for clear sound transmission. Designed for reliability and comfort, it is widely used in hospitals, clinics, emergency departments, medical schools, and teaching laboratories for routine patient assessment and clinical training."
   },
 
   {
     id: 5107,
 
-    slug: "",
+    slug: "Otoscope",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Otoscope",
 
     badge: "in-stock",
 
     image:
-      "",
+      "https://cdn11.bigcommerce.com/s-irr3ntsf5r/images/stencil/1280x1280/products/307/454/5211__88261.1529071737.jpg?c=2",
 
     images: [
 
-      "",
+      "https://cdn11.bigcommerce.com/s-irr3ntsf5r/images/stencil/1280x1280/products/307/454/5211__88261.1529071737.jpg?c=2",
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRswdLMXZf4oklv7cA_MBw7M3yWxkJTcqJkxYpFPCBnnczCY8vlSUmCxGAn&s=10",
 
-      ""
+      "https://www.adctoday.com/sites/default/files/styles/main_product_image/public/product_images/5210_0.jpg?itok=OI67lS0k"
 
     ],
 
     description:
-      "",
+      "Diagnostic otoscope",
 
-    price: " FCFA",
+    price: "15000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "LED or halogen illumination",
+  "Magnification: 3× viewing lens",
+  "Reusable specula (2.5 mm & 4.0 mm)",
+  "Battery-operated handheld device"
     ],
 
     fullDescription:
-      ""
+      "An Otoscope is a handheld diagnostic instrument used to examine the external auditory canal and tympanic membrane (eardrum). It provides bright illumination and magnification for accurate assessment of ear conditions such as infections, wax impaction, inflammation, and foreign bodies. The device is supplied with interchangeable ear specula and is widely used in hospitals, ENT clinics, general practice, emergency departments, and medical school practical laboratories for teaching and clinical examinations."
   },
 
   {
     id: 5108,
 
-    slug: "",
+    slug: "First Aid Box ",
 
     category: "Medical Science",
 
-    name: "",
+    name: "First Aid Box ",
 
     badge: "new",
 
     image:
-      "",
+      "https://ph-live-01.slatic.net/p/ba6969dc26380ac3215274f829e7dffc.jpg",
 
     images: [
 
-      "",
+      "https://m.media-amazon.com/images/I/71ZLSY2-NuL._AC_UF1000,1000_QL80_.jpg",
 
-      "",
+      "https://market99.com/cdn/shop/files/market99-rectangular-polyester-first-aid-box-pillboxes-11-29022273110186_2048x.jpg?v=1737472855",
 
-      ""
+      "https://clinicaromero.com/wp-content/uploads/2025/09/first-aid-kit-screenshot.png"
 
     ],
 
     description:
-      "",
+      "First aid box",
 
-    price: " FCFA",
+    price: "10000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+     "Durable ABS plastic or metal case",
+  "Multiple compartments for medical supplies",
+  "Portable with secure locking mechanism",
+  "Suitable for clinics, schools, laboratories, and workplaces"
     ],
 
     fullDescription:
-      "."
+      "A First Aid Box is a portable medical kit designed to store essential supplies for the immediate treatment of minor injuries and medical emergencies. It typically contains adhesive bandages, sterile gauze, adhesive tape, antiseptic solution, cotton wool, scissors, forceps, disposable gloves, a triangular bandage, safety pins, and other basic first aid items. Constructed from durable plastic or metal, it provides organized storage and easy access to emergency supplies. It is widely used in hospitals, clinics, schools, laboratories, offices, and industrial workplaces to ensure prompt first aid before advanced medical care is available."
   },
 
   {
     id: 5109,
 
-    slug: "",
+    slug: "Drip stand ",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Drip stand",
 
     badge: "best-seller",
 
     image:
-      "",
+      "https://m.media-amazon.com/images/I/31QmHZFEcrL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_QL100_.jpg",
 
     images: [
 
-      "",
+      "https://halomedicals.com/usa/wp-content/uploads/2020/08/Drip-Stann.jpg",
 
-      "",
+      "https://www.medicalequipmentsupplieskenya.com/product-images/drip-stand-202401232308.jpg",
 
-      ""
+      "https://www.filmmedical.co.uk/images/stock/20210115_094016.jpg"
 
     ],
 
     description:
-      "",
+      "IV drip stand",
 
-    price: " FCFA",
+    price: "8000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Adjustable height: 120–210 cm",
+  "Stainless steel or chrome-plated frame",
+  "2–4 hook IV bag support system",
+  "Stable base with wheels or fixed legs"
     ],
 
     fullDescription:
-      ""
+      "A Drip Stand (IV Pole) is a medical support device used to hold intravenous fluid bags during administration to patients. It features an adjustable height mechanism, multiple hooks for hanging IV bags or infusion bottles, and a stable base for safety during clinical use. Made from stainless steel or chrome-plated metal, it is corrosion-resistant, durable, and easy to clean. It is widely used in hospitals, clinics, emergency rooms, wards, and medical school practical training for safe and effective IV fluid delivery."
   },
 
   {
     id: 5110,
 
-    slug: "",
+    slug: "Inferred thermometer ",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Inferred thermometer ",
 
     badge: "in-stock",
 
     image:
-      "",
+      "https://cpimg.tistatic.com/08471626/b/4/Medical-Infrared-Forehead-Thermometer.jpg",
 
     images: [
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5i7pVAmjM0ZhxQURFt-L15YDR9e40WsQsQNOSRMzVkvs4RCHkghiIWcQ&s=10",
 
-      "",
+      "https://cdn01.pharmeasy.in/dam/products_otc/B27094/jumper-non-contact-ir-thermometer-jpd-fr202-2-1632779948.jpg?dim=400x0&dpr=1&q=100",
 
-      ""
+      "https://rukminim2.flixcart.com/image/480/640/xif0q/digital-thermometer/e/2/d/he-taida-infrared-contactless-gun-thermometer-for-kids-adults-original-imagyhmyfjzud7gr.jpeg?q=90"
 
     ],
 
     description:
-      "",
+      "Infrared thermometer",
 
-    price: " FCFA",
+    price: "8000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Non-contact measurement (1–5 cm distance)",
+  "Measurement range: 32.0–42.9°C (body mode)",
+  "Accuracy: ±0.2°C",
+  "Digital LCD display with fever alarm"
     ],
 
     fullDescription:
-      ""
+      "An Infrared Thermometer is a non-contact medical device used to measure body temperature quickly and safely by detecting infrared heat emitted from the forehead or other body surfaces. It provides fast readings within seconds, reducing cross-contamination risk. The device features a digital LCD display, fever alert system, memory function, and switchable body/object modes. It is widely used in hospitals, clinics, airports, schools, and medical laboratories for rapid temperature screening and infection control."
   },
 
   {
     id: 5111,
 
-    slug: "",
+    slug: "Reflex hammer ",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Reflex hammer ",
 
     badge: "best-seller",
 
     image:
-      "",
+      "https://cdn.shopify.com/s/files/1/0046/4751/8326/products/V00121__1.jpg?v=1571709880",
 
     images: [
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzqd4OgluP8dE8B1aVlavZevkfdstLg3JjD-Vf-JsBXkDoZgykvvAFl74&s=10",
 
-      "",
+      "https://cdn.shopify.com/s/files/1/0046/4751/8326/products/V00121__16.jpg?v=1571709880",
 
-      ""
+      "https://m.media-amazon.com/images/I/61GCukg8ZXL._AC_UF1000,1000_QL80_.jpg"
 
     ],
 
     description:
-      "",
+      "Neurological reflex hammer",
 
-    price: " FCFA",
+    price: "15000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Stainless steel or rubber head design",
+  "Used for deep tendon reflex testing",
+  "Lightweight ergonomic handle",
+  "Common types: Buck, Taylor, Babinski"
     ],
 
     fullDescription:
-      ""
+      "A Reflex Hammer is a neurological examination instrument used to test deep tendon reflexes in patients. It helps assess the integrity of the nervous system by eliciting reflex responses such as knee jerk, ankle jerk, and biceps reflex. The hammer is designed with a weighted head made of rubber or metal and an ergonomic handle for precise control. It is widely used in hospitals, clinics, neurology departments, and medical school laboratories for neurological assessment and clinical training."
   },
 
   {
     id: 5112,
 
-    slug: "",
+    slug: "Surgical suture",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Surgical suture",
 
     badge: "in-stock",
 
     image:
-      "",
+      "https://cpt-sutures.com/wp-content/uploads/2020/09/CARESORB-PLUS-POLYGLACTIN-910-ANTIBACTERIAL-CPT-SUTURES-800x510.jpg",
 
     images: [
 
-      "",
+      "https://cpt-sutures.com/wp-content/uploads/2020/09/CARESORB-PLUS-POLYGLACTIN-910-ANTIBACTERIAL-CPT-SUTURES-800x510.jpg",
 
-      "",
+      "https://cpt-sutures.com/wp-content/uploads/2020/09/CARESORB-RAPID-POLYGLACTIN-910-CPT-SUTURES-2-800x510.jpg",
 
-      ""
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe3BQNDM6K5gpxXn09KsbBMYZwwnTgXlba1B_MIyq3iA&s=10"
 
     ],
 
     description:
-      "",
+      "Surgical suture",
 
-    price: " FCFA",
+    price: "3000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Absorbable or non-absorbable material",
+  "Common sizes: 2/0, 3/0, 4/0, 5/0",
+  "Sterile, single-use with attached needle",
+  "Pack contains 12–36 sutures depending on type"
     ],
 
     fullDescription:
-      ""
+      "A Surgical Suture is a sterile medical thread used to close wounds, surgical incisions, and tissue lacerations to promote healing. It is available in absorbable materials such as Vicryl or Catgut, and non-absorbable materials such as Nylon or Silk. Each suture is pre-attached to a surgical needle for precise tissue penetration and secure wound closure. Surgical sutures are widely used in hospitals, operating theatres, clinics, emergency departments, and medical school practical training for wound management and surgical procedures."
   },
 
   {
     id: 5113,
 
-    slug: "",
+    slug: "Ambu bags ",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Ambu bags ",
 
     badge: "new",
 
     image:
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjXDjvb9bzltyh5FaMIyO4UYWwQsm-3DLMEvmkPulr2lYiO9vqkcP_GvI&s=10",
 
     images: [
 
-      "",
+      "https://firstaidcanada.com/wp-content/uploads/2018/10/products-fac-17700_17701_ambu_spur_ii_resuscitator_adult_pediatric-600x322.jpg",
 
-      "",
+      "https://m.media-amazon.com/images/I/41fJriCc+VL._AC_UF1000,1000_QL80_.jpg",
 
-      ""
+      "https://i.ebayimg.com/images/g/8ioAAOSwLURbV1Uu/s-l1200.jpg"
 
     ],
 
     description:
-      "",
+      "Manual resuscitator bag",
 
-    price: " FCFA",
+    price: "15000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Adult/child/neonate sizes available",
+  "Self-inflating silicone or PVC bag",
+  "Oxygen reservoir with mask set",
+  "Delivers 100% oxygen with proper supply"
     ],
 
     fullDescription:
-      "."
+      "An Ambu Bag (Bag Valve Mask) is a manual resuscitation device used to provide positive pressure ventilation to patients who are not breathing adequately or at all. It consists of a self-inflating bag, patient valve, oxygen reservoir, and face mask. When connected to an oxygen source, it can deliver near 100% oxygen to the lungs. It is widely used in emergency rooms, ambulances, operating theatres, intensive care units, and medical school training for life-saving respiratory support and CPR procedures."
   },
 
   {
     id: 5114,
 
-    slug: "",
+    slug: "Plasters ",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Plasters ",
 
     badge: "best-seller",
 
     image:
-      "",
+      "https://m.media-amazon.com/images/I/81MfiBMxWvL.jpg",
 
     images: [
 
-      "",
+      "https://www.safetyfirstaid.co.uk/images/products/large/D9010.jpg",
 
-      "",
+      "https://phabcart.imgix.net/cdn/scdn/images/uploads/plaster-packs_46484.jpg",
 
-      ""
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQryG7Z0yoCx3MLZE44vcYHCXniLJ1Qm1WeE--qbrxT1UwrrAiGlhUCoP08&s=10"
 
     ],
 
     description:
-      "",
+      "Adhesive bandages",
 
-    price: " FCFA",
+    price: "3500 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Sterile adhesive strips",
+  "Hypoallergenic medical-grade adhesive",
+  "Breathable wound protection pad",
+  "Available in assorted sizes"
     ],
 
     fullDescription:
-      ""
+      "Plasters (adhesive bandages) are sterile medical dressings used to cover small cuts, wounds, and abrasions to protect them from infection and contamination. They consist of an absorbent non-stick pad and an adhesive backing that secures the dressing to the skin. Made from hypoallergenic materials, they allow the wound to heal while keeping it clean and protected. They are widely used in hospitals, clinics, schools, homes, and first aid kits for basic wound care."
   },
 
    {
     id: 5115,
 
-    slug: "",
+    slug: "Spectrophotometer ",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Spectrophotometer ",
 
     badge: "in-stock",
 
     image:
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN2pXrlELnNazUcp4QD0PWOY3VgjN4EV7JwF2nJzZ-Bhpnr61jKkYRhzo&s=10",
 
     images: [
 
-      "",
+      "https://m.media-amazon.com/images/I/51WeqAjdaoL.jpg",
 
-      "",
+      "https://image.made-in-china.com/202f0j00urgUZnfGahkS/Low-Cost-Spectrophotometer-with-Ce-Certificate.webp",
 
-      ""
+      "https://m.media-amazon.com/images/I/51tE50YJeQL.jpg"
 
     ],
 
     description:
-      "",
+      "UV-Vis spectrophotometer",
 
-    price: " FCFA",
+    price: "450000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+   "Wavelength range: 190–1100 nm",
+  "Accuracy: ±1 nm wavelength precision",
+  "Digital LCD/PC interface output",
+  "Cuvette-based sample holder (1 cm path length)"
     ],
 
     fullDescription:
-      ""
+      "A Spectrophotometer is a laboratory instrument used to measure the absorbance or transmittance of light by a chemical or biological sample at specific wavelengths. It is widely used in clinical chemistry, biochemistry, microbiology, and research laboratories to determine concentrations of substances such as proteins, enzymes, nucleic acids, and drugs. The UV-Visible spectrophotometer operates in the 190–1100 nm range and provides highly accurate quantitative and qualitative analysis. It is essential in medical school laboratories for teaching and experimental analysis of biochemical reactions."
   },
 
   {
     id: 5116,
 
-    slug: "",
+    slug: "Ultrasound machine ",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Ultrasound machine ",
 
-    badge: "best-seller",
+    badge: "new",
 
     image:
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFQDMd2r53eFYOv_KJ4t6dt3bRpF-dGkotVNaLbenHDQW_LDK9frNTJo&s=10",
 
     images: [
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3kpRq0x_YywiUrYWujFryYMU64P1z-HqfNLyoEk5Rn6MbI6SFTVCk8k&s=10",
 
-      "",
+      "https://s.alicdn.com/@sc04/kf/Hffcf3c8c6dcf4669836825eb8abc8871i/279681428/Hffcf3c8c6dcf4669836825eb8abc8871i.jpg",
 
-      ""
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSklVH8K4mIbJae67XS2RHZyBZnPt5GPnNnNX4mzoOgRGwjA-6llzScC9A&s=10"
 
     ],
 
     description:
-      "",
+      "Ultrasound scanner",
 
-    price: " FCFA",
+    price: "1200000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Imaging modes: B-mode, M-mode, Doppler (optional)",
+  "Probe frequency: 2–12 MHz depending on transducer",
+  "LCD monitor: 12–15 inch high-resolution display",
+  "Portable or trolley-based system with multiple probes"
     ],
 
     fullDescription:
-      ""
+      "An Ultrasound Machine is a diagnostic imaging device that uses high-frequency sound waves to produce real-time images of internal organs, tissues, and blood flow. It is widely used in obstetrics, gynecology, cardiology, abdominal imaging, and emergency medicine. The system includes various transducers (probes) with different frequencies for specific clinical applications, such as fetal monitoring and organ examination. Advanced models include Doppler imaging for blood flow assessment. It is essential in hospitals, imaging centers, clinics, and medical training institutions."
   },
 
   {
     id: 5117,
 
-    slug: "",
+    slug: "Centrifuge 6 tubes ",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Centrifuge 6 tubes ",
 
     badge: "in-stock",
 
     image:
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS31IUXqy_Nqq7RZZBofGtPZ3bI_fTy9GxOqniOyEQVgQ&s=10",
 
     images: [
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS31IUXqy_Nqq7RZZBofGtPZ3bI_fTy9GxOqniOyEQVgQ&s=10",
 
-      "",
+      "https://dalitsolutions.com/wp-content/uploads/2023/12/Centrifuge-Omega-6-Tubes-Dalit-Solutions.jpg",
 
-      ""
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSQAi6CmVs4Pyd_9z6Pecw06TZQSKxORsgnZRyc1R0gjgGQtHKRynW-_Ei&s=10"
 
     ],
 
     description:
-      "",
+      "6-place centrifuge",
 
-    price: " FCFA",
+    price: "55000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+       "Rotor capacity: 6 tubes",
+  "Tube size: 5–15 mL (adaptable holders)",
+  "Speed range: 0–4000 rpm (varies by model)",
+  "Digital or analog speed control"
     ],
 
     fullDescription:
-      ""
+      "A 6-place Centrifuge is a laboratory instrument used to separate components of biological fluids based on density by spinning samples at high speed. It accommodates up to six test tubes at a time and is commonly used for blood separation, urine analysis, and sample preparation in clinical chemistry and hematology. The machine operates using a motor-driven rotor with adjustable speed settings, allowing efficient and controlled sedimentation of particles. It is widely used in hospitals, diagnostic laboratories, research centers, and medical school practical laboratories."
   },
 
   {
     id: 5118,
 
-    slug: "",
+    slug: "Olympus microscope ",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Olympus microscope ",
 
     badge: "new",
 
     image:
-      "",
+      "https://www.bioimager.com/wp-content/uploads/2019/09/Olympus-CX23.jpg",
 
     images: [
 
-      "",
+      "https://www.bioimager.com/wp-content/uploads/2019/09/Olympus-CX23.jpg",
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4ij_dxSF5MAoOqE4uHkI6uHUxw9zFXXNzja6_cv378N31Xo5zB1njvCc&s=10",
 
-      ""
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT0gZGz38vxa061c-NGeXx5-nyawheiYfsCU3RSvcOBNIdKN7V4pg_hB8&s=10"
 
     ],
 
     description:
-      "",
+      "Olympus microscope",
 
-    price: " FCFA",
+    price: "350000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Binocular compound microscope",
+  "Magnification: 40×–1000× (oil immersion 100×)",
+  "LED or halogen illumination system",
+  "Coarse and fine focusing with mechanical stage"
     ],
 
     fullDescription:
-      "."
+      "An Olympus Microscope is a high-quality compound optical microscope designed for detailed observation of biological specimens. It provides magnification from 40× to 1000× using interchangeable objective lenses, including oil immersion for high-resolution viewing. Known for its excellent optical clarity and durability, it is widely used in pathology, microbiology, hematology, and research laboratories. It is also a standard teaching instrument in medical schools for practical demonstrations and student training in histology and microbiology."
   },
 
   {
     id: 5119,
 
-    slug: "",
+    slug: "Trinocular microscope with screen ",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Trinocular microscope with screen ",
 
-    badge: "best-seller",
+    badge: "new",
 
     image:
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-63rq1dT4bvnqN6NnvZKfECufHycXZ2JkKj2eMSMmFbljRUHdqc2a-5V8&s=10",
 
     images: [
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuOs4aZT8TFt4w7vGnihcncEH0sxK5ABDiUnhCr-Y2oy8AJK8E_E7RCvuJ&s=10",
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmepsB6OrthsbqVLT0iflpWiY7UnJNWzrLzp_8HyGbBPrBN9ZPBgi8B_k&s=10",
 
-      ""
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpaNAZ0mkcTPf4AJZ2Qpz1bSS6y4_w8Qam1crHmBnl50vq3OPim7-uQul9&s=10"
 
     ],
 
     description:
-      "",
+      "Trinocular digital microscope",
 
-    price: " FCFA",
+    price: "400000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Trinocular head with camera port",
+  "Magnification: 40×–1000× (oil immersion 100×)",
+  "Built-in or external LCD screen (7–10 inch)",
+  "LED illumination with coarse and fine focus"
     ],
 
     fullDescription:
-      ""
+      "A Trinocular Microscope with Screen is an advanced compound microscope designed for both direct viewing and digital display of microscopic images. It features a trinocular head that allows attachment of a digital camera, which transmits real-time images to an integrated LCD screen or external monitor. With magnification up to 1000×, including oil immersion capability, it is suitable for detailed observation of cells, bacteria, and tissue samples. It is widely used in pathology, microbiology, hematology, research laboratories, and medical school training for teaching, diagnosis, and documentation purposes."
   },
 
    {
     id: 5120,
 
-    slug: "",
+    slug: "Micropipette 100ul",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Micropipette 100ul",
 
     badge: "in-stock",
 
     image:
-      "",
+      "https://www.cnwtc.com/uploads/202132262/manual-fully-half-autoclavable-micro-fixed07432002394.jpg",
 
     images: [
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXVFD4mCyBH7lBkAgtFQXDstvUhgiptti3pI540hIVrHhd-U1coQVgI82G&s=10",
 
-      "",
+      "https://proscitech.com.au/cdn/shop/files/LLC-550-SCP_800x.png?v=1780546950",
 
-      ""
+      "https://www.cnwtc.com/uploads/202132262/manual-fully-half-autoclavable-micro-fixed07432002394.jpg"
 
     ],
 
     description:
-      "",
+      "Adjustable micropipette",
 
-    price: " FCFA",
+    price: "12000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Volume range: 20–100 µL",
+  "Accuracy: ±0.8% at full volume",
+  "Autoclavable tip cone and ejector",
+  "Compatible with 20–200 µL blue pipette tips"
     ],
 
     fullDescription:
-      ""
+      "An Adjustable Micropipette 100 µL is a precision laboratory instrument designed for accurate aspiration and dispensing of liquid volumes between 20 and 100 µL. It features an ergonomic one-hand operation, digital volume adjustment, and a tip ejector for contamination-free handling. The autoclavable lower assembly ensures easy sterilization and long service life. It is widely used in molecular biology, microbiology, clinical chemistry, hematology, research laboratories, and medical school practical sessions for precise liquid handling."
   },
 
   {
     id: 5121,
 
-    slug: "",
+    slug: "Pipette holder",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Pipette holder",
 
     badge: "best-seller",
 
     image:
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWdB8wu7m4ooq_jHxrzRTdcPTC5i2BpQFs_grdky5M1zEXRh3SBGVShw5V&s=10",
 
     images: [
 
-      "",
+      "https://iprymed.com/wp-content/uploads/2024/08/WhatsApp-Image-2024-08-21-at-11.01.58.jpeg",
 
-      "",
+      "https://m.media-amazon.com/images/I/61cBPzZ22kL.jpg",
 
-      ""
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH7GlET9Nxcs8IUPGxohqBlleFzUnr9VbCWUedHfTrfKEOX0Ovn3JQ2Lwx&s=10"
 
     ],
 
     description:
-      "",
+      "Micropipette stand",
 
-    price: " FCFA",
+    price: "12000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Holds 4–6 micropipettes",
+  "Durable ABS plastic construction",
+  "Stable non-slip base",
+  "Compatible with most pipette brands"
     ],
 
     fullDescription:
-      ""
+      "A Pipette Holder (Micropipette Stand) is a laboratory accessory designed for the safe storage and organization of micropipettes when not in use. It keeps pipettes in a vertical position to protect internal components from damage and contamination while improving workspace organization. Constructed from durable ABS plastic or metal, it is compatible with most single-channel and multi-channel micropipettes used in clinical, research, microbiology, and medical school laboratories."
   },
 
   {
     id: 5122,
 
-    slug: "",
+    slug: "Sony echography printer ",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Sony echography printer ",
 
     badge: "in-stock",
 
     image:
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8KHf1hZiTZ3hgVe6ECTekBYO0yPGJU-ZWZyRUTCiVNY-Ualbk1nMdxjY&s=10",
 
     images: [
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8KHf1hZiTZ3hgVe6ECTekBYO0yPGJU-ZWZyRUTCiVNY-Ualbk1nMdxjY&s=10",
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd4at4Ll-E6j-2Fehx02fNbGvmfn-3AU-EQfQDqmjG0TRicnWgE9XgaPLq&s=10",
 
-      ""
+      "https://image.made-in-china.com/202f0j00GTtYARNaFpzV/Sony-New-Ultrasound-Printer-Thermal-Printer-up-X898MD-.webp"
 
     ],
 
     description:
-      "",
+      "Sony ultrasound printer",
 
-    price: " FCFA",
+    price: "600000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Thermal black-and-white printing",
+  "Compatible with ultrasound imaging systems",
+  "High-resolution medical image output",
+  "Supports Sony thermal print media"
     ],
 
     fullDescription:
-      ""
+      "A Sony Echography Printer is a high-resolution medical thermal printer designed for printing diagnostic ultrasound (echography) images. Common models such as the Sony UP-897MD and UP-X898MD produce fast, high-quality monochrome prints with excellent image clarity for patient records and clinical documentation. The printer connects directly to compatible ultrasound systems and uses Sony medical-grade thermal paper. It is widely used in radiology departments, obstetrics and gynecology clinics, cardiology units, hospitals, imaging centers, and medical school teaching laboratories."
   },
 
   {
     id: 5123,
 
-    slug: "",
+    slug: "Echo gel 	5L ",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Echo gel 	5L ",
 
     badge: "new",
 
     image:
-      "",
+      "https://parapharmacieplus.tn/media/produits/gel-echo-bidon-5-litres_1754907188_1754907188.webp",
 
     images: [
 
-      "",
+      "https://parapharmacieplus.tn/media/produits/gel-echo-bidon-5-litres_1754907188_1754907188.webp",
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh8vO7W_FQEpHk29ZaRUXmf2b7tWtcqCqrSGIMFu0yag&s",
 
-      ""
+      "https://www.1sante.com/annonces/wp-content/uploads/2024/10/GEL.png"
 
     ],
 
     description:
-      "",
+      "Ultrasound gel",
 
-    price: " FCFA",
+    price: "18000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Volume: 5 L",
+  "Water-based, non-sterile conductive gel",
+  "Salt-free, non-irritating, and hypoallergenic",
+  "Compatible with all ultrasound and Doppler systems"
     ],
 
     fullDescription:
-      "."
+      "Ultrasound Gel 5 L is a high-quality, water-based conductive gel formulated to provide excellent acoustic coupling between the ultrasound transducer and the patient's skin. It enhances the transmission of ultrasonic waves, ensuring clear, high-resolution diagnostic images while eliminating air pockets that interfere with scanning. The gel is non-greasy, hypoallergenic, odorless, salt-free, and easy to wipe off after examination. It is widely used in radiology, obstetrics, cardiology, physiotherapy, hospitals, diagnostic imaging centers, and medical school practical laboratories."
   },
 
   {
     id: 5124,
 
-    slug: "",
+    slug: "Autoclave 24L",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Autoclave 24L",
 
     badge: "best-seller",
 
     image:
-      "",
+      "https://i0.wp.com/arauphar.com/site/wp-content/uploads/2025/06/AUTOCLAVE-24L-01-scaled.png?fit=2560%2C2560&ssl=1",
 
     images: [
 
-      "",
+      "https://i.ebayimg.com/images/g/gIsAAOSwcVBkqRJn/s-l1200.jpg",
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBHH8RYBd7fRPoGpr_67PF9OTF5EvoKakigS5H9zXTYeia5kfwAoT_pCk&s=10",
 
-      ""
+      "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/31/8413292/1.jpg?8842"
 
     ],
 
     description:
-      "",
+      "Steam autoclave",
 
-    price: " FCFA",
+    price: "250000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Capacity: 24 L",
+  "Sterilization temperature: 121°C–134°C",
+  "Operating pressure: 15–30 psi (0.10–0.21 MPa)",
+  "Stainless steel chamber with safety valve"
     ],
 
     fullDescription:
-      ""
+      "A 24 L Steam Autoclave is a laboratory sterilization device that uses saturated steam under pressure to eliminate bacteria, viruses, fungi, and bacterial spores from medical instruments, laboratory glassware, culture media, and other reusable equipment. It features a durable stainless steel chamber, adjustable sterilization cycle, temperature and pressure gauges, automatic pressure release, and multiple safety protection systems. Suitable for hospitals, diagnostic laboratories, research centers, and medical school practical laboratories, it ensures reliable and efficient sterilization in compliance with standard laboratory practices."
   },
 
    {
     id: 5125,
 
-    slug: "",
+    slug: "Incubator 	24L",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Incubator 	24L",
 
     badge: "in-stock",
 
     image:
-      "",
+      "https://douyeebiomed.com/wp-content/uploads/2024/07/706-BJPX-HxxxIV-1.png",
 
     images: [
 
-      "",
+      "https://image.made-in-china.com/202f0j00GyehCiWSkwkf/18L-24L-30L-50L-80L-252L-Drying-Oven-Incubator-Machine-Laboratory-Incubator.webp",
 
-      "",
+      "https://sc04.alicdn.com/kf/H357553eb4f8a4b3cbe3bdb39a0bb6bd5E.jpg",
 
-      ""
+      "https://sc04.alicdn.com/kf/Hb2b0332c7d3347bd91c14b1175daa19cM.jpg_350x350.jpg"
 
     ],
 
     description:
-      "",
+      "Laboratory incubator",
 
-    price: " FCFA",
+    price: "250000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Capacity: 24 L",
+  "Temperature range: Ambient +5°C to 70°C",
+  "Temperature accuracy: ±0.5°C",
+  "Digital temperature controller with stainless steel chamber"
     ],
 
     fullDescription:
-      ""
+      "A 24 L Laboratory Incubator is a temperature-controlled instrument designed for the incubation and growth of microorganisms, cell cultures, and biological specimens under stable conditions. It features a corrosion-resistant stainless steel chamber, digital temperature control, uniform forced-air or natural convection heating, and adjustable shelving for efficient sample organization. The incubator provides precise temperature regulation, making it ideal for microbiology, bacteriology, clinical diagnostics, research laboratories, and medical school practical training."
   },
 
   {
     id: 5126,
 
-    slug: "",
+    slug: "Thermometer incubator ",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Thermometer incubator ",
 
     badge: "best-seller",
 
     image:
-      "",
+      "https://zeisetequip.b-cdn.net/wp-content/uploads/FRDTK.png",
 
     images: [
 
-      "",
+      "https://m.media-amazon.com/images/I/61FKjqLlkrL.jpg",
 
-      "",
+      "https://m.media-amazon.com/images/I/61WaujPkviL.jpg",
 
-      ""
+      "https://thumbs.dreamstime.com/b/mercury-thermometer-wood-wooden-analog-usually-used-to-measure-room-temperature-as-incubator-gauge-282841597.jpg"
 
     ],
 
     description:
-      "",
+      "Incubator thermometer",
 
-    price: " FCFA",
+    price: "10000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Temperature range: 0–100°C",
+  "Accuracy: ±1°C",
+  "Alcohol or mercury-filled laboratory thermometer",
+  "Suitable for incubators and laboratory ovens"
     ],
 
     fullDescription:
-      ""
+      "An Incubator Thermometer is a precision laboratory thermometer used to monitor and verify the internal temperature of laboratory incubators, microbiological incubators, and drying ovens. It provides accurate temperature readings to ensure optimal conditions for microbial culture growth and other laboratory procedures. Available in alcohol-filled or mercury-free liquid-in-glass designs, it is widely used in hospitals, clinical laboratories, research institutions, and medical school practical laboratories for routine temperature monitoring and quality control."
   },
 
   {
     id: 5127,
 
-    slug: "",
+    slug: "ESR Westergren",
 
     category: "Medical Science",
 
-    name: "",
+    name: "ESR Westergren",
 
     badge: "in-stock",
 
     image:
-      "",
+      "https://www.med-may.com/uploads/product/20220925/0b5dde46aff84092761a4ad24891ad3b.jpg",
 
     images: [
 
-      "",
+      "https://medicare-group.hu/wp-content/uploads/2022/02/vvt_sullyedes.jpg",
 
-      "",
+      "https://microsidd.com/cdn/shop/products/0001825_esrpipettepackof100.webp?v=1685445375",
 
-      ""
+      "https://fcdn.goodq.top/caches/beb29f40b2aa2b440a3c3a12a4c86ff9/aHR0cHM6Ly93d3cuYm9lbm1lZGljYWwuY29tL3FmeS1jb250ZW50L3VwbG9hZHMvMjAyNS8wNi9iNzRjYjI5ZDg3Nzg4Y2Q1ZGNiZWNjZDAzZmZhMDkzZi5wbmc_p_p100_p_2FYWktbm8tY2FjaGU9dHJ1ZQ_p_p100_p_3D_p_p100_p_3D.png"
 
     ],
 
     description:
-      "",
+      "Westergren ESR set",
 
-    price: " FCFA",
+    price: "35000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+       "Measurement range: 0–200 mm/hour",
+  "200 mm Westergren graduated pipette",
+  "Compatible with 3.8% sodium citrate blood samples",
+  "Includes ESR stand/rack and pipette holder"
     ],
 
     fullDescription:
-      ""
+      "The Westergren ESR Set is a laboratory system used to determine the erythrocyte sedimentation rate (ESR), an important hematology test for detecting inflammation, infections, and autoimmune disorders. The set typically consists of a 200 mm graduated Westergren pipette, an ESR stand or rack, and a secure pipette holder. It is designed for use with blood anticoagulated using **3.8% sodium citrate** in the standard **4:1 blood-to-anticoagulant ratio**, ensuring accurate and reproducible ESR measurements according to the Westergren reference method. It is widely used in hospitals, diagnostic laboratories, research institutions, and medical school practical laboratories."
   },
 
   {
     id: 5128,
 
-    slug: "",
+    slug: "Laboratory chair ",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Laboratory chair ",
 
     badge: "new",
 
     image:
-      "",
+      "https://img.waimaoniu.net/2587/2587-202405211731348059.jpg",
 
     images: [
 
-      "",
+      "https://img.waimaoniu.net/2587/2587-202405211731348059.jpg",
 
-      "",
+      "https://mcsarpongmedicalsupplies.com/wp-content/uploads/2024/07/Lab-mcsarpong.webp",
 
-      ""
+      "https://www.chennaichairs.com/images/thumbs/0008099_draughtsman-laboratory-stool_550.webp"
 
     ],
 
     description:
-      "",
+      "Laboratory chair",
 
-    price: " FCFA",
+    price: "35000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+       "Height-adjustable: 45–65 cm",
+  "PU or vinyl padded seat",
+  "360° swivel with five-wheel base",
+  "Steel frame with 120 kg load capacity"
     ],
 
     fullDescription:
-      "."
+      "A Laboratory Chair is an ergonomic seating solution designed for use in laboratories, hospitals, clinics, and medical school practical rooms. It features a height-adjustable gas lift, a durable PU or vinyl cushioned seat that is resistant to chemicals and easy to disinfect, and a stable five-star base with smooth-rolling castors for mobility. The 360° swivel design provides comfort and flexibility during prolonged laboratory work, making it ideal for research, clinical diagnostics, and educational laboratories."
   },
 
   {
     id: 5129,
 
-    slug: "",
+    slug: "Sample collection chair ",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Sample collection chair ",
 
     badge: "best-seller",
 
     image:
-      "",
+      "https://media.praxisdienst.com/praxident-prod-public-files/media/5c/71/34/1764717151/72040-170701-blutentnahmestuhl-teqler-gruppe.jpg?ts=1782334598",
 
     images: [
 
-      "",
+      "https://media.praxisdienst.com/praxident-prod-public-files/media/47/60/6b/1764717147/72021-170701-blutentnahmestuhl-teqler-schwarz-seitlich-vorne.jpg?ts=1782334598",
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuu8d7BY0ErXKWtT1sGy6RMLsf72F2l3S35j87-lrwzYkoCnLQ9PPqOTc&s=10",
 
-      ""
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmgNg0r9B82Ib3EqufugYCmmJPcDTkCsNBsU25Bvcue0nas_vAX2J0ORw&s=10"
 
     ],
 
     description:
-      "",
+      "Phlebotomy chair",
 
-    price: " FCFA",
+    price: "70000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Adjustable armrests for blood collection",
+  "PU leather padded seat and backrest",
+  "Fixed or reclining backrest option",
+  "Sturdy steel frame with anti-slip base"
     ],
 
     fullDescription:
-      ""
+      "A Sample Collection Chair (Phlebotomy Chair) is a specialized medical chair designed to ensure patient comfort and stability during blood sample collection and intravenous procedures. It features adjustable armrests to support proper vein access, a padded ergonomic seat and backrest for patient comfort, and a strong steel frame for stability. Some models include a reclining backrest for improved positioning during prolonged procedures. It is widely used in hospitals, clinics, diagnostic laboratories, blood banks, and medical school practical training sessions for safe and efficient sample collection."
   },
 
    {
     id: 5130,
 
-    slug: "",
+    slug: "Delivery bed ",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Delivery bed ",
 
     badge: "in-stock",
 
     image:
-      "",
+      "https://www.medik-medical.com/data/watermark/20230418/643e4d991f35b.jpg",
 
     images: [
 
-      "",
+      "https://www.medik-medical.com/data/watermark/20230418/643e4d991f35b.jpg",
 
-      "",
+      "https://tovamed.com/152-large_default/delivery-bed.jpg",
 
-      ""
+      "https://alphasurgicals.co.ke/wp-content/uploads/2024/02/delivery-bed-1-600x489-1.png"
 
     ],
 
     description:
-      "",
+      "Delivery bed",
 
-    price: " FCFA",
+    price: "300000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+     "Adjustable backrest and leg section",
+  "Stainless steel or powder-coated frame",
+  "Detachable leg supports with stirrups",
+  "PU mattress with easy-clean surface"
     ],
 
     fullDescription:
-      ""
+      "A Delivery Bed is a specialized medical bed designed for childbirth and obstetric procedures. It provides adjustable positioning for the mother during labor, delivery, and post-delivery care. The bed features a sturdy steel frame, adjustable backrest, leg sections with stirrups for proper positioning, and a comfortable PU mattress that is easy to clean and disinfect. It is widely used in maternity wards, hospitals, clinics, and medical training institutions for safe and efficient delivery management."
   },
 
   {
     id: 5131,
 
-    slug: "",
+    slug: "Operation lambs 4 bulbs ",
 
     category: "Medical Science",
 
-    name: "",
+    name: "Operation lambs 4 bulbs ",
 
     badge: "best-seller",
 
     image:
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxmlqswnZ4ls8oudHss0BY_mUj86rctg3vboPRL6l7g&s=10",
 
     images: [
 
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxmlqswnZ4ls8oudHss0BY_mUj86rctg3vboPRL6l7g&s=10",
 
-      "",
+      "https://image.made-in-china.com/365f3j00nbHEBDpFEJcU/Four-Aperture-Shadowless-Halogen-Operation-Lamp-Ks-04L-Mobile.webp",
 
-      ""
+      "https://5.imimg.com/data5/JG/AR/EG/SELLER-2530091/operating-light-250x250.jpg"
 
     ],
 
     description:
-      "",
+      "Operating lamp",
 
-    price: " FCFA",
+    price: "350000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "4 LED high-intensity bulbs",
+  "Adjustable intensity lighting system",
+  "Shadow-free illumination design",
+  "Mobile stand with flexible arm"
     ],
 
     fullDescription:
-      ""
+      "An Operating Lamp (4 Bulbs) is a surgical lighting device designed to provide bright, focused, and shadow-free illumination during medical and surgical procedures. It uses high-intensity LED bulbs arranged to ensure uniform lighting of the operating field. The lamp features adjustable brightness, flexible positioning arms, and a mobile or ceiling-mounted stand for optimal surgical access. It is widely used in operating theatres, emergency rooms, clinics, dental surgeries, and medical school practical training for precise visualization during procedures."
   },
 
   {
     id: 5132,
 
-    slug: "",
+    slug: "WIDAL",
 
     category: "Medical Science",
 
-    name: "",
+    name: "WIDAL",
 
     badge: "in-stock",
 
     image:
-      "",
+      "https://cpimg.tistatic.com/05959907/b/5/WIDAL-TEST.jpg",
 
     images: [
 
-      "",
+      "https://in.microsidd.com/cdn/shop/files/0001702_widaltestkit4x5mlslidetestmicrosidd.gif?v=1761553904&width=2048",
 
-      "",
+      "https://in.microsidd.com/cdn/shop/files/0000425_widaltestkit4x5mlslidetestmicrosidd.jpg?v=1761553904&width=1600",
 
-      ""
+      "https://cpimg.tistatic.com/05959907/b/5/WIDAL-TEST.jpg"
 
     ],
 
     description:
-      "",
+      "Widal test kit",
 
-    price: " FCFA",
+    price: "25000 FCFA",
 
     specifications: [
-      "",
-      "",
-      "",
-      ""
+      "Detection: Salmonella typhi O & H antigens",
+  "Slide or tube agglutination method",
+  "Includes positive and negative controls",
+  "Reagent sensitivity: clinically validated standard kit"
     ],
 
     fullDescription:
-      ""
+      "A Widal Test Kit is a diagnostic serological kit used to detect antibodies against Salmonella typhi and paratyphi antigens (O and H) in human serum. It is commonly used for the presumptive diagnosis of typhoid fever. The test is based on the agglutination reaction between patient antibodies and standardized bacterial antigens. It is available in slide and tube test formats and includes control reagents for result validation. It is widely used in clinical laboratories, hospitals, and medical school practical sessions for infectious disease diagnosis training."
   },
 
   {
@@ -5358,6 +5358,7 @@ const medicalScienceProducts = [
     fullDescription:
       ""
   },
+
 
 
 ];
