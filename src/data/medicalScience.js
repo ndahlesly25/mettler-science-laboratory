@@ -403,7 +403,7 @@ const medicalScienceProducts = [
    {
     id: 5011,
 
-    slug: "PSA (Prostate specific  Antigens )",
+    slug: "PSA (Prostate specific  Antigens)",
 
     category: "Medical Science",
 
@@ -1161,11 +1161,11 @@ const medicalScienceProducts = [
   {
     id: 5030,
 
-    slug: "On call extra glucose testing system S ",
+    slug: "On call extra glucose testing system S",
 
     category: "Medical Science",
 
-    name: "On call extra glucose testing system S ",
+    name: "On call extra glucose testing system S",
 
     badge: "best-seller",
 
@@ -1361,11 +1361,11 @@ const medicalScienceProducts = [
   {
     id: 5035,
 
-    slug: "Acetone  ",
+    slug: "Acetone",
 
     category: "Medical Science",
 
-    name: "Acetone  ",
+    name: "Acetone",
 
     badge: "best-seller",
 
@@ -1641,7 +1641,7 @@ const medicalScienceProducts = [
   {
     id: 5042,
 
-    slug: "SS agar ",
+    slug: "SS agar",
 
     category: "Medical Science",
 
@@ -1801,7 +1801,7 @@ const medicalScienceProducts = [
    {
     id: 5046,
 
-    slug: " Mannitol salt agar ",
+    slug: " Mannitol salt agar",
 
     category: "Medical Science",
 
@@ -1921,7 +1921,7 @@ const medicalScienceProducts = [
   {
     id: 5049,
 
-    slug: "Petri dishes  ",
+    slug: "Petri dishes",
 
     category: "Medical Science",
 
@@ -2681,7 +2681,7 @@ const medicalScienceProducts = [
   {
     id: 5068,
 
-    slug: "Vacutainer needles ",
+    slug: "Vacutainer needles",
 
     category: "Medical Science",
 
@@ -2881,7 +2881,7 @@ const medicalScienceProducts = [
   {
     id: 5073,
 
-    slug: " Turk’s solution ",
+    slug: " Turk’s solution",
 
     category: "Medical Science",
 
@@ -3002,7 +3002,7 @@ const medicalScienceProducts = [
   {
     id: 5076,
 
-    slug: "Urine containers ",
+    slug: "Urine containers",
 
     category: "Medical Science",
 
@@ -3362,7 +3362,7 @@ const medicalScienceProducts = [
   {
     id: 5085,
 
-    slug: "Micropipette tips 50ul ",
+    slug: "Micropipette tips 50ul",
 
     category: "Medical Science",
 
@@ -3522,11 +3522,11 @@ const medicalScienceProducts = [
   {
     id: 5089,
 
-    slug: "alcon tubes 5ml ",
+    slug: "alcon tubes",
 
     category: "Medical Science",
 
-    name: "alcon tubes 5ml ",
+    name: "Alcon tubes 5ml",
 
     badge: "new",
 
@@ -3602,11 +3602,11 @@ const medicalScienceProducts = [
    {
     id: 5091,
 
-    slug: " Microscope with Camera ",
+    slug: "Microscope with Camera",
 
     category: "Medical Science",
 
-    name: " Microscope with Camera ",
+    name: " Microscope with Camera",
 
     badge: "in-stock",
 
@@ -3642,7 +3642,7 @@ const medicalScienceProducts = [
   {
     id: 5092,
 
-    slug: "Alcohol gel 30ml ",
+    slug: "Alcohol gel 30ml",
 
     category: "Medical Science",
 
@@ -3682,11 +3682,11 @@ const medicalScienceProducts = [
   {
     id: 5093,
 
-    slug: "Clinical thermometers  ",
+    slug: "Clinical thermometers",
 
     category: "Medical Science",
 
-    name: "Clinical thermometers  ",
+    name: "Clinical thermometers",
 
     badge: "in-stock",
 
@@ -3722,11 +3722,11 @@ const medicalScienceProducts = [
   {
     id: 5094,
 
-    slug: " Digital thermometers ",
+    slug: "Digital thermometers",
 
     category: "Medical Science",
 
-    name: " Digital thermometers ",
+    name: "Digital thermometers",
 
     badge: "new",
 
@@ -3802,11 +3802,11 @@ const medicalScienceProducts = [
    {
     id: 5096,
 
-    slug: " Baby scale  ",
+    slug: "Baby scale",
 
     category: "Medical Science",
 
-    name: " Baby scale  ",
+    name: "Baby scale",
 
     badge: "in-stock",
 
@@ -3842,11 +3842,11 @@ const medicalScienceProducts = [
   {
     id: 5097,
 
-    slug: "Mechanical scale 180kg ",
+    slug: "Mechanical scale 180kg",
 
     category: "Medical Science",
 
-    name: "Mechanical scale 180kg ",
+    name: "Mechanical scale 180kg",
 
     badge: "best-seller",
 
@@ -3882,11 +3882,11 @@ const medicalScienceProducts = [
   {
     id: 5098,
 
-    slug: " Tourniquets  ",
+    slug: "Tourniquets",
 
     category: "Medical Science",
 
-    name: " Tourniquets  ",
+    name: "Tourniquets",
 
     badge: "in-stock",
 
@@ -3926,7 +3926,7 @@ const medicalScienceProducts = [
 
     category: "Medical Science",
 
-    name: " Sphygmomanometers  ",
+    name: "Sphygmomanometers",
 
     badge: "new",
 
@@ -3962,7 +3962,7 @@ const medicalScienceProducts = [
   {
     id: 5100,
 
-    slug: "Blood Pressure Machine arm style ",
+    slug: "Blood Pressure Machine arm style",
 
     category: "Medical Science",
 
@@ -4002,11 +4002,11 @@ const medicalScienceProducts = [
   {
     id: 5101,
 
-    slug: "Blood Pressure Machine with voice ",
+    slug: "Blood Pressure Machine with voice",
 
     category: "Medical Science",
 
-    name: "Blood Pressure Machine with voice ",
+    name: "Blood Pressure Machine with voice",
 
     badge: "best-seller",
 
@@ -4042,11 +4042,11 @@ const medicalScienceProducts = [
   {
     id: 5102,
 
-    slug: "Blood pressure BP-103H type ",
+    slug: "Blood pressure BP-103H type",
 
     category: "Medical Science",
 
-    name: "Blood pressure BP-103H type ",
+    name: "Blood pressure BP-103H type",
 
     badge: "in-stock",
 
@@ -4082,11 +4082,11 @@ const medicalScienceProducts = [
   {
     id: 5103,
 
-    slug: "Wrist sphygmomanometer ",
+    slug: "Wrist sphygmomanometer",
 
     category: "Medical Science",
 
-    name: "Wrist sphygmomanometer ",
+    name: "Wrist sphygmomanometer",
 
     badge: "new",
 
@@ -4122,11 +4122,11 @@ const medicalScienceProducts = [
   {
     id: 5104,
 
-    slug: "Pulse Oximeters ",
+    slug: "Pulse Oximeters",
 
     category: "Medical Science",
 
-    name: "Pulse Oximeters ",
+    name: "Pulse Oximeters",
 
     badge: "best-seller",
 
@@ -4162,11 +4162,11 @@ const medicalScienceProducts = [
    {
     id: 5105,
 
-    slug: "Kidney dish ",
+    slug: "Kidney dish",
 
     category: "Medical Science",
 
-    name: "Kidney dish ",
+    name: "Kidney dish",
 
     badge: "in-stock",
 
@@ -4202,11 +4202,11 @@ const medicalScienceProducts = [
   {
     id: 5106,
 
-    slug: "Stethoscope ",
+    slug: "Stethoscope",
 
     category: "Medical Science",
 
-    name: "Stethoscope ",
+    name: "Stethoscope",
 
     badge: "best-seller",
 
@@ -4282,11 +4282,11 @@ const medicalScienceProducts = [
   {
     id: 5108,
 
-    slug: "First Aid Box ",
+    slug: "First Aid Box",
 
     category: "Medical Science",
 
-    name: "First Aid Box ",
+    name: "First Aid Box",
 
     badge: "new",
 
@@ -4322,7 +4322,7 @@ const medicalScienceProducts = [
   {
     id: 5109,
 
-    slug: "Drip stand ",
+    slug: "Drip stand",
 
     category: "Medical Science",
 
@@ -4362,11 +4362,11 @@ const medicalScienceProducts = [
   {
     id: 5110,
 
-    slug: "Inferred thermometer ",
+    slug: "Inferred thermometer",
 
     category: "Medical Science",
 
-    name: "Inferred thermometer ",
+    name: "Inferred thermometer",
 
     badge: "in-stock",
 
@@ -4402,11 +4402,11 @@ const medicalScienceProducts = [
   {
     id: 5111,
 
-    slug: "Reflex hammer ",
+    slug: "Reflex hammer",
 
     category: "Medical Science",
 
-    name: "Reflex hammer ",
+    name: "Reflex hammer",
 
     badge: "best-seller",
 
@@ -4482,11 +4482,11 @@ const medicalScienceProducts = [
   {
     id: 5113,
 
-    slug: "Ambu bags ",
+    slug: "Ambu bags",
 
     category: "Medical Science",
 
-    name: "Ambu bags ",
+    name: "Ambu bags",
 
     badge: "new",
 
@@ -4522,11 +4522,11 @@ const medicalScienceProducts = [
   {
     id: 5114,
 
-    slug: "Plasters ",
+    slug: "Plasters",
 
     category: "Medical Science",
 
-    name: "Plasters ",
+    name: "Plasters",
 
     badge: "best-seller",
 
@@ -4562,11 +4562,11 @@ const medicalScienceProducts = [
    {
     id: 5115,
 
-    slug: "Spectrophotometer ",
+    slug: "Spectrophotometer",
 
     category: "Medical Science",
 
-    name: "Spectrophotometer ",
+    name: "Spectrophotometer",
 
     badge: "in-stock",
 
@@ -4602,11 +4602,11 @@ const medicalScienceProducts = [
   {
     id: 5116,
 
-    slug: "Ultrasound machine ",
+    slug: "Ultrasound machine",
 
     category: "Medical Science",
 
-    name: "Ultrasound machine ",
+    name: "Ultrasound machine",
 
     badge: "new",
 
@@ -4642,11 +4642,11 @@ const medicalScienceProducts = [
   {
     id: 5117,
 
-    slug: "Centrifuge 6 tubes ",
+    slug: "Centrifuge 6 tubes",
 
     category: "Medical Science",
 
-    name: "Centrifuge 6 tubes ",
+    name: "Centrifuge 6 tubes",
 
     badge: "in-stock",
 
@@ -4682,11 +4682,11 @@ const medicalScienceProducts = [
   {
     id: 5118,
 
-    slug: "Olympus microscope ",
+    slug: "Olympus microscope",
 
     category: "Medical Science",
 
-    name: "Olympus microscope ",
+    name: "Olympus microscope",
 
     badge: "new",
 
@@ -4722,11 +4722,11 @@ const medicalScienceProducts = [
   {
     id: 5119,
 
-    slug: "Trinocular microscope with screen ",
+    slug: "Trinocular microscope with screen",
 
     category: "Medical Science",
 
-    name: "Trinocular microscope with screen ",
+    name: "Trinocular microscope with screen",
 
     badge: "new",
 
@@ -4842,11 +4842,11 @@ const medicalScienceProducts = [
   {
     id: 5122,
 
-    slug: "Sony echography printer ",
+    slug: "Sony echography printer",
 
     category: "Medical Science",
 
-    name: "Sony echography printer ",
+    name: "Sony echography printer",
 
     badge: "in-stock",
 
@@ -4882,11 +4882,11 @@ const medicalScienceProducts = [
   {
     id: 5123,
 
-    slug: "Echo gel 	5L ",
+    slug: "Echo gel 	5L",
 
     category: "Medical Science",
 
-    name: "Echo gel 	5L ",
+    name: "Echo gel 	5L",
 
     badge: "new",
 
@@ -5002,7 +5002,7 @@ const medicalScienceProducts = [
   {
     id: 5126,
 
-    slug: "Thermometer incubator ",
+    slug: "Thermometer incubator",
 
     category: "Medical Science",
 
@@ -5082,11 +5082,11 @@ const medicalScienceProducts = [
   {
     id: 5128,
 
-    slug: "Laboratory chair ",
+    slug: "Laboratory chair",
 
     category: "Medical Science",
 
-    name: "Laboratory chair ",
+    name: "Laboratory chair",
 
     badge: "new",
 
@@ -5122,11 +5122,11 @@ const medicalScienceProducts = [
   {
     id: 5129,
 
-    slug: "Sample collection chair ",
+    slug: "Sample collection chair",
 
     category: "Medical Science",
 
-    name: "Sample collection chair ",
+    name: "Sample collection chair",
 
     badge: "best-seller",
 
@@ -5162,11 +5162,11 @@ const medicalScienceProducts = [
    {
     id: 5130,
 
-    slug: "Delivery bed ",
+    slug: "Delivery bed",
 
     category: "Medical Science",
 
-    name: "Delivery bed ",
+    name: "Delivery bed",
 
     badge: "in-stock",
 
@@ -5202,11 +5202,11 @@ const medicalScienceProducts = [
   {
     id: 5131,
 
-    slug: "Operation lambs 4 bulbs ",
+    slug: "Operation lambs 4 bulbs",
 
     category: "Medical Science",
 
-    name: "Operation lambs 4 bulbs ",
+    name: "Operation lambs 4 bulbs",
 
     badge: "best-seller",
 
