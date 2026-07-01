@@ -4,6 +4,7 @@ import Navbar from '../components/Navbar/Navbar'
 import Hero from '../components/Hero/Hero'
 import Products from '../components/Products/Products'
 import Footer from '../components/Footer/Footer'
+import Stats from "../components/Stats/Stats";
 
 const Home = () => {
   return (
@@ -11,6 +12,8 @@ const Home = () => {
       <Navbar />
 
       <Hero />
+
+      <Stats />
 
       <Products />
 

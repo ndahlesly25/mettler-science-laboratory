@@ -7,8 +7,13 @@ import {
   FaFacebookF,
   FaInstagram,
   FaLinkedinIn,
+  FaSchool,
+  FaUniversity,
+  FaHospital,
+  FaIndustry,
 } from "react-icons/fa";
 
+import { GiMicroscope } from "react-icons/gi";
 import { Link } from "react-router-dom";
 
 const Footer = () => {
@@ -28,10 +33,12 @@ const Footer = () => {
           </h2>
 
           <p>
-            Professional supplier of chemistry,
-            biology, physics and geology
-            laboratory equipment, chemicals
-            and scientific solutions.
+            Trusted supplier of scientific and medical
+            laboratory equipment, chemicals,
+            diagnostic instruments, hospital supplies
+            and research solutions for schools,
+            universities, hospitals and health
+            centres across Cameroon.
           </p>
 
         </div>
@@ -49,6 +56,12 @@ const Footer = () => {
             <li>
               <a href="/">
                 Home
+              </a>
+            </li>
+
+            <li>
+              <a href="#medical-science">
+                Medical Science
               </a>
             </li>
 
@@ -80,6 +93,68 @@ const Footer = () => {
 
         </div>
 
+        {/* INDUSTRIES */}
+
+<div className="footer-section">
+
+  <h3>
+    Industries We Serve
+  </h3>
+
+  <ul>
+
+    <li>
+
+      <FaSchool className="footer-icon" />
+
+      Schools
+
+    </li>
+
+    <li>
+
+      <FaUniversity className="footer-icon" />
+
+      Universities
+
+    </li>
+
+    <li>
+
+      <FaHospital className="footer-icon" />
+
+      Hospitals
+
+    </li>
+
+    <li>
+
+      <FaHospital className="footer-icon" />
+
+      Health Centres
+
+    </li>
+
+    <li>
+
+      <GiMicroscope className="footer-icon" />
+
+      Research Laboratories
+
+    </li>
+
+    <li>
+
+      <FaIndustry className="footer-icon" />
+
+      Industrial Laboratories
+
+    </li>
+
+  </ul>
+
+</div>
+
         {/* CONTACT */}
 
         <div className="footer-section">
@@ -87,6 +162,13 @@ const Footer = () => {
           <h3>
             Contact Us
           </h3>
+
+          <p>
+
+            📍 Yaoundé & Buea,
+                Cameroon
+
+          </p>
 
           <p>
 
@@ -111,6 +193,7 @@ const Footer = () => {
             salesmettlercompanyltd@gmail.com
 
           </p>
+
 
         </div>
 
@@ -203,7 +286,8 @@ const Footer = () => {
       <div className="footer-bottom">
 
         © 2026 Mettler Company Limited.
-        All Rights Reserved.
+         Serving Education, Healthcare & Research.
+          All Rights Reserved.
 
       </div>
 

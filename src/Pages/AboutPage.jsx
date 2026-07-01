@@ -58,17 +58,15 @@ export default function About() {
       >
 
         <h2>
-          Welcome To Mettler Company Ltd.
-        </h2>
+  Scientific & Medical Equipment Solutions
+</h2>
 
-        <p>
-          Trusted supplier of laboratory
-          equipment, chemicals, and
-          educational science solutions
-          for schools, colleges, hospitals,
-          and research institutions in
-          Cameroon and beyond.
-        </p>
+<p>
+  Mettler Company Ltd. is a trusted supplier of laboratory,
+  medical, educational, and research equipment serving
+  schools, universities, hospitals, medical laboratories,
+  research institutions, and industries throughout Cameroon.
+</p>
 
       </motion.div>
 
@@ -104,21 +102,7 @@ export default function About() {
 
         </motion.div>
 
-        <motion.div
-          className="highlight-card"
-          variants={fadeUp}
-        >
-
-          <h3>
-            100+
-          </h3>
-
-          <p>
-            Laboratory products
-            available
-          </p>
-
-        </motion.div>
+        
 
         <motion.div
           className="highlight-card"
@@ -161,30 +145,30 @@ export default function About() {
         >
 
           <h3>
-            Excellence In Science Education
-          </h3>
+    Supporting Science, Research & Healthcare
+</h3>
 
           <p>
 
             Mettler Company Ltd. is one of
-            Cameroon’s leading suppliers of
-            school science equipment and
-            laboratory chemicals, proudly
-            partnering with Irwin Science
-            Education — a global leader in
-            science education solutions.
-
+Cameroon's leading suppliers of
+scientific, medical and laboratory
+equipment, partnering with Irwin
+Science Education to provide
+world-class laboratory solutions
+for education, healthcare and
+research.
           </p>
 
           <p>
 
-            We provide affordable,
-            high-quality laboratory
-            equipment for Biology,
-            Chemistry, Physics, and
-            Geology practicals for schools,
-            colleges, universities, and
-            professional laboratories.
+           We supply laboratory equipment,
+medical diagnostic devices,
+hospital furniture, laboratory
+chemicals and scientific instruments
+for Chemistry, Biology, Physics,
+Geology, Medical Science and
+research laboratories.
 
           </p>
 
@@ -197,7 +181,7 @@ export default function About() {
               <FaCheckCircle />
 
               <span>
-                No minimum order policy
+                Retail & Bulk Supply Available
               </span>
 
             </div>
@@ -207,8 +191,7 @@ export default function About() {
               <FaCheckCircle />
 
               <span>
-                Chemicals available in
-                retail quantities
+                Medical & Laboratory Equipment
               </span>
 
             </div>
@@ -218,8 +201,7 @@ export default function About() {
               <FaCheckCircle />
 
               <span>
-                Trusted by educational
-                institutions
+                Trusted by Schools, Universities & Hospitals
               </span>
 
             </div>
@@ -229,7 +211,7 @@ export default function About() {
               <FaCheckCircle />
 
               <span>
-                Reliable nationwide delivery
+                Nationwide Delivery & Technical Support
               </span>
 
             </div>
@@ -238,17 +220,13 @@ export default function About() {
 
           <p>
 
-            From analytical balances,
-            microscopes, glassware,
-            molecular models, laboratory
-            safety equipment, and scientific
-            apparatus to chemicals in both
-            bulk and smaller retail
-            quantities, we supply everything
-            required to establish, improve,
-            and modernize science
-            laboratories with quality,
-            innovation, and care.
+            From laboratory glassware, microscopes,
+analytical balances and scientific chemicals
+to hospital beds, centrifuges, patient monitors,
+autoclaves, diagnostic instruments and medical
+consumables, we provide complete solutions for
+education, research, healthcare and industrial
+laboratories.
 
           </p>
 
@@ -277,7 +255,7 @@ export default function About() {
         >
 
           <img
-            src="https://images.unsplash.com/photo-1576086213369-97a306d36557"
+            src="https://janegoodall.org/wp-content/uploads/2026/05/3A2A1949-1024x683.jpg"
             alt="Science Laboratory"
           />
 
@@ -309,7 +287,7 @@ export default function About() {
           <FaFlask className="feature-icon" />
 
           <h4>
-            Laboratory Equipment
+            Scientific Equipment
           </h4>
 
           <p>
@@ -327,13 +305,13 @@ export default function About() {
           <FaMicroscope className="feature-icon" />
 
           <h4>
-            Modern Science Solutions
+            Medical Equipment
           </h4>
 
           <p>
-            Supporting schools and
-            laboratories with innovative
-            scientific tools and materials.
+            Hospital equipment, diagnostic devices,
+medical laboratory instruments and
+healthcare solutions.
           </p>
 
         </motion.div>
@@ -415,9 +393,8 @@ export default function About() {
             </li>
 
             <li>
-              Become a leading provider
-              of innovative educational
-              science solutions globally.
+              Become Central Africa's trusted supplier of
+scientific, medical and laboratory equipment.
             </li>
 
             <li>
@@ -446,9 +423,11 @@ export default function About() {
           <ul>
 
             <li>
-              Deliver curriculum-based
-              science solutions for
-              educators nationwide.
+              Provide reliable scientific,
+medical and laboratory
+solutions through quality
+products and exceptional
+customer service.
             </li>
 
             <li>

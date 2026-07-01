@@ -13,7 +13,11 @@ export default function TopBar() {
         </span>
 
         <span>
-          ✔ Quality Laboratory Supplies
+          ✔ Laboratory & Medical Equipment
+        </span>
+
+        <span>
+          ✔ Schools • Universities • Hospitals
         </span>
 
         <span>

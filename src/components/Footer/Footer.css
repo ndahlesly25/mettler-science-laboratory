@@ -43,18 +43,17 @@
 
 .footer-container {
 
-  width: 90%;
+  width: 92%;
 
   margin: auto;
 
   display: grid;
 
   grid-template-columns:
-    repeat(auto-fit, minmax(250px, 1fr));
+    repeat(auto-fit, minmax(220px, 1fr));
 
-  gap: 50px;
+  gap: 35px;
 
-  padding-bottom: 60px;
 }
 
 /* SECTION TITLES */

@@ -59,6 +59,7 @@ import ReturnsPage from "./Pages/ReturnsPage";
 import FAQPage from "./Pages/FAQPage";
 import MaintenancePage from "./Pages/MaintenancePage";
 import CataloguePage from "./Pages/CataloguePage";
+import Stats from "./components/Stats/Stats";
 
 /* PAGE TRANSITION */
 
@@ -113,6 +114,8 @@ function HomePage({
       />
 
       {/* ABOUT */}
+
+      <Stats />
 
       <About />
 

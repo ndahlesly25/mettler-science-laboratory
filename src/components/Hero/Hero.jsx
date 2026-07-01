@@ -119,7 +119,7 @@ export default function Hero({
 
           <input
             type="text"
-            placeholder="Search products..."
+            placeholder="Search laboratory & medical equipment..."
             value={searchTerm}
 
             onChange={(e) =>
@@ -166,26 +166,14 @@ export default function Hero({
           {/* TITLE */}
 
           <motion.h1
-            variants={fadeUp}
-          >
+  variants={fadeUp}
+>
 
-            <h1>
-              Laboratory Equipment & Scientific Supplies in Cameroon
-            </h1>
+  Scientific & Medical Laboratory Equipment Supplier in Cameroon
 
-          </motion.h1>
+</motion.h1>
 
-          {/* SUBTITLE */}
-
-          <motion.p
-            variants={fadeUp}
-          >
-
-            Modern Laboratory Supplies For
-            Chemistry, Biology, Physics,
-            Geology & Scientific Research
-
-          </motion.p>
+          
 
           {/* HIGHLIGHTS */}
 
@@ -196,18 +184,27 @@ export default function Hero({
           >
 
             <span>
-              ✔ Quality Laboratory Items
+              ✔ Scientific & Medical Equipment
             </span>
 
             <span>
-              ✔ Fast Delivery
+              ✔ Fast Nationwide Delivery
             </span>
 
             <span>
-              ✔ Trusted Nationwide
+              ✔ Trusted by Schools, Universities & Hospitals
             </span>
 
           </motion.div>
+
+          <motion.p
+              className="hero-trust"
+              variants={fadeUp}
+            >
+
+              Serving Schools • Universities • Hospitals • Health Centres • Research Laboratories
+
+            </motion.p>
 
 
           {/* BUTTONS */}
@@ -223,7 +220,7 @@ export default function Hero({
     className="shop-btn"
   >
 
-    Shop Now
+    Explore Products
 
   </a>
 

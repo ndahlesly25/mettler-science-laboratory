@@ -40,19 +40,20 @@ export default function About() {
       >
 
         <h2>
-          About Mettler.
+          About Mettler Company Limited
         </h2>
 
         <p>
 
-          Mettler Company Ltd. is a trusted
-          supplier of laboratory equipment,
-          chemicals, educational science
-          solutions, and research materials
-          serving schools, colleges,
-          universities, hospitals, and
-          laboratories throughout Cameroon
-          and beyond.
+          Mettler Company Ltd. is a trusted provider of
+          scientific and medical laboratory equipment,
+          chemicals, diagnostic instruments, hospital
+          supplies, and educational science solutions.
+          We support schools, universities, hospitals,
+          health centres, research laboratories, and
+          industrial institutions with quality products
+          and reliable scientific solutions across
+          Cameroon and beyond.
 
         </p>
 

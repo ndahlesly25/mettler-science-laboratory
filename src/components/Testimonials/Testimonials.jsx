@@ -1,20 +1,38 @@
 import "./Testimonials.css";
 
+import {
+  FaCheckCircle,
+  FaTruck,
+  FaTools,
+} from "react-icons/fa";
+
 export default function Testimonials() {
 
   const testimonials = [
 
     {
+      icon: <FaCheckCircle />,
+
+      title: "Premium Quality",
+
       text:
-        "Reliable laboratory equipment and chemicals for educational and professional laboratories.",
+        "Supplying quality scientific and medical laboratory equipment, chemicals, diagnostic instruments and research materials for education and healthcare.",
     },
 
     {
+      icon: <FaTruck />,
+
+      title: "Nationwide Delivery",
+
       text:
-        "Fast nationwide delivery with retail and bulk quantity options available.",
+        "Serving schools, universities, hospitals, health centres, research laboratories and industrial institutions across Cameroon with reliable products and nationwide delivery.",
     },
 
     {
+      icon: <FaTools />,
+
+      title: "Technical Support",
+
      text:
     "Customers benefit from free maintenance support and professional technical assistance when needed.",
     },
@@ -28,12 +46,12 @@ export default function Testimonials() {
       <div className="testimonials-header">
 
         <h2>
-          Why Customers Choose Mettler
+          Why Choose Mettler Company Ltd.
         </h2>
 
         <p>
-          Providing quality laboratory solutions
-          with professionalism and reliability.
+          Delivering trusted scientific and medical laboratory
+          solutions with quality, reliability and professional service.
         </p>
 
       </div>
@@ -48,17 +66,23 @@ export default function Testimonials() {
               key={index}
             >
 
-              <div className="stars">
+              <div className="testimonial-icon">
 
-                ★★★★★
+  {item.icon}
 
-              </div>
+</div>
 
-              <p>
+<h3>
 
-                {item.text}
+  {item.title}
 
-              </p>
+</h3>
+
+<p>
+
+  {item.text}
+
+</p>
 
             </div>
 
