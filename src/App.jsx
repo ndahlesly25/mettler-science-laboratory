@@ -436,15 +436,19 @@ function App() {
       {/* WHATSAPP FLOAT */}
 
       <a
-        href="https://wa.me/237670899763"
-        className="whatsapp-float"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
+  href="https://wa.me/237670899763?text=Hello%20Mettler%20Company%20Limited,%20I%20would%20like%20to%20request%20a%20quotation%20for%20laboratory%20or%20medical%20equipment."
+  className="whatsapp-float"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <FaWhatsapp />
 
-        <FaWhatsapp />
+  <div className="whatsapp-text">
+    <span>Need a Quote?</span>
+    <small>Chat on WhatsApp</small>
+  </div>
 
-      </a>
+</a>
 
       <CookieBanner />
 

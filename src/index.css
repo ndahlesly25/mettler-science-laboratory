@@ -6,39 +6,53 @@ section {
   scroll-margin-top: 100px;
 }
 
-.whatsapp-float {
+.whatsapp-float{
   position: fixed;
-
-  width: 65px;
-  height: 65px;
-
   bottom: 25px;
   right: 25px;
+
+  display: flex;
+  align-items: center;
+  gap: 12px;
 
   background: #25D366;
   color: white;
 
-  border-radius: 50%;
+  padding: 12px 18px;
 
-  display: flex;
-  justify-content: center;
-  align-items: center;
-
-  font-size: 38px;
+  border-radius: 50px;
 
   text-decoration: none;
 
-  box-shadow: 0 6px 20px rgba(0,0,0,0.25);
+  box-shadow: 0 8px 25px rgba(0,0,0,.25);
 
   z-index: 999;
-
-  transition: all 0.3s ease;
-
-  animation: pulse 2s infinite;
 }
 
-.whatsapp-float:hover {
-  transform: scale(1.12);
+.whatsapp-float svg{
+  font-size: 32px;
+}
+
+.whatsapp-text{
+  display: flex;
+  flex-direction: column;
+  line-height: 1.2;
+}
+
+.whatsapp-text span{
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.whatsapp-text small{
+  font-size: 12px;
+  opacity: .9;
+}
+
+.whatsapp-float:hover{
+  transform: translateY(-3px);
+  background: #1ebe5d;
+  transition: .3s;
 }
 
 /* Pulse Animation */
