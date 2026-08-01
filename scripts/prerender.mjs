@@ -1,11 +1,22 @@
 import { run } from "react-snap";
-import { allRoutes } from "./routes.mjs";
 
-console.log(`Prerendering ${allRoutes.length} routes:`);
-console.log(allRoutes.join("\n"));
+const routes = [
+  "/",
+  "/about",
+  "/catalogue",
+  "/faq",
+  "/privacy",
+  "/terms",
+  "/shipping",
+  "/returns",
+  "/cookies"
+];
+
+console.log(`Prerendering ${routes.length} routes:`);
+console.log(routes.join("\n"));
 
 run({
   source: "dist",
-  include: allRoutes,
+  include: routes,
   minifyHtml: false,
 });

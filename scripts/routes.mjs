@@ -5,12 +5,24 @@ import geologyProducts from "../src/data/geology.js";
 import medicalScienceProducts from "../src/data/medicalScience.js";
 
 export const allProducts = [
+
   ...chemistryProducts,
+
   ...biologyProducts,
+
   ...physicsProducts,
+
   ...geologyProducts,
+
   ...medicalScienceProducts,
-];
+
+].filter(product =>
+
+  product &&
+  product.slug &&
+  product.slug.trim() !== ""
+
+);
 
 export const staticPages = [
   "/",

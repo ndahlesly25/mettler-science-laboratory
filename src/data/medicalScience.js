@@ -5319,47 +5319,6 @@ const medicalScienceProducts = [
       "."
   },
 
-  {
-    id: 5134,
-
-    slug: "",
-
-    category: "Medical Science",
-
-    name: "",
-
-    badge: "best-seller",
-
-    image:
-      "",
-
-    images: [
-
-      "",
-
-      "",
-
-      ""
-
-    ],
-
-    description:
-      "",
-
-    price: " FCFA",
-
-    specifications: [
-      "",
-      "",
-      "",
-      ""
-    ],
-
-    fullDescription:
-      ""
-  },
-
-
 
 ];
 
