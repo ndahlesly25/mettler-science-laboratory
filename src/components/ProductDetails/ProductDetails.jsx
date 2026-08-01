@@ -9,6 +9,8 @@ import {
   Link,
 } from "react-router-dom";
 
+import { Helmet } from "react-helmet";
+
 import chemistryProducts from "../../data/chemistry";
 import biologyProducts from "../../data/biology";
 import physicsProducts from "../../data/physics";
@@ -44,6 +46,43 @@ export default function ProductDetails({
 const product = allProducts.find(
   (item) => item.slug === slug
 );
+
+const productSchema = {
+  "@context": "https://schema.org",
+  "@type": "Product",
+
+  name: product?.name,
+
+  image: product?.images || [product?.image],
+
+  description: product?.fullDescription,
+
+  sku: product?.slug,
+
+  brand: {
+    "@type": "Brand",
+    name: "Mettler Science Laboratory"
+  },
+
+  category: product?.category,
+
+  offers: {
+  "@type": "Offer",
+
+  priceCurrency: "XAF",
+
+  price: product?.price?.replace(/[^\d]/g, ""),
+
+  availability: "https://schema.org/InStock",
+
+  seller: {
+    "@type": "Organization",
+    name: "Mettler Science Laboratory"
+  },
+
+  url: `https://mettlersciencelaboratory.com/product/${product.slug}`
+}
+};
 
 /* ACTIVE IMAGE */
 
@@ -97,6 +136,7 @@ const prevImage = () => {
   /* PRODUCT NOT FOUND */
 
   if (!product) {
+
 
     return (
 
@@ -176,6 +216,85 @@ const prevImage = () => {
   };
 
   return (
+
+    <>
+  <Helmet>
+
+    <title>
+      {product.name} | Mettler Science Laboratory
+    </title>
+
+    <meta
+      name="description"
+      content={product.fullDescription}
+    />
+
+    <meta
+      name="keywords"
+      content={`${product.name}, ${product.category}, Laboratory Equipment Cameroon, Medical Equipment Cameroon, Scientific Equipment`}
+    />
+
+    <link
+      rel="canonical"
+      href={`https://mettlersciencelaboratory.com/product/${product.slug}`}
+    />
+
+    {/* Open Graph */}
+
+    <meta
+      property="og:title"
+      content={product.name}
+    />
+
+    <meta
+      property="og:description"
+      content={product.fullDescription}
+    />
+
+    <meta
+      property="og:image"
+      content={product.image}
+    />
+
+    <meta
+      property="og:type"
+      content="product"
+    />
+
+    <meta
+      property="og:url"
+      content={`https://mettlersciencelaboratory.com/product/${product.slug}`}
+    />
+
+    {/* Twitter */}
+
+    <meta
+      name="twitter:card"
+      content="summary_large_image"
+    />
+
+    <meta
+      name="twitter:title"
+      content={product.name}
+    />
+
+    <meta
+      name="twitter:description"
+      content={product.fullDescription}
+    />
+
+    <meta
+      name="twitter:image"
+      content={product.image}
+    />
+
+     {/* Structured Data */}
+    <script type="application/ld+json">
+      {JSON.stringify(productSchema)}
+    </script>
+
+  </Helmet>
+
 
     <div className="product-details-page">
 
@@ -393,5 +512,7 @@ const prevImage = () => {
       )}
 
     </div>
+    </>
+
   );
 }
