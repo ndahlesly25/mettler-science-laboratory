@@ -5,6 +5,8 @@ import "./Navbar.css";
 import {
   FaShoppingCart,
   FaSearch,
+  FaBars,
+  FaTimes,
 } from "react-icons/fa";
 
 import {
@@ -21,8 +23,9 @@ export default function Navbar({
   const [menuOpen, setMenuOpen] =
     useState(false);
 
-  const [dropdownOpen, setDropdownOpen] =
-    useState(false);
+  const [productsOpen, setProductsOpen] =
+  useState(false);
+
 
   /* CURRENT PAGE */
 
@@ -37,11 +40,12 @@ export default function Navbar({
 
   const closeMenus = () => {
 
-    setMenuOpen(false);
+  setMenuOpen(false);
 
-    setDropdownOpen(false);
+  setProductsOpen(false);
 
-  };
+
+};
 
   return (
 
@@ -113,15 +117,38 @@ export default function Navbar({
         {/* HAMBURGER */}
 
         <div
-          className="hamburger"
-          onClick={() =>
-            setMenuOpen(!menuOpen)
-          }
-        >
-          ☰
-        </div>
+  className="hamburger"
+  onClick={() =>
+    setMenuOpen(!menuOpen)
+  }
+>
+
+  {menuOpen ? <FaTimes /> : <FaBars />}
+
+</div>
 
       </div>
+
+      {menuOpen && (
+
+  <div
+
+    className="menu-overlay"
+
+    onClick={closeMenus}
+
+  />
+
+)}
+
+{menuOpen && (
+
+  <div
+    className="menu-overlay"
+    onClick={closeMenus}
+  />
+
+)}
 
       {/* NAVIGATION */}
 
@@ -190,9 +217,7 @@ export default function Navbar({
               <div
                 className="dropdown-title"
                 onClick={() =>
-                  setDropdownOpen(
-                    !dropdownOpen
-                  )
+                  setProductsOpen(!productsOpen)
                 }
               >
 
@@ -202,10 +227,10 @@ export default function Navbar({
 
               <ul
                 className={`dropdown-menu ${
-                  dropdownOpen
-                    ? "show"
-                    : ""
-                }`}
+                            productsOpen
+                              ? "show"
+                              : ""
+              }`}
                 onClick={closeMenus}
               >
 
@@ -278,6 +303,25 @@ export default function Navbar({
 
             </li>
 
+
+            {/* KNOWLEDGE */}
+
+<li>
+
+  <Link
+    to="/knowledge-center"
+    onClick={closeMenus}
+  >
+
+    Knowledge
+
+  </Link>
+
+</li>
+
+
+
+
             {/* CONTACT */}
 
             <li>
@@ -296,6 +340,10 @@ export default function Navbar({
           </>
 
         )}
+
+        
+
+
 
         {/* CHECKOUT */}
 

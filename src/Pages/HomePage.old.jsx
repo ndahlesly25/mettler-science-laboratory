@@ -13,53 +13,53 @@ import {
   motion,
 } from "framer-motion";
 
-import Navbar from "../components/Navbar/Navbar";
+import Navbar from "../components/Navbar/Navbar.jsx";
 
-import Hero from "../components/Hero/Hero";
+import Hero from "../components/Hero/Hero.jsx";
 
-import About from "../components/About/About";
+import About from "../components/About/About.jsx";
 
-import Products from "../components/Products/Products";
+import Products from "../components/Products/Products.jsx";
 
-import ProductDetails from "../components/ProductDetails/ProductDetails";
+import ProductDetails from "../components/ProductDetails/ProductDetails.jsx";
 
-import Checkout from "../components/Checkout/Checkout";
+import Checkout from "../components/Checkout/Checkout.jsx";
 
 import Contact from "../components/ContactTemp/Contact.jsx";
 
-import Footer from "../components/Footer/Footer";
+import Footer from "../components/Footer/Footer.jsx";
 
-import CartDrawer from "../components/CartTemp/CartDrawer";
+import CartDrawer from "../components/CartTemp/CartDrawer.jsx";
 
-import ScrollToTop from "../components/ScrollToTop";
+import ScrollToTop from "../components/ScrollToTop.jsx";
 
 import { FaWhatsapp } from "react-icons/fa";
 
 import { Helmet } from "react-helmet";
 
-import TopBar from "../components/TopBar/TopBar";
+import TopBar from "../components/TopBar/TopBar.jsx";
 
-import AboutPage from "../Pages/AboutPage";
+import AboutPage from "./AboutPage.jsx";
 
-import CategoryShowcase from "../components/CategoryShowcase/CategoryShowcase";
+import CategoryShowcase from "../components/CategoryShowcase/CategoryShowcase.jsx";
 
-import FeaturedCategories from "../components/FeaturedCategories/FeaturedCategories";
+import FeaturedCategories from "../components/FeaturedCategories/FeaturedCategories.jsx";
 
-import Testimonials from "../components/Testimonials/Testimonials";
+import Testimonials from "../components/Testimonials/Testimonials.jsx";
 
-import BackToTop from "../components/BackToTop/BackToTop";
+import BackToTop from "../components/BackToTop/BackToTop.jsx";
 
-import CookieBanner from "../components/CookieBanner/CookieBanner";
+import CookieBanner from "../components/CookieBanner/CookieBanner.jsx";
 
-import CookiesPage from "../Pages/CookiesPage";
-import TermsPage from "../Pages/TermsPage";
-import PrivacyPage from "../Pages/PrivacyPage";
-import ShippingPage from "../Pages/ShippingPage";
-import ReturnsPage from "../Pages/ReturnsPage";
-import FAQPage from "../Pages/FAQPage";
-import MaintenancePage from "../Pages/MaintenancePage";
-import CataloguePage from "../Pages/CataloguePage";
-import Stats from "../components/Stats/Stats";
+import CookiesPage from "./CookiesPage.jsx";
+import TermsPage from "./TermsPage.jsx";
+import PrivacyPage from "./PrivacyPage.jsx";
+import ShippingPage from "./ShippingPage.jsx";
+import ReturnsPage from "./ReturnsPage.jsx";
+import FAQPage from "./FAQPage.jsx";
+import MaintenancePage from "./MaintenancePage.jsx";
+import CataloguePage from "./CataloguePage.jsx";
+import Stats from "../components/Stats/Stats.jsx";
 
 /* PAGE TRANSITION */
 

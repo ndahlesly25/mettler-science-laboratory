@@ -60,6 +60,8 @@ import FAQPage from "./Pages/FAQPage";
 import MaintenancePage from "./Pages/MaintenancePage";
 import CataloguePage from "./Pages/CataloguePage";
 import Stats from "./components/Stats/Stats";
+import KnowledgeCenter from "./Pages/KnowledgeCenter";
+import KnowledgeArticle from "./Pages/KnowledgeArticle";
 
 /* PAGE TRANSITION */
 
@@ -326,6 +328,7 @@ function App() {
           }
         />
 
+
         <Route
   path="/about"
   element={
@@ -373,6 +376,7 @@ function App() {
   element={<CataloguePage />}
 />
 
+
         {/* PRODUCT DETAILS */}
 
         <Route
@@ -419,9 +423,19 @@ function App() {
           }
         />
 
-        
+        <Route
+          path="/knowledge-center"
+          element={<KnowledgeCenter />}
+        />
 
-      </Routes>
+        <Route
+          path="/knowledge/:slug"
+          element={<KnowledgeArticle />}
+        />
+
+  </Routes>
+
+    
 
       {/* CART DRAWER */}
 

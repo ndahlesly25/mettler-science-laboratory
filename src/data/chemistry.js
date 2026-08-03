@@ -412,11 +412,12 @@ const chemistryProducts = [
 
   badge: "in-stock",
 
-  image: "https://www.bemitexlimited.co.ke/cdn/shop/files/download-2025-06-12T051819.710.jpg?v=1749694733",
+  image: "https://www.ksfe.com.my/files/product_image/70/1505961583-l.jpg",
 
   images: [
     "https://www.bemitexlimited.co.ke/cdn/shop/files/download-2025-06-12T051819.710.jpg?v=1749694733",
-    "https://sc04.alicdn.com/kf/H89b9022528fb45f591ed8706c6bcb768T.jpg"
+    "https://sc04.alicdn.com/kf/H89b9022528fb45f591ed8706c6bcb768T.jpg",
+    "https://www.ksfe.com.my/files/product_image/70/1505961583-l.jpg"
   ],
 
   description: "Premium 100ml Conical Flask",
