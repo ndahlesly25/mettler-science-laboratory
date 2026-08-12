@@ -5,8 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "prebuild": "npm run generate-sitemap && npm run generate-imagesitemap",
     "build": "vite build",
-    "postbuild": "npm run generate-sitemap && npm run generate-imagesitemap",
     "lint": "eslint .",
     "preview": "vite preview",
     "generate-sitemap": "node scripts/generateSitemap.mjs",
