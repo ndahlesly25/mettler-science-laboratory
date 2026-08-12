@@ -3,7 +3,7 @@ const PhysicsProducts = [
   {
   id: 1,
 
-  slug: "ac-dc-power-supply",
+  slug: "AC/DC-Power-supply",
 
   category: "Physics",
 
@@ -35,7 +35,7 @@ const PhysicsProducts = [
 {
   id: 2,
 
-  slug: "ammeter",
+  slug: "Ammeter",
 
   category: "Physics",
 
@@ -67,7 +67,7 @@ const PhysicsProducts = [
 {
   id: 3,
 
-   slug: "analog-multimeter",
+   slug: "Analog-multimeter",
 
   category: "Physics",
 
@@ -99,7 +99,7 @@ const PhysicsProducts = [
 {
   id: 4,
 
-  slug: "analogue-top-pan-balance-1000-x-5g",
+  slug: "Analogue-top-pan-balance-(kitchen-scale)-1000-x-5g)",
 
   category: "Physics",
 
@@ -131,7 +131,7 @@ const PhysicsProducts = [
 {
   id: 5,
 
-  slug: "ball-and-ring-apparatus",
+  slug: "Ball-and-ring-apparatus",
 
   category: "Physics",
 
@@ -162,7 +162,7 @@ const PhysicsProducts = [
 {
   id: 6,
 
-  slug: "bar-magnet-4cm-10cm-long",
+  slug: "Bar-magnet-4cm/10cm-long",
 
   category: "Physics",
 
@@ -194,7 +194,7 @@ const PhysicsProducts = [
 {
   id: 7,
 
-  slug: "battery-holder-1-5v",
+  slug: "Battery-holder-1-5v",
 
   category: "Physics",
 
@@ -226,7 +226,7 @@ const PhysicsProducts = [
 {
   id: 8,
 
-  slug: "battery-1-5v-size-aa",
+  slug: "Battery-1.5V-size-AA",
 
   category: "Physics",
 
@@ -258,7 +258,7 @@ badge: "in-stock",
 {
   id: 9,
 
-  slug: "battery-9v",
+  slug: "Battery-holder-9V",
 
   category: "Physics",
 
@@ -289,7 +289,7 @@ badge: "in-stock",
 {
   id: 10,
 
-  slug: "battery-holder-9v",
+  slug: "Battery-holder",
 
   category: "Physics",
 
@@ -320,7 +320,7 @@ badge: "in-stock",
 {
   id: 11,
 
-  slug: "biconvex-lens",
+  slug: "Biconvex-lens",
 
   category: "Physics",
 
@@ -352,7 +352,7 @@ badge: "in-stock",
 {
   id: 12,
 
-  slug: "biconcave-lens",
+  slug: "Biconcave-lens",
 
   category: "Physics",
 
@@ -382,7 +382,7 @@ badge: "in-stock",
 {
   id: 13,
 
-  slug: "bulb-holder",
+  slug: "Bulb-holder",
 
   category: "Physics",
 
@@ -415,7 +415,7 @@ badge: "in-stock",
 {
   id: 14,
 
-  slug: "bulb-1-5v",
+  slug: "Bulb",
 
   category: "Physics",
 
@@ -447,7 +447,7 @@ badge: "in-stock",
 {
   id: 15,
 
-  slug: "bread-board",
+  slug: "Bread-board",
 
   category: "Physics",
 
@@ -479,7 +479,7 @@ badge: "in-stock",
 {
   id: 16,
 
-  slug: "capacitors-of-various-types",
+  slug: "Capacitors-of-various-types",
 
   category: "Physics",
 
@@ -511,7 +511,7 @@ badge: "in-stock",
 {
   id: 17,
 
-  slug: "capillary-tube-glass",
+  slug: "Capillary-tube-glass",
 
   category: "Physics",
 
@@ -543,7 +543,7 @@ badge: "in-stock",
 {
   id: 18,
 
-  slug: "cathode-ray-oscilloscope-dual-trace-analogue-signal-generator",
+  slug: "Cathode-ray-oscilloscope-dual-trace-analogue-+-signal-generator",
 
   category: "Physics",
 
@@ -574,7 +574,7 @@ badge: "in-stock",
 {
   id: 19,
 
-  slug: "cathode-ray-oscilloscope-with-inbuilt-signal-generator-dual-channels-digital-simple",
+  slug: "Cathode-ray-oscilloscope-with-inbuilt-signal-generator-dual-channels-digital-simple",
 
   category: "Physics",
 
@@ -605,7 +605,7 @@ badge: "in-stock",
 {
   id: 20,
 
-  slug: "circuit-board-electromagnetic-kit",
+  slug: "Circuit-board-/-electromagnetic-kit",
 
   category: "Physics",
 
@@ -637,7 +637,7 @@ badge: "in-stock",
 {
   id: 21,
 
-  slug: "concave-mirror",
+  slug: "Concave-mirror",
 
   category: "Physics",
 
@@ -669,7 +669,7 @@ badge: "in-stock",
 {
   id: 22,
 
-  slug: "convex-mirror",
+  slug: "Convex-mirror",
 
   category: "Physics",
 
@@ -701,7 +701,7 @@ badge: "in-stock",
 {
   id: 23,
 
-  slug: "connecting-lead",
+  slug: "Connecting-lead",
 
   category: "Physics",
 
@@ -733,7 +733,7 @@ badge: "in-stock",
 {
   id: 24,
 
-  slug: "connecting-cable",
+  slug: "Connecting-cable",
 
   category: "Physics",
 
@@ -765,7 +765,7 @@ badge: "in-stock",
 {
   id: 25,
 
-  slug: "crocodile-clip",
+  slug: "Crocodile-clip",
 
   category: "Physics",
 
@@ -797,7 +797,7 @@ badge: "in-stock",
 {
   id: 26,
 
-  slug: "constantine-wire",
+  slug: "Constantine-wire",
 
   category: "Physics",
 
@@ -828,7 +828,7 @@ badge: "in-stock",
 {
   id: 27,
 
-  slug: "copper-calorimeter",
+  slug: "Copper-calorimeter",
 
   category: "Physics",
 
@@ -864,7 +864,7 @@ badge: "in-stock",
 {
   id: 28,
 
-  slug: "copper-wire",
+  slug: "Copper-wire",
 
   category: "Physics",
 
@@ -895,7 +895,7 @@ badge: "in-stock",
 {
   id: 29,
 
-  slug: "digital-multimeter",
+  slug: "Digital-multimeter",
 
   category: "Physics",
 
@@ -927,7 +927,7 @@ badge: "in-stock",
 {
   id: 30,
 
-  slug: "diodes-solid-state-zener-diodes",
+  slug: "Diodes",
 
   category: "Physics",
 
@@ -959,7 +959,7 @@ badge: "in-stock",
 {
   id: 31,
 
-  slug: "double-beam-balance",
+  slug: "Double-beam-balance",
 
   category: "Physics",
 
@@ -991,7 +991,7 @@ badge: "in-stock",
 {
   id: 32,
 
-  slug: "dynamic-trolley",
+  slug: "Dynamic-trolley",
 
   category: "Physics",
 
@@ -1023,7 +1023,7 @@ badge: "in-stock",
 {
   id: 33,
 
-  slug: "elemctromagnet-u-form",
+  slug: "Elemctromagnet-U-form",
 
   category: "Physics",
 
@@ -1055,7 +1055,7 @@ badge: "in-stock",
 {
   id: 34,
 
-  slug: "equilateral-prism",
+  slug: "Equilateral-prism",
 
   category: "Physics",
 
@@ -1087,7 +1087,7 @@ badge: "in-stock",
 {
   id: 35,
 
-  slug: "galvanometer",
+  slug: "Galvanometer",
 
   category: "Physics",
 
@@ -1119,7 +1119,7 @@ badge: "in-stock",
 {
   id: 36,
 
-  slug: "g-clamp-4",
+  slug: "G-clamp-4",
 
   category: "Physics",
 
@@ -1151,7 +1151,7 @@ badge: "in-stock",
 {
   id: 37,
 
-  slug: "g-clamp-6",
+  slug: "G-clamp-6",
 
   category: "Physics",
 
@@ -1183,7 +1183,7 @@ badge: "in-stock",
 {
   id: 38,
 
-  slug: "gold-leaf-electroscope",
+  slug: "Gold-leaf-electroscope",
 
   category: "Physics",
 
@@ -1215,7 +1215,7 @@ badge: "in-stock",
 {
   id: 39,
 
-  slug: "helical-spring",
+  slug: "Helical-spring",
 
   category: "Physics",
 
@@ -1247,7 +1247,7 @@ badge: "in-stock",
 {
   id: 40,
 
-  slug: "solenoid",
+  slug: "Solenoid",
 
   category: "Physics",
 
@@ -1279,7 +1279,7 @@ badge: "in-stock",
 {
   id: 41,
 
-  slug: "iron-fillings-500g",
+  slug: "Iron-fillings",
 
   category: "Physics",
 
@@ -1311,7 +1311,7 @@ badge: "in-stock",
 {
   id: 42,
 
-  slug: "lens-holder",
+  slug: "Lens-holder",
 
   category: "Physics",
 
@@ -1343,7 +1343,7 @@ badge: "in-stock",
 {
   id: 43,
 
-  slug: "light-dependence-resistor-ldr",
+  slug: "Light-dependence-resistor-LDR",
 
   category: "Physics",
 
@@ -1375,7 +1375,7 @@ badge: "in-stock",
 {
   id: 44,
 
-  slug: "light-emitting-diodes-led",
+  slug: "Light-emitting-diodes-LED",
 
   category: "Physics",
 
@@ -1407,7 +1407,7 @@ badge: "in-stock",
 {
   id: 45,
 
-  slug: "metre-rule-flexible",
+  slug: "Metre-rule-flexible",
 
   category: "Physics",
 
@@ -1439,7 +1439,7 @@ badge: "in-stock",
 {
   id: 46,
 
-  slug: "wooden-bar-size-of-metre-rule",
+  slug: "Wooden-bar-size-of-metre-rule",
 
   category: "Physics",
 
@@ -1471,7 +1471,7 @@ badge: "in-stock",
 {
   id: 47,
 
-  slug: "grooved-wooden-bar-150cm-long",
+  slug: "Grooved-wooden-bar",
 
   category: "Physics",
 
@@ -1501,7 +1501,7 @@ badge: "in-stock",
 {
   id: 48,
 
-  slug: "micrometer-screw-guage",
+  slug: "Micrometer-screw-guage",
 
   category: "Physics",
 
@@ -1533,7 +1533,7 @@ badge: "in-stock",
 {
   id: 49,
 
-  slug: "milliammeter",
+  slug: "Milliammeter",
 
   category: "Physics",
 
@@ -1565,7 +1565,7 @@ badge: "in-stock",
 {
   id: 50,
 
-  slug: "millivoltmeter",
+  slug: "Millivoltmeter",
 
   category: "Physics",
 
@@ -1596,7 +1596,7 @@ badge: "in-stock",
 {
   id: 51,
 
-  slug: "nichrome-wire",
+  slug: "Nichrome-wire",
 
   category: "Physics",
 
@@ -1627,7 +1627,7 @@ badge: "in-stock",
 {
   id: 52,
 
-  slug: "optical-pins-pack-of-100",
+  slug: "Optical-pins",
 
   category: "Physics",
 
@@ -1658,7 +1658,7 @@ badge: "in-stock",
 {
   id: 53,
 
-  slug: "overflow-can-plastic",
+  slug: "Overflow-can-plastic",
 
   category: "Physics",
 
@@ -1690,7 +1690,7 @@ badge: "in-stock",
 {
   id: 54,
 
-  slug: "pendulum-bob",
+  slug: "Pendulum-bob",
 
   category: "Physics",
 
@@ -1726,7 +1726,7 @@ badge: "in-stock",
 {
   id: 55,
 
-  slug: "plain-mirror",
+  slug: "Plain-mirror",
 
   category: "Physics",
 
@@ -1758,7 +1758,7 @@ badge: "in-stock",
 {
   id: 56,
 
-  slug: "plotting-compass",
+  slug: "Plotting-compass",
 
   category: "Physics",
 
@@ -1790,7 +1790,7 @@ badge: "in-stock",
 {
   id: 57,
 
-  slug: "pulley-single",
+  slug: "Pulley-single",
 
   category: "Physics",
 
@@ -1822,7 +1822,7 @@ badge: "in-stock",
 {
   id: 58,
 
-  slug: "pulley-2-ways",
+  slug: "Pulley-2-ways",
 
   category: "Physics",
 
@@ -1854,7 +1854,7 @@ badge: "in-stock",
 {
   id: 59,
 
-  slug: "pulley-3-ways",
+  slug: "Pulley-3-ways",
 
   category: "Physics",
 
@@ -1886,7 +1886,7 @@ badge: "in-stock",
 {
   id: 60,
 
-  slug: "rectangular-glass-block",
+  slug: "Rectangular-glass-block",
 
   category: "Physics",
 
@@ -1918,7 +1918,7 @@ badge: "in-stock",
 {
   id: 61,
 
-  slug: "resistors-of-various-types",
+  slug: "Resistors",
 
   category: "Physics",
 
@@ -1950,7 +1950,7 @@ badge: "in-stock",
 {
   id: 62,
 
-  slug: "resonance-tube-glass",
+  slug: "Resonance-tube-glass",
 
   category: "Physics",
 
@@ -1980,7 +1980,7 @@ badge: "in-stock",
 {
   id: 63,
 
-  slug: "rheostat",
+  slug: "Rheostat",
 
   category: "Physics",
 
@@ -2012,7 +2012,7 @@ badge: "in-stock",
 {
   id: 64,
 
-  slug: "ripple-tank",
+  slug: "Ripple-tank",
 
   category: "Physics",
 
@@ -2043,7 +2043,7 @@ badge: "in-stock",
 {
   id: 65,
 
-  slug: "semicircular-glass-block",
+  slug: "Semicircular-glass-block",
 
   category: "Physics",
 
@@ -2074,7 +2074,7 @@ badge: "in-stock",
 {
   id: 66,
 
-  slug: "slinky-coil",
+  slug: "Slinky-coil",
 
   category: "Physics",
 
@@ -2106,7 +2106,7 @@ badge: "in-stock",
 {
   id: 67,
 
-  slug: "slotted-masses-5g-set-of-5",
+  slug: "Slotted-masses-5g",
 
   category: "Physics",
 
@@ -2138,7 +2138,7 @@ badge: "in-stock",
 {
   id: 68,
 
-  slug: "slotted-masses-10g-set-of-5",
+  slug: "Slotted-masses-10g",
 
   category: "Physics",
 
@@ -2170,7 +2170,7 @@ badge: "HOT",
 {
   id: 69,
 
-  slug: "slotted-masses-20g-set-of-5",
+  slug: "Slotted-masses-20g",
 
   category: "Physics",
 
@@ -2202,7 +2202,7 @@ badge: "HOT",
 {
   id: 70,
 
-  slug: "slotted-masses-50g-set-of-5",
+  slug: "Slotted-masses-50g",
 
   category: "Physics",
 
@@ -2234,7 +2234,7 @@ badge: "HOT",
 {
   id: 71,
 
-  slug: "slotted-masses-100g-set-of-5",
+  slug: "Slotted-masses-100g",
 
   category: "Physics",
 
@@ -2266,7 +2266,7 @@ badge: "HOT",
 {
   id: 72,
 
-  slug: "soldering-iron",
+  slug: "Soldering-iron",
 
   category: "Physics",
 
@@ -2298,7 +2298,7 @@ badge: "HOT",
 {
   id: 73,
 
-  slug: "spring-balance-newton-spring",
+  slug: "Spring-balance-/-newton-spring",
 
   category: "Physics",
 
@@ -2330,7 +2330,7 @@ badge: "HOT",
 {
   id: 74,
 
-  slug: "thermistor",
+  slug: "Thermistor",
 
   category: "Physics",
 
@@ -2362,7 +2362,7 @@ badge: "HOT",
 {
   id: 75,
 
-  slug: "thermometer-10-x-110-x-1-c-divisions",
+  slug: "Thermometer--10x110x1°cdivisions",
 
   category: "Physics",
 
@@ -2394,7 +2394,7 @@ badge: "HOT",
 {
   id: 76,
 
-  slug: "ticker-tape-timer-tape",
+  slug: "Ticker-tape-timer-+-tape",
 
   category: "Physics",
 
@@ -2425,7 +2425,7 @@ badge: "HOT",
 {
   id: 77,
 
-  slug: "transistor-n-p-n-p-n-p",
+  slug: "Transistor",
 
   category: "Physics",
 
@@ -2457,7 +2457,7 @@ badge: "HOT",
 {
   id: 78,
 
-  slug: "triple-beam-balance",
+  slug: "Triple-beam-balance",
 
   category: "Physics",
 
@@ -2489,7 +2489,7 @@ badge: "HOT",
 {
   id: 79,
 
-  slug: "tunning-fork-set-of-8",
+  slug: "Tunning-fork-set-of-8",
 
   category: "Physics",
 
@@ -2553,7 +2553,7 @@ badge: "HOT",
 {
   id: 81,
 
-  slug: "vernier-caliper-metal-plastic",
+  slug: "Vernier-caliper",
 
   category: "Physics",
 
@@ -2585,7 +2585,7 @@ badge: "HOT",
 {
   id: 82,
 
-  slug: "voltmeter",
+  slug: "Voltmeter",
 
   category: "Physics",
 

@@ -1,6 +1,8 @@
 import {
   useState,
   useEffect,
+  lazy,
+  Suspense,
 } from "react";
 
 import {
@@ -19,11 +21,19 @@ import Hero from "./components/Hero/Hero";
 
 import About from "./components/About/About";
 
-import Products from "./components/Products/Products";
+const Products = lazy(
+  () => import("./components/Products/Products")
+);
 
-import ProductDetails from "./components/ProductDetails/ProductDetails";
+const ProductDetails = lazy(
+  () =>
+    import("./components/ProductDetails/ProductDetails")
+);
 
-import Checkout from "./components/Checkout/Checkout";
+const Checkout = lazy(
+  () =>
+    import("./components/Checkout/Checkout")
+);
 
 import Contact from "./components/ContactTemp/Contact.jsx";
 
@@ -39,7 +49,10 @@ import { Helmet } from "react-helmet";
 
 import TopBar from "./components/TopBar/TopBar";
 
-import AboutPage from "./Pages/AboutPage";
+const AboutPage = lazy(
+  () =>
+    import("./Pages/AboutPage")
+);
 
 import CategoryShowcase from "./components/CategoryShowcase/CategoryShowcase";
 
@@ -51,17 +64,57 @@ import BackToTop from "./components/BackToTop/BackToTop";
 
 import CookieBanner from "./components/CookieBanner/CookieBanner";
 
-import CookiesPage from "./Pages/CookiesPage";
-import TermsPage from "./Pages/TermsPage";
-import PrivacyPage from "./Pages/PrivacyPage";
-import ShippingPage from "./Pages/ShippingPage";
-import ReturnsPage from "./Pages/ReturnsPage";
-import FAQPage from "./Pages/FAQPage";
-import MaintenancePage from "./Pages/MaintenancePage";
-import CataloguePage from "./Pages/CataloguePage";
+const CookiesPage = lazy(
+  () =>
+    import("./Pages/CookiesPage")
+);
+
+const TermsPage = lazy(
+  () =>
+    import("./Pages/TermsPage")
+);
+
+const PrivacyPage = lazy(
+  () =>
+    import("./Pages/PrivacyPage")
+);
+
+const ShippingPage = lazy(
+  () =>
+    import("./Pages/ShippingPage")
+);
+
+const ReturnsPage = lazy(
+  () =>
+    import("./Pages/ReturnsPage")
+);
+
+const FAQPage = lazy(
+  () =>
+    import("./Pages/FAQPage")
+);
+
+const MaintenancePage = lazy(
+  () =>
+    import("./Pages/MaintenancePage")
+);
+
+const CataloguePage = lazy(
+  () =>
+    import("./Pages/CataloguePage")
+);
+
 import Stats from "./components/Stats/Stats";
-import KnowledgeCenter from "./Pages/KnowledgeCenter";
-import KnowledgeArticle from "./Pages/KnowledgeArticle";
+
+const KnowledgeCenter = lazy(
+  () =>
+    import("./Pages/KnowledgeCenter")
+);
+
+const KnowledgeArticle = lazy(
+  () =>
+    import("./Pages/KnowledgeArticle")
+);
 
 /* PAGE TRANSITION */
 
@@ -131,11 +184,21 @@ function HomePage({
 
       {/* PRODUCTS */}
 
+        <Suspense
+          fallback={
+            <div className="products-loading">
+              Loading products...
+            </div>
+            }
+      >
+
       <Products
         cartItems={cartItems}
         setCartItems={setCartItems}
         searchTerm={searchTerm}
       />
+
+      </Suspense>
 
       {/* CONTACT */}
 
@@ -307,7 +370,16 @@ function App() {
         setSearchTerm={setSearchTerm}
       />
 
+
       {/* ROUTES */}
+
+      <Suspense
+          fallback={
+            <div className="page-loading">
+              Loading...
+            </div>
+            }
+     >
 
       <Routes
         location={location}
@@ -434,6 +506,8 @@ function App() {
         />
 
   </Routes>
+
+  </Suspense>
 
     
 

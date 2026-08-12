@@ -1,7 +1,5 @@
 User-agent: *
-
 Allow: /
 
 Sitemap: https://mettlersciencelaboratory.com/sitemap.xml
-
 Sitemap: https://mettlersciencelaboratory.com/image-sitemap.xml

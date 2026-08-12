@@ -38,81 +38,195 @@ const pageTitle =
 const pageDescription =
 article.description;
 
-  if (!article) {
 
-    return (
-
-      <div className="article-not-found">
-
-        <h2>
-
-          Article not found
-
-        </h2>
-
-        <Link to="/knowledge-center">
-
-          Return to Knowledge Center
-
-        </Link>
-
-      </div>
-
-    );
-
-  }
-
+const pageUrl =
+  `https://mettlersciencelaboratory.com/knowledge/${article.slug}`;
+ 
   return (
 
 <div className="article-page">
 
 <Helmet>
 
-<title>
+  {/* TITLE */}
 
-{pageTitle}
+  <title>
+    {pageTitle}
+  </title>
 
-</title>
 
-<meta
-name="description"
-content={pageDescription}
-/>
+  {/* DESCRIPTION */}
 
-<script type="application/ld+json">
-{JSON.stringify({
-  "@context": "https://schema.org",
-  "@type": "Article",
+  <meta
+    name="description"
+    content={pageDescription}
+  />
 
-  headline: article.title,
 
-  description: article.description,
+  {/* CANONICAL */}
 
-  image: article.image,
+  <link
+    rel="canonical"
+    href={pageUrl}
+  />
 
-  author: {
-    "@type": "Organization",
-    name: "Mettler Science Laboratory"
-  },
 
-  publisher: {
-    "@type": "Organization",
-    name: "Mettler Company Limited",
-    logo: {
-      "@type": "ImageObject",
-      url: "https://mettlersciencelaboratory.com/logo.png"
-    }
-  },
+  {/* OPEN GRAPH */}
 
-  datePublished: article.published,
+  <meta
+    property="og:title"
+    content={pageTitle}
+  />
 
-  mainEntityOfPage: {
-    "@type": "WebPage",
-    "@id": `https://mettlersciencelaboratory.com/knowledge/${article.slug}`
-  }
+  <meta
+    property="og:description"
+    content={pageDescription}
+  />
 
-})}
-</script>
+  <meta
+    property="og:url"
+    content={pageUrl}
+  />
+
+  <meta
+    property="og:type"
+    content="article"
+  />
+
+  <meta
+    property="og:site_name"
+    content="Mettler Science Laboratory"
+  />
+
+  <meta
+    property="og:image"
+    content={article.image}
+  />
+
+  <meta
+    property="og:image:alt"
+    content={article.title}
+  />
+
+
+  {/* TWITTER */}
+
+  <meta
+    name="twitter:card"
+    content="summary_large_image"
+  />
+
+  <meta
+    name="twitter:title"
+    content={pageTitle}
+  />
+
+  <meta
+    name="twitter:description"
+    content={pageDescription}
+  />
+
+  <meta
+    name="twitter:image"
+    content={article.image}
+  />
+
+
+  {/* ARTICLE STRUCTURED DATA */}
+
+  <script type="application/ld+json">
+    {JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "Article",
+
+      "@id": `${pageUrl}#article`,
+
+      headline: article.title,
+
+      description: article.description,
+
+      image: article.image,
+
+      datePublished: article.published,
+
+      author: {
+        "@type": "Person",
+        name: article.author,
+      },
+
+      publisher: {
+        "@type": "Organization",
+        name: "Mettler Company Limited",
+
+        url:
+          "https://mettlersciencelaboratory.com",
+
+        logo: {
+          "@type": "ImageObject",
+
+          url:
+            "https://mettlersciencelaboratory.com/logo.png",
+        },
+      },
+
+      mainEntityOfPage: {
+        "@type": "WebPage",
+
+        "@id": pageUrl,
+      },
+
+      articleSection: article.category,
+
+      inLanguage: "en",
+    })}
+  </script>
+
+
+  {/* BREADCRUMB STRUCTURED DATA */}
+
+  <script type="application/ld+json">
+    {JSON.stringify({
+      "@context": "https://schema.org",
+
+      "@type": "BreadcrumbList",
+
+      itemListElement: [
+
+        {
+          "@type": "ListItem",
+
+          position: 1,
+
+          name: "Home",
+
+          item:
+            "https://mettlersciencelaboratory.com/",
+        },
+
+        {
+          "@type": "ListItem",
+
+          position: 2,
+
+          name: "Knowledge Center",
+
+          item:
+            "https://mettlersciencelaboratory.com/knowledge-center",
+        },
+
+        {
+          "@type": "ListItem",
+
+          position: 3,
+
+          name: article.title,
+
+          item: pageUrl,
+        },
+
+      ],
+    })}
+  </script>
 
 </Helmet>
 
@@ -120,6 +234,7 @@ content={pageDescription}
 src={article.image}
 alt={article.title}
 className="article-hero"
+fetchPriority="high"
 />
 
 <div className="breadcrumb">
@@ -225,6 +340,7 @@ Knowledge Center
     src={section.image}
     alt={section.imageAlt}
     className="section-image"
+    loading="lazy"
   />
 
 )}
@@ -362,6 +478,8 @@ Knowledge Center
           src={item.image}
 
           alt={item.title}
+
+          loading="lazy"
 
         />
 

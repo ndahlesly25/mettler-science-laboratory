@@ -3,7 +3,7 @@ const geologyProducts = [
   {
   id: 1,
 
-  slug: "simple-cube",
+  slug: "Simple-cube",
 
   category: "Geology",
 
@@ -35,7 +35,7 @@ const geologyProducts = [
 {
   id: 2,
 
-  slug: "octahedron",
+  slug: "Octahedron",
 
   category: "Geology",
 
@@ -66,7 +66,7 @@ const geologyProducts = [
 {
   id: 3,
 
-  slug: "galena",
+  slug: "Galena",
 
   category: "Geology",
 
@@ -98,7 +98,7 @@ const geologyProducts = [
 {
   id: 4,
 
-  slug: "rhombohedron",
+  slug: "Rhombohedron",
 
   category: "Geology",
 
@@ -129,7 +129,7 @@ const geologyProducts = [
 {
   id: 5,
 
-  slug: "olivine",
+  slug: "Olivine",
 
   category: "Geology",
 
@@ -161,7 +161,7 @@ const geologyProducts = [
 {
   id: 6,
 
-  slug: "hornblende",
+  slug: "Hornblende",
 
   category: "Geology",
 
@@ -193,7 +193,7 @@ const geologyProducts = [
 {
   id: 7,
 
-  slug: "orthoclase",
+  slug: "Orthoclase",
 
   category: "Geology",
 
@@ -224,7 +224,7 @@ const geologyProducts = [
 {
   id: 8,
 
-  slug: "muscovite",
+  slug: "Muscovite",
 
   category: "Geology",
 
@@ -256,7 +256,7 @@ const geologyProducts = [
 {
   id: 9,
 
-  slug: "quartz",
+  slug: "Quartz",
 
   category: "Geology",
 
@@ -287,7 +287,7 @@ const geologyProducts = [
 {
   id: 10,
 
-  slug: "plagioclase",
+  slug: "Plagioclase",
 
   category: "Geology",
 
@@ -319,7 +319,7 @@ const geologyProducts = [
 {
   id: 11,
 
-  slug: "talc",
+  slug: "Talc",
 
   category: "Geology",
 
@@ -381,7 +381,7 @@ const geologyProducts = [
 {
   id: 13,
 
-  slug: "gypsum",
+  slug: "Gypsum",
 
   category: "Geology",
 
@@ -412,7 +412,7 @@ const geologyProducts = [
 {
   id: 14,
 
-  slug: "pyrite",
+  slug: "Pyrite",
 
   category: "Geology",
 
@@ -442,7 +442,7 @@ const geologyProducts = [
 {
   id: 15,
 
-  slug: "hematite",
+  slug: "Hematite",
 
   category: "Geology",
 
@@ -474,7 +474,7 @@ const geologyProducts = [
 {
   id: 16,
 
-  slug: "magnetite",
+  slug: "Magnetite",
 
   category: "Geology",
 
@@ -507,7 +507,7 @@ const geologyProducts = [
 {
   id: 17,
 
-  slug: "limonite",
+  slug: "Limonite",
 
   category: "Geology",
 
@@ -538,7 +538,7 @@ const geologyProducts = [
 {
   id: 18,
 
-  slug: "corundum",
+  slug: "Corundum",
 
   category: "Geology",
 
@@ -568,7 +568,7 @@ const geologyProducts = [
 {
   id: 19,
 
-  slug: "calcite",
+  slug: "Calcite",
 
   category: "Geology",
 
@@ -599,7 +599,7 @@ const geologyProducts = [
 {
   id: 20,
 
-  slug: "coal",
+  slug: "Coal",
 
   category: "Geology",
 
@@ -629,7 +629,7 @@ const geologyProducts = [
 {
   id: 21,
 
-  slug: "halite",
+  slug: "Halite",
 
   category: "Geology",
 
@@ -659,7 +659,7 @@ const geologyProducts = [
 {
   id: 22,
 
-  slug: "fluorite-fluorspar",
+  slug: "Fluorite",
 
   category: "Geology",
 
@@ -690,7 +690,7 @@ const geologyProducts = [
 {
   id: 23,
 
-  slug: "graphite",
+  slug: "Graphite",
 
   category: "Geology",
 
@@ -721,7 +721,7 @@ const geologyProducts = [
 {
   id: 24,
 
-  slug: "sulfur",
+  slug: "Sulfur",
 
   category: "Geology",
 
@@ -752,7 +752,7 @@ const geologyProducts = [
 {
   id: 25,
 
-  slug: "basalt-massive-vesicular-amygdaloidal-porhyritic",
+  slug: "Basalt-(massive-vesicular-amygdaloidal-porhyritic)",
 
   category: "Geology",
 
@@ -783,7 +783,7 @@ const geologyProducts = [
 {
   id: 26,
 
-  slug: "dolerite",
+  slug: "Dolerite",
 
   category: "Geology",
 
@@ -813,7 +813,7 @@ const geologyProducts = [
 {
   id: 27,
 
-  slug: "gabbro",
+  slug: "Gabbro",
 
   category: "Geology",
 
@@ -843,7 +843,7 @@ const geologyProducts = [
 {
   id: 28,
 
-  slug: "granite",
+  slug: "Granite",
 
   category: "Geology",
 
@@ -874,7 +874,7 @@ const geologyProducts = [
 {
   id: 29,
 
-  slug: "granodiorites",
+  slug: "Granodiorites",
 
   category: "Geology",
 
@@ -904,7 +904,7 @@ const geologyProducts = [
 {
   id: 30,
 
-  slug: "rhyolite",
+  slug: "Rhyolite",
 
   category: "Geology",
 
@@ -935,7 +935,7 @@ const geologyProducts = [
 {
   id: 31,
 
-  slug: "obsidian",
+  slug: "Obsidian",
 
   category: "Geology",
 
@@ -966,7 +966,7 @@ const geologyProducts = [
 {
   id: 32,
 
-  slug: "pitchstone",
+  slug: "Pitchstone",
 
   category: "Geology",
 
@@ -996,7 +996,7 @@ const geologyProducts = [
 {
   id: 33,
 
-  slug: "pumice",
+  slug: "Pumice",
 
   category: "Geology",
 
@@ -1027,7 +1027,7 @@ const geologyProducts = [
 {
   id: 34,
 
-  slug: "volcanic-bomb-scoria",
+  slug: "Volcanic-bomb-(scoria)",
 
   category: "Geology",
 
@@ -1058,7 +1058,7 @@ const geologyProducts = [
 {
   id: 35,
 
-  slug: "trachytes",
+  slug: "Trachytes",
 
   category: "Geology",
 
@@ -1089,7 +1089,7 @@ const geologyProducts = [
 {
   id: 36,
 
-  slug: "andesites",
+  slug: "Andesites",
 
   category: "Geology",
 
@@ -1120,7 +1120,7 @@ const geologyProducts = [
 {
   id: 37,
 
-  slug: "syenites",
+  slug: "Syenites",
 
   category: "Geology",
 
@@ -1150,7 +1150,7 @@ const geologyProducts = [
 {
   id: 38,
 
-  slug: "granite-pegmatite",
+  slug: "Granite-pegmatite",
 
   category: "Geology",
 
@@ -1181,7 +1181,7 @@ const geologyProducts = [
 {
   id: 39,
 
-  slug: "quartzite",
+  slug: "Quartzite",
 
   category: "Geology",
 
@@ -1212,7 +1212,7 @@ const geologyProducts = [
 {
   id: 40,
 
-  slug: "slate",
+  slug: "Slate",
 
   category: "Geology",
 
@@ -1242,7 +1242,7 @@ const geologyProducts = [
 {
   id: 41,
 
-  slug: "phyllite",
+  slug: "Phyllite",
 
   category: "Geology",
 
@@ -1273,7 +1273,7 @@ const geologyProducts = [
 {
   id: 42,
 
-  slug: "schists",
+  slug: "Schists",
 
   category: "Geology",
 
@@ -1304,7 +1304,7 @@ const geologyProducts = [
 {
   id: 43,
 
-  slug: "gneiss",
+  slug: "Gneiss",
 
   category: "Geology",
 
@@ -1335,7 +1335,7 @@ const geologyProducts = [
 {
   id: 44,
 
-  slug: "migmatite",
+  slug: "Migmatite",
 
   category: "Geology",
 
@@ -1366,7 +1366,7 @@ const geologyProducts = [
 {
   id: 45,
 
-  slug: "conglomerate",
+  slug: "Conglomerate",
 
   category: "Geology",
 
@@ -1397,7 +1397,7 @@ const geologyProducts = [
 {
   id: 46,
 
-  slug: "sandstone",
+  slug: "Sandstone",
 
   category: "Geology",
 
@@ -1428,7 +1428,7 @@ const geologyProducts = [
 {
   id: 47,
 
-  slug: "siltstone",
+  slug: "Siltstone",
 
   category: "Geology",
 
@@ -1459,7 +1459,7 @@ const geologyProducts = [
 {
   id: 48,
 
-  slug: "shale",
+  slug: "Shale",
 
   category: "Geology",
 
@@ -1490,7 +1490,7 @@ const geologyProducts = [
 {
   id: 49,
 
-  slug: "limestone",
+  slug: "Limestone",
 
   category: "Geology",
 
@@ -1521,7 +1521,7 @@ const geologyProducts = [
 {
   id: 50,
 
-  slug: "ferruginous-sandstone",
+  slug: "Ferruginous-sandstone",
 
   category: "Geology",
 
@@ -1552,7 +1552,7 @@ const geologyProducts = [
 {
   id: 51,
 
-  slug: "fossiliferous-limestone",
+  slug: "Fossiliferous-limestone",
 
   category: "Geology",
 
@@ -1585,7 +1585,7 @@ const geologyProducts = [
 {
   id: 53,
 
-  slug: "gastropod",
+  slug: "Gastropod",
 
   category: "Geology",
 
@@ -1616,7 +1616,7 @@ const geologyProducts = [
 {
   id: 54,
 
-  slug: "cephalopod",
+  slug: "Cephalopod",
 
   category: "Geology",
 
@@ -1647,7 +1647,7 @@ const geologyProducts = [
 {
   id: 55,
 
-  slug: "graptolite",
+  slug: "Graptolite",
 
   category: "Geology",
 
@@ -1680,7 +1680,7 @@ const geologyProducts = [
 {
   id: 56,
 
-  slug: "trilobite",
+  slug: "Trilobite",
 
   category: "Geology",
 
@@ -1712,7 +1712,7 @@ const geologyProducts = [
 {
   id: 57,
 
-  slug: "bivalve",
+  slug: "Bivalve",
 
   category: "Geology",
 
@@ -1745,7 +1745,7 @@ const geologyProducts = [
 {
   id: 58,
 
-  slug: "ammonites",
+  slug: "Ammonites",
 
   category: "Geology",
 
@@ -1776,7 +1776,7 @@ const geologyProducts = [
 {
   id: 59,
 
-  slug: "geologic-maps",
+  slug: "Geologic-maps",
 
   category: "Geology",
 
@@ -1807,7 +1807,7 @@ const geologyProducts = [
 {
   id: 60,
 
-  slug: "streak-plate",
+  slug: "Streak-plate",
 
   category: "Geology",
 
@@ -1838,7 +1838,7 @@ const geologyProducts = [
 {
   id: 61,
 
-  slug: "geologic-hammer",
+  slug: "Geologic-hammer",
 
   category: "Geology",
 

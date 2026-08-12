@@ -11,31 +11,12 @@ import {
 
 import { Helmet } from "react-helmet";
 
-import chemistryProducts from "../../data/chemistry";
-import biologyProducts from "../../data/biology";
-import physicsProducts from "../../data/physics";
-import geologyProducts from "../../data/geology";
-import medicalScienceProducts from "../../data/medicalScience";
+import allProducts from "../../data/allProducts";
 
 export default function ProductDetails({
   setCartItems,
 }) {
 
-  /* ALL PRODUCTS */
-
-  const allProducts = [
-
-    ...chemistryProducts,
-
-    ...biologyProducts,
-
-    ...physicsProducts,
-
-    ...geologyProducts,
-
-    ...medicalScienceProducts,
-
-  ];
 
   /* URL PARAM */
 
@@ -47,43 +28,100 @@ const product = allProducts.find(
   (item) => item.slug === slug
 );
 
-const productSchema = {
-  "@context": "https://schema.org",
-  "@type": "Product",
+const productUrl = product
+  ? `https://mettlersciencelaboratory.com/product/${product.slug}`
+  : "";
 
-  name: product?.name,
+const productImages = product
+  ? [
+      ...(product.images || []),
+      ...(product.image ? [product.image] : []),
+    ].filter(
+      (image, index, array) =>
+        image &&
+        array.indexOf(image) === index
+    )
+  : [];
 
-  image: product?.images || [product?.image],
+const productPrice = product?.price
+  ? product.price.replace(/[^\d.]/g, "")
+  : "";
 
-  description: product?.fullDescription,
+const productSchema = product
+  ? {
+      "@context": "https://schema.org",
+      "@type": "Product",
 
-  sku: product?.slug,
+      "@id": `${productUrl}#product`,
 
-  brand: {
-    "@type": "Brand",
-    name: "Mettler Science Laboratory"
-  },
+      name: product.name,
 
-  category: product?.category,
+      image: productImages,
 
-  offers: {
-  "@type": "Offer",
+      description:
+        product.fullDescription ||
+        product.description ||
+        `${product.name} supplied by Mettler Science Laboratory in Cameroon.`,
 
-  priceCurrency: "XAF",
+      sku: String(product.id),
 
-  price: product?.price?.replace(/[^\d]/g, ""),
+      brand: {
+        "@type": "Brand",
+        name: "Mettler Science Laboratory",
+      },
 
-  availability: "https://schema.org/InStock",
+      category: product.category,
 
-  seller: {
-    "@type": "Organization",
-    name: "Mettler Science Laboratory"
-  },
+      offers: {
+        "@type": "Offer",
 
-  url: `https://mettlersciencelaboratory.com/product/${product.slug}`
-}
-};
+        url: productUrl,
 
+        priceCurrency: "XAF",
+
+        price: productPrice,
+
+        availability:
+          "https://schema.org/InStock",
+
+        seller: {
+          "@type": "Organization",
+          name: "Mettler Science Laboratory",
+
+          url:
+            "https://mettlersciencelaboratory.com",
+        },
+      },
+    }
+  : null;
+
+
+ const breadcrumbSchema = product
+  ? {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://mettlersciencelaboratory.com/",
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": product.category,
+          "item": "https://mettlersciencelaboratory.com/catalogue",
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": product.name,
+          "item": `https://mettlersciencelaboratory.com/product/${product.slug}`,
+        },
+      ],
+    }
+  : null;
 /* ACTIVE IMAGE */
 
 const [activeImage, setActiveImage] =
@@ -242,19 +280,26 @@ const prevImage = () => {
     {/* Open Graph */}
 
     <meta
-      property="og:title"
-      content={product.name}
-    />
+  property="og:title"
+  content={`${product.name} | Mettler Company Limited`}
+/>
 
     <meta
-      property="og:description"
-      content={product.fullDescription}
-    />
+  property="og:description"
+  content={
+    product.fullDescription ||
+    product.description ||
+    `Shop ${product.name} from Mettler Company Limited in Cameroon.`
+  }
+/>
 
     <meta
-      property="og:image"
-      content={product.image}
-    />
+  property="og:image"
+  content={
+    product.image ||
+    product.images?.[0]
+  }
+/>
 
     <meta
       property="og:type"
@@ -284,14 +329,20 @@ const prevImage = () => {
     />
 
     <meta
-      name="twitter:image"
-      content={product.image}
-    />
+  name="twitter:image"
+  content={
+    product.image ||
+    product.images?.[0]
+  }
+/>
 
      {/* Structured Data */}
     <script type="application/ld+json">
-      {JSON.stringify(productSchema)}
-    </script>
+  {JSON.stringify([
+    productSchema,
+    breadcrumbSchema,
+  ].filter(Boolean))}
+</script>
 
   </Helmet>
 
@@ -446,7 +497,9 @@ const prevImage = () => {
             </button>
 
             <a
-  href={`https://wa.me/237670899763?text=Hello,%20I%20want%20to%20order%20${product.name}`}
+  href={`https://wa.me/237670899763?text=${encodeURIComponent(
+  `Hello, I want to order ${product.name}`
+)}`}
   target="_blank"
   rel="noopener noreferrer"
   className="whatsapp-order-link"

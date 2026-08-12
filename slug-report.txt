@@ -1,0 +1,25 @@
+SLUG CLEANING REPORT
+====================
+
+Total products: 486
+Products changed: 3
+Duplicate cleaned slugs: 0
+
+CHANGES
+=======
+
+File: ../src/data/chemistry.js
+Name: Measuring cylinder 50ml glass/plastic
+Old slug: Measuring-cylinder-50ml
+New slug: measuring-cylinder-50ml-glass-plastic
+----------------------------------------
+File: ../src/data/biology.js
+Name: Methylene blue solution  500ml
+Old slug: Methylene-blue-solution
+New slug: methylene-blue-solution-500ml
+----------------------------------------
+File: ../src/data/biology.js
+Name:  Squid
+Old slug: Squid
+New slug: squid
+----------------------------------------

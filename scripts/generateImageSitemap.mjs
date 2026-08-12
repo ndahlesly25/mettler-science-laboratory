@@ -1,6 +1,15 @@
 import fs from "fs";
 import { allProducts } from "./routes.mjs";
 
+function escapeXml(value = "") {
+  return String(value)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&apos;");
+}
+
 const hostname = "https://mettlersciencelaboratory.com";
 
 let xml = `<?xml version="1.0" encoding="UTF-8"?>
@@ -11,21 +20,31 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
 allProducts.forEach(product => {
 
-xml += `
-<url>
+  const productUrl =
+    `${hostname}/product/${product.slug}`;
 
-<loc>${hostname}/product/${product.slug}</loc>
+  const imageUrl =
+    product.image || "";
 
-<image:image>
+  if (!imageUrl) {
+    return;
+  }
 
-<image:loc>${product.image}</image:loc>
+  xml += `
+  <url>
 
-<image:title>${product.name}</image:title>
+    <loc>${escapeXml(productUrl)}</loc>
 
-</image:image>
+    <image:image>
 
-</url>
-`;
+      <image:loc>${escapeXml(imageUrl)}</image:loc>
+
+      <image:title>${escapeXml(product.name)}</image:title>
+
+    </image:image>
+
+  </url>
+  `;
 
 });
 

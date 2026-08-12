@@ -245,7 +245,7 @@ const chemistryProducts = [
 {
   id: 8,
 
-  slug: "burette-50ml-amber-graduation",
+  slug: "burette-50ml",
 
   category: "Chemistry",
 
@@ -277,7 +277,7 @@ const chemistryProducts = [
 {
   id: 9,
 
-  slug: "burette-clamp-retort-stand-bosshead",
+  slug: "Burette-clamp-+-retort-stand-+-bosshead",
 
   category: "Chemistry",
 
@@ -310,7 +310,7 @@ const chemistryProducts = [
 {
   id: 10,
 
-  slug: "burette-clip",
+  slug: "Burette-clip",
 
   category: "Chemistry",
 
@@ -404,7 +404,7 @@ const chemistryProducts = [
 {
   id: 13,
 
-  slug: "conical-flask-100ml",
+  slug: "conical-flask",
 
   category: "chemistry",
 
@@ -437,7 +437,7 @@ const chemistryProducts = [
 {
   id: 14,
 
-  slug: "conical-flask-250ml",
+  slug: "Conical-flask-250ml",
 
   category: "Chemistry",
 
@@ -470,7 +470,7 @@ const chemistryProducts = [
 {
   id: 15,
 
-  slug: "crucible-lid",
+  slug: "Crucible-and-lid",
 
   category: "Chemistry",
 
@@ -502,7 +502,7 @@ const chemistryProducts = [
 {
   id: 16,
 
-  slug: "crucible-tongs",
+  slug: "crucible tongs",
 
   category: "Chemistry",
 
@@ -533,7 +533,7 @@ const chemistryProducts = [
 {
   id: 17,
 
-  slug: "dropping-bottle-125ml",
+  slug: "Dropping-bottle-125ml",
 
   category: "Chemistry",
 
@@ -565,7 +565,7 @@ const chemistryProducts = [
 {
   id: 18,
 
-  slug: "electronic-balance-0-01g-accuracy",
+  slug: "Electronic-balance-1000g-x-0.01g-accuracy",
 
   category: "Chemistry",
   badge: "Best Seller",
@@ -598,7 +598,7 @@ const chemistryProducts = [
 {
   id: 19,
 
-  slug: "evaporating-dish",
+  slug: "Evaporating-dish",
 
   category: "Chemistry",
 
@@ -629,7 +629,7 @@ const chemistryProducts = [
 {
   id: 20,
 
-  slug: "flat-bottom-flask-250ml",
+  slug: "Flat-bottom-flask-250ml",
 
   category: "Chemistry",
 
@@ -662,7 +662,7 @@ const chemistryProducts = [
 {
   id: 22,
 
-  slug: "graduated-plastic-dropper",
+  slug: "Graduated-plastic-dropper",
 
   category: "Chemistry",
 
@@ -693,7 +693,7 @@ const chemistryProducts = [
 {
   id: 23,
 
-  slug: "measuring-cylinder-5ml-glass",
+  slug: "Measuring-cylinder-5ml-glass",
 
   category: "Chemistry",
 
@@ -724,7 +724,7 @@ const chemistryProducts = [
 {
   id: 24,
 
-  slug: "measuring-cylinder-10ml-glass-plastic",
+  slug: "Measuring cylinder-10ml-plastic",
 
   category: "Chemistry",
 
@@ -756,7 +756,7 @@ const chemistryProducts = [
 {
   id: 25,
 
-  slug: "measuring-cylinder-25ml-glass-plastic",
+  slug: "Measuring-cylinder-25ml",
 
   category: "Chemistry",
   badge: "Best Seller",
@@ -787,7 +787,7 @@ const chemistryProducts = [
 {
   id: 26,
 
-  slug: "measuring-cylinder-50ml-glass-plastic",
+  slug:  "Measuring-cylinder-50ml",
 
   category: "Chemistry",
 
@@ -818,7 +818,7 @@ const chemistryProducts = [
 {
   id: 27,
 
-  slug: "measuring-cylinder-100ml-glass-plastic",
+  slug: "Measuring-cylinder-100ml",
 
   category: "Chemistry",
 
@@ -850,7 +850,7 @@ const chemistryProducts = [
 {
   id: 28,
 
-  slug: "measuring-cylinder-250ml-glass-plastic",
+  slug: "Measuring-cylinder-250ml",
 
   category: "Chemistry",
 
@@ -882,7 +882,7 @@ const chemistryProducts = [
 {
   id: 29,
 
-  slug: "measuring-cylinder-1000ml-glass-plastic",
+  slug: "Measuring-cylinder-1000ml",
 
   category: "Chemistry",
 
@@ -914,7 +914,7 @@ const chemistryProducts = [
 {
   id: 30,
 
-  slug: "molecular-model-set",
+  slug: "Molecular-model-set",
 
   category: "Chemistry",
 
@@ -946,7 +946,7 @@ const chemistryProducts = [
 {
   id: 31,
 
-  slug: "periodic-table",
+  slug: " Periodic-table",
 
   category: "Chemistry",
 
@@ -978,7 +978,7 @@ const chemistryProducts = [
 {
   id: 32,
 
-  slug: "pipette-5ml",
+  slug: "Pipette-5ml",
 
   category: "Chemistry",
 
@@ -1009,7 +1009,7 @@ const chemistryProducts = [
 {
   id: 33,
 
-  slug: "pipette-10ml-graduated",
+  slug: "Pipette-10ml",
 
   category: "Chemistry",
 
@@ -1040,7 +1040,7 @@ const chemistryProducts = [
 {
   id: 34,
 
-  slug: "pipette-25ml-bulb-form",
+  slug: "Pipette-25ml",
 
   category: "Chemistry",
 
@@ -1071,7 +1071,7 @@ const chemistryProducts = [
 {
   id: 35,
 
-  slug: "pipette-filler",
+  slug: "Pipette-filler",
 
   category: "Chemistry",
 
@@ -1103,7 +1103,7 @@ const chemistryProducts = [
 {
   id: 36,
 
-  slug: "plastic-funnel",
+  slug: "Plastic-funnel",
 
   category: "Chemistry",
 
@@ -1134,7 +1134,7 @@ const chemistryProducts = [
 {
   id: 37,
 
-  slug: "ph-meter-pocket-type",
+  slug: "PH-meter-pocket-type",
 
   category: "Chemistry",
 
@@ -1165,7 +1165,7 @@ const chemistryProducts = [
 {
   id: 38,
 
-  slug: "ph-meter-table-type",
+  slug: "PH-meter-table-type",
 
   category: "Chemistry",
 
@@ -1195,7 +1195,7 @@ const chemistryProducts = [
 {
   id: 39,
 
-  slug: "reagent-bottle-250ml-amber-transparent",
+  slug: "Reagent-bottle-250ml",
 
   category: "Chemistry",
 
@@ -1227,7 +1227,7 @@ const chemistryProducts = [
 {
   id: 40,
 
-  slug: "round-bottom-flask-250ml",
+  slug: "Round-bottom-flask-250ml",
 
   category: "Chemistry",
 
@@ -1258,7 +1258,7 @@ const chemistryProducts = [
 {
   id: 41,
 
-  slug: "separating-funnel-250ml",
+  slug: "Separating-funnel",
 
   category: "Chemistry",
 
@@ -1290,7 +1290,7 @@ const chemistryProducts = [
 {
   id: 42,
 
-  slug: "spatula-stainless-steel",
+  slug: "Spatula-stainless-steel",
 
   category: "Chemistry",
 
@@ -1321,7 +1321,7 @@ const chemistryProducts = [
 {
   id: 43,
 
-  slug: "stirring-glass-rod",
+  slug: "Stirring-glass-rod",
 
   category: "Chemistry",
 
@@ -1352,7 +1352,7 @@ const chemistryProducts = [
 {
   id: 44,
 
-  slug: "stop-watch-digital",
+  slug: "Stop-watch-digital",
 
   category: "Chemistry",
 
@@ -1383,7 +1383,7 @@ const chemistryProducts = [
 {
   id: 45,
 
-  slug: "test-tube",
+  slug: "Test-tube",
 
   category: "Chemistry",
 
@@ -1415,7 +1415,7 @@ const chemistryProducts = [
 {
   id: 46,
 
-  slug: "test-tube-brush",
+  slug: "Test-tube-brush",
 
   category: "Chemistry",
 
@@ -1447,7 +1447,7 @@ const chemistryProducts = [
 {
   id: 47,
 
-  slug: "test-tube-holder",
+  slug: "Test-tube-holder",
 
   category: "Chemistry",
 
@@ -1478,7 +1478,7 @@ const chemistryProducts = [
 {
   id: 48,
 
-  slug: "test-tube-rack",
+  slug: "Test-tube-rack",
 
   category: "Chemistry",
 
@@ -1510,7 +1510,7 @@ const chemistryProducts = [
 {
   id: 49,
 
-  slug: "thermometer-10-x-110-x-0-1-c-divisions",
+  slug: "Thermometer–10-x-110-x-0.1°c-Divisions",
 
   category: "Chemistry",
 
@@ -1541,7 +1541,7 @@ const chemistryProducts = [
 {
   id: 50,
 
-  slug: "tripod-stand",
+  slug: "Tripod-stand",
 
   category: "Chemistry",
 
@@ -1572,7 +1572,7 @@ const chemistryProducts = [
 {
   id: 51,
 
-  slug: "volumetric-flask-250ml",
+  slug: "Volumetric-flask-250ml",
 
   category: "Chemistry",
 
@@ -1603,7 +1603,7 @@ const chemistryProducts = [
 {
   id: 52,
 
-  slug: "volumetric-flask-500ml",
+  slug: "Volumetric-flask-500ml",
 
   category: "Chemistry",
 
@@ -1634,7 +1634,7 @@ const chemistryProducts = [
 {
   id: 53,
 
-  slug: "volumetric-flask-1000ml",
+  slug: "Volumetric-flask-1000ml",
 
   category: "Chemistry",
 
@@ -1666,7 +1666,7 @@ const chemistryProducts = [
 {
   id: 54,
 
-  slug: "volumetric-flask-2000ml",
+  slug: "Volumetric-flask-2000ml",
 
   category: "Chemistry",
 
@@ -1697,7 +1697,7 @@ const chemistryProducts = [
 {
   id: 55,
 
-  slug: "volumetric-flask-5000ml",
+  slug: "Volumetric-flask-5000ml",
 
   category: "Chemistry",
 
@@ -1728,7 +1728,7 @@ const chemistryProducts = [
 {
   id: 56,
 
-  slug: "wash-bottle",
+  slug: "Wash-bottle",
 
   category: "Chemistry",
 
@@ -1759,7 +1759,7 @@ const chemistryProducts = [
 {
   id: 57,
 
-  slug: "wire-gauze",
+  slug: "Wire-gauze",
 
   category: "Chemistry",
 
@@ -1790,7 +1790,7 @@ const chemistryProducts = [
 {
   id: 58,
 
-  slug: "2-4-dinitrophenyl-hydrazine-100g",
+  slug: "2,4-Dinitrophenyl-hydrazine-100g",
 
   category: "Chemistry",
 
@@ -1821,7 +1821,7 @@ const chemistryProducts = [
 {
   id: 59,
 
-  slug: "2-naphthol-100g",
+  slug: "2-Naphthol-100g",
 
   category: "Chemistry",
 
@@ -1852,7 +1852,7 @@ const chemistryProducts = [
 {
   id: 60,
 
-  slug: "acetaldehyde-500ml",
+  slug: "Acetaldehyde-500ml",
 
   category: "Chemistry",
 
@@ -1883,7 +1883,7 @@ const chemistryProducts = [
 {
   id: 61,
 
-  slug: "acetic-acid-glacial-500ml",
+  slug: "Acetic-acid-glacial ",
 
   category: "Chemistry",
 
@@ -1914,7 +1914,7 @@ const chemistryProducts = [
 {
   id: 62,
 
-  slug: "acetone-500ml",
+  slug: "Acetone-500ml",
 
   category: "Chemistry",
 
@@ -1945,7 +1945,7 @@ const chemistryProducts = [
 {
   id: 63,
 
-  slug: "aluminium-carbonate-500g",
+  slug: "Aluminium-carbonate",
 
   category: "Chemistry",
 
@@ -1976,7 +1976,7 @@ const chemistryProducts = [
 {
   id: 64,
 
-  slug: "ammonia-solution-500ml",
+  slug: "Ammonia-solution",
 
   category: "Chemistry",
 
@@ -2008,7 +2008,7 @@ const chemistryProducts = [
 {
   id: 65,
 
-  slug: "ammonium-chloride-500g",
+  slug: "Ammonium-chloride",
 
   category: "Chemistry",
 
@@ -2040,7 +2040,7 @@ const chemistryProducts = [
 {
   id: 66,
 
-  slug: "ammonium-sulphate-500g",
+  slug: "Ammonium-sulphate",
 
   category: "Chemistry",
 
@@ -2072,7 +2072,7 @@ const chemistryProducts = [
 {
   id: 67,
 
-  slug: "aniline-500ml",
+  slug: "Aniline-500ml",
 
   category: "Chemistry",
 
@@ -2103,7 +2103,7 @@ const chemistryProducts = [
 {
   id: 68,
 
-  slug: "barium-chloride-500g",
+  slug: "Barium-chloride",
 
   category: "Chemistry",
 
@@ -2134,7 +2134,7 @@ const chemistryProducts = [
 {
   id: 69,
 
-  slug: "barium-hydroxide-500g",
+  slug: "Barium-hydroxide-500g",
 
   category: "Chemistry",
 
@@ -2165,7 +2165,7 @@ const chemistryProducts = [
 {
   id: 70,
 
-  slug: "barium-nitrate-500g",
+  slug: "Barium-nitrate",
 
   category: "Chemistry",
 
@@ -2196,7 +2196,7 @@ const chemistryProducts = [
 {
   id: 71,
 
-  slug: "barium-sulphate-500g",
+  slug: "Barium-sulphate-500g",
 
   category: "Chemistry",
 
@@ -2225,7 +2225,7 @@ const chemistryProducts = [
 {
   id: 72,
 
-  slug: "benzaldehyde-500ml",
+  slug: "Benzaldehyde-500ml",
 
   category: "Chemistry",
 
@@ -2256,7 +2256,7 @@ const chemistryProducts = [
 {
   id: 73,
 
-  slug: "benzoic-acid-500g",
+  slug: "Benzoic-acid",
 
   category: "Chemistry",
 
@@ -2287,7 +2287,7 @@ const chemistryProducts = [
 {
   id: 74,
 
-  slug: "borax-500g-sodium-tetraborate",
+  slug: " Borax-500g",
 
   category: "Chemistry",
 
@@ -2318,7 +2318,7 @@ const chemistryProducts = [
 {
   id: 75,
 
-  slug: "calcium-carbonate-500g",
+  slug: "Calcium-carbonate",
 
   category: "Chemistry",
 
@@ -2349,7 +2349,7 @@ const chemistryProducts = [
 {
   id: 76,
 
-  slug: "calcium-chloride-500g",
+  slug: "Calcium-chloride-500g",
 
   category: "Chemistry",
 
@@ -2384,7 +2384,7 @@ const chemistryProducts = [
 {
   id: 77,
 
-  slug: "calcium-hydroxide-500g",
+  slug: "Calcium-hydroxide",
 
   category: "Chemistry",
 
@@ -2417,7 +2417,7 @@ const chemistryProducts = [
 {
   id: 78,
 
-  slug: "calcium-nitrate-500g",
+  slug: "Calcium-nitrate",
 
   category: "Chemistry",
 
@@ -2448,7 +2448,7 @@ const chemistryProducts = [
 {
   id: 79,
 
-  slug: "copper-ii-carbonate-500g",
+  slug: "Copper-II-carbonate-500g",
 
   category: "Chemistry",
 
@@ -2480,7 +2480,7 @@ const chemistryProducts = [
 {
   id: 80,
 
-  slug: "copper-ii-chloride-hydrated-500g",
+  slug: "Copper-II-chloride-hydrated",
 
   category: "Chemistry",
 
@@ -2512,7 +2512,7 @@ const chemistryProducts = [
 {
   id: 81,
 
-  slug: "copper-ii-oxide-500g",
+  slug: "Copper-II-oxide",
 
   category: "Chemistry",
 
@@ -2544,7 +2544,7 @@ const chemistryProducts = [
 {
   id: 82,
 
-  slug: "copper-ii-sulphate-anhydrous-500g",
+  slug: "Copper-II-sulphate-anhydrous",
 
   category: "Chemistry",
 
@@ -2575,7 +2575,7 @@ const chemistryProducts = [
 {
   id: 83,
 
-  slug: "copper-ii-sulphate-pentahydrate-500g",
+  slug: "Copper-II-sulphate-pentahydrate",
 
   category: "Chemistry",
 
@@ -2606,7 +2606,7 @@ const chemistryProducts = [
 {
   id: 84,
 
-  slug: "copper-metal-100g",
+  slug: "Copper-metal",
 
   category: "Chemistry",
 
@@ -2637,7 +2637,7 @@ const chemistryProducts = [
 {
   id: 85,
 
-  slug: "edta-disodium-salt-500g",
+  slug: "EDTA-Disodium-salt",
 
   category: "Chemistry",
 
@@ -2669,7 +2669,7 @@ const chemistryProducts = [
 {
   id: 86,
 
-  slug: "erichrome-black-t-indicator-25g",
+  slug: "Erichrome-Black-T-indicator",
 
   category: "Chemistry",
 
@@ -2701,7 +2701,7 @@ const chemistryProducts = [
 {
   id: 87,
 
-  slug: "ethanol-1l",
+  slug: "Ethanol-95%-500ml",
 
   category: "Chemistry",
 
@@ -2732,7 +2732,7 @@ const chemistryProducts = [
 {
   id: 88,
 
-  slug: "ethyl-acetate-500ml",
+  slug: "Ethyl-acetate",
 
   category: "Chemistry",
 
@@ -2763,7 +2763,7 @@ const chemistryProducts = [
 {
   id: 89,
 
-  slug: "butylamine-500ml",
+  slug: "Butylamine-500ml",
 
   category: "Chemistry",
 
@@ -2794,7 +2794,7 @@ const chemistryProducts = [
 {
   id: 90,
 
-  slug: "ethylamine-500ml",
+  slug: "Ethylamine-500ml",
 
   category: "Chemistry",
 
@@ -2827,7 +2827,7 @@ const chemistryProducts = [
 {
   id: 91,
 
-  slug: "ferrous-ammonium-sulphate-500g",
+  slug: "Ferrous-ammonium-sulphate",
 
   category: "Chemistry",
 
@@ -2859,7 +2859,7 @@ const chemistryProducts = [
 {
   id: 92,
 
-  slug: "formic-acid-500ml",
+  slug: "Formic-acid",
 
   category: "Chemistry",
 
@@ -2890,7 +2890,7 @@ const chemistryProducts = [
 {
   id: 93,
 
-  slug: "d-glucose-500g",
+  slug: "D-Glucose",
 
   category: "Chemistry",
 
@@ -2922,7 +2922,7 @@ const chemistryProducts = [
 {
   id: 94,
 
-  slug: "hydrochloric-acid-1l",
+  slug: "Hydrochloric-acid",
 
   category: "Chemistry",
 
@@ -2984,7 +2984,7 @@ const chemistryProducts = [
 {
   id: 96,
 
-  slug: "iron-ii-sulphate-500g",
+  slug: "Iron-II-sulphate",
 
   category: "Chemistry",
 
@@ -3015,7 +3015,7 @@ const chemistryProducts = [
 {
   id: 97,
 
-  slug: "iron-ii-sulphide-500g",
+  slug: "Iron-II-sulphide",
 
   category: "Chemistry",
 
@@ -3046,7 +3046,7 @@ const chemistryProducts = [
 {
   id: 98,
 
-  slug: "iron-ii-chloride-500g",
+  slug: "Iron-II-chloride",
 
   category: "Chemistry",
 
@@ -3078,7 +3078,7 @@ const chemistryProducts = [
 {
   id: 99,
 
-  slug: "iron-iii-chloride-500g",
+  slug: " Iron-III-chloride",
 
   category: "Chemistry",
 
@@ -3110,7 +3110,7 @@ const chemistryProducts = [
 {
   id: 100,
 
-  slug: "iron-powder-500g",
+  slug: "Iron-powder",
 
   category: "Chemistry",
 
@@ -3141,7 +3141,7 @@ const chemistryProducts = [
 {
   id: 101,
 
-  slug: "lead-acetate-500g",
+  slug: "Lead-acetate",
 
   category: "Chemistry",
 
@@ -3172,7 +3172,7 @@ const chemistryProducts = [
 {
   id: 102,
 
-  slug: "lead-carbonate-500g",
+  slug: "Lead-carbonate",
 
   category: "Chemistry",
 
@@ -3203,7 +3203,7 @@ const chemistryProducts = [
 {
   id: 103,
 
-  slug: "lead-ii-nitrate-500g",
+  slug: "Lead-II-nitrate",
 
   category: "Chemistry",
 
@@ -3235,7 +3235,7 @@ const chemistryProducts = [
 {
   id: 104,
 
-  slug: "lithium-carbonate-100g",
+  slug: "Lithium-carbonate",
 
   category: "Chemistry",
 
@@ -3266,7 +3266,7 @@ const chemistryProducts = [
 {
   id: 105,
 
-  slug: "lithium-chloride-100g",
+  slug: "Lithium-chloride",
 
   category: "Chemistry",
 
@@ -3298,7 +3298,7 @@ const chemistryProducts = [
 {
   id: 106,
 
-  slug: "litmus-paper-blue",
+  slug: "Litmus-paper-blue",
 
   category: "Chemistry",
 
@@ -3330,7 +3330,7 @@ const chemistryProducts = [
 {
   id: 107,
 
-  slug: "litmus-paper-red",
+  slug: "Litmus-paper-red",
 
   category: "Chemistry",
 
@@ -3362,7 +3362,7 @@ const chemistryProducts = [
 {
   id: 108,
 
-  slug: "magnesium-chloride-500g",
+  slug: "Magnesium-chloride",
 
   category: "Chemistry",
 
@@ -3393,7 +3393,7 @@ const chemistryProducts = [
 {
   id: 109,
 
-  slug: "magnesium-oxide-500g",
+  slug: "Magnesium-oxide",
 
   category: "Chemistry",
 
@@ -3424,7 +3424,7 @@ const chemistryProducts = [
 {
   id: 110,
 
-  slug: "magnesium-sulphate-500g",
+  slug: "Magnesium-sulphate",
 
   category: "Chemistry",
 
@@ -3455,7 +3455,7 @@ const chemistryProducts = [
 {
   id: 111,
 
-  slug: "magnesium-ribbon-25g",
+  slug: "Magnesium-ribbon",
 
   category: "Chemistry",
 
@@ -3487,7 +3487,7 @@ const chemistryProducts = [
 {
   id: 112,
 
-  slug: "maleic-acid-500g",
+  slug: "Maleic-acid",
 
   category: "Chemistry",
 
@@ -3518,7 +3518,7 @@ const chemistryProducts = [
 {
   id: 113,
 
-  slug: "manganese-iv-oxide-500g",
+  slug: " Manganese-IV-oxide",
 
   category: "Chemistry",
 
@@ -3549,7 +3549,7 @@ const chemistryProducts = [
 {
   id: 114,
 
-  slug: "methanol-500ml",
+  slug: "Methanol-95%",
 
   category: "Chemistry",
 
@@ -3580,7 +3580,7 @@ const chemistryProducts = [
 {
   id: 115,
 
-  slug: "methyl-orange-indicator-25g",
+  slug: " Methyl-orange-indicator",
 
   category: "Chemistry",
 
@@ -3612,7 +3612,7 @@ const chemistryProducts = [
 {
   id: 116,
 
-  slug: "methyl-red-indicator-25g",
+  slug: "Methyl-red-indicator",
 
   category: "Chemistry",
 
@@ -3644,7 +3644,7 @@ const chemistryProducts = [
 {
   id: 117,
 
-  slug: "murexide-indicator-25g",
+  slug: "Murexide-indicator",
 
   category: "Chemistry",
 
@@ -3676,7 +3676,7 @@ const chemistryProducts = [
 {
   id: 118,
 
-  slug: "nickel-ii-sulphate-500g",
+  slug: "Nickel-sulphate",
 
   category: "Chemistry",
 
@@ -3708,7 +3708,7 @@ const chemistryProducts = [
 {
   id: 119,
 
-  slug: "nitric-acid-500ml",
+  slug: "Nitric-acid",
 
   category: "Chemistry",
 
@@ -3740,7 +3740,7 @@ const chemistryProducts = [
 {
   id: 120,
 
-  slug: "oxalic-acid-ethanedioic-acid-500g",
+  slug: "Oxalic-acid",
 
   category: "Chemistry",
 
@@ -3772,7 +3772,7 @@ const chemistryProducts = [
 {
   id: 121,
 
-  slug: "ph-indicator-paper-1-14",
+  slug: "PH-indicator-paper",
 
   category: "Chemistry",
 
@@ -3804,7 +3804,7 @@ const chemistryProducts = [
 {
   id: 122,
 
-  slug: "phenol-crystals-500g",
+  slug: "Phenol-crystals",
 
   category: "Chemistry",
 
@@ -3836,7 +3836,7 @@ const chemistryProducts = [
 {
   id: 123,
 
-  slug: "phenolpthalein-indicator-25g",
+  slug: "Phenolpthalein-indicator",
 
   category: "Chemistry",
 
@@ -3868,7 +3868,7 @@ const chemistryProducts = [
 {
   id: 124,
 
-  slug: "phenyl-ammonium-chloride-aniline-hydrochloride-100g",
+  slug: "Phenyl-ammonium-chloride",
 
   category: "Chemistry",
 
@@ -3899,7 +3899,7 @@ const chemistryProducts = [
 {
   id: 125,
 
-  slug: "phosphorus-pentachloride-100g",
+  slug: "Phosphorus-pentachloride",
 
   category: "Chemistry",
 
@@ -3931,7 +3931,7 @@ const chemistryProducts = [
 {
   id: 126,
 
-  slug: "potassium-bromate-500g",
+  slug: "Potassium-bromate",
 
   category: "Chemistry",
 
@@ -3963,7 +3963,7 @@ const chemistryProducts = [
 {
   id: 127,
 
-  slug: "potassium-bromide-500g",
+  slug: "Potassium-bromide",
 
   category: "Chemistry",
 
@@ -3995,7 +3995,7 @@ const chemistryProducts = [
 {
   id: 128,
 
-  slug: "potassium-carbonate-500g",
+  slug: "Potassium-carbonate",
 
   category: "Chemistry",
 
@@ -4026,7 +4026,7 @@ const chemistryProducts = [
 {
   id: 129,
 
-  slug: "potassium-chloride-500g",
+  slug: "Potassium-chloride",
 
   category: "Chemistry",
 
@@ -4057,7 +4057,7 @@ const chemistryProducts = [
 {
   id: 130,
 
-  slug: "potassium-chromate-500g",
+  slug: "Potassium-chromate",
 
   category: "Chemistry",
 
@@ -4089,7 +4089,7 @@ const chemistryProducts = [
 {
   id: 131,
 
-  slug: "potassium-dichromate-500g",
+  slug: "Potassium-dichromate",
 
   category: "Chemistry",
 
@@ -4121,7 +4121,7 @@ const chemistryProducts = [
 {
   id: 132,
 
-  slug: "potassium-hydrogen-carbonate-500g",
+  slug: "Potassium-hydrogen-carbonate-500g",
 
   category: "Chemistry",
 
@@ -4152,7 +4152,7 @@ const chemistryProducts = [
 {
   id: 133,
 
-  slug: "potassium-hydrogen-sulphate-500g",
+  slug: "Potassium-hydrogen-sulphate",
 
   category: "Chemistry",
 
@@ -4184,7 +4184,7 @@ const chemistryProducts = [
 {
   id: 134,
 
-  slug: "potassium-hydroxide-500g",
+  slug: "Potassium-hydroxide-500g",
 
   category: "Chemistry",
 
@@ -4216,7 +4216,7 @@ const chemistryProducts = [
 {
   id: 135,
 
-  slug: "potassium-iodate-500g",
+  slug: "Potassium-iodate",
 
   category: "Chemistry",
 
@@ -4247,7 +4247,7 @@ const chemistryProducts = [
 {
   id: 136,
 
-  slug: "potassium-iodide-500g",
+  slug: "Potassium-iodide",
 
   category: "Chemistry",
 
@@ -4279,7 +4279,7 @@ const chemistryProducts = [
 {
   id: 137,
 
-  slug: "potassium-permanganate-500g",
+  slug: "Potassium-permanganate",
 
   category: "Chemistry",
 
@@ -4311,7 +4311,7 @@ const chemistryProducts = [
 {
   id: 138,
 
-  slug: "potassium-persulphate-500g",
+  slug: "Potassium-persulphate",
 
   category: "Chemistry",
 
@@ -4342,7 +4342,7 @@ const chemistryProducts = [
 {
   id: 139,
 
-  slug: "potassium-thiocyanate-500g",
+  slug: "Potassium-thiocyanate",
 
   category: "Chemistry",
 
@@ -4373,7 +4373,7 @@ const chemistryProducts = [
 {
   id: 140,
 
-  slug: "propan-1-ol-500ml",
+  slug: "Propan-1-ol",
 
   category: "Chemistry",
 
@@ -4405,7 +4405,7 @@ const chemistryProducts = [
 {
   id: 141,
 
-  slug: "propan-2-ol-500ml",
+  slug: "Propan-2-ol",
 
   category: "Chemistry",
 
@@ -4437,7 +4437,7 @@ const chemistryProducts = [
 {
   id: 142,
 
-  slug: "salicylic-acid-500g",
+  slug: "Salicylic-acid",
 
   category: "Chemistry",
 
@@ -4469,7 +4469,7 @@ const chemistryProducts = [
 {
   id: 143,
 
-  slug: "silver-nitrate-100g",
+  slug: "Silver-nitrate",
 
   category: "Chemistry",
 
@@ -4501,7 +4501,7 @@ const chemistryProducts = [
 {
   id: 144,
 
-  slug: "sodium-acetate-500g",
+  slug: "Sodium-acetate",
 
   category: "Chemistry",
 
@@ -4533,7 +4533,7 @@ const chemistryProducts = [
 {
   id: 145,
 
-  slug: "sodium-carbonate-anhydrous-500g",
+  slug: "Sodium-carbonate-anhydrous",
 
   category: "Chemistry",
 
@@ -4565,7 +4565,7 @@ const chemistryProducts = [
 {
   id: 146,
 
-  slug: "sodium-carbonate-hydrated-500g",
+  slug: "Sodium-carbonate-hydrated",
 
   category: "Chemistry",
 
@@ -4598,7 +4598,7 @@ const chemistryProducts = [
 {
   id: 147,
 
-  slug: "sodium-chloride-ar-500g",
+  slug: "Sodium-chloride",
 
   category: "Chemistry",
 
@@ -4630,7 +4630,7 @@ const chemistryProducts = [
 {
   id: 148,
 
-  slug: "sodium-formate-500g",
+  slug: "Sodium-formate",
 
   category: "Chemistry",
 
@@ -4661,7 +4661,7 @@ const chemistryProducts = [
 {
   id: 149,
 
-  slug: "sodium-hydrogen-carbonate-500g",
+  slug: "Sodium-hydrogen-carbonate",
 
   category: "Chemistry",
 
@@ -4693,7 +4693,7 @@ const chemistryProducts = [
 {
   id: 150,
 
-  slug: "sodium-hydroxide-pellets-500g",
+  slug: "Sodium-hydroxide-pellets",
 
   category: "Chemistry",
 
@@ -4725,7 +4725,7 @@ const chemistryProducts = [
 {
   id: 151,
 
-  slug: "sodium-nitrite-500g",
+  slug: "Sodium-nitrite",
 
   category: "Chemistry",
 
@@ -4756,7 +4756,7 @@ const chemistryProducts = [
 {
   id: 152,
 
-  slug: "sodium-nitrate-500g",
+  slug: "sodium-nitrate",
 
   category: "Chemistry",
 
@@ -4788,7 +4788,7 @@ const chemistryProducts = [
 {
   id: 153,
 
-  slug: "sodium-sulphate-500g",
+  slug: "Sodium-sulphate",
 
   category: "Chemistry",
 
@@ -4820,7 +4820,7 @@ const chemistryProducts = [
 {
   id: 154,
 
-  slug: "sodium-sulphide-500g",
+  slug: "Sodium-sulphide",
 
   category: "Chemistry",
 
@@ -4852,7 +4852,7 @@ const chemistryProducts = [
 {
   id: 155,
 
-  slug: "sodium-sulphite-anhydrous-500g",
+  slug: "Sodium-sulphite-anhydrous",
 
   category: "Chemistry",
 
@@ -4883,7 +4883,7 @@ const chemistryProducts = [
 {
   id: 156,
 
-  slug: "sodium-thiosulphate-pentahydrate-500g",
+  slug: "Sodium-thiosulphate-pentahydrate",
 
   category: "Chemistry",
 
@@ -4915,7 +4915,7 @@ const chemistryProducts = [
 {
   id: 157,
 
-  slug: "starch-soluble-500g",
+  slug: "Starch-soluble",
 
   category: "Chemistry",
 
@@ -4945,7 +4945,7 @@ const chemistryProducts = [
 {
   id: 158,
 
-  slug: "strontium-carbonate-500g",
+  slug: "Strontium-carbonate",
 
   category: "Chemistry",
 
@@ -4977,7 +4977,7 @@ const chemistryProducts = [
 {
   id: 159,
 
-  slug: "strontium-chloride-500g",
+  slug: "Strontium-chloride",
 
   category: "Chemistry",
 
@@ -5009,7 +5009,7 @@ const chemistryProducts = [
 {
   id: 160,
 
-  slug: "strontium-nitrate-500g",
+  slug: "Strontium-nitrate",
 
   category: "Chemistry",
 
@@ -5041,7 +5041,7 @@ const chemistryProducts = [
 {
   id: 161,
 
-  slug: "succinic-acid-butanedioic-acid-500g",
+  slug: "Succinic-acid",
 
   category: "Chemistry",
 
@@ -5072,7 +5072,7 @@ const chemistryProducts = [
 {
   id: 162,
 
-  slug: "sulphamic-acid-500g",
+  slug: "Sulphamic-acid",
 
   category: "Chemistry",
 
@@ -5104,7 +5104,7 @@ const chemistryProducts = [
 {
   id: 163,
 
-  slug: "sulphuric-acid",
+  slug: "Sulphuric-acid",
 
   category: "Chemistry",
 
@@ -5136,7 +5136,7 @@ const chemistryProducts = [
 {
   id: 164,
 
-  slug: "tin-ii-chloride-500g",
+  slug: "Tin-II-chloride",
 
   category: "Chemistry",
 
@@ -5168,7 +5168,7 @@ const chemistryProducts = [
 {
   id: 165,
 
-  slug: "zinc-carbonate-500g",
+  slug: "Zinc-carbonate",
 
   category: "Chemistry",
 
@@ -5200,7 +5200,7 @@ const chemistryProducts = [
 {
   id: 166,
 
-  slug: "zinc-powder-500g",
+  slug: "Zinc-powder",
 
   category: "Chemistry",
 
@@ -5232,7 +5232,7 @@ const chemistryProducts = [
 {
   id: 167,
 
-  slug: "zinc-sulphate-hydrated-500g",
+  slug: "Zinc-sulphate-hydrated",
 
   category: "Chemistry",
 

@@ -946,3 +946,31 @@
 
   color: #2196f3;
 }
+
+.view-all-products {
+  display: block;
+  margin: 30px auto 50px;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 8px;
+  background: #0b3d91;
+  color: white;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.view-all-products:hover {
+  transform: translateY(-2px);
+  opacity: 0.9;
+}
+
+.category-description {
+  max-width: 900px;
+  margin: 0 auto 25px;
+  text-align: center;
+  line-height: 1.7;
+  color: #555;
+  font-size: 1rem;
+}

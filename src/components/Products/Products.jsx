@@ -20,23 +20,8 @@ import chemistryProducts from "../../data/chemistry";
 import biologyProducts from "../../data/biology";
 import physicsProducts from "../../data/physics";
 import geologyProducts from "../../data/geology";
-import medicalScienceProducts from "../../data/medicalScience";
 
-/* ALL PRODUCTS */
 
-const allProducts = [
-
-  ...chemistryProducts,
-
-  ...biologyProducts,
-
-  ...physicsProducts,
-
-  ...geologyProducts,
-
-  ...medicalScienceProducts,
-
-];
 
 /* PRODUCT CARD */
 
@@ -164,6 +149,31 @@ export default function Products({
   searchTerm,
 }) {
 
+    /* ALL PRODUCTS */
+
+  const [allProducts, setAllProducts] = useState([
+    ...chemistryProducts,
+    ...biologyProducts,
+    ...physicsProducts,
+    ...geologyProducts,
+  ]);
+
+  useEffect(() => {
+  import("../../data/medicalScience")
+    .then((module) => {
+      setAllProducts((prevProducts) => [
+        ...prevProducts,
+        ...module.default,
+      ]);
+    })
+    .catch((error) => {
+      console.error(
+        "Failed to load medical science products:",
+        error
+      );
+    });
+}, []);
+
 
   const [selectedProduct, setSelectedProduct] =
     useState(null);
@@ -180,6 +190,28 @@ export default function Products({
 
   const [sortOption, setSortOption] =
     useState("default");
+
+    const PRODUCTS_PER_CATEGORY = 12;
+
+const [showAllCategories, setShowAllCategories] =
+  useState({});
+
+  const getCategoryProducts = (category) => {
+
+  const products = sortedProducts.filter(
+    (product) =>
+      product.category === category
+  );
+
+  if (showAllCategories[category]) {
+    return products;
+  }
+
+  return products.slice(
+    0,
+    PRODUCTS_PER_CATEGORY
+  );
+};
 
     useEffect(() => {
 
@@ -528,223 +560,334 @@ const matchesSearch =
 
       {/* CHEMISTRY */}
 
-/* CHEMISTRY */
-
 {sortedProducts.some(
   (product) =>
-    product.category ===
-    "Chemistry"
+    product.category === "Chemistry"
 ) && (
 
-<section
-  className="category-section"
-  id="chemistry"
->
+  <section
+    className="category-section"
+    id="chemistry"
+  >
 
-  <h2 className="category-title">
-    Chemistry Laboratory Items
-  </h2>
+    <h2 className="category-title">
+  Chemistry Laboratory Items
+</h2>
 
-  <div className="products-grid">
+<p className="category-description">
+  Explore chemistry laboratory equipment and supplies from Mettler
+  Science Laboratory, including glassware, measuring instruments,
+  laboratory chemicals and practical equipment for schools,
+  universities, research laboratories and educational institutions
+  across Cameroon.
+</p>
 
-    {sortedProducts
-      .filter(
-        (product) =>
-          product.category ===
-          "Chemistry"
-      )
-      .map((product) => (
+    <div className="products-grid">
 
-        <ProductCard
-          key={product.id}
-          product={product}
-          openModal={
-            setSelectedProduct
-          }
-          addToCart={addToCart}
-        />
+      {getCategoryProducts("Chemistry")
+        .map((product) => (
 
-      ))}
+          <ProductCard
+            key={product.id}
+            product={product}
+            openModal={setSelectedProduct}
+            addToCart={addToCart}
+          />
 
-  </div>
+        ))}
 
-</section>
+    </div>
+
+    {/* VIEW ALL CHEMISTRY */}
+
+    {sortedProducts.filter(
+      (product) =>
+        product.category === "Chemistry"
+    ).length > PRODUCTS_PER_CATEGORY && (
+
+      <button
+        className="view-all-products"
+        onClick={() =>
+          setShowAllCategories((prev) => ({
+            ...prev,
+            Chemistry:
+              !prev.Chemistry,
+          }))
+        }
+      >
+        {showAllCategories.Chemistry
+          ? "Show Less"
+          : "View All Chemistry Products"}
+      </button>
+
+    )}
+
+  </section>
 
 )}
 
-/* BIOLOGY */
+{/* BIOLOGY */}
 
 {sortedProducts.some(
   (product) =>
-    product.category ===
-    "Biology"
+    product.category === "Biology"
 ) && (
 
-<section
-  className="category-section"
-  id="biology"
->
+  <section
+    className="category-section"
+    id="biology"
+  >
 
-  <h2 className="category-title">
-    Biology Laboratory Items
-  </h2>
+    <h2 className="category-title">
+      Biology Laboratory Items
+    </h2>
 
-  <div className="products-grid">
+<p className="category-description">
+  Browse biology laboratory equipment and educational materials for
+  schools, universities, laboratories and research institutions in
+  Cameroon, including microscopes, glassware, specimen equipment and
+  other biology practical supplies.
+</p>
 
-    {sortedProducts
-      .filter(
-        (product) =>
-          product.category ===
-          "Biology"
-      )
-      .map((product) => (
+    <div className="products-grid">
 
-        <ProductCard
-          key={product.id}
-          product={product}
-          openModal={
-            setSelectedProduct
-          }
-          addToCart={addToCart}
-        />
+      {getCategoryProducts("Biology")
+        .map((product) => (
 
-      ))}
+          <ProductCard
+            key={product.id}
+            product={product}
+            openModal={setSelectedProduct}
+            addToCart={addToCart}
+          />
 
-  </div>
+        ))}
 
-</section>
+    </div>
+
+    {/* VIEW ALL BIOLOGY */}
+
+    {sortedProducts.filter(
+      (product) =>
+        product.category === "Biology"
+    ).length > PRODUCTS_PER_CATEGORY && (
+
+      <button
+        className="view-all-products"
+        onClick={() =>
+          setShowAllCategories((prev) => ({
+            ...prev,
+            Biology:
+              !prev.Biology,
+          }))
+        }
+      >
+        {showAllCategories.Biology
+          ? "Show Less"
+          : "View All Biology Products"}
+      </button>
+
+    )}
+
+  </section>
 
 )}
 
-/* PHYSICS */
+{/* PHYSICS */}
 
 {sortedProducts.some(
   (product) =>
-    product.category ===
-    "Physics"
+    product.category === "Physics"
 ) && (
 
-<section
-  className="category-section"
-  id="physics"
->
+  <section
+    className="category-section"
+    id="physics"
+  >
 
-  <h2 className="category-title">
-    Physics Laboratory Items
-  </h2>
+    <h2 className="category-title">
+  Physics Laboratory Items
+</h2>
 
-  <div className="products-grid">
+<p className="category-description">
+  Find physics laboratory apparatus and educational equipment for
+  practical science teaching in schools, colleges and universities
+  across Cameroon.
+</p>
 
-    {sortedProducts
-      .filter(
-        (product) =>
-          product.category ===
-          "Physics"
-      )
-      .map((product) => (
+    <div className="products-grid">
 
-        <ProductCard
-          key={product.id}
-          product={product}
-          openModal={
-            setSelectedProduct
-          }
-          addToCart={addToCart}
-        />
+      {getCategoryProducts("Physics")
+        .map((product) => (
 
-      ))}
+          <ProductCard
+            key={product.id}
+            product={product}
+            openModal={setSelectedProduct}
+            addToCart={addToCart}
+          />
 
-  </div>
+        ))}
 
-</section>
+    </div>
+
+    {/* VIEW ALL PHYSICS */}
+
+    {sortedProducts.filter(
+      (product) =>
+        product.category === "Physics"
+    ).length > PRODUCTS_PER_CATEGORY && (
+
+      <button
+        className="view-all-products"
+        onClick={() =>
+          setShowAllCategories((prev) => ({
+            ...prev,
+            Physics:
+              !prev.Physics,
+          }))
+        }
+      >
+        {showAllCategories.Physics
+          ? "Show Less"
+          : "View All Physics Products"}
+      </button>
+
+    )}
+
+  </section>
 
 )}
 
-/* GEOLOGY */
+{/* GEOLOGY */}
 
 {sortedProducts.some(
   (product) =>
-    product.category ===
-    "Geology"
+    product.category === "Geology"
 ) && (
 
-<section
-  className="category-section"
-  id="geology"
->
+  <section
+    className="category-section"
+    id="geology"
+  >
 
-  <h2 className="category-title">
-    Geology Laboratory Items
-  </h2>
+    <h2 className="category-title">
+  Geology Laboratory Items
+</h2>
 
-  <div className="products-grid">
+<p className="category-description">
+  Explore geology laboratory equipment and mineral specimens for
+  geology, earth science and geological practical work in schools,
+  universities and research environments in Cameroon.
+</p>
 
-    {sortedProducts
-      .filter(
-        (product) =>
-          product.category ===
-          "Geology"
-      )
-      .map((product) => (
+    <div className="products-grid">
 
-        <ProductCard
-          key={product.id}
-          product={product}
-          openModal={
-            setSelectedProduct
-          }
-          addToCart={addToCart}
-        />
+      {getCategoryProducts("Geology")
+        .map((product) => (
 
-      ))}
+          <ProductCard
+            key={product.id}
+            product={product}
+            openModal={setSelectedProduct}
+            addToCart={addToCart}
+          />
 
-  </div>
+        ))}
 
-</section>
+    </div>
+
+    {/* VIEW ALL GEOLOGY */}
+
+    {sortedProducts.filter(
+      (product) =>
+        product.category === "Geology"
+    ).length > PRODUCTS_PER_CATEGORY && (
+
+      <button
+        className="view-all-products"
+        onClick={() =>
+          setShowAllCategories((prev) => ({
+            ...prev,
+            Geology:
+              !prev.Geology,
+          }))
+        }
+      >
+        {showAllCategories.Geology
+          ? "Show Less"
+          : "View All Geology Products"}
+      </button>
+
+    )}
+
+  </section>
 
 )}
 
-/* MEDICAL SCIENCE */
+{/* MEDICAL SCIENCE */}
 
 {sortedProducts.some(
   (product) =>
-    product.category ===
-    "Medical Science"
+    product.category === "Medical Science"
 ) && (
 
-<section
-  className="category-section"
-  id="medical-science"
->
+  <section
+    className="category-section"
+    id="medical-science"
+  >
 
-  <h2 className="category-title">
-    Medical Science Equipment
-  </h2>
+    <h2 className="category-title">
+  Medical Science Equipment
+</h2>
 
-  <div className="products-grid">
+<p className="category-description">
+  Browse medical science and laboratory equipment for hospitals,
+  clinics, health centres, diagnostic laboratories, medical schools
+  and healthcare institutions across Cameroon.
+</p>
 
-    {sortedProducts
-      .filter(
-        (product) =>
-          product.category ===
-          "Medical Science"
-      )
-      .map((product) => (
+    <div className="products-grid">
 
-        <ProductCard
-          key={product.id}
-          product={product}
-          openModal={
-            setSelectedProduct
-          }
-          addToCart={addToCart}
-        />
+      {getCategoryProducts("Medical Science")
+        .map((product) => (
 
-      ))}
+          <ProductCard
+            key={product.id}
+            product={product}
+            openModal={setSelectedProduct}
+            addToCart={addToCart}
+          />
 
-  </div>
+        ))}
 
-</section>
+    </div>
+
+    {/* VIEW ALL MEDICAL SCIENCE */}
+
+    {sortedProducts.filter(
+      (product) =>
+        product.category === "Medical Science"
+    ).length > PRODUCTS_PER_CATEGORY && (
+
+      <button
+        className="view-all-products"
+        onClick={() =>
+          setShowAllCategories((prev) => ({
+            ...prev,
+            "Medical Science":
+              !prev["Medical Science"],
+          }))
+        }
+      >
+        {showAllCategories["Medical Science"]
+          ? "Show Less"
+          : "View All Medical Science Products"}
+      </button>
+
+    )}
+
+  </section>
 
 )}
 

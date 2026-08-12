@@ -3,7 +3,7 @@ const biologyProducts = [
  {
   id: 1,
 
-  slug: "monocular-microscope-ac-dc",
+  slug: "Monocular-microscope",
 
   category: "Biology",
 
@@ -35,7 +35,7 @@ const biologyProducts = [
 {
   id: 2,
 
-  slug: "monocular-microscope-simple-solar",
+  slug: "Monocular-microscope-simple-solar",
 
   category: "Biology",
 
@@ -67,7 +67,7 @@ const biologyProducts = [
 {
   id: 3,
 
-  slug: "binocular-microscope",
+  slug: "Binocular-microscope",
 
   category: "Biology",
 
@@ -99,7 +99,7 @@ const biologyProducts = [
 {
   id: 4,
 
-  slug: "blank-slide-pack-of-72",
+  slug: "Blank-slide",
 
   category: "Biology",
 
@@ -131,7 +131,7 @@ const biologyProducts = [
 {
   id: 5,
 
-  slug: "slide-cover-pack-of-100",
+  slug: "Slide-cover",
 
   category: "Biology",
 
@@ -163,7 +163,7 @@ const biologyProducts = [
 {
   id: 6,
 
-  slug: "hand-lens",
+  slug: "Hand-lens",
 
   category: "Biology",
 
@@ -227,7 +227,7 @@ const biologyProducts = [
 {
   id: 8,
 
-  slug: "mortar-and-pestle",
+  slug: "Mortar-and-pestle",
 
   category: "Biology",
 
@@ -258,7 +258,7 @@ const biologyProducts = [
 {
   id: 9,
 
-  slug: "dissecting-set",
+  slug: "Dissecting-set",
 
   category: "Biology",
 
@@ -292,7 +292,7 @@ const biologyProducts = [
 {
   id: 11,
 
-  slug: "forceps",
+  slug: "Forceps",
 
   category: "Biology",
 
@@ -324,7 +324,7 @@ const biologyProducts = [
 {
   id: 12,
 
-  slug: "human-skeleton-model",
+  slug: "Human-skeleton-model",
 
   category: "Biology",
 
@@ -356,7 +356,7 @@ const biologyProducts = [
 {
   id: 13,
 
-  slug: "water-bath-digital",
+  slug: "Water-bath-digital",
 
   category: "Biology",
 
@@ -388,7 +388,7 @@ const biologyProducts = [
 {
   id: 14,
 
-  slug: "male-female-torso",
+  slug: "Male/Female-torso",
 
   category: "Biology",
 
@@ -420,7 +420,7 @@ const biologyProducts = [
 {
   id: 15,
 
-  slug: "biology-wall-chart",
+  slug: "Biology-wall-chart",
 
   category: "Biology",
 
@@ -452,7 +452,7 @@ const biologyProducts = [
 {
   id: 16,
 
-  slug: "millon-s-reagent-500ml",
+  slug: "Millon’s-reagent",
 
   category: "Biology",
 
@@ -484,7 +484,7 @@ const biologyProducts = [
 {
   id: 17,
 
-  slug: "benedict-s-reagent-500ml",
+  slug: "Benedict’s-reagent",
 
   category: "Biology",
 
@@ -516,7 +516,7 @@ const biologyProducts = [
 {
   id: 18,
 
-  slug: "fehling-s-solution-a-500ml",
+  slug: "Fehling’s-solution-A",
 
   category: "Biology",
 
@@ -548,7 +548,7 @@ const biologyProducts = [
 {
   id: 19,
 
-  slug: "fehling-s-solution-b-500ml",
+  slug: " Fehling’s-solution-B",
 
   category: "Biology",
 
@@ -580,7 +580,7 @@ const biologyProducts = [
 {
   id: 20,
 
-  slug: "sudan-iii-25g",
+  slug: "Sudan-III",
 
   category: "Biology",
 
@@ -612,7 +612,7 @@ const biologyProducts = [
 {
   id: 21,
 
-  slug: "sudan-iii-solution-500ml",
+  slug: " Sudan-III-solution",
 
   category: "Biology",
 
@@ -644,7 +644,7 @@ const biologyProducts = [
 {
   id: 22,
 
-  slug: "methylene-blue-25g",
+  slug: "Methylene-blue",
 
   category: "Biology",
 
@@ -677,7 +677,7 @@ const biologyProducts = [
 {
   id: 23,
 
-  slug: "methylene-blue-solution-500ml",
+  slug:  "Methylene-blue-solution",
 
   category: "Biology",
 
@@ -709,7 +709,7 @@ const biologyProducts = [
 {
   id: 24,
 
-  slug: "formalin-40-1l",
+  slug: "Formalin-40%-1L",
 
   category: "Biology",
 
@@ -741,7 +741,7 @@ const biologyProducts = [
 {
   id: 25,
 
-  slug: "sucrose-ar-500g",
+  slug: "Sucrose-AR",
 
   category: "Biology",
 
@@ -773,7 +773,7 @@ const biologyProducts = [
 {
   id: 26,
 
-  slug: "diastase-25g",
+  slug: "Diastase",
 
   category: "Biology",
 
@@ -805,7 +805,7 @@ const biologyProducts = [
 {
   id: 27,
 
-  slug: "iodine-solution-500ml",
+  slug: "Iodine-solution",
 
   category: "Biology",
 
@@ -838,7 +838,7 @@ const biologyProducts = [
 {
   id: 29,
 
-  slug: "cobalt-chloride-test-paper",
+  slug: "Cobalt-chloride-test-paper",
 
   category: "Biology",
 
@@ -870,7 +870,7 @@ const biologyProducts = [
 {
   id: 30,
 
-  slug: "fucus-vegetative-bunch",
+  slug: "Fucus-vegetative-bunch",
 
   category: "Biology",
 
@@ -934,7 +934,7 @@ const biologyProducts = [
 {
   id: 32,
 
-  slug: "sea-anemone",
+  slug: "Sea-anemone",
 
   category: "Biology",
 
@@ -966,7 +966,7 @@ const biologyProducts = [
 {
   id: 33,
 
-  slug: "liver-fluke",
+  slug: "Liver-fluke",
 
   category: "Biology",
 
@@ -997,7 +997,7 @@ const biologyProducts = [
 {
   id: 34,
 
-  slug: "ascaris",
+  slug: "Ascaris",
 
   category: "Biology",
 
@@ -1028,7 +1028,7 @@ const biologyProducts = [
 {
   id: 35,
 
-  slug: "nereis",
+  slug: "Nereis",
 
   category: "Biology",
 
@@ -1059,7 +1059,7 @@ const biologyProducts = [
 {
   id: 36,
 
-  slug: "crayfish",
+  slug: "Crayfish",
 
   category: "Biology",
 
@@ -1090,7 +1090,7 @@ const biologyProducts = [
 {
   id: 37,
 
-  slug: "prawn",
+  slug: "Prawn",
 
   category: "Biology",
 
@@ -1121,7 +1121,7 @@ const biologyProducts = [
 {
   id: 38,
 
-  slug: "shrimp",
+  slug: "Shrimp",
 
   category: "Biology",
 
@@ -1153,7 +1153,7 @@ const biologyProducts = [
 {
   id: 39,
 
-  slug: "tarantula",
+  slug: "Tarantula",
 
   category: "Biology",
 
@@ -1185,7 +1185,7 @@ const biologyProducts = [
 {
   id: 40,
 
-  slug: "clam",
+  slug: "Clam",
 
   category: "Biology",
 
@@ -1216,7 +1216,7 @@ const biologyProducts = [
 {
   id: 41,
 
-  slug: "squid",
+  slug:"Squid",
 
   category: "Biology",
 
@@ -1248,7 +1248,7 @@ const biologyProducts = [
 {
   id: 42,
 
-  slug: "starfish",
+  slug: "Starfish",
 
   category: "Biology",
 
@@ -1280,7 +1280,7 @@ const biologyProducts = [
 {
   id: 43,
 
-  slug: "sea-urchin",
+  slug: "Sea-urchin",
 
   category: "Biology",
 
@@ -1312,7 +1312,7 @@ const biologyProducts = [
 {
   id: 44,
 
-  slug: "tadpole",
+  slug: "Tadpole",
 
   category: "Biology",
 
@@ -1342,7 +1342,7 @@ const biologyProducts = [
 {
   id: 45,
 
-  slug: "millipede",
+  slug: "Millipede",
 
   category: "Biology",
 
@@ -1374,7 +1374,7 @@ const biologyProducts = [
 {
   id: 46,
 
-  slug: "centipede",
+  slug: "Centipede",
 
   category: "Biology",
 
@@ -1406,7 +1406,7 @@ const biologyProducts = [
 {
   id: 47,
 
-  slug: "crab",
+  slug: "Crab",
 
   category: "Biology",
 
@@ -1438,7 +1438,7 @@ const biologyProducts = [
 {
   id: 48,
 
-  slug: "bat",
+  slug: "Bat",
 
   category: "Biology",
 
@@ -1468,7 +1468,7 @@ const biologyProducts = [
 {
   id: 49,
 
-  slug: "dogfish",
+  slug: "Dogfish",
 
   category: "Biology",
 
@@ -1500,7 +1500,7 @@ const biologyProducts = [
 {
   id: 50,
 
-  slug: "toad",
+  slug: "Toad",
 
   category: "Biology",
 

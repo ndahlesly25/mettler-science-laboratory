@@ -4,14 +4,15 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-  "dev": "vite",
-  "build": "vite build",
-  "postbuild": "npm run generate-sitemap && npm run generate-imagesitemap",
-  "lint": "eslint .",
-  "preview": "vite preview",
-  "generate-sitemap": "node scripts/generateSitemap.mjs",
-  "generate-imagesitemap": "node scripts/generateImageSitemap.mjs"
-},
+    "dev": "vite",
+    "build": "vite build",
+    "postbuild": "npm run generate-sitemap && npm run generate-imagesitemap",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "generate-sitemap": "node scripts/generateSitemap.mjs",
+    "clean-slugs": "node scripts/cleanSlugs.mjs",
+    "generate-imagesitemap": "node scripts/generateImageSitemap.mjs"
+  },
   "dependencies": {
     "framer-motion": "^12.38.0",
     "react": "^19.2.6",
@@ -31,6 +32,7 @@
     "eslint-plugin-react-hooks": "^7.1.1",
     "eslint-plugin-react-refresh": "^0.5.2",
     "globals": "^17.6.0",
+    "sharp": "^0.35.3",
     "sitemap": "^9.0.1",
     "vite": "^8.0.12",
     "vite-plugin-sitemap": "^0.8.2"
