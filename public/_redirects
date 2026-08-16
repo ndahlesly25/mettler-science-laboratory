@@ -1,4 +1,16 @@
 /sitemap.xml          /sitemap.xml          200
-/image-sitemap.xml   /image-sitemap.xml   200
-/robots.txt          /robots.txt          200
-/*                    /index.html          200
+/image-sitemap.xml    /image-sitemap.xml    200
+/robots.txt           /robots.txt           200
+
+/product/Acetone /product/acetone 301
+/product/Hornblende /product/hornblende 301
+/product/Acetic acid glacial /product/acetic-acid-glacial-500ml 301
+/product/Metre rule flexible /product/metre-rule-flexible 301
+/product/burette clip /product/burette-clip 301
+/product/Andesites /product/andesites 301
+/product/Plastic funnel /product/plastic-funnel 301
+/product/Measuring cylinder 1000ml /product/measuring-cylinder-1000ml-glass-plastic 301
+/product/Lancet /product/lancet 301
+/product/Incubator 24L /product/incubator-24l 301
+
+/*                    /index.html           200
